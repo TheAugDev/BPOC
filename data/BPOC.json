@@ -928,7 +928,162 @@
     "reference": "Calculating time intervals that take place on the same day in military time is easy — simply subtract your start time from your end time. For example, if your time interval begins at 09:00 and ends at 17:00, you'd subtract 9 from 17 to get 8. "
   }
         ],
-        "Civilian Interactions": [],
+        "Civilian Interactions": [
+  {
+    "question": "What is the primary goal of the Community Safety Education Act (Senate Bill 30)?",
+    "answer": "To provide information to drivers and law enforcement on the expectations each should have during a traffic stop.",
+    "options": [
+      "To increase the number of traffic citations issued.",
+      "To provide information to drivers and law enforcement on the expectations each should have during a traffic stop.",
+      "To establish new traffic laws for the state.",
+      "To require all new vehicles to have enhanced safety features."
+    ],
+    "reference": "Goal: to provide information to drivers, the public, students, and training for members of law enforcement, on the expectations that each should have during a contact between officers and motorists."
+  },
+  {
+    "question": "The 7-Step Violator Contact method is a program designed to define the role, duties, and responsibilities of whom?",
+    "answer": "Peace officers.",
+    "options": [
+      "Drivers.",
+      "Dispatchers.",
+      "Peace officers.",
+      "Judges."
+    ],
+    "reference": "1) the role, duties, and responsibilities of officers (7 Step Violator Contact);"
+  },
+  {
+    "question": "The Community Safety Education Act requires that driver education courses include instruction on what topic?",
+    "answer": "Proper responses and communication with officers during a traffic stop.",
+    "options": [
+      "How to contest a traffic ticket in court.",
+      "Advanced defensive driving maneuvers.",
+      "Proper responses and communication with officers during a traffic stop.",
+      "The mechanical basics of vehicle maintenance."
+    ],
+    "reference": "Includes instructions to drivers on how they should react and communicate with officers during a traffic stop. The proper responses by the driving public are to be included in training for new officers and continuing education courses for veteran patrol officers."
+  },
+  {
+    "question": "What does the 'L' in the LEAPS communication model stand for?",
+    "answer": "Listen",
+    "options": [
+      "Lead",
+      "Look",
+      "Linger",
+      "Listen"
+    ],
+    "reference": "PACE & LEAPS... LEAPS, which stands for listen, empathize, ask, paraphrase, and summarize."
+  },
+  {
+    "question": "What does the 'A' in the LEAPS communication model stand for?",
+    "answer": "Ask",
+    "options": [
+      "Assess",
+      "Act",
+      "Advise",
+      "Ask"
+    ],
+    "reference": "PACE & LEAPS... LEAPS, which stands for listen, empathize, ask, paraphrase, and summarize."
+  },
+  {
+    "question": "What does the 'P' in the PACE communication model stand for?",
+    "answer": "Problem",
+    "options": [
+      "Position",
+      "Presence",
+      "Problem",
+      "Paraphrase"
+    ],
+    "reference": "7 Step Personal Contact PACE & LEAPS"
+  },
+  {
+    "question": "When an officer is dealing with a citizen's voluntary non-compliance, what is the first step in the five-step process?",
+    "answer": "Ask (Ethical Appeal)",
+    "options": [
+      "Tell (Reasonable Appeal)",
+      "Make (Personal Appeal)",
+      "Ask (Ethical Appeal)",
+      "Use Force Options"
+    ],
+    "reference": "5 Steps for VOLUNTARY Non-compliance: 1) Ask (Ethical Appeal) 2) Set Context (Reasonable Appeal) 3) Present Options (Personal Appeal) 4) Confirm (Practical Appeal) 5) Act (Determine appropriate action)"
+  },
+  {
+    "question": "In the 'Commands/Instructions' model for gaining compliance, what is the final step if asking and telling are not effective?",
+    "answer": "Make",
+    "options": [
+      "Demand",
+      "Request",
+      "Force",
+      "Make"
+    ],
+    "reference": "Commands/Instructions. Ask Tell, Make"
+  },
+  {
+    "question": "The two primary mindset modes for policing described in the presentation are 'Verbal Persuasion' and what?",
+    "answer": "Recognize-React",
+    "options": [
+      "Command-Control",
+      "Observe-Report",
+      "Recognize-React",
+      "Enforce-Investigate"
+    ],
+    "reference": "The 2 Mindset Modes for Policing: 'Verbal Persuasion' 'Recognize-React'"
+  },
+  {
+    "question": "During a routine interaction where an officer is building rapport and explaining a situation, which mindset mode should they primarily be in?",
+    "answer": "Verbal Persuasion",
+    "options": [
+      "Recognize-React",
+      "Security Risk",
+      "Verbal Persuasion",
+      "Force Options"
+    ],
+    "reference": "What Mode Should They Be In and Why? Verbal Persuasion... 7 Step Personal Contact, PACE & LEAPS, Deflection and Redirection of Verbal Abuse"
+  },
+  {
+    "question": "If a security risk like an attack or an attempt to flee becomes apparent during an interaction, the officer should switch to which mindset mode?",
+    "answer": "Recognize-React",
+    "options": [
+      "Verbal Persuasion",
+      "De-escalation Tactics",
+      "Recognize-React",
+      "Ethical Appeal"
+    ],
+    "reference": "What Mode Should They Be In and Why? ... Recognize & React... Security Risk, Attack, Flee, Excessive Repetition"
+  },
+  {
+    "question": "What is the difference between 'Concealment' and 'Cover'?",
+    "answer": "Cover stops bullets, while concealment only hides you.",
+    "options": [
+      "There is no difference.",
+      "Cover is for vehicles, while concealment is for buildings.",
+      "Cover stops bullets, while concealment only hides you.",
+      "Concealment is a tactic, while cover is a physical object."
+    ],
+    "reference": "Distance, Concealment v Cover"
+  },
+  {
+    "question": "According to the presentation, what is the key to learning and improving as a peace officer?",
+    "answer": "Asking questions.",
+    "options": [
+      "Watching police movies.",
+      "Following orders without question.",
+      "Asking questions.",
+      "Writing detailed reports."
+    ],
+    "reference": "Questions? ?????? Questions are the path to learning"
+  },
+  {
+    "question": "The Community Safety Education Act requires law enforcement agencies to provide public education relating to what process?",
+    "answer": "The complaint process.",
+    "options": [
+      "The hiring process.",
+      "The evidence collection process.",
+      "The complaint process.",
+      "The court and appeals process."
+    ],
+    "reference": "5) How/where to file a complaint/compliment for an officer: CCP 2.132 requires all agencies to provide public education relating to the complaint process"
+  }
+],
         "Fitness and Wellness": [],
         "CCP and Constitution": [],
         "Arrest & Frisk Tactics": [],
