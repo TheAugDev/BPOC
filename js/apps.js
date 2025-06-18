@@ -11,6 +11,15 @@ let currentReviewType = null;
 let currentUnitId = null;
 let currentMode = 'quiz';
 let backTargetScreen = 'ROOT'; // Renamed from previousScreen, initialized to ROOT
+let dataLoadingPromise = null; // Track data loading status
+
+// Function to ensure external data is loaded
+async function ensureDataLoaded() {
+    if (!dataLoadingPromise) {
+        dataLoadingPromise = loadExternalData();
+    }
+    return dataLoadingPromise;
+}
 
 // --- DOM Elements ---
 const mainHeader = document.querySelector('header');
@@ -392,11 +401,24 @@ async function handleBpocWeekSelection(reviewTypeId, weekId) {
     try {
         // Ensure allReviewData is loaded, or fetch specifically if not.
         // Assuming allReviewData.BPOC is populated by data.js
-        if (!allReviewData.BPOC) {
-            console.warn("allReviewData.BPOC not found, attempting to fetch...");
+        if (!allReviewData.BPOC || Object.keys(allReviewData.BPOC).length === 0) {
+            console.warn("allReviewData.BPOC not found or empty, attempting to fetch...");
             const response = await fetch(`data/BPOC.json`);
             if (!response.ok) throw new Error(`HTTP error! status: ${response.status} for BPOC.json`);
-            allReviewData.BPOC = await response.json(); // Populate it if it was missing
+            const fetchedData = await response.json();
+            
+            // Initialize allReviewData.BPOC if it doesn't exist
+            if (!allReviewData.BPOC) {
+                allReviewData.BPOC = {};
+            }
+            
+            // Populate the BPOC data
+            for (const weekKey in fetchedData) {
+                if (fetchedData.hasOwnProperty(weekKey)) {
+                    allReviewData.BPOC[weekKey] = fetchedData[weekKey];
+                }
+            }
+            console.log("BPOC data loaded successfully, weeks available:", Object.keys(allReviewData.BPOC));
         }
         bpocData = allReviewData.BPOC; // Use the globally (or freshly) loaded data
         if (!bpocData) throw new Error("BPOC data could not be loaded or is empty.");
@@ -408,12 +430,15 @@ async function handleBpocWeekSelection(reviewTypeId, weekId) {
         return;
     }
 
+    console.log(`Checking week data for ${weekId}:`, bpocData[weekId]);
     const weekData = bpocData[weekId];
     if (typeof weekData === 'object' && weekData !== null && !Array.isArray(weekData)) {
+        console.log(`${weekId} has subcategories:`, Object.keys(weekData));
         renderSubcategorySelection(reviewTypeId, weekId, Object.keys(weekData));
         unitSelectionModal.classList.remove('hidden'); 
         // backTargetScreen is set by renderSubcategorySelection
     } else {
+        console.log(`${weekId} has no subcategories, starting directly:`, weekData);
         if (currentMode === 'quiz') {
             startQuiz(reviewTypeId, weekId); 
         } else {
@@ -437,24 +462,85 @@ function renderSubcategorySelection(reviewTypeId, weekId, subcategoryNames) {
     if (unitSelectionModal) unitSelectionModal.classList.remove('hidden');
     if (welcomeScreenEl) welcomeScreenEl.classList.add('hidden');
 
-    const allSubcategoriesButton = document.createElement('button');
-    allSubcategoriesButton.className = 'w-full bg-green-600 text-white p-3 md:p-4 rounded-lg text-base md:text-lg font-semibold hover:bg-green-700 transition-colors shadow-sm mb-2 min-h-12 md:min-h-auto';
-    allSubcategoriesButton.textContent = `All Subcategories in ${weekDisplayName}`;
-    allSubcategoriesButton.onclick = () => {
-        unitSelectionModal.classList.add('hidden');
-        if (currentMode === 'quiz') {
-            startQuiz(reviewTypeId, weekId, 'all_subcategories'); 
-        } else {
-            startFlashcards(reviewTypeId, weekId, 'all_subcategories');
-        }
-        // backTargetScreen is set by startQuiz/startFlashcards
-    };
-    chapterButtonsDiv.appendChild(allSubcategoriesButton);
-
+    // Filter out empty subcategories by checking if they have questions
+    const availableSubcategories = [];
+    const weekData = allReviewData.BPOC[weekId];
+    
     subcategoryNames.forEach(subcategoryName => {
-        const button = document.createElement('button');
-        button.className = 'w-full bg-blue-600 text-white p-3 md:p-4 rounded-lg text-base md:text-lg font-semibold hover:bg-blue-700 transition-colors shadow-sm min-h-12 md:min-h-auto';
-        button.textContent = subcategoryName;
+        const subcategoryData = weekData[subcategoryName];
+        if (Array.isArray(subcategoryData) && subcategoryData.length > 0) {
+            availableSubcategories.push(subcategoryName);
+        }
+    });
+
+    console.log(`Available subcategories for ${weekId}:`, availableSubcategories);
+
+    if (availableSubcategories.length === 0) {
+        // No subcategories have questions
+        const noDataMessage = document.createElement('div');
+        noDataMessage.className = 'text-center p-6 bg-yellow-50 rounded-lg border border-yellow-200';
+        noDataMessage.innerHTML = `
+            <svg class="w-12 h-12 text-yellow-500 mx-auto mb-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 9v2m0 4h.01m-6.938 4h13.856c1.54 0 2.502-1.667 1.732-2.5L13.732 4c-.77-.833-1.964-.833-2.732 0L4.082 16.5c-.77.833.192 2.5 1.732 2.5z"></path>
+            </svg>
+            <p class="text-lg text-yellow-700 font-medium">${weekDisplayName} - No Questions Available</p>
+            <p class="text-sm text-yellow-600 mt-2">This week doesn't have any questions loaded yet. Please check back later or contact your administrator.</p>
+        `;
+        chapterButtonsDiv.appendChild(noDataMessage);
+        backTargetScreen = 'unit-selection';
+        return;
+    }    // Show "All Available Subcategories" button only if there are multiple subcategories with content
+    if (availableSubcategories.length > 1) {
+        const totalQuestions = availableSubcategories.reduce((sum, subcatName) => sum + weekData[subcatName].length, 0);        const allSubcategoriesButton = document.createElement('button');
+        allSubcategoriesButton.className = 'w-full bg-green-600 text-white p-4 md:p-5 rounded-lg text-base md:text-lg font-semibold hover:bg-green-700 transition-colors shadow-sm mb-3 min-h-12 md:min-h-auto group subcategory-card subcategory-card-green';
+        
+        allSubcategoriesButton.innerHTML = `
+            <div class="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-1 sm:gap-4">
+                <div class="flex-1 text-left">
+                    <div class="font-semibold text-white group-hover:text-green-50 transition-colors">
+                        All Available Subcategories
+                    </div>
+                    <div class="text-green-100 text-sm font-normal group-hover:text-green-50 transition-colors">
+                        ${weekDisplayName}
+                    </div>
+                </div>                <div class="flex-shrink-0">
+                    <span class="inline-flex items-center px-2.5 py-1 rounded-full text-xs font-medium bg-green-500 text-green-100 group-hover:bg-green-400 transition-colors question-count-badge">
+                        ${totalQuestions} total question${totalQuestions === 1 ? '' : 's'}
+                    </span>
+                </div>
+            </div>
+        `;
+        
+        allSubcategoriesButton.onclick = () => {
+            unitSelectionModal.classList.add('hidden');
+            if (currentMode === 'quiz') {
+                startQuiz(reviewTypeId, weekId, 'all_subcategories'); 
+            } else {
+                startFlashcards(reviewTypeId, weekId, 'all_subcategories');
+            }
+            // backTargetScreen is set by startQuiz/startFlashcards
+        };
+        chapterButtonsDiv.appendChild(allSubcategoriesButton);
+    }// Add buttons for available subcategories only
+    availableSubcategories.forEach(subcategoryName => {
+        const questionCount = weekData[subcategoryName].length;        const button = document.createElement('button');
+        button.className = 'w-full bg-blue-600 text-white p-4 md:p-5 rounded-lg text-base md:text-lg font-semibold hover:bg-blue-700 transition-colors shadow-sm min-h-12 md:min-h-auto group subcategory-card subcategory-card-blue';
+        
+        // Create a better structured layout for desktop
+        button.innerHTML = `
+            <div class="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-1 sm:gap-4">
+                <div class="flex-1 text-left">
+                    <div class="font-semibold text-white group-hover:text-blue-50 transition-colors">
+                        ${subcategoryName}
+                    </div>
+                </div>                <div class="flex-shrink-0">
+                    <span class="inline-flex items-center px-2.5 py-1 rounded-full text-xs font-medium bg-blue-500 text-blue-100 group-hover:bg-blue-400 transition-colors question-count-badge">
+                        ${questionCount} question${questionCount === 1 ? '' : 's'}
+                    </span>
+                </div>
+            </div>
+        `;
+        
         button.onclick = () => {
             unitSelectionModal.classList.add('hidden');
             if (currentMode === 'quiz') {
@@ -465,7 +551,19 @@ function renderSubcategorySelection(reviewTypeId, weekId, subcategoryNames) {
             // backTargetScreen is set by startQuiz/startFlashcards
         };
         chapterButtonsDiv.appendChild(button);
-    });
+    });    // Show available vs total subcategories info
+    const infoMessage = document.createElement('div');
+    infoMessage.className = 'text-center text-sm text-gray-600 mt-4 p-3 rounded-lg subcategory-info';
+    infoMessage.innerHTML = `
+        <div class="flex items-center justify-center gap-2">
+            <svg class="w-4 h-4 text-gray-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+            </svg>
+            <span>Showing <strong>${availableSubcategories.length}</strong> of <strong>${subcategoryNames.length}</strong> subcategories with questions</span>
+        </div>
+    `;
+    chapterButtonsDiv.appendChild(infoMessage);
+
     backTargetScreen = 'unit-selection'; // If on subcategory selection, back goes to unit (week) selection
 }
 
@@ -648,9 +746,7 @@ async function startQuiz(reviewTypeId, unitId, subcategoryId = null) {
 
     let questionPool = [];
     let quizName = reviewTypeDetails.name; 
-    const questionLimit = reviewTypeDetails.questionLimit;
-
-    let allReviewDataForType = {};
+    const questionLimit = reviewTypeDetails.questionLimit;    let allReviewDataForType = {};
     try {
         // Ensure allReviewData is loaded, or fetch specifically if not.
         // Assuming allReviewData[reviewTypeId] is populated by data.js
@@ -705,12 +801,13 @@ async function startQuiz(reviewTypeId, unitId, subcategoryId = null) {
                 questionPool = [{ question: `Week ${unitId} not found.`, answer: "OK", options: ["OK"], reference: "N/A" }];
             } else {
                 quizName = `${reviewTypeDetails.name} - ${currentChapter.name}`;
-                const weekData = allReviewDataForType[unitId];
-
-                if (typeof weekData === 'object' && weekData !== null && !Array.isArray(weekData)) { 
+                const weekData = allReviewDataForType[unitId];                if (typeof weekData === 'object' && weekData !== null && !Array.isArray(weekData)) { 
                     if (subcategoryId === 'all_subcategories') {
-                        questionPool = Object.values(weekData).flat();
-                        quizName += ` - All Subcategories`;
+                        // Filter out empty subcategories and flatten the rest
+                        const nonEmptySubcategories = Object.values(weekData).filter(subcat => Array.isArray(subcat) && subcat.length > 0);
+                        questionPool = nonEmptySubcategories.flat();
+                        quizName += ` - All Available Subcategories`;
+                        console.log(`Loaded ${questionPool.length} questions from ${nonEmptySubcategories.length} non-empty subcategories`);
                     } else if (subcategoryId) {
                         // Robust subcategory matching (case-insensitive, trimmed)
                         const subcatKey = Object.keys(weekData).find(k => k.trim().toLowerCase() === subcategoryId.trim().toLowerCase());
@@ -898,7 +995,9 @@ function showResults() {
 
     const percentage = questions.length > 0 ? (score / questions.length) * 100 : 0;
     const correctAnswers = score;
-    const incorrectAnswers = questions.length - score;    // Main Results Container
+    const incorrectAnswers = questions.length - score;
+
+    // Main Results Container
     const resultsMainDiv = document.createElement('div');
     resultsMainDiv.className = 'bg-white rounded-2xl shadow-2xl p-6 md:p-8 max-w-4xl mx-auto results-animation-fade-in results-main-container';
     resultsContainerDiv.appendChild(resultsMainDiv);
@@ -951,9 +1050,7 @@ function showResults() {
         </svg>
         <span class="text-lg font-medium text-gray-800">Quiz: ${quizTakenName}</span>
     `;
-    infoSection.appendChild(quizInfo);
-
-    resultsMainDiv.appendChild(infoSection);
+    infoSection.appendChild(quizInfo);    resultsMainDiv.appendChild(infoSection);
 
     // Score Section with Circular Progress
     const scoreSection = document.createElement('div');
@@ -1038,11 +1135,10 @@ function showResults() {
         <div class="text-lg font-bold text-red-700">${incorrectAnswers}</div>
         <div class="text-sm text-red-600">Incorrect</div>
     `;
-    statsGrid.appendChild(incorrectStat);
+    statsGrid.appendChild(incorrectStat);    scoreDetails.appendChild(statsGrid);
+    scoreSection.appendChild(scoreDetails);    resultsMainDiv.appendChild(scoreSection);
 
-    scoreDetails.appendChild(statsGrid);
-    scoreSection.appendChild(scoreDetails);
-    resultsMainDiv.appendChild(scoreSection);    // Action Buttons Section
+    // Action Buttons Section
     const actionButtonsSection = document.createElement('div');
     actionButtonsSection.className = 'flex flex-col sm:flex-row justify-center gap-3 mb-8 action-buttons-section action-buttons-mobile';
 
@@ -1068,10 +1164,11 @@ function showResults() {
     printBtn.innerHTML = `
         <svg class="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 17h2a2 2 0 002-2v-4a2 2 0 00-2-2H5a2 2 0 00-2 2v4a2 2 0 002 2h2m2 4h6a2 2 0 002-2v-4a2 2 0 00-2-2H9a2 2 0 00-2 2v4a2 2 0 002 2zm8-12V5a2 2 0 00-2-2H9a2 2 0 00-2 2v4h10z"></path>
-        </svg>
-        Print Results
+        </svg>        Print Results
     `;
-    printBtn.onclick = () => window.print();
+    printBtn.onclick = () => {
+        generateSupervisorPrintout();
+    };
     actionButtonsSection.appendChild(printBtn);
 
     const mainMenuBtn = document.createElement('button');
@@ -1093,7 +1190,7 @@ function showResults() {
         reviewTitle.className = 'text-2xl font-bold text-gray-800 mb-6 text-center flex items-center justify-center';
         reviewTitle.innerHTML = `
             <svg class="w-6 h-6 mr-2 text-blue-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5H7a2 2 0 00-2 2v10a2 2 0 002 2h8a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2m-3 7h3m-3 4h3m-6-4h.01M9 16h.01"></path>
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5H7a2 2 0 00-2 2v10a2 2 0 002 2h8a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2"></path>
             </svg>
             Review Your Answers
         `;
@@ -1174,8 +1271,7 @@ function showResults() {
                 questionDiv.appendChild(referenceDiv);
             }
 
-            reviewContainer.appendChild(questionDiv);
-        });
+            reviewContainer.appendChild(questionDiv);        });
         resultsMainDiv.appendChild(reviewContainer);
     } else {
         const noQuestionsDiv = document.createElement('div');
@@ -1185,9 +1281,7 @@ function showResults() {
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 9v2m0 4h.01m-6.938 4h13.856c1.54 0 2.502-1.667 1.732-2.5L13.732 4c-.77-.833-1.964-.833-2.732 0L4.082 16.5c-.77.833.192 2.5 1.732 2.5z"></path>
             </svg>
             <p class="text-lg text-yellow-700 font-medium">No Questions Available</p>
-            <p class="text-sm text-yellow-600 mt-2">No questions were available for this quiz or an error occurred loading them.</p>
-        `;
-        resultsMainDiv.appendChild(noQuestionsDiv);
+            <p class="text-sm text-yellow-600 mt-2">No questions were available for this quiz or an error occurred loading them.</p>        `;        resultsMainDiv.appendChild(noQuestionsDiv);
     }
 }
 
@@ -1216,9 +1310,7 @@ async function startFlashcards(reviewTypeId, unitId, subcategoryId = null) {
 
     let questionPool = [];
     let cardSetName = reviewTypeDetails.name;
-    const questionLimit = reviewTypeDetails.questionLimit; 
-
-    let allReviewDataForType = {};
+    const questionLimit = reviewTypeDetails.questionLimit;     let allReviewDataForType = {};
     try {
         // Ensure allReviewData is loaded, or fetch specifically if not.
         if (typeof allReviewData === 'undefined' || !allReviewData[reviewTypeId]) {
@@ -1256,19 +1348,21 @@ async function startFlashcards(reviewTypeId, unitId, subcategoryId = null) {
                 questionPool = [{ question: `Week ${unitId} not found for flashcards.`, answer: "Error", reference: "N/A" }];
             } else {
                 cardSetName = `${reviewTypeDetails.name} - ${currentChapter.name}`;
-                const weekData = allReviewDataForType[unitId];
-
-                if (typeof weekData === 'object' && weekData !== null && !Array.isArray(weekData)) {
+                const weekData = allReviewDataForType[unitId];                if (typeof weekData === 'object' && weekData !== null && !Array.isArray(weekData)) {
                     if (subcategoryId === 'all_subcategories') {
-                        questionPool = Object.values(weekData).flat();
-                        cardSetName += ` - All Subcategories`;
+                        // Filter out empty subcategories and flatten the rest
+                        const nonEmptySubcategories = Object.values(weekData).filter(subcat => Array.isArray(subcat) && subcat.length > 0);
+                        questionPool = nonEmptySubcategories.flat();
+                        cardSetName += ` - All Available Subcategories`;
+                        console.log(`Loaded ${questionPool.length} flashcards from ${nonEmptySubcategories.length} non-empty subcategories`);
                     } else if (subcategoryId && weekData[subcategoryId]) {
                         questionPool = [...weekData[subcategoryId]];
                         cardSetName += ` - ${subcategoryId}`;
                     } else if (!subcategoryId) {
-                        console.warn(`BPOC week ${unitId} has subcategories, but none selected for flashcards. Loading all from week.`);
-                        questionPool = Object.values(weekData).flat(); // Default to all subcategories of the week
-                        cardSetName += ` - All Subcategories (Default)`;
+                        console.warn(`BPOC week ${unitId} has subcategories, but none selected for flashcards. Loading all available from week.`);
+                        const nonEmptySubcategories = Object.values(weekData).filter(subcat => Array.isArray(subcat) && subcat.length > 0);
+                        questionPool = nonEmptySubcategories.flat();
+                        cardSetName += ` - All Available Subcategories (Default)`;
                     } else {
                         questionPool = [{ question: `Subcategory '${subcategoryId}' not found in ${currentChapter.name} for flashcards.`, answer: "Error", reference: "N/A" }];
                         cardSetName += ` - Subcategory Not Found`;
@@ -1397,8 +1491,11 @@ function displayFlashcard() {
     nextFlashcardBtn.classList.toggle('opacity-50', nextFlashcardBtn.disabled);
 }
 
+// Flashcard navigation functions
 function flipFlashcard() {
-    if(flashcardCard) flashcardCard.classList.toggle('is-flipped');
+    if (flashcardCard) {
+        flashcardCard.classList.toggle('is-flipped');
+    }
 }
 
 function previousFlashcard() {
@@ -1415,215 +1512,360 @@ function nextFlashcard() {
     }
 }
 
-// --- Results & Reporting ---
-function getRecommendations() {
-    const incorrectAnswers = userAnswers.filter(a => !a.isCorrect);
-    if(incorrectAnswers.length === 0) {
-        return '<p>Excellent work! No specific areas for review based on this perfect score.</p>';
+// Function to generate and print supervisor-ready document
+function generateSupervisorPrintout() {
+    // Prompt for badge/PID number
+    const badgeNumber = prompt('Please enter your Badge/PID Number for the training record:', '');
+    
+    // Check if user cancelled or entered empty value
+    if (badgeNumber === null) {
+        return; // User cancelled, don't generate printout
     }
     
-
+    // Trim whitespace and check if still empty
+    const trimmedBadgeNumber = badgeNumber.trim();
+    if (trimmedBadgeNumber === '') {
+        alert('Badge/PID Number is required for the training record.');
+        return; // Don't generate printout without badge number
+    }
     
-    const topics = {};
-    incorrectAnswers.forEach(ans => {
-        if (ans.reference === 'N/A') return;
-        
-        let topicKey = ans.reference; 
-
-        if (currentReviewType) {
-            if (currentReviewType.id === 'generalOrders') {
-                // Extracts 'Chapter X' from 'GO X.Y.Z' or similar
-                const match = ans.reference.match(/^GO\s*(\d+)/i);
-                if (match && match[1]) {
-                    topicKey = `General Order Chapter ${match[1]}`;
-                } else {
-                    topicKey = ans.reference; // Fallback if GO format is unexpected
-                }
-            } else if (currentReviewType.id === 'texasConstitutions') {
-                // Extracts 'Article X' from 'TX Const. Art. X Sec. Y'
-                const match = ans.reference.match(/^TX Const\.\s*Art\.\s*(\w+)/i);
-                if (match && match[1]) {
-                    // Attempt to find the article name from the configured list
-                    const articleDetail = texasConstitutionArticles.find(art => art.id.toLowerCase() === `article${match[1]}`.toLowerCase());
-                    topicKey = articleDetail ? articleDetail.name : `Texas Constitution Article ${match[1]}`;
-                } else {
-                    topicKey = ans.reference; // Fallback
-                }
-            } else if (currentReviewType.id === 'texasStatutes') {
-                // Example: Reference "PC 1.01" -> topicKey "Penal Code"
-                // Example: Reference "TX CCP Art. 1.01" -> topicKey "Code of Criminal Procedure"
-                const statuteCodeDetails = texasStatuteCodes.find(code => {
-                    // Create a flexible regex to match common prefixes like "PC", "TC", "ABC", "HSC", "FC", "LGC", "CCP", "EC", "GC", "PWC", "BCC", "PROP"
-                    // This is a simplified approach; more robust parsing might be needed if reference formats vary wildly.
-                    const codePrefix = ans.reference.split(' ')[0].toUpperCase();
-                    const idPrefix = code.id.replace(/Code$/, '').toUpperCase(); // e.g. penalCode -> PENAL
-                     // Add more specific matches if needed for other codes with common abbreviations
-                    return idPrefix.startsWith(codePrefix) || code.name.toUpperCase().startsWith(codePrefix);
-                });
-                if (statuteCodeDetails) {
-                    topicKey = statuteCodeDetails.name;
-                } else {
-                    // Fallback if no specific code is matched from reference
-                    const firstWord = ans.reference.split(' ')[0];
-                    const matchedCode = texasStatuteCodes.find(c => c.id.toLowerCase().startsWith(firstWord.toLowerCase().replace(/code$/, '')));
-                    topicKey = matchedCode ? matchedCode.name : ans.reference;
-                }
-            } else if (currentReviewType.id === 'tpcaBestPractices') {
-                // Example: Reference "TPCA BP 1.1" -> topicKey "Use of Force"
-                // This requires that TPCA references clearly map to one of the critical areas.
-                // For simplicity, we'll try to match based on the reference prefix or a keyword.
-                const criticalAreaDetail = tpcaCriticalAreas.find(area => {
-                    // A more robust mapping might be needed if references are not standardized.
-                    // This is a basic attempt to link reference to area name or ID.
-                    const refUpper = ans.reference.toUpperCase();
-                    const areaNameUpper = area.name.toUpperCase();
-                    const areaIdUpper = area.id.toUpperCase();
-                    return refUpper.includes(areaNameUpper) || refUpper.includes(areaIdUpper) || areaNameUpper.includes(refUpper.split(' ')[0]);
-                });
-                if (criticalAreaDetail) {
-                    topicKey = criticalAreaDetail.name;
-                } else {
-                    topicKey = ans.reference; // Fallback
-                }
-            } else {
-                topicKey = ans.reference;
-            }
-        }
-
-        if(topics[topicKey]){
-            topics[topicKey]++;
-        } else {
-            topics[topicKey] = 1;
-        }
-    });
-
-    if (Object.keys(topics).length === 0) {
-         return '<p>Good effort. Please review the material again.</p>';
+    // Prompt for supervisor name
+    const supervisorName = prompt('Please enter your Supervisor\'s name:', '');
+    
+    // Check if user cancelled or entered empty value
+    if (supervisorName === null) {
+        return; // User cancelled, don't generate printout
     }
-
-    let recommendations = '<p class="mb-4">Based on your results, it is recommended to focus your review on the following areas:</p><ul class="list-disc list-inside space-y-2">';
-    for(const topic in topics) {
-        recommendations += `<li><strong>${topic}:</strong> You missed ${topics[topic]} question(s) in this area. A thorough review is advised.</li>`;
+    
+    // Trim whitespace and check if still empty
+    const trimmedSupervisorName = supervisorName.trim();
+    if (trimmedSupervisorName === '') {
+        alert('Supervisor name is required for the training record.');
+        return; // Don't generate printout without supervisor name
     }
-    recommendations += '</ul>';
-    return recommendations;
-}
-
-function generateReportHTML() {
-    const totalQuestions = questions.length;
-    const percentage = totalQuestions > 0 ? ((score / totalQuestions) * 100) : 0;
-    const date = new Date().toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
-    const recommendationsText = getRecommendations(); // Renamed for clarity
-    const timePrinted = new Date().toLocaleTimeString('en-US', { hour: '2-digit', minute: '2-digit' });
-
-    const radius = 70; // Increased radius for a larger circle
-    const strokeWidth = 14; // Thicker stroke
-    const circumference = 2 * Math.PI * radius;
-    const offset = circumference - (percentage / 100) * circumference;
-
-    // Determine pass/fail status and corresponding colors
-    const passThreshold = 80; // Example threshold
-    const isPass = percentage >= passThreshold;
-    const scoreColorClass = isPass ? 'text-green-600' : 'text-red-600';
-    const scoreBgClass = isPass ? 'bg-green-50' : 'bg-red-50';
-    const progressRingColor = isPass ? 'text-green-500' : 'text-red-500'; // For the ring itself
-
-    return `
-        <div class="report-container bg-white p-6 sm:p-10 rounded-xl shadow-2xl max-w-4xl mx-auto">
-            <header class="report-header border-b-2 border-gray-300 pb-6 mb-8">
-                <div class="flex flex-col sm:flex-row justify-between items-center">
-                    <div class="flex items-center mb-4 sm:mb-0">
-                        <img src="assets/DPD email logo.png" alt="Denton PD Logo" class="h-20 w-20 mr-4 rounded-full shadow-md">
-                        <div>
-                            <h1 class="text-3xl sm:text-4xl font-bold text-gray-800">Performance Review</h1>
-                            <p class="text-lg text-gray-600">Denton Police Department</p>
-                        </div>
-                    </div>
-                    <div class="text-right">
-                        <p class="text-sm text-gray-500">Date: ${date}</p>
-                        <p class="text-sm text-gray-500 print-only">Time Printed: ${timePrinted}</p>
-                    </div>
-                </div>
-            </header>
-
-            <section class="report-body grid grid-cols-1 md:grid-cols-3 gap-8 mb-10">
-                <div class="md:col-span-1 officer-info bg-gray-50 p-4 sm:p-6 rounded-lg shadow-sm"> <!-- Renamed class -->
-                    <h3 class="text-xl font-semibold text-gray-700 mb-4 border-b pb-2">Officer Information</h3> <!-- Renamed text -->
-                    <div class="space-y-3">
-                        <div><strong class="block text-sm font-medium text-gray-500">Name:</strong> <span class="text-lg text-gray-800">${officerName}</span></div> <!-- Renamed variable -->
-                        <div><strong class="block text-sm font-medium text-gray-500">Assessment Type:</strong> <span class="text-lg text-gray-800">${currentReviewType.name}</span></div>
-                        ${currentReviewType.hasUnits && currentUnitId !== 'all' ? `<div><strong class="block text-sm font-medium text-gray-500">Unit Tested:</strong> <span class="text-lg text-gray-800">${currentChapter.name.replace(currentReviewType.name + " - ", "")}</span></div>` : ''}
-                        ${currentUnitId === 'all' ? `<div><strong class="block text-sm font-medium text-gray-500">Unit Tested:</strong> <span class="text-lg text-gray-800">All Units</span></div>` : ''}
-
-                        <!-- New field for Date of Assessment -->
-                        <div><strong class="block text-sm font-medium text-gray-500">Date of Assessment:</strong> <span class="text-lg text-gray-800">${date}</span></div>
-                    </div>
-                </div>
-
-                <div class="md:col-span-2 performance-summary">
-                    <h3 class="text-xl font-semibold text-gray-700 mb-4 border-b pb-2">Assessment Results</h3>
-                    <div class="grid grid-cols-1 sm:grid-cols-2 gap-6 items-center">
-                        <div class="score-visual text-center p-2 sm:p-4">
-                            <svg class="w-40 h-40 sm:w-48 sm:h-48 mx-auto" viewBox="0 0 ${2 * (radius + strokeWidth)} ${2 * (radius + strokeWidth)}">
-                                <circle class="text-gray-200" stroke-width="${strokeWidth}" stroke="currentColor" fill="transparent" r="${radius}" cx="${radius + strokeWidth}" cy="${radius + strokeWidth}" />
-                                <circle class="progress-ring__circle ${progressRingColor}" stroke-width="${strokeWidth}" stroke-dasharray="${circumference} ${circumference}" style="stroke-dashoffset:${offset}; transition: stroke-dashoffset 1s ease-out;" stroke-linecap="round" stroke="currentColor" fill="transparent" r="${radius}" cx="${radius + strokeWidth}" cy="${radius + strokeWidth}" />
-                                <text x="50%" y="50%" text-anchor="middle" dy=".3em" class="text-3xl sm:text-4xl font-bold ${scoreColorClass} fill-current">${percentage.toFixed(0)}%</text>
-                            </svg>
-                            <p class="mt-2 text-lg font-semibold ${scoreColorClass}">${isPass ? 'Status: PASS' : 'Status: NEEDS IMPROVEMENT'}</p>
-                        </div>
-                        <div class="score-details space-y-3 ${scoreBgClass} p-4 rounded-lg shadow-sm">
-                            <div class="flex justify-between items-center">
-                                <span class="text-md font-medium text-gray-700">Total Questions:</span>
-                                <span class="text-xl font-bold text-gray-900">${totalQuestions}</span>
-                            </div>
-                            <div class="flex justify-between items-center">
-                                <span class="text-md font-medium text-green-700">Correct Answers:</span>
-                                <span class="text-xl font-bold text-green-700">${score}</span>
-                            </div>
-                            <div class="flex justify-between items-center">
-                                <span class="text-md font-medium text-red-700">Incorrect Answers:</span>
-                                <span class="text-xl font-bold text-red-700">${totalQuestions - score}</span>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-
-            <section class="recommendations-section mt-8 pt-6 border-t border-gray-300">
-                <h3 class="text-2xl font-semibold mb-4 text-gray-700 flex items-center">
-                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="mr-2 text-blue-600"><path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"></path><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"></path></svg>
-                    Recommendations for Review
-                </h3>
-                <div class="text-gray-700 bg-sky-50 p-6 rounded-lg shadow-sm prose max-w-none">${recommendationsText}</div>
-            </section>
-            
-            <section class="signature-section mt-12 pt-10 border-t-2 border-dashed border-gray-400 print-only">
-                 <h3 class="text-xl font-semibold text-gray-700 mb-6 text-center">Signatures</h3>
-                 <div class="grid grid-cols-2 gap-12">
-                    <div class="signature-line">
-                        <p class="text-gray-600 text-sm">Officer Signature:</p> <!-- Renamed text -->
-                        <div class="mt-12 border-b-2 border-gray-500"></div>
-                    </div>
-                    <div class="signature-line">
-                        <p class="text-gray-600 text-sm">Supervisor Signature:</p>
-                        <div class="mt-12 border-b-2 border-gray-500"></div>
-                    </div>
-                 </div>
-                 <p class="text-center text-sm text-gray-600 mt-10"><em>Official Training Report - Denton Police Department</em></p>
-            </section>
-
-            <div class="report-actions mt-10 pt-8 border-t border-gray-300 no-print">
-                <div class="flex justify-center gap-4">
-                    <button id="print-report-btn" class="action-button">
-                        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="mr-2"><polyline points="6 9 6 2 18 2 18 9"></polyline><path d="M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2"></path><rect x="6" y="14" width="12" height="8"></rect></svg>
-                        Print Report
-                    </button>
-                     <button id="main-menu-results" class="action-button-secondary">
-                        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="mr-2"><path d="m3 9 9-7 9  7v11a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2"></path><polyline points="9 22 9 12 15 12 15 22"></polyline></svg>
-                        Main Menu
-                    </button>
+    
+    // Calculate required data
+    const percentage = questions.length > 0 ? (score / questions.length) * 100 : 0;
+    const correctAnswers = score;
+    const incorrectAnswers = questions.length - score;
+    
+    // Get current date and time
+    const currentDate = new Date().toLocaleDateString('en-US');
+    const currentTime = new Date().toLocaleTimeString('en-US', { hour12: false });
+    
+    // Get unit display name
+    const reviewTypeDetails = reviewTypes.find(rt => rt.id === currentReviewType?.id);
+    let unitDisplayName = 'All Units';
+    if (currentUnitId && currentUnitId !== 'all_subcategories' && currentUnitId !== 'all') {
+        if (reviewTypeDetails?.chapters) {
+            const unit = reviewTypeDetails.chapters.find(c => c.id === currentUnitId);
+            if (unit) unitDisplayName = unit.name;
+        } else if (currentUnitId.startsWith('week')) {
+            unitDisplayName = currentUnitId.replace('week', 'Week ');
+        }
+    }
+    
+    // Get quiz name
+    let quizTakenName = quizTitle.textContent || (currentReviewType ? currentReviewType.name : 'Quiz');
+    
+    // Determine performance rating
+    let performanceRating, performanceDescription;
+    if (percentage >= 90) {
+        performanceRating = 'EXCELLENT';
+        performanceDescription = 'Demonstrates superior understanding of material';
+    } else if (percentage >= 80) {
+        performanceRating = 'GOOD';
+        performanceDescription = 'Demonstrates satisfactory understanding of material';
+    } else if (percentage >= 70) {
+        performanceRating = 'SATISFACTORY';
+        performanceDescription = 'Meets minimum training requirements';
+    } else if (percentage >= 60) {
+        performanceRating = 'NEEDS IMPROVEMENT';
+        performanceDescription = 'Additional training recommended';
+    } else {
+        performanceRating = 'UNSATISFACTORY';
+        performanceDescription = 'Requires immediate retraining';
+    }    // Create print window with supervisor document
+    const printWindow = window.open('', '_blank');
+    printWindow.document.write(`
+        <!DOCTYPE html>
+        <html lang="en">
+        <head>
+            <meta charset="UTF-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <title>Training Completion Record - ${officerName}</title>
+            <style>
+                body {
+                    font-family: 'Times New Roman', serif;
+                    font-size: 12px;
+                    line-height: 1.4;
+                    margin: 0;
+                    padding: 20px;
+                    color: black;
+                    background: white;
+                }
+                
+                .header {
+                    text-align: center;
+                    border-bottom: 2px solid black;
+                    padding-bottom: 15px;
+                    margin-bottom: 20px;
+                }
+                
+                .header h1 {
+                    font-size: 18px;
+                    font-weight: bold;
+                    margin: 0 0 5px 0;
+                }
+                
+                .header h2 {
+                    font-size: 14px;
+                    font-weight: normal;
+                    margin: 0;
+                }
+                
+                .section {
+                    border: 1px solid black;
+                    padding: 15px;
+                    margin: 15px 0;
+                    page-break-inside: avoid;
+                }
+                
+                .section h3 {
+                    font-size: 14px;
+                    font-weight: bold;
+                    margin: 0 0 10px 0;
+                    text-decoration: underline;
+                }
+                
+                .info-table {
+                    width: 100%;
+                    border-collapse: collapse;
+                }
+                
+                .info-table td {
+                    padding: 5px 8px;
+                    border: 1px solid black;
+                    vertical-align: top;
+                }
+                
+                .info-label {
+                    font-weight: bold;
+                    width: 25%;
+                    background: #f0f0f0;
+                }
+                
+                .results-header {
+                    background: #f0f0f0;
+                    border-bottom: 1px solid black;
+                    padding: 8px;
+                    font-weight: bold;
+                    text-align: center;
+                }
+                
+                .score-table {
+                    width: 100%;
+                    border-collapse: collapse;
+                }
+                
+                .score-table td {
+                    padding: 8px;
+                    border: 1px solid black;
+                    text-align: center;
+                    font-weight: bold;
+                }
+                
+                .performance-rating {
+                    text-align: center;
+                    padding: 10px;
+                    border: 2px solid black;
+                    margin: 10px 0;
+                    font-size: 14px;
+                    font-weight: bold;
+                }
+                
+                .question-item {
+                    border-bottom: 1px solid #ccc;
+                    padding: 10px;
+                    page-break-inside: avoid;
+                }
+                
+                .question-item:last-child {
+                    border-bottom: none;
+                }
+                
+                .question-number {
+                    font-weight: bold;
+                    display: inline-block;
+                    width: 30px;
+                }
+                
+                .signature-section {
+                    margin-top: 30px;
+                    page-break-inside: avoid;
+                    border-top: 1px solid black;
+                    padding-top: 15px;
+                }
+                
+                .signature-table {
+                    width: 100%;
+                    margin-top: 20px;
+                }
+                
+                .signature-table td {
+                    width: 50%;
+                    padding: 15px;
+                    vertical-align: top;
+                }
+                
+                .signature-line {
+                    border-bottom: 1px solid black;
+                    height: 30px;
+                    margin-bottom: 5px;
+                }
+                
+                .signature-label {
+                    font-size: 11px;
+                    text-align: center;
+                }
+                
+                @page {
+                    margin: 0.75in;
+                }
+                
+                @media print {
+                    body { margin: 0; padding: 0; }
+                }
+            </style>
+        </head>
+        <body>            <div class="header">
+                <h1>DENTON POLICE DEPARTMENT</h1>
+                <h2>TRAINING COMPLETION RECORD</h2>
+                <p style="margin: 5px 0; font-size: 11px;">Official Training Documentation - Supervisor Review Required</p>
+                <p style="margin: 5px 0; font-size: 10px; color: #666;">Generated: ${currentDate} at ${currentTime}</p>
+            </div>
+              <div class="section">
+                <h3>OFFICER AND TRAINING INFORMATION</h3>
+                <table class="info-table">                    <tr>
+                        <td class="info-label">Officer Name:</td>
+                        <td>${officerName}</td>
+                        <td class="info-label">Badge/PID Number:</td>
+                        <td>${trimmedBadgeNumber}</td>
+                    </tr>
+                    <tr>
+                        <td class="info-label">Training Module:</td>
+                        <td>${quizTakenName}</td>
+                        <td class="info-label">Unit/Section:</td>
+                        <td>${unitDisplayName}</td>
+                    </tr>
+                    <tr>
+                        <td class="info-label">Date Completed:</td>
+                        <td>${currentDate}</td>
+                        <td class="info-label">Time Completed:</td>
+                        <td>${currentTime}</td>
+                    </tr>
+                    <tr>
+                        <td class="info-label">Total Questions:</td>
+                        <td>${questions.length}</td>
+                        <td class="info-label">Training Type:</td>
+                        <td>${currentMode === 'quiz' ? 'Quiz Assessment' : 'Flashcard Review'}</td>
+                    </tr>
+                    <tr>                        <td class="info-label">Department:</td>
+                        <td>Denton Police Department</td>
+                        <td class="info-label">Supervisor:</td>
+                        <td>${trimmedSupervisorName}</td>
+                    </tr>
+                </table>
+            </div>
+              <div class="section">
+                <div class="results-header">ASSESSMENT RESULTS</div>
+                <table class="score-table">
+                    <tr>
+                        <td>Questions Answered</td>
+                        <td>Correct Answers</td>
+                        <td>Incorrect Answers</td>
+                        <td>Percentage Score</td>
+                    </tr>
+                    <tr>
+                        <td>${questions.length}</td>
+                        <td>${correctAnswers}</td>
+                        <td>${incorrectAnswers}</td>
+                        <td>${percentage.toFixed(1)}%</td>
+                    </tr>
+                </table>
+                <div class="performance-rating">
+                    PERFORMANCE RATING: ${performanceRating}<br>
+                    ${performanceDescription}
                 </div>
             </div>
-        </div>
-    `;
+            
+            <div class="section">
+                <h3>TRAINING SUMMARY</h3>
+                <table class="info-table">
+                    <tr>
+                        <td class="info-label">Areas Covered:</td>
+                        <td>${currentReviewType ? currentReviewType.name : 'Professional Standards Review'}</td>
+                    </tr>
+                    <tr>
+                        <td class="info-label">Completion Status:</td>
+                        <td>${percentage >= 70 ? 'COMPLETED SUCCESSFULLY' : 'REQUIRES ADDITIONAL TRAINING'}</td>
+                    </tr>
+                    <tr>
+                        <td class="info-label">Next Action Required:</td>
+                        <td>${percentage >= 90 ? 'None - Exemplary Performance' : 
+                             percentage >= 70 ? 'File for training record' : 
+                             'Schedule retraining session'}</td>
+                    </tr>
+                    <tr>
+                        <td class="info-label">Training Platform:</td>
+                        <td>Denton PD Professional Standards Review System</td>
+                    </tr>
+                </table>
+            </div>
+              <div class="signature-section">
+                <h3>CERTIFICATION AND ACKNOWLEDGMENT</h3>
+                <p style="margin: 10px 0; font-size: 11px; line-height: 1.5;">
+                    I certify that this training assessment was completed as indicated above and that the results 
+                    accurately reflect my understanding of the material. I acknowledge that this training is part 
+                    of my ongoing professional development and departmental requirements.
+                </p>
+                
+                <table class="signature-table">
+                    <tr>
+                        <td>
+                            <div class="signature-line"></div>
+                            <div class="signature-label">Officer Signature</div>
+                            <br>
+                            <div class="signature-line"></div>
+                            <div class="signature-label">Date</div>
+                        </td>
+                        <td>
+                            <div class="signature-line"></div>
+                            <div class="signature-label">Supervisor Signature & Badge #</div>
+                            <br>
+                            <div class="signature-line"></div>
+                            <div class="signature-label">Date</div>
+                        </td>
+                    </tr>
+                </table>
+                
+                <div style="margin-top: 20px; padding: 10px; border: 1px solid black; font-size: 10px;">
+                    <strong>FOR TRAINING COORDINATOR USE ONLY:</strong><br>
+                    Training Record Filed: ________________ By: ________________ Date: ________________<br>
+                    Follow-up Required: ☐ Yes ☐ No &nbsp;&nbsp;&nbsp; Notes: _________________________________<br>
+                    File Location: ________________ Review Date: ________________
+                </div>
+            </div>
+        </body>
+        </html>
+    `);
+    
+    printWindow.document.close();
+    printWindow.focus();
+    
+    // Wait for content to load, then print
+    setTimeout(() => {
+        printWindow.print();
+        printWindow.close();
+    }, 500);
 }
