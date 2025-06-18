@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="default">
+    <meta name="apple-mobile-web-app-title" content="DPD Review">
+    <title>Denton PD - Professional Standards Review</title>
+    <!-- Tailwind CSS for styling framework -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <!-- Link to your custom stylesheet -->
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="icon" href="assets/DPD email logo.png" type="image/png">
+</head>
+<body class="bg-gray-100 text-gray-800">
+
+    <div id="app" class="max-w-5xl mx-auto p-2 md:p-4 lg:p-8 min-h-screen">
+          <!-- Header Section -->
+        <header class="text-center mb-4 md:mb-8 no-print">
+            <img src="assets/DPD email logo.png" alt="Denton PD Logo" class="mx-auto mb-2 md:mb-4 rounded-full h-16 w-16 md:h-24 md:w-24">
+            <h1 class="text-2xl md:text-3xl lg:text-4xl font-bold text-gray-900">Denton Police Department</h1>
+            <p class="text-base md:text-lg text-gray-600">Denton PD Professional Standards Review</p>
+        </header>        <!-- Welcome Screen -->
+        <div id="welcome-screen" class="bg-white p-4 md:p-8 rounded-lg shadow-md text-center">
+            <h2 class="text-xl md:text-2xl font-semibold mb-4">Welcome, Officer</h2>
+            <p class="text-sm md:text-base text-gray-600 mb-6">Please enter your name to begin or select a review type.</p>
+            <input type="text" id="officer-name" placeholder="Enter your full name" class="w-full max-w-md mx-auto p-3 border border-gray-300 rounded-lg mb-6 focus:ring-2 focus:ring-blue-500 focus:outline-none transition-all text-base">
+            
+            <div id="mode-selection-container"> <!-- Container for mode buttons -->
+                <div id="mode-selection-buttons" class="flex flex-col sm:flex-row justify-center gap-3 md:gap-4 mt-4 mb-6">
+                    <!-- Mode buttons (Quiz/Flashcard) inserted by renderModeSelection -->
+                </div>
+            </div>
+
+            <div id="review-type-container" class="hidden"> <!-- Container for review type buttons, initially hidden -->
+                <div id="review-type-buttons" class="flex flex-col sm:flex-row justify-center gap-3 md:gap-4 mt-6">
+                    <!-- Review type buttons inserted by renderReviewTypeSelection -->
+                </div>
+            </div>
+            
+            <div class="flex justify-center gap-4 hidden"> <!-- Initially hide old buttons -->
+                 <button id="start-single-unit" class="bg-blue-600 text-white px-8 py-3 rounded-lg hover:bg-blue-700 transition-colors text-lg">Take Single Unit</button>
+                 <button id="start-all-units" class="bg-green-600 text-white px-8 py-3 rounded-lg hover:bg-green-700 transition-colors text-lg">Take All Units</button>
+            </div>
+        </div>        <!-- Unit Selection Modal -->
+        <div id="unit-selection-modal" class="modal-backdrop hidden">
+            <div class="bg-white p-4 md:p-6 rounded-lg shadow-xl w-full max-w-xs sm:max-w-lg md:max-w-3xl mx-4">
+                 <h2 class="text-lg md:text-2xl font-semibold mb-4 text-center">Select a Unit to Review</h2>
+                 <div id="chapter-buttons" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-3 md:gap-4 max-h-60 sm:max-h-80 md:max-h-96 overflow-y-auto p-2">
+                     <!-- Unit buttons will be dynamically inserted here -->
+                 </div>
+                 <div class="mt-4 md:mt-6 flex flex-col sm:flex-row gap-2 md:gap-4"> <!-- Flex container for buttons -->
+                    <button id="back-from-unit-selection" class="w-full bg-yellow-500 text-white p-3 rounded-lg hover:bg-yellow-600 transition-colors text-sm md:text-base">Back</button>
+                    <button id="close-modal" class="w-full bg-gray-500 text-white p-3 rounded-lg hover:bg-gray-600 transition-colors text-sm md:text-base">Cancel/Main Menu</button>
+                 </div>
+            </div>
+        </div>        <!-- Quiz Container -->
+        <div id="quiz-container" class="hidden">
+            <div class="bg-white p-4 md:p-6 rounded-lg shadow-md">
+                <div class="flex flex-col sm:flex-row justify-between items-start sm:items-center mb-6 gap-2">
+                    <h2 id="quiz-title" class="text-lg md:text-2xl font-semibold"></h2>
+                    <div id="progress" class="text-sm md:text-lg font-medium text-gray-600">Question <span id="question-number"></span> / <span id="total-questions"></span></div>
+                </div>
+                <div id="question-card" class="mb-6">
+                    <p id="question-text" class="text-base md:text-xl mb-6"></p>
+                    <div id="options-container" class="space-y-2 md:space-y-3"></div>
+                </div>
+                <div id="feedback-container" class="mt-4 p-3 md:p-4 rounded-md text-center hidden">
+                    <p id="feedback-text" class="font-semibold text-sm md:text-base"></p>
+                    <p id="feedback-reference" class="text-xs md:text-sm mt-1"></p>
+                </div>
+                <div class="mt-6 flex flex-col sm:flex-row justify-between items-center gap-4">
+                    <div class="flex gap-2 w-full sm:w-auto"> <!-- Group Back and Main Menu buttons -->
+                        <button id="back-from-quiz" class="flex-1 sm:flex-none bg-yellow-500 text-white px-4 md:px-6 py-2 rounded-lg hover:bg-yellow-600 transition-colors text-sm md:text-base">Back</button>
+                        <button id="main-menu-quiz" class="flex-1 sm:flex-none bg-gray-500 text-white px-4 md:px-6 py-2 rounded-lg hover:bg-gray-600 transition-colors text-sm md:text-base">Main Menu</button>
+                    </div>
+                    <div class="text-lg md:text-xl font-bold order-first sm:order-none">Score: <span id="score">0</span></div>
+                    <button id="next-question" class="w-full sm:w-auto bg-blue-600 text-white px-4 md:px-6 py-2 rounded-lg hover:bg-blue-700 transition-colors hidden text-sm md:text-base">Next Question</button>
+                </div>
+            </div>
+        </div>        <!-- Flashcard Container -->
+        <div id="flashcard-container" class="hidden">
+            <div class="bg-white p-4 md:p-6 rounded-lg shadow-md">
+                <div class="flex flex-col sm:flex-row justify-between items-start sm:items-center mb-6 gap-2">
+                    <h2 id="flashcard-title" class="text-lg md:text-2xl font-semibold">Flashcards</h2>
+                    <div id="flashcard-progress" class="text-sm md:text-lg font-medium text-gray-600">Card <span id="flashcard-number"></span> / <span id="total-flashcards"></span></div>
+                </div>
+                <div id="flashcard-card" class="relative w-full h-48 md:h-64 border-2 border-blue-500 rounded-lg cursor-pointer mb-6 perspective">
+                    <div id="flashcard-front" class="flashcard-face w-full h-full flex flex-col justify-center items-center backface-hidden">
+                        <p id="flashcard-question-text" class="text-base md:text-xl text-center px-2"></p>
+                    </div>
+                    <div id="flashcard-back" class="flashcard-face w-full h-full flex flex-col justify-center items-center my-rotate-y-180 backface-hidden absolute top-0 left-0 bg-blue-50">
+                        <p id="flashcard-answer-text" class="text-base md:text-xl text-center px-2"></p>
+                        <p id="flashcard-reference-text" class="text-xs md:text-sm mt-4 text-gray-600 text-center px-2"></p>
+                    </div>
+                </div>
+                <div class="mt-6 flex flex-col sm:flex-row justify-between items-center gap-4">
+                    <div class="flex gap-2 w-full sm:w-auto"> <!-- Group Back and Main Menu buttons -->
+                        <button id="back-from-flashcard" class="flex-1 sm:flex-none bg-yellow-500 text-white px-4 md:px-6 py-2 rounded-lg hover:bg-yellow-600 transition-colors text-sm md:text-base">Back</button>
+                        <button id="main-menu-flashcard" class="flex-1 sm:flex-none bg-gray-500 text-white px-4 md:px-6 py-2 rounded-lg hover:bg-gray-600 transition-colors text-sm md:text-base">Main Menu</button>
+                    </div>
+                    <div class="flex gap-2 w-full sm:w-auto">
+                        <button id="previous-flashcard" class="flex-1 sm:flex-none bg-blue-600 text-white px-4 md:px-6 py-2 rounded-lg hover:bg-blue-700 transition-colors text-sm md:text-base">Previous</button>
+                        <button id="next-flashcard" class="flex-1 sm:flex-none bg-blue-600 text-white px-4 md:px-6 py-2 rounded-lg hover:bg-blue-700 transition-colors text-sm md:text-base">Next</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Results Screen -->
+        <div id="results-container">
+            <!-- Content generated by JavaScript -->
+        </div>
+          <footer id="main-page-footer" class="text-center text-xs md:text-sm text-gray-500 mt-4 md:mt-8 py-4 no-print">
+            <p>&copy; <span id="current-year"></span> Denton Police Department. All Rights Reserved.</p>
+            <p>Developed by <a href="https://theaugdev.com" target="_blank" rel="noopener noreferrer" class="text-blue-600 hover:text-blue-700 underline">TheAugDev.com</a></p>
+        </footer>
+    </div>
+    
+    <!-- Div for printing the report -->
+    <div id="print-area"></div>
+
+    <!-- Scripts -->
+    <script src="js/data.js"></script>
+    <script src="js/apps.js"></script>
+</body>
+</html>

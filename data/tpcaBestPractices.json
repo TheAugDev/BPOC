@@ -1,0 +1,182 @@
+{
+    "useOfForce": [
+        { "question": "TPCA Sample Use of Force: When is deadly force justified?", "answer": "To protect against imminent threat of death or serious bodily injury", "options": ["Anytime", "To protect property", "To protect against imminent threat of death or serious bodily injury"], "reference": "TPCA BP 1.1" }
+    ],
+    "emergencyVehicleOperationAndPursuits": [
+  {
+    "question": "An officer stops a vehicle for speeding. When the officer asks for the driver's license and proof of insurance, the driver provides a valid license but states he does not have insurance for the vehicle. Based on the Transportation Code, what is the most appropriate action for the insurance violation?",
+    "answer": "Issue a citation for Failure to Maintain Financial Responsibility.",
+    "options": [
+      "Arrest the driver for the insurance violation.",
+      "Impound the vehicle immediately.",
+      "Issue a citation for Failure to Maintain Financial Responsibility.",
+      "Give a verbal warning, as insurance is a civil matter."
+    ],
+    "reference": "Sec. 601.191. OPERATION OF MOTOR VEHICLE IN VIOLATION OF MOTOR VEHICLE LIABILITY INSURANCE REQUIREMENT; OFFENSE. A person commits a misdemeanor punishable by a fine of between $175 and $350 if they operate a motor vehicle in violation of Section 601.051."
+  },
+  {
+    "question": "An officer stops a driver for a traffic violation. The driver is verbally uncooperative and belligerent but makes no physical threats. The driver refuses to sign the citation, stating they do not agree with it. According to the Transportation Code and Penal Code, what is the officer's authority?",
+    "answer": "The officer may make a custody arrest for the refusal to sign the promise to appear.",
+    "options": [
+      "The officer must release the driver with a warning.",
+      "The officer can use force to make the driver sign the citation.",
+      "The officer can charge the driver with Resisting Arrest.",
+      "The officer may make a custody arrest for the refusal to sign the promise to appear."
+    ],
+    "reference": "Sec. 543.005. PROMISE TO APPEAR; RELEASE. To secure release, the person arrested must make a written promise to appear in court by signing the written notice prepared by the arresting officer... Sec. 704.3.1 [TCOLE Guide] An officer may make a custody arrest... if the violator refuses to sign the citation."
+  },
+  {
+    "question": "An officer on patrol observes a vehicle run a red light. The officer activates their emergency lights and siren to initiate a traffic stop. The vehicle immediately accelerates and continues for several miles, running stop signs. What offense has the driver committed?",
+    "answer": "Evading Arrest or Detention with a Vehicle.",
+    "options": [
+      "Reckless Driving only.",
+      "Failure to Obey a Lawful Order.",
+      "Resisting Arrest.",
+      "Evading Arrest or Detention with a Vehicle."
+    ],
+    "reference": "Sec. 38.04. EVADING ARREST OR DETENTION. (a) A person commits an offense if he intentionally flees from a person he knows is a peace officer... attempting to lawfully arrest or detain him. (b) An offense under this section is a state jail felony if: (2) the actor uses a vehicle... while the actor is in the process of fleeing..."
+  },
+  {
+    "question": "During a consensual encounter with a pedestrian, the officer develops reasonable suspicion that the person may be armed and dangerous. What is the officer legally justified to do?",
+    "answer": "Perform a limited pat-down of the outer clothing for weapons.",
+    "options": [
+      "Conduct a full search of the person's pockets and belongings.",
+      "Arrest the person for being a danger to the public.",
+      "Perform a limited pat-down of the outer clothing for weapons.",
+      "Order the person to empty their pockets onto the ground."
+    ],
+    "reference": "Sec. 509.4 [Denton GO] ...an officer may pat a suspect's outer clothing for weapons if the officer has a reasonable, articulable suspicion the suspect may pose a safety risk. A frisk should not include going into the person’s pockets or possessions."
+  },
+  {
+    "question": "An officer stops a vehicle and, upon making contact, observes the driver has slurred speech, red/glassy eyes, and a strong odor of an alcoholic beverage on their breath. The officer administers SFSTs, which the driver fails. What level of certainty has the officer established?",
+    "answer": "Probable cause to arrest for DWI.",
+    "options": [
+      "Mere suspicion to continue observing.",
+      "Reasonable suspicion to detain further.",
+      "Probable cause to arrest for DWI.",
+      "Proof beyond a reasonable doubt for a conviction."
+    ],
+    "reference": "Probable cause is the reasonable suspicion that a crime has been committed... The amount of evidence required for probable cause does not need to be sufficient to guarantee a conviction in trial, but it does need to exceed simple suspicion on the part of the officer. [TCOLE Study Guide]"
+  },
+  {
+    "question": "Following a lawful DWI arrest, the suspect refuses to provide a breath or blood specimen. The officer learns the suspect has two prior DWI convictions. What is the officer required to do?",
+    "answer": "Obtain a search warrant for a blood specimen from a magistrate.",
+    "options": [
+      "Release the suspect and file the case later.",
+      "Accept the refusal and only charge them with DWI.",
+      "Obtain a search warrant for a blood specimen from a magistrate.",
+      "Use reasonable force to obtain a breath sample at the station."
+    ],
+    "reference": "Sec. 724.012. TAKING OF SPECIMEN. (b) A peace officer shall require the taking of a specimen of the person's breath or blood... if the officer arrests the person for an offense under Chapter 49, Penal Code... and the person refuses the officer's request to submit... and... at the time of the arrest, the officer possesses or receives reliable information from a credible source that the person: ... (B) on two or more occasions, has been previously convicted of... an offense under Section 49.04 [DWI]..."
+  },
+  {
+    "question": "An officer stops a vehicle for an equipment violation. The driver is unable to provide a driver's license or any other form of identification. He verbally provides a name and date of birth. When the officer runs the information, the system shows no record. The driver then admits he lied because he has a warrant. What offense has the driver committed in addition to the traffic violation?",
+    "answer": "Failure to Identify.",
+    "options": [
+      "Perjury.",
+      "Evading Arrest.",
+      "Failure to Identify.",
+      "Resisting Arrest."
+    ],
+    "reference": "Sec. 38.02. FAILURE TO IDENTIFY. (b) A person commits an offense if he intentionally gives a false or fictitious name, address, or date of birth to a peace officer who has: (2) lawfully detained the person..."
+  },
+  {
+    "question": "During an inventory of a vehicle being lawfully impounded after a DWI arrest, an officer finds a locked backpack in the trunk. What is the correct procedure?",
+    "answer": "The officer may open the locked backpack to inventory its contents per department policy.",
+    "options": [
+      "The officer must stop and obtain a search warrant to open the backpack.",
+      "The officer should inventory the backpack as a single 'locked backpack' without opening it.",
+      "The officer may open the locked backpack to inventory its contents per department policy.",
+      "The officer must ask for the arrestee's consent to open the backpack."
+    ],
+    "reference": "GO 702.5.1 [Denton GO] The following guidelines apply to vehicle inventories: (a) The inventory will include all open areas of the vehicle, including the trunk, and any closed containers within the vehicle. Closed containers may be opened to inventory their contents."
+  },
+  {
+    "question": "An officer initiates a traffic stop. The driver immediately pulls over, but as the officer approaches, the front seat passenger exits the car and runs away. What should the officer's immediate priority be?",
+    "answer": "Remain with the stopped vehicle and driver while calling for backup and providing a description of the fleeing person.",
+    "options": [
+      "Immediately abandon the traffic stop and chase the fleeing passenger.",
+      "Order the driver to pursue their own passenger.",
+      "Draw their weapon and order the driver out of the car.",
+      "Remain with the stopped vehicle and driver while calling for backup and providing a description of the fleeing person."
+    ],
+    "reference": "GO 307.4 [Denton GO] When reasonably practicable, officers should consider alternatives to engaging in or continuing a foot pursuit when: (a) The officer is acting alone and/or when backup is not available or has not yet arrived."
+  },
+  {
+    "question": "An officer responds to a minor, non-injury traffic collision on a public roadway. The drivers have already exchanged information and there is no indication of any criminal offense. What is the officer's duty regarding a report?",
+    "answer": "The officer is not required to complete a full crash report but should provide the drivers with instructions on how to file a Driver's Crash Report (CR-2).",
+    "options": [
+      "The officer must complete a full state crash report (CR-3) for every collision.",
+      "The officer should document the incident with a brief note and clear the scene.",
+      "The officer is not required to complete a full crash report but should provide the drivers with instructions on how to file a Driver's Crash Report (CR-2).",
+      "The officer should arrest both drivers for obstructing the roadway."
+    ],
+    "reference": "Sec. 550.061. OPERATOR'S ACCIDENT REPORT. The operator of a vehicle involved in an accident that is not investigated by a law enforcement officer... shall make a written report of the accident... [and] GO 701.5.1 [Denton GO] An officer is not required to assist in the preparation of a CR-2, but may explain how to obtain a CR-2 to an involved party."
+  },
+  {
+    "question": "During a traffic stop, an officer asks the driver for consent to search the vehicle. The driver initially agrees, but as the officer begins to search the trunk, the driver says, 'Never mind, I don't want you to search anymore.' What must the officer do?",
+    "answer": "Immediately stop the search, unless probable cause has independently been developed.",
+    "options": [
+      "Continue the search, as consent once given cannot be revoked.",
+      "Arrest the driver for interfering with the search.",
+      "Immediately stop the search, unless probable cause has independently been developed.",
+      "Tell the driver that consent cannot be withdrawn until the search is complete."
+    ],
+    "reference": "Probable Cause (from TCOLE guide) and case law establish that consent must be voluntary and can be revoked at any time. A search may only continue if separate probable cause exists."
+  },
+  {
+    "question": "An officer stops a vehicle and the driver, a foreign national from a country on the mandatory notification list, is arrested for DWI. What must the officer do regarding consular notification?",
+    "answer": "Inform the detainee of their right to consular access and notify the consulate of the arrest without delay.",
+    "options": [
+      "Ask the detainee if they want their consulate notified, and only do so if they say yes.",
+      "Notify the consulate only after the person has been convicted.",
+      "Wait for the detainee to request consular notification themselves.",
+      "Inform the detainee of their right to consular access and notify the consulate of the arrest without delay."
+    ],
+    "reference": "When a foreign national is arrested, the officer should determine whether his or her native country is on the list of mandatory notification. If the arrested person’s country is... on this list... [notification is required]. [TCOLE Study Guide]"
+  },
+  {
+    "question": "An officer stops a vehicle for running a stop sign. Upon contact, the officer sees a handgun in plain view on the passenger seat. The driver does not have a License to Carry. What offense, if any, has been committed in addition to the traffic violation?",
+    "answer": "Unlawful Carrying of a Weapon.",
+    "options": [
+      "No additional offense, as the gun is in a vehicle.",
+      "Disorderly Conduct.",
+      "Unlawful Carrying of a Weapon.",
+      "Possession of a Prohibited Weapon."
+    ],
+    "reference": "Sec. 46.02. UNLAWFUL CARRYING WEAPONS. (a) A person commits an offense if the person intentionally, knowingly, or recklessly carries on or about his or her person a handgun in a motor vehicle... at a time when: (1) the person is not: (A) on the person's own premises... or (B) inside of or directly en route to a motor vehicle... that is owned by the person or under the person's control."
+  },
+  {
+    "question": "What is the primary factor an officer must weigh when deciding whether to initiate or continue a vehicle pursuit?",
+    "answer": "The importance of apprehending the suspect against the risks to the public and officers.",
+    "options": [
+      "The performance capabilities of the patrol vehicle.",
+      "The likelihood of a successful apprehension.",
+      "The time remaining on the officer's shift.",
+      "The importance of apprehending the suspect against the risks to the public and officers."
+    ],
+    "reference": "GO 306.2 [Denton GO] It is the policy of this department to weigh the importance of apprehending suspects who unlawfully flee from law enforcement against the risks associated with vehicle pursuits."
+  },
+  {
+    "question": "An officer is investigating a minor collision where one driver struck an unattended parked car and left a note with their contact information. What offense has been committed?",
+    "answer": "No offense, as the driver complied with their duties.",
+    "options": [
+      "Failure to Stop and Give Information.",
+      "Failure to Stop and Render Aid.",
+      "No offense, as the driver complied with their duties.",
+      "Reckless Driving."
+    ],
+    "reference": "Sec. 550.024. DUTY ON STRIKING UNATTENDED VEHICLE. (a) The operator of a vehicle that collides with and damages an unattended vehicle shall immediately stop and: (1) locate the operator or owner of the unattended vehicle and give that person the name and address of the operator... or (2) leave in a conspicuous place in, or securely attach in a plainly visible way to, the unattended vehicle a written notice giving the name and address of the operator..."
+  }
+],
+    "searchSeizureAndArrest": [],
+    "careCustodyAndRestraintOfPrisoners": [],
+    "domesticViolenceAndAgencyEmployeeDomesticConduct": [],
+    "offDutyConduct": [],
+    "selectionAndHiring": [],
+    "sexualHarassment": [],
+    "complaintAndInternalAffairsManagement": [],
+    "narcoticsSwatAndHighRiskWarrantService": [],
+    "dealingWithTheMentallyIllAndDevelopmentallyDisabled": [],
+    "propertyAndEvidenceManagement": []
+}

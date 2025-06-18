@@ -1,0 +1,891 @@
+/* Custom Styles for Denton PD Review App */
+
+body {
+    font-family: 'Inter', sans-serif;
+    background-color: #f3f4f6;
+    /* Mobile optimization */
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+    text-size-adjust: 100%;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.correct {
+    background-color: #16a34a !important; /* Green-600 */
+    color: white !important;
+    border-color: #16a34a !important;
+}
+
+.incorrect {
+    background-color: #dc2626 !important; /* Red-600 */
+    color: white !important;
+    border-color: #dc2626 !important;
+}
+
+.disabled-option {
+    pointer-events: none;
+    opacity: 0.9;
+}
+
+.modal-backdrop {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.6);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Flashcard Styles */
+.perspective {
+    perspective: 1000px;
+}
+.flashcard-face {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+    transition: transform 0.6s;
+    transform-style: preserve-3d;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 1rem; /* Added padding */
+    border-radius: 0.5rem; /* Match card's border radius */
+}
+
+#flashcard-front {
+    background-color: #fff; /* Ensure front has a background */
+    z-index: 2; /* Ensure front is above back initially if not transformed */
+}
+
+#flashcard-back {
+    background-color: #e0f2fe; /* Light blue, similar to Tailwind's sky-100 or blue-50 */
+    transform: rotateY(180deg);
+}
+
+.is-flipped #flashcard-front {
+    transform: rotateY(180deg);
+}
+
+.is-flipped #flashcard-back {
+    transform: rotateY(360deg); /* Or rotateY(0deg) if it was initially 180deg */
+}
+
+/* Utility classes for flashcard flip (if not using Tailwind's directly) */
+.my-rotate-y-180 { transform: rotateY(180deg); }
+.backface-hidden { backface-visibility: hidden; }
+
+.progress-ring__circle {
+    transition: stroke-dashoffset 0.8s ease-out;
+    transform: rotate(-90deg);
+    transform-origin: 50% 50%;
+}
+
+/* Enhanced Report Styles */
+.report-container {
+    font-family: 'Inter', sans-serif;
+}
+
+.report-header h1 {
+    color: #1f2937; /* Tailwind gray-800 */
+}
+
+.report-header p {
+    color: #4b5563; /* Tailwind gray-600 */
+}
+
+.officer-info, /* Renamed from recruit-info */
+.performance-summary,
+.recommendations-section {
+    margin-bottom: 2rem;
+}
+
+.officer-info h3, /* Renamed from recruit-info */
+.performance-summary h3,
+.recommendations-section h3 {
+    color: #374151; /* Tailwind gray-700 */
+    border-color: #e5e7eb; /* Tailwind gray-200 */
+}
+
+.score-visual text {
+    font-weight: 700;
+}
+
+.score-details div {
+    padding: 0.5rem 0;
+}
+.score-details span:first-child {
+    color: #374151; /* Tailwind gray-700 */
+}
+
+.recommendations-section .prose ul {
+    list-style-type: disc;
+    padding-left: 1.5rem;
+}
+.recommendations-section .prose li {
+    margin-bottom: 0.5rem;
+}
+
+.action-button {
+    display: inline-flex;
+    align-items: center;
+    background-color: #374151; /* Tailwind gray-700 */
+    color: white;
+    padding: 0.75rem 1.5rem;
+    border-radius: 0.5rem;
+    font-weight: 500;
+    transition: background-color 0.2s ease-in-out;
+}
+.action-button:hover {
+    background-color: #1f2937; /* Tailwind gray-800 */
+}
+
+.action-button-secondary {
+    display: inline-flex;
+    align-items: center;
+    background-color: #6b7280; /* Tailwind gray-500 */
+    color: white;
+    padding: 0.75rem 1.5rem;
+    border-radius: 0.5rem;
+    font-weight: 500;
+    transition: background-color 0.2s ease-in-out;
+}
+.action-button-secondary:hover {
+    background-color: #4b5563; /* Tailwind gray-600 */
+}
+
+
+#print-area {
+    display: none;
+}
+
+/* Print-specific styles */
+@media print {
+    body * {
+        visibility: hidden;
+    }
+
+    #results-container, #results-container * {
+        visibility: visible;
+    }
+
+    #results-container .report-container {
+        box-shadow: none !important;
+        border: 1px solid #e5e7eb; /* Light border for print */
+        max-width: 100%;
+        margin: 0;
+        padding: 1.5rem;
+    }
+
+    #results-container {
+        display: block;
+        position: absolute;
+        left: 0;
+        top: 0;
+        width: 100%;
+    }
+
+    .no-print {
+        display: none !important;
+    }
+
+    .print-only {
+        display: block !important;
+    }
+
+    /* Ensure report takes full width for printing */
+    .report-container {
+        width: 100% !important;
+        max-width: none !important;
+        box-shadow: none !important;
+        border: none !important;
+    }
+
+    /* Adjust font sizes for print if needed */
+    .report-header h1 {
+        font-size: 28px;
+    }
+    .report-body,
+    .recommendations-section {
+        font-size: 11pt;
+    }
+    .score-visual text {
+        font-size: 28px;
+    }
+}
+
+/* Mobile-first responsive design */
+@media (max-width: 768px) {
+    body {
+        font-size: 16px; /* Prevent zoom on input focus */
+    }
+
+    /* App container adjustments */
+    .max-w-5xl {
+        max-width: 100% !important;
+        padding: 0.5rem !important;
+    }
+
+    /* Header optimizations */
+    header {
+        padding: 1rem 0.5rem !important;
+        margin-bottom: 1rem !important;
+    }
+
+    header h1 {
+        font-size: 1.5rem !important;
+        line-height: 1.3 !important;
+    }
+
+    header p {
+        font-size: 0.875rem !important;
+    }
+
+    header img {
+        height: 4rem !important;
+        width: 4rem !important;
+        margin-bottom: 0.75rem !important;
+    }
+
+    /* Welcome screen optimizations */
+    #welcome-screen {
+        padding: 1rem !important;
+        margin: 0.5rem !important;
+    }
+
+    #welcome-screen h2 {
+        font-size: 1.25rem !important;
+        margin-bottom: 1rem !important;
+    }
+
+    #welcome-screen p {
+        font-size: 0.875rem !important;
+        margin-bottom: 1rem !important;
+    }
+
+    /* Input field optimizations */
+    #officer-name {
+        font-size: 16px !important; /* Prevent zoom on iOS */
+        padding: 0.75rem !important;
+        margin-bottom: 1rem !important;
+    }
+
+    /* Button optimizations */
+    #mode-selection-buttons,
+    #review-type-buttons {
+        flex-direction: column !important;
+        gap: 0.75rem !important;
+    }
+
+    #mode-selection-buttons button,
+    #review-type-buttons button {
+        padding: 1rem !important;
+        font-size: 1rem !important;
+        min-height: 3rem !important;
+        width: 100% !important;
+    }
+}
+
+/* Modal optimizations for mobile */
+@media (max-width: 768px) {
+    .modal-backdrop {
+        padding: 0.5rem !important;
+        align-items: flex-start !important;
+        padding-top: 2rem !important;
+    }
+
+    #unit-selection-modal .bg-white {
+        width: 100% !important;
+        max-width: 100% !important;
+        max-height: 90vh !important;
+        overflow-y: auto !important;
+        padding: 1rem !important;
+    }
+
+    #unit-selection-modal h2 {
+        font-size: 1.125rem !important;
+        margin-bottom: 1rem !important;
+        text-align: center !important;
+    }
+
+    #chapter-buttons {
+        grid-template-columns: 1fr !important;
+        gap: 0.75rem !important;
+        max-height: 60vh !important;
+        overflow-y: auto !important;
+        padding: 0.5rem !important;
+    }
+
+    #chapter-buttons button {
+        padding: 1rem !important;
+        font-size: 0.9rem !important;
+        text-align: left !important;
+        min-height: 3rem !important;
+    }
+
+    #unit-selection-modal .mt-6 {
+        margin-top: 1rem !important;
+    }
+
+    #unit-selection-modal .mt-6 button {
+        padding: 0.75rem !important;
+        font-size: 0.9rem !important;
+    }
+}
+
+/* Quiz container mobile optimizations */
+@media (max-width: 768px) {
+    #quiz-container .bg-white {
+        padding: 1rem !important;
+        margin: 0.5rem !important;
+    }
+
+    #quiz-container .flex.justify-between {
+        flex-direction: column !important;
+        gap: 0.5rem !important;
+        align-items: flex-start !important;
+    }
+
+    #quiz-title {
+        font-size: 1.125rem !important;
+        margin-bottom: 0.5rem !important;
+    }
+
+    #progress {
+        font-size: 0.875rem !important;
+        align-self: flex-end !important;
+    }
+
+    #question-text {
+        font-size: 1rem !important;
+        line-height: 1.5 !important;
+        margin-bottom: 1rem !important;
+    }
+
+    #options-container {
+        gap: 0.5rem !important;
+    }
+
+    #options-container button {
+        padding: 1rem !important;
+        font-size: 0.9rem !important;
+        text-align: left !important;
+        line-height: 1.4 !important;
+        min-height: 3rem !important;
+    }
+
+    #feedback-container {
+        padding: 0.75rem !important;
+        margin-top: 1rem !important;
+    }
+
+    #feedback-text {
+        font-size: 0.9rem !important;
+    }
+
+    #feedback-reference {
+        font-size: 0.8rem !important;
+        margin-top: 0.5rem !important;
+    }
+
+    .mt-6.flex.justify-between {
+        flex-direction: column !important;
+        gap: 1rem !important;
+        margin-top: 1rem !important;
+    }
+
+    .mt-6.flex.justify-between > div:first-child {
+        display: flex !important;
+        gap: 0.5rem !important;
+        width: 100% !important;
+    }
+
+    .mt-6.flex.justify-between > div:first-child button {
+        flex: 1 !important;
+        padding: 0.75rem !important;
+        font-size: 0.875rem !important;
+    }
+
+    #score {
+        font-size: 1.125rem !important;
+        text-align: center !important;
+    }
+
+    #next-question {
+        width: 100% !important;
+        padding: 1rem !important;
+        font-size: 1rem !important;
+    }
+}
+
+/* Flashcard mobile optimizations */
+@media (max-width: 768px) {
+    #flashcard-container .bg-white {
+        padding: 1rem !important;
+        margin: 0.5rem !important;
+    }
+
+    #flashcard-title {
+        font-size: 1.125rem !important;
+        margin-bottom: 0.5rem !important;
+    }
+
+    #flashcard-progress {
+        font-size: 0.875rem !important;
+    }
+
+    #flashcard-card {
+        height: 12rem !important; /* Reduced height for mobile */
+        margin-bottom: 1rem !important;
+    }
+
+    .flashcard-face {
+        padding: 0.75rem !important;
+    }
+
+    #flashcard-question-text,
+    #flashcard-answer-text {
+        font-size: 0.9rem !important;
+        line-height: 1.4 !important;
+        text-align: center !important;
+    }
+
+    #flashcard-reference-text {
+        font-size: 0.8rem !important;
+        margin-top: 0.5rem !important;
+    }
+
+    #flashcard-container .mt-6.flex.justify-between {
+        flex-direction: column !important;
+        gap: 1rem !important;
+        margin-top: 1rem !important;
+    }
+
+    #flashcard-container .mt-6.flex.justify-between > div {
+        display: flex !important;
+        gap: 0.5rem !important;
+        width: 100% !important;
+    }
+
+    #flashcard-container .mt-6.flex.justify-between > div button {
+        flex: 1 !important;
+        padding: 0.75rem !important;
+        font-size: 0.875rem !important;
+    }
+}
+
+/* Results container mobile optimizations */
+@media (max-width: 768px) {
+    .report-container {
+        padding: 1rem !important;
+        margin: 0.5rem !important;
+    }
+
+    .report-header {
+        padding-bottom: 1rem !important;
+        margin-bottom: 1.5rem !important;
+    }
+
+    .report-header .flex {
+        flex-direction: column !important;
+        align-items: center !important;
+        text-align: center !important;
+    }
+
+    .report-header img {
+        height: 4rem !important;
+        width: 4rem !important;
+        margin-right: 0 !important;
+        margin-bottom: 1rem !important;
+    }
+
+    .report-header h1 {
+        font-size: 1.5rem !important;
+        margin-bottom: 0.5rem !important;
+    }
+
+    .report-header p {
+        font-size: 0.875rem !important;
+    }
+
+    .report-body.grid {
+        grid-template-columns: 1fr !important;
+        gap: 1.5rem !important;
+    }
+
+    .officer-info {
+        padding: 1rem !important;
+    }
+
+    .officer-info h3 {
+        font-size: 1rem !important;
+        margin-bottom: 1rem !important;
+    }
+
+    .performance-summary h3 {
+        font-size: 1rem !important;
+        margin-bottom: 1rem !important;
+    }
+
+    .score-visual {
+        padding: 1rem !important;
+    }
+
+    .score-visual svg {
+        width: 8rem !important;
+        height: 8rem !important;
+    }
+
+    .score-details {
+        padding: 1rem !important;
+    }
+
+    .score-details .flex {
+        flex-direction: column !important;
+        align-items: flex-start !important;
+        gap: 0.25rem !important;
+    }
+
+    .recommendations-section {
+        margin-top: 1.5rem !important;
+        padding-top: 1rem !important;
+    }
+
+    .recommendations-section h3 {
+        font-size: 1.125rem !important;
+        margin-bottom: 1rem !important;
+    }
+
+    .recommendations-section .prose {
+        padding: 1rem !important;
+    }
+
+    .report-actions {
+        margin-top: 1.5rem !important;
+        padding-top: 1rem !important;
+    }
+
+    .report-actions .flex {
+        flex-direction: column !important;
+        gap: 0.75rem !important;
+    }
+
+    .action-button,
+    .action-button-secondary {
+        width: 100% !important;
+        justify-content: center !important;
+        padding: 1rem !important;
+        font-size: 1rem !important;
+    }
+}
+
+/* Footer mobile optimizations */
+@media (max-width: 768px) {
+    #main-page-footer {
+        padding: 1rem 0.5rem !important;
+        margin-top: 1rem !important;
+        text-align: center !important;
+    }
+
+    #main-page-footer p {
+        font-size: 0.75rem !important;
+        margin-bottom: 0.25rem !important;
+    }
+}
+
+/* Touch-friendly improvements */
+@media (max-width: 768px) {
+    /* Increase touch targets */
+    button {
+        min-height: 44px !important; /* iOS/Android recommendation */
+        min-width: 44px !important;
+    }
+
+    /* Improve text readability */
+    body {
+        line-height: 1.6 !important;
+    }
+
+    /* Reduce margins and padding for better space utilization */
+    .space-y-6 > * + * {
+        margin-top: 1rem !important;
+    }
+
+    .space-y-3 > * + * {
+        margin-top: 0.5rem !important;
+    }
+
+    /* Ensure proper spacing for mobile */
+    .mb-8 {
+        margin-bottom: 1.5rem !important;
+    }
+
+    .mb-6 {
+        margin-bottom: 1rem !important;
+    }
+
+    .mb-4 {
+        margin-bottom: 0.75rem !important;
+    }
+}
+
+/* Landscape phone optimizations */
+@media (max-width: 896px) and (orientation: landscape) {
+    #flashcard-card {
+        height: 8rem !important;
+    }
+
+    .modal-backdrop {
+        padding-top: 1rem !important;
+    }
+
+    #unit-selection-modal .bg-white {
+        max-height: 80vh !important;
+    }
+
+    #chapter-buttons {
+        max-height: 50vh !important;
+    }
+}
+
+/* Enhanced Quiz Results Styles */
+.results-animation-fade-in {
+    animation: fadeInUp 0.6s ease-out;
+}
+
+@keyframes fadeInUp {
+    from {
+        opacity: 0;
+        transform: translateY(30px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.results-score-pulse {
+    animation: scorePulse 2s ease-in-out infinite;
+}
+
+@keyframes scorePulse {
+    0%, 100% {
+        transform: scale(1);
+    }
+    50% {
+        transform: scale(1.05);
+    }
+}
+
+/* Progress Circle Animation */
+.progress-circle {
+    transition: stroke-dashoffset 1.5s ease-in-out;
+    animation: progressDraw 2s ease-out;
+}
+
+@keyframes progressDraw {
+    from {
+        stroke-dashoffset: 377; /* Full circumference */
+    }
+}
+
+/* Hover Effects for Result Cards */
+.result-card-hover {
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.result-card-hover:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
+}
+
+/* Performance Badge Animations */
+.performance-badge {
+    animation: badgeSlideIn 0.8s ease-out 0.5s both;
+}
+
+@keyframes badgeSlideIn {
+    from {
+        opacity: 0;
+        transform: translateX(-20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateX(0);
+    }
+}
+
+/* Action Button Hover Effects */
+.action-button {
+    transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+    position: relative;
+    overflow: hidden;
+}
+
+.action-button:hover {
+    transform: translateY(-1px);
+    box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+}
+
+.action-button::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: -100%;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.2), transparent);
+    transition: left 0.5s;
+}
+
+.action-button:hover::before {
+    left: 100%;
+}
+
+/* Statistics Cards Animation */
+.stats-card {
+    animation: statsSlideUp 0.6s ease-out;
+    animation-fill-mode: both;
+}
+
+.stats-card:nth-child(1) { animation-delay: 0.1s; }
+.stats-card:nth-child(2) { animation-delay: 0.2s; }
+
+@keyframes statsSlideUp {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* Question Review Cards */
+.question-review-card {
+    transition: all 0.3s ease;
+    animation: questionCardFadeIn 0.5s ease-out;
+    animation-fill-mode: both;
+}
+
+.question-review-card:nth-child(odd) { animation-delay: 0.1s; }
+.question-review-card:nth-child(even) { animation-delay: 0.2s; }
+
+@keyframes questionCardFadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(20px) scale(0.95);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0) scale(1);
+    }
+}
+
+.question-review-card:hover {
+    transform: scale(1.02);
+    z-index: 10;
+}
+
+/* Responsive Enhancements for Results */
+@media (max-width: 768px) {
+    .results-main-container {
+        margin: 0.5rem;
+        padding: 1rem;
+    }
+    
+    .progress-container svg {
+        width: 120px !important;
+        height: 120px !important;
+    }
+    
+    .action-buttons-mobile {
+        flex-direction: column;
+        gap: 0.75rem;
+    }
+    
+    .question-review-card {
+        padding: 1rem;
+        margin: 0.5rem 0;
+    }
+    
+    .question-badge {
+        width: 1.5rem;
+        height: 1.5rem;
+        font-size: 0.75rem;
+    }
+    
+    .status-icon svg {
+        width: 1.25rem;
+        height: 1.25rem;
+    }
+}
+
+/* Print Styles for Enhanced Results */
+@media print {
+    .action-buttons-section {
+        display: none !important;
+    }
+    
+    .results-main-container {
+        box-shadow: none !important;
+        border: 1px solid #e5e7eb;
+        page-break-inside: avoid;
+    }
+    
+    .question-review-card {
+        page-break-inside: avoid;
+        box-shadow: none !important;
+        border: 1px solid #e5e7eb;
+        margin: 0.5rem 0;
+    }
+    
+    .progress-container svg {
+        width: 100px !important;
+        height: 100px !important;
+    }
+      /* Ensure colors print properly */
+    .performance-badge,
+    .stats-card,
+    .question-review-card {
+        -webkit-print-color-adjust: exact;
+        print-color-adjust: exact;
+    }
+}
+
+/* Accessibility Enhancements */
+@media (prefers-reduced-motion: reduce) {
+    .results-animation-fade-in,
+    .results-score-pulse,
+    .progress-circle,
+    .performance-badge,
+    .stats-card,
+    .question-review-card {
+        animation: none;
+    }
+    
+    .result-card-hover,
+    .action-button,
+    .question-review-card {
+        transition: none;
+    }
+}
+
+/* Focus States for Better Accessibility */
+.action-button:focus {
+    outline: 2px solid #3b82f6;
+    outline-offset: 2px;
+}
+
+.question-review-card:focus-within {
+    outline: 2px solid #3b82f6;
+    outline-offset: 2px;
+}

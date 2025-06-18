@@ -1,0 +1,1445 @@
+{
+    "penalCode": [
+  {
+    "question": "According to Sec. 1.02 of the Penal Code, what is a general purpose of the code?",
+    "answer": "To insure the public safety through the deterrent influence of penalties, rehabilitation, and punishment.",
+    "options": [
+      "To establish a system of fines to generate state revenue.",
+      "To provide guidelines for civil lawsuits between individuals.",
+      "To insure the public safety through the deterrent influence of penalties, rehabilitation, and punishment.",
+      "To give law enforcement unlimited authority to make arrests."
+    ],
+    "reference": "Sec. 1.02. OBJECTIVES OF CODE. ...to insure the public safety through: (A) the deterrent influence of the penalties hereinafter provided; (B) the rehabilitation of those convicted of violations of this code; and (C) such punishment as may be necessary to prevent likely recurrence of criminal behavior;"
+  },
+  {
+    "question": "Under Sec. 1.03, conduct does not constitute an offense unless it is defined as an offense by what?",
+    "answer": "Statute, municipal ordinance, order of a county commissioners court, or rule adopted under a statute.",
+    "options": [
+      "A ruling from the Supreme Court.",
+      "A proclamation by the Governor.",
+      "Statute, municipal ordinance, order of a county commissioners court, or rule adopted under a statute.",
+      "The common law."
+    ],
+    "reference": "Sec. 1.03. EFFECT OF CODE. (a) Conduct does not constitute an offense unless it is defined as an offense by statute, municipal ordinance, order of a county commissioners court, or rule adopted under a statute."
+  },
+  {
+    "question": "What is the territorial jurisdiction of the State of Texas, according to Sec. 1.04?",
+    "answer": "It includes the land and water and the air space above the land and water over which the state has power to define offenses.",
+    "options": [
+      "Only the land within the state's borders.",
+      "The land and water within the state's borders.",
+      "It includes the land and water and the air space above the land and water over which the state has power to define offenses.",
+      "It extends 200 miles into the Gulf of Mexico."
+    ],
+    "reference": "Sec. 1.04. TERRITORIAL JURISDICTION. (a) This state has jurisdiction over an offense that a person commits by his own conduct or the conduct of another for which he is criminally responsible if: (1) either the conduct or a result that is an element of the offense occurs inside this state..."
+  },
+  {
+    "question": "What is the standard of proof required in a criminal case to convict a person of an offense?",
+    "answer": "Proof of guilt beyond a reasonable doubt.",
+    "options": [
+      "A preponderance of the evidence.",
+      "Clear and convincing evidence.",
+      "Proof of guilt beyond a reasonable doubt.",
+      "A reasonable suspicion of guilt."
+    ],
+    "reference": "Sec. 2.01. PROOF BEYOND A REASONABLE DOUBT. All persons are presumed to be innocent and no person may be convicted of an offense unless each element of the offense is proved beyond a reasonable doubt."
+  },
+  {
+    "question": "If an issue is labeled a 'defense to prosecution' under the Penal Code, who has the burden of proof?",
+    "answer": "The prosecuting attorney is not required to negate the defense; the issue is not submitted to the jury unless evidence supports it.",
+    "options": [
+      "The defendant must prove the defense beyond a reasonable doubt.",
+      "The prosecuting attorney must disprove the defense beyond a reasonable doubt.",
+      "The prosecuting attorney is not required to negate the defense; the issue is not submitted to the jury unless evidence supports it.",
+      "The judge decides the validity of the defense before trial."
+    ],
+    "reference": "Sec. 2.03. DEFENSE. (c) The issue of the existence of a defense is not submitted to the jury unless evidence is admitted supporting the defense. (d) If the issue of the existence of a defense is submitted to the jury, the court shall charge that a reasonable doubt on the issue requires that the defendant be acquitted."
+  },
+  {
+    "question": "If an issue is labeled an 'affirmative defense' under the Penal Code, who has the burden of proof?",
+    "answer": "The defendant must prove the affirmative defense by a preponderance of the evidence.",
+    "options": [
+      "The defendant must prove the affirmative defense beyond a reasonable doubt.",
+      "The prosecuting attorney must disprove the affirmative defense.",
+      "The defendant must prove the affirmative defense by a preponderance of the evidence.",
+      "The state and defendant share the burden of proof."
+    ],
+    "reference": "Sec. 2.04. AFFIRMATIVE DEFENSE. (d) If the issue of the existence of an affirmative defense is submitted to the jury, the court shall charge that the defendant must prove the affirmative defense by a preponderance of the evidence."
+  },
+  {
+    "question": "What does the Penal Code define as a 'criminal episode'?",
+    "answer": "The commission of two or more offenses in the same transaction or pursuant to a common scheme.",
+    "options": [
+      "Any single felony offense.",
+      "Any crime that involves more than one victim.",
+      "The commission of two or more offenses in the same transaction or pursuant to a common scheme.",
+      "A series of misdemeanors committed over a 30-day period."
+    ],
+    "reference": "Sec. 3.01. DEFINITION. In this chapter, 'criminal episode' means the commission of two or more offenses, regardless of whether the harm is directed against or inflicted upon more than one person or item of property, under the following circumstances: (1) the offenses are committed pursuant to the same transaction or pursuant to two or more transactions that are connected or constitute a common scheme or plan..."
+  },
+  {
+    "question": "Under Sec. 6.01, a person commits an offense only if they do what?",
+    "answer": "Voluntarily engage in conduct, including an act, an omission, or possession.",
+    "options": [
+      "Have a specific intent to cause harm.",
+      "Are aware that their conduct is illegal.",
+      "Voluntarily engage in conduct, including an act, an omission, or possession.",
+      "Cause a negative result, regardless of their actions."
+    ],
+    "reference": "Sec. 6.01. REQUIREMENT OF VOLUNTARY ACT OR OMISSION. (a) A person commits an offense only if he voluntarily engages in conduct, including an act, an omission, or possession."
+  },
+  {
+    "question": "Which is the highest or most culpable mental state according to the Penal Code?",
+    "answer": "Intentionally",
+    "options": [
+      "Knowingly",
+      "Recklessly",
+      "Criminal Negligence",
+      "Intentionally"
+    ],
+    "reference": "Sec. 6.02. REQUIREMENT OF CULPABILITY. (d) Culpable mental states are classified according to relative degrees, from highest to lowest, as follows: (1) intentional; (2) knowing; (3) reckless; (4) criminal negligence."
+  },
+  {
+    "question": "A person acts ____________ when he is aware that his conduct is reasonably certain to cause the result.",
+    "answer": "Knowingly",
+    "options": [
+      "Intentionally",
+      "Knowingly",
+      "Recklessly",
+      "With criminal negligence"
+    ],
+    "reference": "Sec. 6.03. DEFINITIONS OF CULPABLE MENTAL STATES. ... (b) A person acts knowingly, or with knowledge, with respect to a result of his conduct when he is aware that his conduct is reasonably certain to cause the result."
+  },
+  {
+    "question": "A person acts with ____________ when he ought to be aware of a substantial and unjustifiable risk.",
+    "answer": "Criminal negligence",
+    "options": [
+      "Intent",
+      "Knowledge",
+      "Recklessness",
+      "Criminal negligence"
+    ],
+    "reference": "Sec. 6.03. ... (d) A person acts with criminal negligence, or is criminally negligent... when he ought to be aware of a substantial and unjustifiable risk that the circumstances exist or the result will occur."
+  },
+  {
+    "question": "Under Sec. 7.02, a person is criminally responsible for an offense committed by another if they:",
+    "answer": "Act with intent to promote or assist the commission of the offense, and solicit, encourage, direct, aid, or attempt to aid the other person to commit it.",
+    "options": [
+      "Are merely present at the scene of the crime.",
+      "Know the person who committed the offense.",
+      "Benefit from the offense after it is committed.",
+      "Act with intent to promote or assist the commission of the offense, and solicit, encourage, direct, aid, or attempt to aid the other person to commit it."
+    ],
+    "reference": "Sec. 7.02. CRIMINAL RESPONSIBILITY FOR CONDUCT OF ANOTHER. (a) A person is criminally responsible for an offense committed by the conduct of another if: ... (2) acting with intent to promote or assist the commission of the offense, he solicits, encourages, directs, aids, or attempts to aid the other person to commit the offense..."
+  },
+  {
+    "question": "Under what circumstance can a corporation be held responsible for a felony offense?",
+    "answer": "If the offense was authorized, requested, performed, or recklessly tolerated by a high managerial agent.",
+    "options": [
+      "If any employee commits the felony while on the job.",
+      "Only if the Board of Directors passes a resolution to commit the crime.",
+      "If the offense was authorized, requested, performed, or recklessly tolerated by a high managerial agent.",
+      "Corporations cannot be held criminally responsible for felonies."
+    ],
+    "reference": "Sec. 7.22. CRIMINAL RESPONSIBILITY OF CORPORATION OR ASSOCIATION. ... (2) for an offense that is a felony if the conduct constituting the offense was authorized, requested, commanded, performed, or recklessly tolerated by: (A) a majority of the governing board acting in behalf of the corporation or association; or (B) a high managerial agent acting in behalf of the corporation or association and within the scope of his office or employment."
+  },
+  {
+    "question": "What is the affirmative defense of 'Insanity'?",
+    "answer": "At the time of the conduct, the actor, as a result of severe mental disease or defect, did not know that his conduct was wrong.",
+    "options": [
+      "The actor was voluntarily intoxicated at the time of the offense.",
+      "The actor has a diagnosed personality disorder.",
+      "At the time of the conduct, the actor, as a result of severe mental disease or defect, did not know that his conduct was wrong.",
+      "The actor was under extreme emotional distress."
+    ],
+    "reference": "Sec. 8.01. INSANITY. (a) It is an affirmative defense to prosecution that, at the time of the conduct charged, the actor, as a result of severe mental disease or defect, did not know that his conduct was wrong."
+  },
+  {
+    "question": "When is 'Duress' an affirmative defense to prosecution?",
+    "answer": "When the actor was compelled to commit the offense by threat of imminent death or serious bodily injury to himself or another.",
+    "options": [
+      "When the actor was threatened with financial ruin.",
+      "When the actor was compelled by a spouse.",
+      "When the actor was compelled to commit the offense by threat of imminent death or serious bodily injury to himself or another.",
+      "When the actor was persuaded to commit the crime by a police officer."
+    ],
+    "reference": "Sec. 8.05. DURESS. (a) It is an affirmative defense to prosecution that the actor engaged in the proscribed conduct because he was compelled to do so by threat of imminent death or serious bodily injury to himself or another."
+  },
+  {
+    "question": "What is 'Entrapment'?",
+    "answer": "When the actor was induced to commit the offense by a law enforcement agent using persuasion or other means likely to cause a person to commit the offense.",
+    "options": [
+      "When a law enforcement agent provides an opportunity to commit an offense.",
+      "When an informant provides information to law enforcement.",
+      "When the actor was induced to commit the offense by a law enforcement agent using persuasion or other means likely to cause a person to commit the offense.",
+      "When a law enforcement agent goes undercover."
+    ],
+    "reference": "Sec. 8.06. ENTRAPMENT. (a) It is a defense to prosecution that the actor engaged in the conduct charged because he was induced to do so by a law enforcement agent using persuasion or other means likely to cause persons to commit the offense. Conduct merely affording a person an opportunity to commit an offense does not constitute entrapment."
+  },
+  {
+    "question": "A person younger than what age cannot be prosecuted for any offense, with a few exceptions?",
+    "answer": "15",
+    "options": [
+      "13",
+      "14",
+      "15",
+      "16"
+    ],
+    "reference": "Sec. 8.07. AGE AFFECTING CRIMINAL RESPONSIBILITY. (a) A person may not be prosecuted for or convicted of any offense that he committed when younger than 15 years of age except..."
+  },
+  {
+    "question": "According to the Penal Code, what is the punishment for a Class B Misdemeanor?",
+    "answer": "A fine not to exceed $2,000; confinement in jail for a term not to exceed 180 days; or both.",
+    "options": [
+      "A fine not to exceed $500.",
+      "A fine not to exceed $4,000 and confinement up to one year.",
+      "A fine not to exceed $2,000; confinement in jail for a term not to exceed 180 days; or both.",
+      "Confinement in a state jail for 180 days to two years."
+    ],
+    "reference": "Sec. 12.22. CLASS B MISDEMEANOR. An individual adjudged guilty of a Class B misdemeanor shall be punished by: (1) a fine not to exceed $2,000; (2) confinement in jail for a term not to exceed 180 days; or (3) both such fine and confinement."
+  },
+  {
+    "question": "What is the punishment range for a second-degree felony?",
+    "answer": "Imprisonment for any term of not more than 20 years or less than 2 years.",
+    "options": [
+      "Confinement in a state jail for 180 days to 2 years.",
+      "Imprisonment for any term of not more than 10 years or less than 2 years.",
+      "Imprisonment for life or for 5 to 99 years.",
+      "Imprisonment for any term of not more than 20 years or less than 2 years."
+    ],
+    "reference": "Sec. 12.33. SECOND DEGREE FELONY PUNISHMENT. (a) An individual adjudged guilty of a felony of the second degree shall be punished by imprisonment in the Texas Department of Criminal Justice for any term of not more than 20 years or less than 2 years."
+  },
+  {
+    "question": "What is the punishment for a capital felony when the state does not seek the death penalty?",
+    "answer": "Imprisonment for life without parole.",
+    "options": [
+      "Imprisonment for life with the possibility of parole.",
+      "Imprisonment for a term of 25 to 99 years.",
+      "Imprisonment for life without parole.",
+      "The punishment is reduced to a first-degree felony."
+    ],
+    "reference": "Sec. 12.31. CAPITAL FELONY. (a) An individual adjudged guilty of a capital felony in a case in which the state does not seek the death penalty shall be punished by imprisonment in the Texas Department of Criminal Justice for life without parole."
+  },
+  {
+    "question": "If a person is on trial for a first-degree felony and has a previous felony conviction, what is the minimum term of imprisonment?",
+    "answer": "15 years.",
+    "options": [
+      "5 years.",
+      "10 years.",
+      "15 years.",
+      "25 years."
+    ],
+    "reference": "Sec. 12.42. PENALTIES FOR REPEAT AND HABITUAL FELONY OFFENDERS. ... (c) ... if it is shown on the trial of a felony of the first degree that the defendant has previously been finally convicted of a felony... on conviction he shall be punished by imprisonment in the Texas Department of Criminal Justice for life, or for any term of not more than 99 years or less than 15 years."
+  },
+  {
+    "question": "Under what circumstance may a court punish a defendant convicted of a state jail felony as a Class A misdemeanor?",
+    "answer": "When the court finds that it is in the best interests of justice.",
+    "options": [
+      "If the defendant has no prior convictions.",
+      "If the prosecutor requests it.",
+      "When the court finds that it is in the best interests of justice.",
+      "If the value of property involved is less than $100."
+    ],
+    "reference": "Sec. 12.44. REDUCTION OF STATE JAIL FELONY PUNISHMENT TO MISDEMEANOR PUNISHMENT. (a) A court may punish a defendant who is convicted of a state jail felony by imposing the confinement permissible as punishment for a Class A misdemeanor if, after considering the gravity and circumstances of the felony... it is in the best interest of justice to do so."
+  },
+  {
+    "question": "A person commits the offense of Criminal Conspiracy if they agree with one or more persons to commit a felony and what else happens?",
+    "answer": "One or more of the group performs an overt act in pursuance of the agreement.",
+    "options": [
+      "They write down their plan.",
+      "They purchase equipment for the crime.",
+      "One or more of the group performs an overt act in pursuance of the agreement.",
+      "The intended felony is actually committed."
+    ],
+    "reference": "Sec. 15.02. CRIMINAL CONSPIRACY. (a) A person commits criminal conspiracy if, with intent that a felony be committed: (1) he agrees with one or more persons that they or one or more of them engage in conduct that would constitute the offense; and (2) he or one or more of them performs an overt act in pursuance of the agreement."
+  },
+  {
+    "question": "The offense of 'Criminal Attempt' is generally punished as what?",
+    "answer": "One category lower than the offense attempted.",
+    "options": [
+      "The same as the offense attempted.",
+      "A Class C Misdemeanor.",
+      "One category lower than the offense attempted.",
+      "It is not a punishable offense."
+    ],
+    "reference": "Sec. 15.01. CRIMINAL ATTEMPT. ... (d) An offense under this section is one category lower than the offense attempted, and if the offense attempted is a state jail felony, the offense is a Class A misdemeanor."
+  },
+  {
+    "question": "A person commits 'Criminal Solicitation' if they request or command another to engage in what level of offense?",
+    "answer": "A capital felony or first-degree felony.",
+    "options": [
+      "Any misdemeanor.",
+      "A state jail felony.",
+      "Any felony.",
+      "A capital felony or first-degree felony."
+    ],
+    "reference": "Sec. 15.03. CRIMINAL SOLICITATION. (a) A person commits an offense if, with intent that a capital felony or felony of the first degree be committed, he requests, commands, or attempts to induce another to engage in specific conduct that... would constitute the felony..."
+  },
+  {
+    "question": "What is the 'renunciation defense'?",
+    "answer": "An affirmative defense where the actor voluntarily and completely renounced their criminal objective and took steps to prevent the crime.",
+    "options": [
+      "A defense claiming the actor was entrapped by law enforcement.",
+      "A defense claiming the actor was under duress.",
+      "An affirmative defense where the actor voluntarily and completely renounced their criminal objective and took steps to prevent the crime.",
+      "A defense based on the actor's ignorance of the law."
+    ],
+    "reference": "Sec. 15.04. RENUNCIATION DEFENSE. (a) It is an affirmative defense to prosecution under Section 15.01 that under circumstances manifesting a voluntary and complete renunciation of his criminal objective the actor avoided commission of the offense attempted by abandoning his criminal conduct..."
+  },
+  {
+    "question": "Possessing a criminal instrument with the intent to use it in the commission of an offense is what level of offense?",
+    "answer": "One category lower than the offense intended.",
+    "options": [
+      "A Class C Misdemeanor.",
+      "A Class A Misdemeanor.",
+      "The same as the offense intended.",
+      "One category lower than the offense intended."
+    ],
+    "reference": "Sec. 16.01. UNLAWFUL USE OF CRIMINAL INSTRUMENT. ... (c) An offense under Subsection (a)(2) is one category lower than the offense intended."
+  },
+  {
+    "question": "Intentionally intercepting a wire or electronic communication is what level of offense?",
+    "answer": "A second-degree felony.",
+    "options": [
+      "A Class A Misdemeanor.",
+      "A state jail felony.",
+      "A third-degree felony.",
+      "A second-degree felony."
+    ],
+    "reference": "Sec. 16.02. UNLAWFUL INTERCEPTION, USE, OR DISCLOSURE OF WIRE, ORAL, OR ELECTRONIC COMMUNICATIONS. ... (f) Except as provided by Subsection (g), an offense under this section is a felony of the second degree."
+  },
+  {
+    "question": "Which of the following is NOT a form of Criminal Homicide under the Penal Code?",
+    "answer": "Accidental Death",
+    "options": [
+      "Murder",
+      "Capital Murder",
+      "Manslaughter",
+      "Accidental Death"
+    ],
+    "reference": "Sec. 19.01. TYPES OF CRIMINAL HOMICIDE. (a) A person commits criminal homicide if he intentionally, knowingly, recklessly, or with criminal negligence causes the death of an individual. (b) Criminal homicide is murder, capital murder, manslaughter, or criminally negligent homicide."
+  },
+  {
+    "question": "A person commits Murder under Sec. 19.02 if they intend to cause serious bodily injury and commit an act clearly dangerous to human life that results in what?",
+    "answer": "Causes the death of an individual.",
+    "options": [
+      "Causes bodily injury to an individual.",
+      "Places an individual in fear of imminent serious bodily injury.",
+      "Causes the death of an individual.",
+      "Results in the destruction of property."
+    ],
+    "reference": "Sec. 19.02. MURDER. (b) A person commits an offense if he: ... (2) intends to cause serious bodily injury and commits an act clearly dangerous to human life that causes the death of an individual;"
+  },
+  {
+    "question": "A murder becomes Capital Murder if the victim is a peace officer or firefighter who is acting in what capacity?",
+    "answer": "In the lawful discharge of an official duty.",
+    "options": [
+      "Off-duty and out of uniform.",
+      "A personal acquaintance of the actor.",
+      "In the lawful discharge of an official duty.",
+      "Assigned to administrative duties."
+    ],
+    "reference": "Sec. 19.03. CAPITAL MURDER. (a) A person commits an offense if the person commits murder as defined under Section 19.02(b)(1) and: (1) the person murders a peace officer or fireman who is acting in the lawful discharge of an official duty and who the person knows is a peace officer or fireman;"
+  },
+  {
+    "question": "Committing murder in the course of committing or attempting to commit which of the following offenses elevates the crime to Capital Murder?",
+    "answer": "Kidnapping, burglary, robbery, or aggravated sexual assault.",
+    "options": [
+      "Theft, criminal mischief, or criminal trespass.",
+      "Kidnapping, burglary, robbery, or aggravated sexual assault.",
+      "Evading arrest, resisting arrest, or escape.",
+      "Possession of a controlled substance or DWI."
+    ],
+    "reference": "Sec. 19.03. CAPITAL MURDER. (a) A person commits an offense if the person commits murder... and: (2) the person intentionally commits the murder in the course of committing or attempting to commit kidnapping, burglary, robbery, aggravated sexual assault, arson, obstruction or retaliation, or terroristic threat..."
+  },
+  {
+    "question": "A person commits Manslaughter if they do what?",
+    "answer": "Recklessly cause the death of an individual.",
+    "options": [
+      "Intentionally cause the death of an individual.",
+      "Knowingly cause the death of an individual.",
+      "With criminal negligence cause the death of an individual.",
+      "Recklessly cause the death of an individual."
+    ],
+    "reference": "Sec. 19.04. MANSLAUGHTER. (a) A person commits an offense if he recklessly causes the death of an individual."
+  },
+  {
+    "question": "What is the penalty for Manslaughter?",
+    "answer": "A felony of the second degree.",
+    "options": [
+      "A felony of the first degree.",
+      "A felony of the second degree.",
+      "A felony of the third degree.",
+      "A state jail felony."
+    ],
+    "reference": "Sec. 19.04. MANSLAUGHTER. ... (b) An offense under this section is a felony of the second degree."
+  },
+  {
+    "question": "Criminally Negligent Homicide is what level of offense?",
+    "answer": "A state jail felony.",
+    "options": [
+      "A Class A Misdemeanor.",
+      "A state jail felony.",
+      "A third-degree felony.",
+      "A second-degree felony."
+    ],
+    "reference": "Sec. 19.05. CRIMINALLY NEGLIGENT HOMICIDE. (a) A person commits an offense if he causes the death of an individual by criminal negligence. (b) An offense under this section is a state jail felony."
+  },
+  {
+    "question": "A person commits the offense of Unlawful Restraint if they intentionally or knowingly restrain another person. This offense is typically what?",
+    "answer": "A Class A Misdemeanor.",
+    "options": [
+      "A Class B Misdemeanor.",
+      "A Class A Misdemeanor.",
+      "A state jail felony.",
+      "A third-degree felony."
+    ],
+    "reference": "Sec. 20.02. UNLAWFUL RESTRAINT. ... (c) An offense under this section is a Class A misdemeanor, except that the offense is: (1) a state jail felony if the person restrained was a child younger than 17 years of age..."
+  },
+  {
+    "question": "The offense of Kidnapping is what level of offense?",
+    "answer": "A felony of the third degree.",
+    "options": [
+      "A felony of the first degree.",
+      "A felony of the second degree.",
+      "A felony of the third degree.",
+      "A state jail felony."
+    ],
+    "reference": "Sec. 20.03. KIDNAPPING. ... (c) An offense under this section is a felony of the third degree."
+  },
+  {
+    "question": "Kidnapping becomes Aggravated Kidnapping if the actor abducts another person with the intent to do what?",
+    "answer": "Hold him for ransom or reward.",
+    "options": [
+      "Move him to another county.",
+      "Prevent him from testifying in court.",
+      "Hold him for ransom or reward.",
+      "Commit a misdemeanor offense."
+    ],
+    "reference": "Sec. 20.04. AGGRAVATED KIDNAPPING. (a) A person commits an offense if he intentionally or knowingly abducts another person with the intent to: (1) hold him for ransom or reward;"
+  },
+  {
+    "question": "Aggravated Kidnapping is a first-degree felony, but can be reduced to a second-degree felony if the actor proves what?",
+    "answer": "That he voluntarily released the victim in a safe place.",
+    "options": [
+      "That no deadly weapon was used.",
+      "That the victim was not physically injured.",
+      "That he voluntarily released the victim in a safe place.",
+      "That the actor showed remorse for the crime."
+    ],
+    "reference": "Sec. 20.04. AGGRAVATED KIDNAPPING. ... (d) An offense under this section is a felony of the first degree unless the actor voluntarily releases the victim in a safe place, in which event the offense is a felony of the second degree."
+  },
+  {
+    "question": "Committing two or more acts of sexual abuse against a child younger than 14 over a period of 30 days or more constitutes what offense?",
+    "answer": "Continuous Sexual Abuse of a Young Child or Children.",
+    "options": [
+      "Aggravated Sexual Assault.",
+      "Indecency with a Child.",
+      "Continuous Sexual Abuse of a Young Child or Children.",
+      "Sexual Performance by a Child."
+    ],
+    "reference": "Sec. 21.02. CONTINUOUS SEXUAL ABUSE OF YOUNG CHILD OR CHILDREN. (a) A person commits an offense if, during a period that is 30 or more days in duration, the person engages in two or more acts of sexual conduct that constitute an offense... against a child who is younger than 14 years of age..."
+  },
+  {
+    "question": "A person commits the offense of Public Lewdness if they knowingly engage in sexual intercourse or sexual contact in a public place and are what?",
+    "answer": "Reckless about whether another person is present who will be offended or alarmed.",
+    "options": [
+      "Intending to offend or alarm others.",
+      "In a place where minors are present.",
+      "Reckless about whether another person is present who will be offended or alarmed.",
+      "Being paid for the act."
+    ],
+    "reference": "Sec. 21.07. PUBLIC LEWDNESS. (a) A person commits an offense if he knowingly engages in any of the following acts in a public place or, if not in a public place, he is reckless about whether another is present who will be offended or alarmed by his act: (1) an act of sexual intercourse;"
+  },
+  {
+    "question": "Exposing one's anus or genitals in a public place with intent to arouse or gratify the sexual desire of any person is what offense?",
+    "answer": "Indecent Exposure.",
+    "options": [
+      "Public Lewdness.",
+      "Disorderly Conduct.",
+      "Sexual Assault.",
+      "Indecent Exposure."
+    ],
+    "reference": "Sec. 21.08. INDECENT EXPOSURE. (a) A person commits an offense if he exposes his anus or any part of his genitals with intent to arouse or gratify the sexual desire of any person, and he is reckless about whether another is present who will be offended or alarmed by his act."
+  },
+  {
+    "question": "Indecency with a Child is what level of offense?",
+    "answer": "A second-degree felony.",
+    "options": [
+      "A Class A Misdemeanor.",
+      "A state jail felony.",
+      "A third-degree felony.",
+      "A second-degree felony."
+    ],
+    "reference": "Sec. 21.11. INDECENCY WITH A CHILD. ... (d) An offense under this section is a felony of the second degree."
+  },
+  {
+    "question": "If a person intentionally or knowingly threatens another with imminent bodily injury, they have committed what offense?",
+    "answer": "Assault.",
+    "options": [
+      "Terroristic Threat.",
+      "Harassment.",
+      "Assault.",
+      "Deadly Conduct."
+    ],
+    "reference": "Sec. 22.01. ASSAULT. (a) A person commits an offense if the person: ... (2) intentionally or knowingly threatens another with imminent bodily injury, including the person's spouse;"
+  },
+  {
+    "question": "An assault is what class of misdemeanor?",
+    "answer": "A Class A Misdemeanor.",
+    "options": [
+      "A Class C Misdemeanor.",
+      "A Class B Misdemeanor.",
+      "A Class A Misdemeanor.",
+      "A state jail felony."
+    ],
+    "reference": "Sec. 22.01. ASSAULT. ... (b) An offense under Subsection (a)(1) is a Class A misdemeanor, except that the offense is a felony of the third degree if the offense is committed against... [certain persons]."
+  },
+  {
+    "question": "What is the penalty for Sexual Assault?",
+    "answer": "A second-degree felony.",
+    "options": [
+      "A first-degree felony.",
+      "A second-degree felony.",
+      "A third-degree felony.",
+      "A state jail felony."
+    ],
+    "reference": "Sec. 22.011. SEXUAL ASSAULT. ... (f) An offense under this section is a felony of the second degree."
+  },
+  {
+    "question": "When is an assault elevated to Aggravated Assault?",
+    "answer": "When it causes serious bodily injury or involves the use or exhibition of a deadly weapon.",
+    "options": [
+      "When the victim is a family member.",
+      "When the actor has a prior assault conviction.",
+      "When the assault occurs in a public place.",
+      "When it causes serious bodily injury or involves the use or exhibition of a deadly weapon."
+    ],
+    "reference": "Sec. 22.02. AGGRAVATED ASSAULT. (a) A person commits an offense if the person commits assault as defined in Sec. 22.01 and the person: (1) causes serious bodily injury to another... or (2) uses or exhibits a deadly weapon during the commission of the assault."
+  },
+  {
+    "question": "A person commits the offense of Injury to a Child, Elderly Individual, or Disabled Individual if they cause bodily injury to such a person with what mental state?",
+    "answer": "Intentionally, knowingly, recklessly, or with criminal negligence.",
+    "options": [
+      "Intentionally or knowingly only.",
+      "Recklessly only.",
+      "Intentionally, knowingly, recklessly, or with criminal negligence.",
+      "Only with intent to cause serious bodily injury."
+    ],
+    "reference": "Sec. 22.04. INJURY TO A CHILD, ELDERLY INDIVIDUAL, OR DISABLED INDIVIDUAL. (a) A person commits an offense if he intentionally, knowingly, recklessly, or with criminal negligence, by act or intentionally, knowingly, or recklessly by omission, causes to a child, elderly individual, or disabled individual... bodily injury..."
+  },
+  {
+    "question": "A person commits the offense of Abandoning a Child if they intentionally abandon a child under what age?",
+    "answer": "15",
+    "options": [
+      "10",
+      "12",
+      "15",
+      "17"
+    ],
+    "reference": "Sec. 22.041. ABANDONING OR ENDANGERING CHILD. (b) A person commits an offense if, having custody, care, or control of a child younger than 15 years, he intentionally abandons the child in any place under circumstances that expose the child to an unreasonable risk of harm."
+  },
+  {
+    "question": "What is the penalty for recklessly discharging a firearm in the direction of a habitation, building, or vehicle, being reckless as to whether it is occupied?",
+    "answer": "A state jail felony.",
+    "options": [
+      "A Class A Misdemeanor.",
+      "A Class B Misdemeanor.",
+      "A third-degree felony.",
+      "A state jail felony."
+    ],
+    "reference": "Sec. 22.05. DEADLY CONDUCT. ... (c) A person commits an offense if he knowingly discharges a firearm at or in the direction of: (1) one or more individuals; or (2) a habitation, building, or vehicle and is reckless as to whether the habitation, building, or vehicle is occupied."
+  },
+  {
+    "question": "A person commits Terroristic Threat if they threaten to commit an offense involving violence with the intent to do what?",
+    "answer": "Place any person in fear of imminent serious bodily injury.",
+    "options": [
+      "Cause a minor inconvenience.",
+      "Place any person in fear of imminent serious bodily injury.",
+      "Cause damage to property.",
+      "Annoy or harass someone."
+    ],
+    "reference": "Sec. 22.07. TERRORISTIC THREAT. (a) A person commits an offense if he threatens to commit any offense involving violence to any person or property with intent to: (1) cause a reaction of any type to his threat by an official or volunteer agency organized to deal with emergencies; (2) place any person in fear of imminent serious bodily injury..."
+  },
+  {
+    "question": "A person commits Bigamy if they are legally married and do what?",
+    "answer": "Marry another person or live with another person under the appearance of being married.",
+    "options": [
+      "File for divorce.",
+      "Engage in an extramarital affair.",
+      "Separate from their spouse without a court order.",
+      "Marry another person or live with another person under the appearance of being married."
+    ],
+    "reference": "Sec. 25.01. BIGAMY. (a) An individual commits an offense if: (1) he is legally married and he: (A) purports to marry or does marry a person other than his spouse in this state... or (B) lives with a person other than his spouse in this state under the appearance of being married."
+  },
+  {
+    "question": "What is the penalty for Interference with Child Custody?",
+    "answer": "A state jail felony.",
+    "options": [
+      "A Class A Misdemeanor.",
+      "A Class B Misdemeanor.",
+      "A state jail felony.",
+      "A third-degree felony."
+    ],
+    "reference": "Sec. 25.03. INTERFERENCE WITH CHILD CUSTODY. ... (d) An offense under this section is a state jail felony."
+  },
+  {
+    "question": "A person commits the offense of Harboring a Runaway Child if they knowingly harbor a child and are what?",
+    "answer": "Criminally negligent about whether the child has escaped from custody or is voluntarily absent from home.",
+    "options": [
+      "A close relative of the child.",
+      "Intending to return the child within 24 hours.",
+      "Criminally negligent about whether the child has escaped from custody or is voluntarily absent from home.",
+      "Providing the child with food and shelter."
+    ],
+    "reference": "Sec. 25.06. HARBORING A RUNAWAY CHILD. (a) A person commits an offense if he knowingly harbors a child and he is criminally negligent about whether the child: (1) is younger than 18 years; (2) has escaped from the custody of a peace officer... or (3) is a child who is voluntarily absent from the child's home without the consent of the child's parent or guardian..."
+  },
+  {
+    "question": "Knowingly violating a condition of bond in a family violence case by possessing a firearm is what level of offense?",
+    "answer": "A Class A Misdemeanor.",
+    "options": [
+      "A Class B Misdemeanor.",
+      "A state jail felony.",
+      "A third-degree felony.",
+      "A Class A Misdemeanor."
+    ],
+    "reference": "Sec. 25.07. VIOLATION OF CERTAIN COURT ORDERS OR CONDITIONS OF BOND IN FAMILY VIOLENCE, CHILD ABUSE OR NEGLECT, SEXUAL ASSAULT OR ABUSE, INDECENT ASSAULT, STALKING, OR TRAFFICKING CASE. (g) An offense under this section is a Class A misdemeanor unless it is shown on the trial of the offense that the defendant has previously been convicted... in which event the offense is a felony of the third degree."
+  },
+  {
+    "question": "A person commits Robbery if, in the course of committing theft, they do what?",
+    "answer": "Intentionally, knowingly, or recklessly cause bodily injury to another.",
+    "options": [
+      "Enter a habitation without consent.",
+      "Damage property with a value over $1,500.",
+      "Use a computer to deceive another person.",
+      "Intentionally, knowingly, or recklessly cause bodily injury to another."
+    ],
+    "reference": "Sec. 29.02. ROBBERY. (a) A person commits an offense if, in the course of committing theft... and with intent to obtain or maintain control of the property, he: (1) intentionally, knowingly, or recklessly causes bodily injury to another;"
+  },
+  {
+    "question": "Burglary of a Habitation is what level of offense?",
+    "answer": "A second-degree felony.",
+    "options": [
+      "A first-degree felony.",
+      "A second-degree felony.",
+      "A third-degree felony.",
+      "A state jail felony."
+    ],
+    "reference": "Sec. 30.02. BURGLARY. ... (c) ...an offense under this section is a: (2) felony of the second degree if committed in a habitation;"
+  },
+  {
+    "question": "A person commits Criminal Trespass if they enter or remain on another's property without effective consent and had what?",
+    "answer": "Notice that the entry was forbidden, or received notice to depart but failed to do so.",
+    "options": [
+      "The intent to commit a theft.",
+      "A prior conviction for the same offense.",
+      "Notice that the entry was forbidden, or received notice to depart but failed to do so.",
+      "A motor vehicle with them."
+    ],
+    "reference": "Sec. 30.05. CRIMINAL TRESPASS. (a) A person commits an offense if the person enters or remains on or in property of another... without effective consent and the person: (1) had notice that the entry was forbidden; or (2) received notice to depart but failed to do so."
+  },
+  {
+    "question": "Theft of a firearm is what level of offense?",
+    "answer": "A state jail felony.",
+    "options": [
+      "A Class A Misdemeanor.",
+      "A state jail felony.",
+      "A third-degree felony.",
+      "It depends on the value of the firearm."
+    ],
+    "reference": "Sec. 31.03. THEFT. (e) ...an offense under this section is a state jail felony if: ... (E) the stolen property is a firearm."
+  },
+  {
+    "question": "A person commits the offense of Forgery if they do what?",
+    "answer": "Alter, make, complete, execute, or authenticate any writing so that it purports to be the act of another who did not authorize that act.",
+    "options": [
+      "Possess a stolen credit card.",
+      "Pass a check knowing there are insufficient funds.",
+      "Alter, make, complete, execute, or authenticate any writing so that it purports to be the act of another who did not authorize that act.",
+      "Use another person's identifying information."
+    ],
+    "reference": "Sec. 32.21. FORGERY. (a) A person commits an offense if he forges a writing with intent to defraud or harm another. (b) ... 'Forge' means: (1) to alter, make, complete, execute, or authenticate any writing so that it purports: (A) to be the act of another who did not authorize that act;"
+  },
+  {
+    "question": "A person commits the offense of Bribery under Sec. 36.02 if they offer or confer a benefit on what type of person as consideration for their decision, vote, or recommendation?",
+    "answer": "A public servant.",
+    "options": [
+      "Any individual.",
+      "A corporate executive.",
+      "A public servant.",
+      "A registered voter."
+    ],
+    "reference": "Sec. 36.02. BRIBERY. (a) A person commits an offense if he intentionally or knowingly offers, confers, or agrees to confer on another, or solicits, accepts, or agrees to accept from another: (1) any benefit as consideration for the recipient's decision, opinion, recommendation, vote, or other exercise of discretion as a public servant, party official, or voter;"
+  },
+  {
+    "question": "What is the penalty for Perjury under Sec. 37.02?",
+    "answer": "A Class A Misdemeanor.",
+    "options": [
+      "A Class C Misdemeanor.",
+      "A Class B Misdemeanor.",
+      "A Class A Misdemeanor.",
+      "A state jail felony."
+    ],
+    "reference": "Sec. 37.02. PERJURY. (c) An offense under this section is a Class A misdemeanor."
+  },
+  {
+    "question": "Perjury is elevated to Aggravated Perjury, a third-degree felony, if the false statement is made during or in connection with what?",
+    "answer": "An official proceeding.",
+    "options": [
+      "A written application for benefits.",
+      "An official proceeding.",
+      "A conversation with a peace officer.",
+      "A sworn affidavit not related to a proceeding."
+    ],
+    "reference": "Sec. 37.03. AGGRAVATED PERJURY. (a) A person commits an offense if he commits perjury as defined in Section 37.02, and the false statement: (1) is made during or in connection with an official proceeding; and (2) is material. (b) An offense under this section is a felony of the third degree."
+  },
+  {
+    "question": "A person commits the offense of Impersonating a Public Servant if they impersonate a public servant with the intent to do what?",
+    "answer": "Induce another to submit to his pretended official authority or to rely on his pretended official acts.",
+    "options": [
+      "Gain access to a restricted area.",
+      "Receive a discount on a product or service.",
+      "Tell a harmless joke.",
+      "Induce another to submit to his pretended official authority or to rely on his pretended official acts."
+    ],
+    "reference": "Sec. 37.11. IMPERSONATING PUBLIC SERVANT. (a) A person commits an offense if he: (1) impersonates a public servant with intent to induce another to submit to his pretended official authority or to rely on his pretended official acts;"
+  },
+  {
+    "question": "What is the penalty for Impersonating a Public Servant?",
+    "answer": "A third-degree felony.",
+    "options": [
+      "A Class A Misdemeanor.",
+      "A state jail felony.",
+      "A third-degree felony.",
+      "A second-degree felony."
+    ],
+    "reference": "Sec. 37.11. IMPERSONATING PUBLIC SERVANT. (d) An offense under this section is a felony of the third degree."
+  },
+  {
+    "question": "An arrested person who gives a false or fictitious name, address, or date of birth to a peace officer commits what offense?",
+    "answer": "Failure to Identify.",
+    "options": [
+      "Perjury.",
+      "Tampering with Governmental Record.",
+      "Failure to Identify.",
+      "Resisting Arrest."
+    ],
+    "reference": "Sec. 38.02. FAILURE TO IDENTIFY. (b) A person commits an offense if he intentionally gives a false or fictitious name, address, or date of birth to a peace officer who has: (1) lawfully arrested the person; (2) lawfully detained the person; or (3) requested the information from a person that the peace officer has good cause to believe is a witness to a criminal offense."
+  },
+  {
+    "question": "Giving false identifying information to a peace officer is a Class B Misdemeanor, but is elevated to what if the actor is a fugitive from justice?",
+    "answer": "A Class A Misdemeanor.",
+    "options": [
+      "It remains a Class B Misdemeanor.",
+      "A Class A Misdemeanor.",
+      "A state jail felony.",
+      "A third-degree felony."
+    ],
+    "reference": "Sec. 38.02. FAILURE TO IDENTIFY. ... (d) ...an offense under Subsection (b) is a Class A misdemeanor if the actor is a fugitive from justice."
+  },
+  {
+    "question": "A person commits the offense of Resisting Arrest, Search, or Transportation if they use force to intentionally obstruct a peace officer from effecting an arrest, with what exception?",
+    "answer": "An unlawful arrest or search cannot be used as a defense to this charge.",
+    "options": [
+      "If the officer is not in uniform.",
+      "If the person believes the arrest is unlawful.",
+      "If the force used is non-lethal.",
+      "An unlawful arrest or search cannot be used as a defense to this charge."
+    ],
+    "reference": "Sec. 38.03. RESISTING ARREST, SEARCH, OR TRANSPORTATION. (a) A person commits an offense if he intentionally prevents or obstructs a person he knows is a peace officer... from effecting an arrest, search, or transportation of the actor or another by using force against the peace officer or another. (b) It is no defense to prosecution under this section that the arrest or search was unlawful."
+  },
+  {
+    "question": "Resisting arrest is a Class A Misdemeanor, unless what is used, which elevates the offense to a third-degree felony?",
+    "answer": "A deadly weapon.",
+    "options": [
+      "Foul language.",
+      "A vehicle.",
+      "A deadly weapon.",
+      "The help of another person."
+    ],
+    "reference": "Sec. 38.03. RESISTING ARREST, SEARCH, OR TRANSPORTATION. ... (d) An offense under this section is a felony of the third degree if the actor uses a deadly weapon to resist the arrest or search."
+  },
+  {
+    "question": "A person commits the offense of Evading Arrest or Detention if they intentionally do what?",
+    "answer": "Flee from a person they know is a peace officer attempting to lawfully arrest or detain them.",
+    "options": [
+      "Argue with an officer about the legality of a stop.",
+      "Refuse to provide identification to an officer.",
+      "Flee from a person they know is a peace officer attempting to lawfully arrest or detain them.",
+      "Use force against an officer to prevent an arrest."
+    ],
+    "reference": "Sec. 38.04. EVADING ARREST OR DETENTION. (a) A person commits an offense if he intentionally flees from a person he knows is a peace officer or federal special investigator attempting to lawfully arrest or detain him."
+  },
+  {
+    "question": "Evading Arrest is a state jail felony under what circumstances?",
+    "answer": "If the actor uses a vehicle while evading arrest and has a prior conviction for this offense.",
+    "options": [
+      "Any time the actor is on foot.",
+      "If the actor has no prior convictions.",
+      "If the actor uses a vehicle while evading arrest and has a prior conviction for this offense.",
+      "If the evasion lasts for more than one mile."
+    ],
+    "reference": "Sec. 38.04. EVADING ARREST OR DETENTION. ... (b) An offense under this section is a state jail felony if: (1) the actor has been previously convicted under this section; or (2) the actor uses a vehicle or watercraft while the actor is in the process of fleeing..."
+  },
+  {
+    "question": "A person commits the offense of Hindering Apprehension or Prosecution if they, with intent to hinder the arrest of another, do what?",
+    "answer": "Harbor or conceal the other person.",
+    "options": [
+      "Provide legal advice to the other person.",
+      "Refuse to cooperate with an investigation.",
+      "Fail to report the location of the other person.",
+      "Harbor or conceal the other person."
+    ],
+    "reference": "Sec. 38.05. HINDERING APPREHENSION OR PROSECUTION. (a) A person commits an offense if, with intent to hinder the arrest, prosecution, conviction, or punishment of another for an offense... he: (1) harbors or conceals the other;"
+  },
+  {
+    "question": "A person commits Escape if they escape from custody after being what?",
+    "answer": "Under arrest for, charged with, or convicted of an offense.",
+    "options": [
+      "Temporarily detained for investigation.",
+      "Issued a traffic citation.",
+      "A witness in a criminal case.",
+      "Under arrest for, charged with, or convicted of an offense."
+    ],
+    "reference": "Sec. 38.06. ESCAPE. (a) A person commits an offense if he escapes from custody when he is: (1) under arrest for, charged with, or convicted of an offense;"
+  },
+  {
+    "question": "Taking or attempting to take a firearm from a peace officer is what level of offense?",
+    "answer": "A state jail felony if an attempt, and a third-degree felony if successful.",
+    "options": [
+      "A Class A Misdemeanor.",
+      "A state jail felony if an attempt, and a third-degree felony if successful.",
+      "A second-degree felony.",
+      "A first-degree felony."
+    ],
+    "reference": "Sec. 38.14. TAKING OR ATTEMPTING TO TAKE WEAPON FROM PEACE OFFICER... (c) An offense under this section is a felony of the third degree. (d) An offense under this section is a state jail felony if the actor... attempts to take a weapon from a peace officer..."
+  },
+  {
+    "question": "A public servant acting under color of his office commits the offense of Official Oppression if they intentionally do what?",
+    "answer": "Subject another to mistreatment, arrest, detention, or search that he knows is unlawful.",
+    "options": [
+      "Make a decision that is unpopular.",
+      "Issue a lawful traffic citation.",
+      "Subject another to mistreatment, arrest, detention, or search that he knows is unlawful.",
+      "Use necessary force to effect an arrest."
+    ],
+    "reference": "Sec. 39.03. OFFICIAL OPPRESSION. (a) A public servant acting under color of his office or employment commits an offense if he: (1) intentionally subjects another to mistreatment or to arrest, detention, search, seizure, dispossession, assessment, or lien that he knows is unlawful;"
+  },
+  {
+    "question": "What is the penalty for Official Oppression?",
+    "answer": "A Class A Misdemeanor.",
+    "options": [
+      "A Class C Misdemeanor.",
+      "A Class B Misdemeanor.",
+      "A Class A Misdemeanor.",
+      "A state jail felony."
+    ],
+    "reference": "Sec. 39.03. OFFICIAL OPPRESSION. ... (d) An offense under this section is a Class A misdemeanor..."
+  },
+  {
+    "question": "Disorderly Conduct by fighting with another in a public place is what level of offense?",
+    "answer": "A Class C Misdemeanor.",
+    "options": [
+      "A Class C Misdemeanor.",
+      "A Class B Misdemeanor.",
+      "A Class A Misdemeanor.",
+      "Not a criminal offense if there are no injuries."
+    ],
+    "reference": "Sec. 42.01. DISORDERLY CONDUCT. (a) A person commits an offense if he intentionally or knowingly: ... (6) fights with another in a public place; ... (d) An offense under this section is a Class C misdemeanor..."
+  },
+  {
+    "question": "Disorderly Conduct by discharging a firearm in a public place is what level of offense?",
+    "answer": "A Class B Misdemeanor.",
+    "options": [
+      "A Class C Misdemeanor.",
+      "A Class B Misdemeanor.",
+      "A Class A Misdemeanor.",
+      "A state jail felony."
+    ],
+    "reference": "Sec. 42.01. DISORDERLY CONDUCT. ... (e) An offense under Subsection (a)(7) [displaying a firearm] or (a)(8) [discharging a firearm] is a Class B misdemeanor."
+  },
+  {
+    "question": "What is the definition of a 'Riot' under Sec. 42.02?",
+    "answer": "The assemblage of seven or more persons resulting in conduct that creates an immediate danger of damage or injury, or obstructs law enforcement.",
+    "options": [
+      "Any gathering of more than three people that makes unreasonable noise.",
+      "A protest or demonstration that blocks a highway.",
+      "The assemblage of seven or more persons resulting in conduct that creates an immediate danger of damage or injury, or obstructs law enforcement.",
+      "Any violent protest, regardless of the number of people."
+    ],
+    "reference": "Sec. 42.02. RIOT. (a) A riot is a public disturbance involving an assemblage of seven or more persons which by tumultuous and violent conduct creates an immediate danger of damage to property or injury to persons or substantially obstructs law enforcement or other governmental functions."
+  },
+  {
+    "question": "A person commits the offense of Stalking if they, on more than one occasion, engage in conduct that they know or reasonably believe the other person will regard as what?",
+    "answer": "Threatening.",
+    "options": [
+      "Annoying.",
+      "Unwanted.",
+      "Harassing.",
+      "Threatening."
+    ],
+    "reference": "Sec. 42.072. STALKING. (a) A person commits an offense if the person, on more than one occasion and pursuant to the same scheme or course of conduct that is directed specifically at another person, knowingly engages in conduct that: (1) constitutes an offense under Section 42.07, or that the actor knows or reasonably believes the other person will regard as threatening..."
+  },
+  {
+    "question": "What is the penalty for Cruelty to Animals, such as torturing an animal?",
+    "answer": "A Class A Misdemeanor, or a state jail felony if the person has prior convictions.",
+    "options": [
+      "A civil fine only.",
+      "A Class C Misdemeanor.",
+      "A Class A Misdemeanor, or a state jail felony if the person has prior convictions.",
+      "A third-degree felony."
+    ],
+    "reference": "Sec. 42.092. CRUELTY TO NONLIVESTOCK ANIMALS. ... (c) An offense under Subsection (b)(1) [tortures an animal] or (2) [fails unreasonably to provide food, water, or care] is a Class A misdemeanor, except that the offense is a state jail felony if the person has previously been convicted two or more times under this section..."
+  },
+  {
+    "question": "What offense does a person commit if they offer to engage in sexual conduct for a fee?",
+    "answer": "Prostitution.",
+    "options": [
+      "Public Lewdness.",
+      "Disorderly Conduct.",
+      "Prostitution.",
+      "Sexual Assault."
+    ],
+    "reference": "Sec. 43.02. PROSTITUTION. (a) A person commits an offense if he knowingly: (1) offers to engage, agrees to engage, or engages in sexual conduct for a fee;"
+  },
+  {
+    "question": "Possession or promotion of child pornography is what level of offense?",
+    "answer": "A third-degree felony.",
+    "options": [
+      "A Class A Misdemeanor.",
+      "A state jail felony.",
+      "A second-degree felony.",
+      "A third-degree felony."
+    ],
+    "reference": "Sec. 43.26. POSSESSION OR PROMOTION OF CHILD PORNOGRAPHY. ... (d) An offense under this section is a felony of the third degree."
+  },
+  {
+    "question": "A person commits the offense of Unlawful Carrying of a Weapon if they intentionally carry a handgun and are not what?",
+    "answer": "On their own premises or inside of or directly en route to a motor vehicle or watercraft they own or control.",
+    "options": [
+      "A convicted felon.",
+      "A member of a criminal street gang.",
+      "On their own premises or inside of or directly en route to a motor vehicle or watercraft they own or control.",
+      "Over the age of 21."
+    ],
+    "reference": "Sec. 46.02. UNLAWFUL CARRYING WEAPONS. (a) A person commits an offense if the person intentionally, knowingly, or recklessly carries on or about his or her person a handgun... and is not: (1) on the person's own premises or premises under the person's control; or (2) inside of or directly en route to a motor vehicle or watercraft that is owned by the person or under the person's control."
+  },
+  {
+    "question": "Which of the following is a location where weapons are prohibited under Sec. 46.03?",
+    "answer": "On the premises of a polling place on the day of an election.",
+    "options": [
+      "A public park.",
+      "A private business that does not post a sign.",
+      "On the premises of a polling place on the day of an election.",
+      "Inside a personal vehicle in a public parking lot."
+    ],
+    "reference": "Sec. 46.03. PLACES WEAPONS PROHIBITED. (a) A person commits an offense if the person intentionally, knowingly, or recklessly possesses or goes with a firearm... (2) on the premises of any government court or offices utilized by the court... (3) on the premises of a polling place on the day of an election or while early voting is in progress;"
+  },
+  {
+    "question": "A person who has been convicted of a felony commits an offense if they possess a firearm within how many years of their release from confinement?",
+    "answer": "Five years.",
+    "options": [
+      "One year.",
+      "Three years.",
+      "Five years.",
+      "Ten years."
+    ],
+    "reference": "Sec. 46.04. UNLAWFUL POSSESSION OF FIREARM. (a) A person who has been convicted of a felony commits an offense if he possesses a firearm: (1) after conviction and before the fifth anniversary of the person's release from confinement following conviction... or the person's release from supervision under community supervision, parole, or mandatory supervision, whichever date is later;"
+  },
+  {
+    "question": "Intentionally or knowingly possessing, manufacturing, or selling a machine gun is what level of offense?",
+    "answer": "A third-degree felony.",
+    "options": [
+      "A Class A Misdemeanor.",
+      "A state jail felony.",
+      "A third-degree felony.",
+      "A first-degree felony."
+    ],
+    "reference": "Sec. 46.05. PROHIBITED WEAPONS. (a) A person commits an offense if the person intentionally or knowingly possesses, manufactures, transports, repairs, or sells: (1) an explosive weapon; ... (4) a machine gun; ... (e) An offense under this section is a felony of the third degree..."
+  },
+  {
+    "question": "A person commits an offense if they intentionally or knowingly sell a firearm or ammunition to what type of person?",
+    "answer": "An intoxicated person.",
+    "options": [
+      "A person under the age of 21.",
+      "A person who is not a Texas resident.",
+      "An intoxicated person.",
+      "A person who does not have a license to carry."
+    ],
+    "reference": "Sec. 46.06. UNLAWFUL TRANSFER OF CERTAIN WEAPONS. (a) A person commits an offense if the person: ... (3) intentionally, knowingly, or recklessly sells a firearm or ammunition for a firearm to a person who is intoxicated."
+  },
+  {
+    "question": "Operating a motor vehicle in a public place while intoxicated is what level of offense for a first-time offender?",
+    "answer": "A Class B Misdemeanor, with a minimum confinement of 72 hours.",
+    "options": [
+      "A Class C Misdemeanor.",
+      "A Class B Misdemeanor, with a minimum confinement of 72 hours.",
+      "A Class A Misdemeanor.",
+      "A state jail felony."
+    ],
+    "reference": "Sec. 49.04. DRIVING WHILE INTOXICATED. ... (b) Except as provided by Subsections (c) and (d) and Section 49.09, an offense under this section is a Class B misdemeanor, with a minimum term of confinement of 72 hours."
+  },
+  {
+    "question": "What is the penalty for Engaging in Organized Criminal Activity?",
+    "answer": "One category higher than the most serious offense committed.",
+    "options": [
+      "A first-degree felony, regardless of the underlying offense.",
+      "The same as the most serious offense committed.",
+      "One category higher than the most serious offense committed.",
+      "A state jail felony."
+    ],
+    "reference": "Sec. 71.02. ENGAGING IN ORGANIZED CRIMINAL ACTIVITY. ... (b) Except as provided in Subsections (c) and (d), an offense under this section is one category higher than the most serious offense listed in Subsection (a) that was committed..."
+  },
+  {
+    "question": "According to Penal Code Sec. 9.01, what is the definition of 'Deadly Force'?",
+    "answer": "Force that is intended or known by the actor to cause, or in the manner of its use or intended use is capable of causing, death or serious bodily injury.",
+    "options": [
+      "Any use of a firearm.",
+      "Force that results in any physical pain or injury.",
+      "Force that is intended or known by the actor to cause, or in the manner of its use or intended use is capable of causing, death or serious bodily injury.",
+      "Any force used against a vital organ."
+    ],
+    "reference": "Sec. 9.01. DEFINITIONS. In this chapter: ... (3) 'Deadly force' means force that is intended or known by the actor to cause, or in the manner of its use or intended use is capable of causing, death or serious bodily injury."
+  },
+  {
+    "question": "Under what circumstance is a person's belief that force was immediately necessary presumed to be reasonable in self-defense (Sec. 9.31)?",
+    "answer": "If another person was unlawfully and with force entering the actor's occupied habitation, vehicle, or place of business.",
+    "options": [
+      "If the other person was shouting verbal threats.",
+      "If the other person was trespassing on the actor's land.",
+      "If the other person was committing any misdemeanor offense.",
+      "If another person was unlawfully and with force entering the actor's occupied habitation, vehicle, or place of business."
+    ],
+    "reference": "Sec. 9.31. SELF-DEFENSE. (a) ... (b) The actor's belief under Subsection (a) that the force was immediately necessary is presumed to be reasonable if the actor: (1) knew or had reason to believe that the person against whom the force was used: (A) unlawfully and with force entered, or was attempting to enter unlawfully and with force, the actor's occupied habitation, vehicle, or place of business or employment..."
+  },
+  {
+    "question": "The use of force against another is NOT justified in self-defense under which of the following circumstances?",
+    "answer": "In response to verbal provocation alone.",
+    "options": [
+      "To resist an attempt to commit aggravated kidnapping.",
+      "If the actor did not provoke the person against whom force was used.",
+      "In response to verbal provocation alone.",
+      "If the actor reasonably believes force is immediately necessary."
+    ],
+    "reference": "Sec. 9.31. SELF-DEFENSE. ... (c) A person's use of force against another is not justified: (1) in response to verbal provocation alone;"
+  },
+  {
+    "question": "A person is justified in using deadly force against another to protect themselves against the other's use of unlawful deadly force, or to prevent the imminent commission of what crime?",
+    "answer": "Aggravated kidnapping, murder, sexual assault, or robbery.",
+    "options": [
+      "Theft, criminal mischief, or criminal trespass.",
+      "Aggravated kidnapping, murder, sexual assault, or robbery.",
+      "Resisting arrest, evading arrest, or escape.",
+      "Any felony offense involving property."
+    ],
+    "reference": "Sec. 9.32. DEADLY FORCE IN DEFENSE OF PERSON. (a) A person is justified in using deadly force against another: (1) if the actor would be justified in using force against the other under Section 9.31; and (2) when and to the degree the actor reasonably believes the deadly force is immediately necessary: ... (B) to prevent the other's imminent commission of aggravated kidnapping, murder, sexual assault, aggravated sexual assault, robbery, or aggravated robbery."
+  },
+  {
+    "question": "When is a person justified in using deadly force to protect their own or a third person's tangible, movable property?",
+    "answer": "To prevent the other's imminent commission of robbery or aggravated robbery.",
+    "options": [
+      "To prevent any theft.",
+      "To prevent criminal mischief during the daytime.",
+      "To prevent the other's imminent commission of robbery or aggravated robbery.",
+      "Any time property is unlawfully interfered with."
+    ],
+    "reference": "Sec. 9.42. DEADLY FORCE TO PROTECT PROPERTY. A person is justified in using deadly force against another to protect land or tangible, movable property: ... (2) when and to the degree he reasonably believes the deadly force is immediately necessary: (A) to prevent the other's imminent commission of arson, burglary, robbery, aggravated robbery, theft during the nighttime, or criminal mischief during the nighttime;"
+  },
+  {
+    "question": "Under Sec. 9.51, a peace officer is justified in using force to make an arrest or search when they reasonably believe what?",
+    "answer": "The arrest or search is lawful or the warrant is valid.",
+    "options": [
+      "The person has committed any violation of the law.",
+      "The use of force will not cause injury.",
+      "A supervisor has approved the use of force.",
+      "The arrest or search is lawful or the warrant is valid."
+    ],
+    "reference": "Sec. 9.51. ARREST AND SEARCH. (a) A peace officer... is justified in using force against another when and to the degree the actor reasonably believes the force is immediately necessary to make or assist in making an arrest or search... provided the actor reasonably believes the arrest or search is lawful or the warrant is valid..."
+  },
+  {
+    "question": "Before using force to make an arrest, a peace officer must announce their purpose and identify themselves, unless what?",
+    "answer": "The officer reasonably believes their purpose and identity are already known by the other person or would be futile.",
+    "options": [
+      "The offense is a felony.",
+      "The officer reasonably believes their purpose and identity are already known by the other person or would be futile.",
+      "The suspect is a known violent offender.",
+      "The arrest is taking place at night."
+    ],
+    "reference": "Sec. 9.51. ... (a)(2) before using force, the actor manifests his purpose to arrest or search and identifies himself as a peace officer or as one acting at a peace officer's direction, unless he reasonably believes his purpose and identity are already known by or cannot reasonably be made known to the person to be arrested or searched."
+  },
+  {
+    "question": "A peace officer is justified in using deadly force to make an arrest only if the arrest is for a felony and the officer believes what?",
+    "answer": "There is a substantial risk that the person to be arrested will cause death or serious bodily injury to another if the arrest is delayed.",
+    "options": [
+      "The suspect is attempting to flee in a vehicle.",
+      "The felony involved the theft of property.",
+      "There is a substantial risk that the person to be arrested will cause death or serious bodily injury to another if the arrest is delayed.",
+      "The suspect has a prior felony conviction."
+    ],
+    "reference": "Sec. 9.51. ARREST AND SEARCH. ... (c) A peace officer is justified in using deadly force against another... only if the arrest or search is for a felony... and when and to the degree the peace officer reasonably believes the deadly force is immediately necessary to make an arrest... and the peace officer reasonably believes there is a substantial risk that the person to be arrested will cause death or serious bodily injury to the actor or another if the arrest is delayed."
+  },
+  {
+    "question": "A guard at a correctional facility is justified in using deadly force for what purpose?",
+    "answer": "To prevent the escape of a felon from the correctional facility.",
+    "options": [
+      "To enforce discipline for any rule violation.",
+      "To prevent the escape of any person, regardless of the offense.",
+      "To prevent the escape of a felon from the correctional facility.",
+      "Only in response to an armed riot."
+    ],
+    "reference": "Sec. 9.52. PREVENTION OF ESCAPE FROM CUSTODY. The use of force to prevent the escape of an arrested person from custody is justifiable when the force could have been employed to effect the arrest under which the person is in custody, except that a guard employed by a correctional facility... is justified in using any force... he reasonably believes to be immediately necessary to prevent the escape of a person from the correctional facility."
+  },
+  {
+    "question": "A person commits what offense if they intentionally give a peace officer a false name after being lawfully arrested?",
+    "answer": "Failure to Identify",
+    "options": [
+      "Perjury",
+      "Obstructing Governmental Operation",
+      "Failure to Identify",
+      "Tampering with Governmental Record"
+    ],
+    "reference": "Sec. 38.02. FAILURE TO IDENTIFY. (b) A person commits an offense if he intentionally gives a false or fictitious name, address, or date of birth to a peace officer who has: (1) lawfully arrested the person;"
+  },
+  {
+    "question": "A person using force against a peace officer to prevent being arrested commits the offense of Resisting Arrest. What is NOT a defense to this charge?",
+    "answer": "That the arrest or search was unlawful.",
+    "options": [
+      "The officer was not in uniform.",
+      "That the arrest or search was unlawful.",
+      "The person did not know the individual was a peace officer.",
+      "The person used non-deadly force."
+    ],
+    "reference": "Sec. 38.03. RESISTING ARREST, SEARCH, OR TRANSPORTATION. (b) It is no defense to prosecution under this section that the arrest or search was unlawful."
+  },
+  {
+    "question": "Evading Arrest or Detention is typically a Class A Misdemeanor. When is it elevated to a state jail felony?",
+    "answer": "When the actor uses a vehicle while evading.",
+    "options": [
+      "When the evasion covers more than one mile.",
+      "When the actor has any prior conviction.",
+      "When the evasion occurs at night.",
+      "When the actor uses a vehicle while evading."
+    ],
+    "reference": "Sec. 38.04. EVADING ARREST OR DETENTION. (b) An offense under this section is a state jail felony if: (2) the actor uses a vehicle or watercraft while the actor is in the process of fleeing and the actor has not been previously convicted under this section."
+  },
+  {
+    "question": "The offense of Evading Arrest or Detention becomes a second-degree felony if what occurs during the evasion?",
+    "answer": "Another person suffers death as a direct result of an attempt by the officer to apprehend the actor.",
+    "options": [
+      "The actor causes damage to a police vehicle.",
+      "The actor uses a vehicle that was stolen.",
+      "The actor has two or more prior convictions for evading.",
+      "Another person suffers death as a direct result of an attempt by the officer to apprehend the actor."
+    ],
+    "reference": "Sec. 38.04. EVADING ARREST OR DETENTION. ... (b)(3) an offense under this section is a felony of the second degree if: (A) another person suffers death as a direct result of an attempt by the officer... to apprehend the actor while the actor is in flight;"
+  },
+  {
+    "question": "A person commits what offense if, with intent to hinder the arrest of another, they provide the other person with transportation or a weapon?",
+    "answer": "Hindering Apprehension or Prosecution.",
+    "options": [
+      "Criminal Conspiracy.",
+      "Facilitating Escape.",
+      "Hindering Apprehension or Prosecution.",
+      "Obstructing Governmental Operation."
+    ],
+    "reference": "Sec. 38.05. HINDERING APPREHENSION OR PROSECUTION. (a) A person commits an offense if, with intent to hinder the arrest, prosecution, conviction, or punishment of another... he: (2) provides or aids in providing the other with any means of avoiding arrest or effecting escape..."
+  },
+  {
+    "question": "If a person escapes from custody after being arrested for a felony, what is the level of the escape offense?",
+    "answer": "A third-degree felony.",
+    "options": [
+      "A Class A Misdemeanor.",
+      "A state jail felony.",
+      "A third-degree felony.",
+      "A second-degree felony."
+    ],
+    "reference": "Sec. 38.06. ESCAPE. ... (c) An offense under this section is a felony of the third degree if the actor: (1) is under arrest for, charged with, or convicted of a felony;"
+  },
+  {
+    "question": "A person commits what offense if they intentionally and with force take a peace officer's baton or chemical dispensing device?",
+    "answer": "Taking Weapon from a Peace Officer.",
+    "options": [
+      "Aggravated Robbery.",
+      "Resisting Arrest.",
+      "Aggravated Assault on a Public Servant.",
+      "Taking Weapon from a Peace Officer."
+    ],
+    "reference": "Sec. 38.14. TAKING OR ATTEMPTING TO TAKE WEAPON FROM PEACE OFFICER... (b) A person commits an offense if the person intentionally or knowingly and with force takes or attempts to take from a peace officer... the officer's firearm, nightstick, stun gun, or personal protection chemical dispensing canister."
+  },
+  {
+    "question": "A public servant commits Official Oppression if they, acting under color of office, intentionally subject another to what?",
+    "answer": "Sexual harassment.",
+    "options": [
+      "A difficult legal process.",
+      "A financial audit.",
+      "A valid arrest.",
+      "Sexual harassment."
+    ],
+    "reference": "Sec. 39.03. OFFICIAL OPPRESSION. (a) A public servant acting under color of his office or employment commits an offense if he: ... (3) intentionally subjects another to sexual harassment."
+  },
+  {
+    "question": "A person commits an offense under Sec. 39.06 (Misuse of Official Information) if, in reliance on information not made public, they do what?",
+    "answer": "Acquire a pecuniary interest in any property, transaction, or enterprise that may be affected by the information.",
+    "options": [
+      "Share the information with their spouse.",
+      "Acquire a pecuniary interest in any property, transaction, or enterprise that may be affected by the information.",
+      "Warn a person of an impending arrest.",
+      "Write a book about their experiences."
+    ],
+    "reference": "Sec. 39.06. MISUSE OF OFFICIAL INFORMATION. (b) A public servant commits an offense if, in reliance on information to which he has access by virtue of his office... and that has not been made public, he: (1) acquires or aids another to acquire a pecuniary interest in any property, transaction, or enterprise that may be affected by the information;"
+  },
+  {
+    "question": "To be charged with Criminal Attempt, a person must perform an act that amounts to more than what?",
+    "answer": "Mere preparation.",
+    "options": [
+      "A verbal threat.",
+      "Mere preparation.",
+      "A written plan.",
+      "A criminal thought."
+    ],
+    "reference": "Sec. 15.01. CRIMINAL ATTEMPT. (a) A person commits an offense if, with specific intent to commit an offense, he does an act amounting to more than mere preparation that tends but fails to effect the commission of the offense intended."
+  },
+  {
+    "question": "What is the penalty for Criminal Conspiracy if the most serious object offense is a first-degree felony?",
+    "answer": "A second-degree felony.",
+    "options": [
+      "A first-degree felony.",
+      "A second-degree felony.",
+      "A third-degree felony.",
+      "A state jail felony."
+    ],
+    "reference": "Sec. 15.02. CRIMINAL CONSPIRACY. ... (d) An offense under this section is one category lower than the most serious felony that is the object of the conspiracy, and if the most serious felony that is the object of the conspiracy is a state jail felony, the offense is a Class A misdemeanor."
+  },
+  {
+    "question": "A person commits the offense of 'Abuse of Corpse' if they, without legal authority, do what?",
+    "answer": "Disinter, sell, or treat a human corpse in an offensive manner.",
+    "options": [
+      "Fail to report the discovery of a corpse.",
+      "Attend an autopsy without permission.",
+      "Disinter, sell, or treat a human corpse in an offensive manner.",
+      "Take photographs of a corpse at a crime scene."
+    ],
+    "reference": "Sec. 42.08. ABUSE OF CORPSE. (a) A person commits an offense if the person, without legal authority, knowingly: (1) disinters, disturbs, damages, dissects, in whole or in part, carries away, or treats in an offensive manner a human corpse;"
+  },
+  {
+    "question": "What is the penalty for cockfighting under Section 42.105?",
+    "answer": "A state jail felony.",
+    "options": [
+      "A Class C Misdemeanor.",
+      "A Class A Misdemeanor.",
+      "A state jail felony.",
+      "A third-degree felony."
+    ],
+    "reference": "Sec. 42.105. COCKFIGHTING. (a) A person commits an offense if the person knowingly... (5) causes a cock to fight with another cock; or (6) attends a cockfight. (e) An offense under this section is a state jail felony."
+  },
+  {
+    "question": "It is an offense under Sec. 42.11 to intentionally or knowingly damage, deface, or mutilate what?",
+    "answer": "A public monument or a place of worship or human burial.",
+    "options": [
+      "Any private property.",
+      "A public monument or a place of worship or human burial.",
+      "A state-owned vehicle.",
+      "A public roadway."
+    ],
+    "reference": "Sec. 42.11. DESTRUCTION OF FLAG OR SIMILAR OBJECT. (a) A person commits an offense if the person intentionally or knowingly damages, defaces, mutilates, or burns: ... (2) a public monument; (3) a place of worship or human burial..."
+  },
+  {
+    "question": "A person commits an offense under Sec. 43.03, 'Promotion of Prostitution,' if they knowingly do what?",
+    "answer": "Solicit a person to patronize a prostitute.",
+    "options": [
+      "Pay for sexual conduct.",
+      "Agree to engage in sexual conduct for a fee.",
+      "Solicit a person to patronize a prostitute.",
+      "Are in a place where prostitution occurs."
+    ],
+    "reference": "Sec. 43.03. PROMOTION OF PROSTITUTION. (a) A person commits an offense if, acting other than as a prostitute receiving compensation for personally rendered prostitution services, he or she knowingly: (2) solicits a person to patronize a prostitute;"
+  },
+  {
+    "question": "Aggravated Promotion of Prostitution becomes a third-degree felony if the actor operates a prostitution enterprise that uses how many prostitutes?",
+    "answer": "Two or more.",
+    "options": [
+      "Two or more.",
+      "Three or more.",
+      "Five or more.",
+      "Any number, if it is for profit."
+    ],
+    "reference": "Sec. 43.04. AGGRAVATED PROMOTION OF PROSTITUTION. (a) A person commits an offense if he knowingly owns, invests in, finances, controls, supervises, or manages a prostitution enterprise that uses two or more prostitutes. (b) An offense under this section is a felony of the third degree."
+  },
+  {
+    "question": "Compelling another person to commit prostitution by force or threat is what level of offense?",
+    "answer": "A second-degree felony.",
+    "options": [
+      "A state jail felony.",
+      "A third-degree felony.",
+      "A second-degree felony.",
+      "A first-degree felony."
+    ],
+    "reference": "Sec. 43.05. COMPELLING PROSTITUTION. (a) A person commits an offense if the person knowingly: (1) causes another by force, threat, or fraud to commit prostitution; or (2) causes by any means a person younger than 18 years to commit prostitution... (d) An offense under this section is a felony of the second degree."
+  },
+  {
+    "question": "Under what circumstance does the offense of Gambling become a Class B Misdemeanor?",
+    "answer": "If the gambling occurs in a public place.",
+    "options": [
+      "If the bet is over $100.",
+      "If the gambling occurs in a private place.",
+      "If the gambling occurs in a public place.",
+      "If the actor has a prior gambling conviction."
+    ],
+    "reference": "Sec. 47.02. GAMBLING. (a) A person commits an offense if he: (1) makes a bet on the partial or final result of a game or contest... (b) It is a defense to prosecution... that: (1) the actor engaged in gambling in a private place; ... (c) An offense under this section is a Class C misdemeanor. (d) It is a defense to prosecution under this section that the actor reasonably believed that the conduct was permitted under Chapter 2001, Occupations Code. ... (e) It is an affirmative defense to prosecution under this section that the actor was a guest or patron in a private place..."
+  },
+  {
+    "question": "A person commits the offense of 'Gambling Promotion' if they do what?",
+    "answer": "Operate or participate in the earnings of a gambling place.",
+    "options": [
+      "Make a bet on a sporting event.",
+      "Play cards for money in a private residence.",
+      "Operate or participate in the earnings of a gambling place.",
+      "Purchase a lottery ticket."
+    ],
+    "reference": "Sec. 47.03. GAMBLING PROMOTION. (a) A person commits an offense if he intentionally or knowingly does any of the following acts: (1) operates or participates in the earnings of a gambling place;"
+  },
+  {
+    "question": "What is the penalty for 'Communicating Gambling Information' under Sec. 47.05?",
+    "answer": "A Class A Misdemeanor.",
+    "options": [
+      "A Class C Misdemeanor.",
+      "A Class B Misdemeanor.",
+      "A Class A Misdemeanor.",
+      "A state jail felony."
+    ],
+    "reference": "Sec. 47.05. COMMUNICATING GAMBLING INFORMATION. (a) A person commits an offense if, with the intent to further gambling, he knowingly communicates information as to bets, betting odds, or changes in betting odds... (b) An offense under this section is a Class A misdemeanor."
+  },
+  {
+    "question": "Possession of any gambling device, equipment, or paraphernalia is what level of offense?",
+    "answer": "A Class A Misdemeanor.",
+    "options": [
+      "A Class C Misdemeanor.",
+      "A Class B Misdemeanor.",
+      "A Class A Misdemeanor.",
+      "Not an offense if possessed in a private place."
+    ],
+    "reference": "Sec. 47.06. POSSESSION OF GAMBLING DEVICE, EQUIPMENT, OR PARAPHERNALIA. (a) A person commits an offense if, with the intent to further gambling, he knowingly owns, manufactures, transfers, or possesses any gambling device... (c) An offense under this section is a Class A misdemeanor."
+  },
+  {
+    "question": "It is an offense under Sec. 48.01 to smoke tobacco in which of the following locations?",
+    "answer": "A public school, library, or elevator.",
+    "options": [
+      "A private office building.",
+      "A public park.",
+      "A public school, library, or elevator.",
+      "A restaurant that allows smoking."
+    ],
+    "reference": "Sec. 48.01. SMOKING TOBACCO. (a) A person commits an offense if he is in possession of a burning tobacco product or smokes tobacco in a facility of a public primary or secondary school... (a-1) A person commits an offense if the person is in possession of a burning tobacco product, smokes tobacco, or operates an e-cigarette in an elevator, enclosed theatre or movie house, library, museum, hospital, ... bus..."
+  },
+  {
+    "question": "A person who is convicted of DWI with a child passenger younger than 15 years in the vehicle commits what level of offense?",
+    "answer": "A state jail felony.",
+    "options": [
+      "A Class A Misdemeanor.",
+      "A third-degree felony.",
+      "A state jail felony.",
+      "A second-degree felony."
+    ],
+    "reference": "Sec. 49.045. DRIVING WHILE INTOXICATED WITH CHILD PASSENGER. (a) A person commits an offense if: (1) the person is intoxicated while operating a motor vehicle in a public place; and (2) the vehicle being operated by the person is occupied by a passenger who is younger than 15 years of age. (b) An offense under this section is a state jail felony."
+  },
+  {
+    "question": "What is the minimum term of confinement for a first-time DWI conviction?",
+    "answer": "72 hours.",
+    "options": [
+      "24 hours.",
+      "48 hours.",
+      "72 hours.",
+      "There is no minimum term."
+    ],
+    "reference": "Sec. 49.04. DRIVING WHILE INTOXICATED. ... (b) ...an offense under this section is a Class B misdemeanor, with a minimum term of confinement of 72 hours."
+  },
+  {
+    "question": "A person commits Intoxication Manslaughter if, by reason of intoxication while operating a vehicle, they cause what?",
+    "answer": "The death of another by accident or mistake.",
+    "options": [
+      "Serious bodily injury to another.",
+      "Any bodily injury to another.",
+      "The death of another by accident or mistake.",
+      "A traffic collision involving another vehicle."
+    ],
+    "reference": "Sec. 49.08. INTOXICATION MANSLAUGHTER. (a) A person commits an offense if the person: (1) operates a motor vehicle in a public place... and (2) is intoxicated and by reason of that intoxication causes the death of another by accident or mistake."
+  },
+  {
+    "question": "What is the penalty for Intoxication Assault?",
+    "answer": "A third-degree felony.",
+    "options": [
+      "A Class A Misdemeanor.",
+      "A state jail felony.",
+      "A third-degree felony.",
+      "A second-degree felony."
+    ],
+    "reference": "Sec. 49.07. INTOXICATION ASSAULT. ... (c) An offense under this section is a felony of the third degree."
+  },
+  {
+    "question": "A person commits the offense of Engaging in Organized Criminal Activity if, as a member of a criminal street gang, they commit or conspire to commit which of the following offenses?",
+    "answer": "Robbery.",
+    "options": [
+      "Theft under $100.",
+      "Public Intoxication.",
+      "Robbery.",
+      "Criminal Trespass."
+    ],
+    "reference": "Sec. 71.02. ENGAGING IN ORGANIZED CRIMINAL ACTIVITY. (a) A person commits an offense if, with the intent to establish, maintain, or participate in a combination or in the profits of a combination or as a member of a criminal street gang, the person commits or conspires to commit one or more of the following: ... (1) murder, capital murder, arson, aggravated robbery, robbery, burglary, theft, aggravated kidnapping, kidnapping, aggravated assault, aggravated sexual assault, sexual assault..."
+  },
+  {
+    "question": "What is the minimum number of people required to form a 'combination' for the purposes of engaging in organized criminal activity?",
+    "answer": "Three or more.",
+    "options": [
+      "Two or more.",
+      "Three or more.",
+      "Five or more.",
+      "Seven or more."
+    ],
+    "reference": "Sec. 71.01. DEFINITIONS. In this chapter, ... (a) 'Combination' means three or more persons who collaborate in carrying on criminal activities..."
+  },
+  {
+    "question": "When can deadly force be justified to prevent another from committing suicide?",
+    "answer": "Deadly force is NOT justified; only force short of deadly force is justified.",
+    "options": [
+      "When the person is about to jump from a great height.",
+      "If the person is armed with a firearm.",
+      "Deadly force is NOT justified; only force short of deadly force is justified.",
+      "If the person gives consent."
+    ],
+    "reference": "Sec. 9.34. PROTECTION OF LIFE OR HEALTH. (a) A person is justified in using force, but not deadly force, against another when and to the degree he reasonably believes the force is immediately necessary to prevent the other from committing suicide or inflicting serious bodily injury to himself."
+  },
+  {
+    "question": "Under what circumstance is a person justified in using force to protect their own land or tangible movable property?",
+    "answer": "When they reasonably believe the force is immediately necessary to prevent or terminate trespass or unlawful interference.",
+    "options": [
+      "Any time someone sets foot on their property without permission.",
+      "Only if the property is a habitation.",
+      "When they reasonably believe the force is immediately necessary to prevent or terminate trespass or unlawful interference.",
+      "Only after giving a verbal warning to the other person."
+    ],
+    "reference": "Sec. 9.41. PROTECTION OF ONE'S OWN PROPERTY. (a) A person in lawful possession of land or tangible, movable property is justified in using force against another when and to the degree the actor reasonably believes the force is immediately necessary to prevent or terminate the other's trespass on the land or unlawful interference with the property."
+  },
+  {
+    "question": "A person is justified in using deadly force to protect property to prevent the imminent commission of what offense during the nighttime?",
+    "answer": "Theft or criminal mischief.",
+    "options": [
+      "Criminal trespass.",
+      "Theft or criminal mischief.",
+      "Disorderly conduct.",
+      "Any offense against property."
+    ],
+    "reference": "Sec. 9.42. DEADLY FORCE TO PROTECT PROPERTY. A person is justified in using deadly force... to prevent the other's imminent commission of arson, burglary, robbery, aggravated robbery, theft during the nighttime, or criminal mischief during the nighttime."
+  }
+],
+    "transportationCode": [],
+    "alcoholicBeverageCode": [],
+    "healthAndSafetyCode": [],
+    "familyCode": [],
+    "localGovernmentCode": [],
+    "codeOfCriminalProcedure": [],
+    "educationCode": [],
+    "governmentCode": [],
+    "parksAndWildlifeCode": [],
+    "businessAndCommerceCode": [],
+    "propertyCode": []
+}

@@ -1,0 +1,1018 @@
+{
+    "week1": {
+        "Penal Code": [
+  {
+    "question": "According to Sec. 1.02 of the Penal Code, what is a general purpose of the code?",
+    "answer": "To insure the public safety through the deterrent influence of penalties, rehabilitation, and punishment.",
+    "options": [
+      "To provide financial restitution to all victims of crime.",
+      "To ensure all offenders receive the maximum possible punishment.",
+      "To give law enforcement officers maximum discretion in enforcement.",
+      "To insure the public safety through the deterrent influence of penalties, rehabilitation, and punishment."
+    ],
+    "reference": "Sec. 1.02. OBJECTIVES OF CODE. ...to insure the public safety through: (A) the deterrent influence of the penalties hereinafter provided; (B) the rehabilitation of those convicted of violations of this code; and (C) such punishment as may be necessary to prevent likely recurrence of criminal behavior;"
+  },
+  {
+    "question": "Under Sec. 1.03, conduct does not constitute an offense unless it is defined as an offense by what?",
+    "answer": "Statute, municipal ordinance, order of a county commissioners court, or rule adopted under a statute.",
+    "options": [
+      "A ruling from the Supreme Court.",
+      "A proclamation by the Governor.",
+      "Statute, municipal ordinance, order of a county commissioners court, or rule adopted under a statute.",
+      "The common law."
+    ],
+    "reference": "Sec. 1.03. EFFECT OF CODE. (a) Conduct does not constitute an offense unless it is defined as an offense by statute, municipal ordinance, order of a county commissioners court, or rule adopted under a statute."
+  },
+  {
+    "question": "What is the definition of 'Bodily Injury' under Sec. 1.07?",
+    "answer": "Physical pain, illness, or any impairment of physical condition.",
+    "options": [
+      "Only an injury that requires hospitalization.",
+      "An injury that causes permanent disfigurement.",
+      "Physical pain, illness, or any impairment of physical condition.",
+      "An injury that results in a broken bone."
+    ],
+    "reference": "Sec. 1.07. DEFINITIONS. (a) In this code: ... (8) 'Bodily injury' means physical pain, illness, or any impairment of physical condition."
+  },
+  {
+    "question": "According to the Penal Code charts, what is the definition of 'Deadly Weapon'?",
+    "answer": "A firearm or anything manifestly designed to inflict death or SBI, or anything that in its use is capable of causing death or SBI.",
+    "options": [
+      "Only a firearm.",
+      "Any knife with a blade longer than 5.5 inches.",
+      "A firearm or anything manifestly designed to inflict death or SBI, or anything that in its use is capable of causing death or SBI.",
+      "Any object used to threaten another person."
+    ],
+    "reference": "Deadly Weapon: A firearm or anything manifestly designed, made, or adapted for the purpose of inflicting death or serious bodily injury; or Anything that in the manner of its use or intended use is capable of causing death or serious bodily injury."
+  },
+  {
+    "question": "What is 'Serious Bodily Injury' defined as in Sec. 1.07?",
+    "answer": "Bodily injury that creates a substantial risk of death or that causes serious permanent disfigurement.",
+    "options": [
+      "Any injury that requires stitches.",
+      "Any broken bone.",
+      "Bodily injury that creates a substantial risk of death or that causes serious permanent disfigurement.",
+      "Any injury that results in a temporary loss of consciousness."
+    ],
+    "reference": "Sec. 1.07. DEFINITIONS. (a) In this code: ... (46) 'Serious bodily injury' means bodily injury that creates a substantial risk of death or that causes death, serious permanent disfigurement, or protracted loss or impairment of the function of any bodily member or organ."
+  },
+  {
+    "question": "What is the standard of proof required to convict a person of an offense in a criminal trial?",
+    "answer": "Each element of the offense must be proved beyond a reasonable doubt.",
+    "options": [
+      "Preponderance of the evidence.",
+      "Clear and convincing evidence.",
+      "Each element of the offense must be proved beyond a reasonable doubt.",
+      "A reasonable suspicion supported by articulable facts."
+    ],
+    "reference": "Sec. 2.01. PROOF BEYOND A REASONABLE DOUBT. All persons are presumed to be innocent and no person may be convicted of an offense unless each element of the offense is proved beyond a reasonable doubt."
+  },
+  {
+    "question": "If an issue is labeled an 'affirmative defense' under the Penal Code, who has the burden of proof?",
+    "answer": "The defendant must prove the affirmative defense by a preponderance of the evidence.",
+    "options": [
+      "The defendant must prove the affirmative defense beyond a reasonable doubt.",
+      "The prosecuting attorney must disprove the affirmative defense.",
+      "The defendant must prove the affirmative defense by a preponderance of the evidence.",
+      "The state and defendant share the burden of proof."
+    ],
+    "reference": "Sec. 2.04. AFFIRMATIVE DEFENSE. (d) If the issue of the existence of an affirmative defense is submitted to the jury, the court shall charge that the defendant must prove the affirmative defense by a preponderance of the evidence."
+  },
+  {
+    "question": "What does the Penal Code define as a 'criminal episode'?",
+    "answer": "The commission of two or more offenses in the same transaction or pursuant to a common scheme.",
+    "options": [
+      "Any single felony offense.",
+      "Any crime that involves more than one victim.",
+      "The commission of two or more offenses in the same transaction or pursuant to a common scheme.",
+      "A series of misdemeanors committed over a 30-day period."
+    ],
+    "reference": "Sec. 3.01. DEFINITION. In this chapter, 'criminal episode' means the commission of two or more offenses, regardless of whether the harm is directed against or inflicted upon more than one person or item of property, under the following circumstances: (1) the offenses are committed pursuant to the same transaction or pursuant to two or more transactions that are connected or constitute a common scheme or plan..."
+  },
+  {
+    "question": "Under Sec. 6.01, a person commits an offense only if they do what?",
+    "answer": "Voluntarily engage in conduct, including an act, an omission, or possession.",
+    "options": [
+      "Have a specific intent to cause harm.",
+      "Are aware that their conduct is illegal.",
+      "Voluntarily engage in conduct, including an act, an omission, or possession.",
+      "Cause a negative result, regardless of their actions."
+    ],
+    "reference": "Sec. 6.01. REQUIREMENT OF VOLUNTARY ACT OR OMISSION. (a) A person commits an offense only if he voluntarily engages in conduct, including an act, an omission, or possession."
+  },
+  {
+    "question": "Which is the highest or most culpable mental state according to the Penal Code?",
+    "answer": "Intentionally",
+    "options": [
+      "Knowingly",
+      "Recklessly",
+      "Criminal Negligence",
+      "Intentionally"
+    ],
+    "reference": "6.02. REQUIREMENT OF CULPABILITY ... (d) Culpable mental states are classified according to relative degrees, from highest to lowest, as follows: (1) intentional; (2) knowing; (3) reckless; (4) criminal negligence."
+  },
+  {
+    "question": "A person acts ____________ when he is aware that his conduct is reasonably certain to cause the result.",
+    "answer": "Knowingly",
+    "options": [
+      "Intentionally",
+      "Knowingly",
+      "Recklessly",
+      "With criminal negligence"
+    ],
+    "reference": "Sec. 6.03. DEFINITIONS OF CULPABLE MENTAL STATES. ... (b) A person acts knowingly, or with knowledge, with respect to a result of his conduct when he is aware that his conduct is reasonably certain to cause the result."
+  },
+  {
+    "question": "A person acts with ____________ when he ought to be aware of a substantial and unjustifiable risk.",
+    "answer": "Criminal negligence",
+    "options": [
+      "Intent",
+      "Knowledge",
+      "Recklessness",
+      "Criminal negligence"
+    ],
+    "reference": "Sec. 6.03. ... (d) A person acts with criminal negligence, or is criminally negligent... when he ought to be aware of a substantial and unjustifiable risk that the circumstances exist or the result will occur."
+  },
+  {
+    "question": "Under Sec. 7.02, a person is criminally responsible for an offense committed by another if they:",
+    "answer": "Act with intent to promote or assist the commission of the offense, and solicit, encourage, direct, aid, or attempt to aid the other person to commit it.",
+    "options": [
+      "Are merely present at the scene of the crime.",
+      "Know the person who committed the offense.",
+      "Benefit from the offense after it is committed.",
+      "Act with intent to promote or assist the commission of the offense, and solicit, encourage, direct, aid, or attempt to aid the other person to commit it."
+    ],
+    "reference": "Sec. 7.02. CRIMINAL RESPONSIBILITY FOR CONDUCT OF ANOTHER. (a) A person is criminally responsible for an offense committed by the conduct of another if: ... (2) acting with intent to promote or assist the commission of the offense, he solicits, encourages, directs, aids, or attempts to aid the other person to commit the offense..."
+  },
+  {
+    "question": "What is the affirmative defense of 'Insanity'?",
+    "answer": "At the time of the conduct, the actor, as a result of severe mental disease or defect, did not know that his conduct was wrong.",
+    "options": [
+      "The actor was voluntarily intoxicated at the time.",
+      "The actor has a diagnosed personality disorder.",
+      "At the time of the conduct, the actor, as a result of severe mental disease or defect, did not know that his conduct was wrong.",
+      "The actor was under extreme emotional distress."
+    ],
+    "reference": "Sec. 8.01. INSANITY. (a) It is an affirmative defense to prosecution that, at the time of the conduct charged, the actor, as a result of severe mental disease or defect, did not know that his conduct was wrong."
+  },
+  {
+    "question": "When is 'Duress' an affirmative defense to prosecution?",
+    "answer": "When the actor was compelled to commit the offense by a threat of imminent death or serious bodily injury to himself or another.",
+    "options": [
+      "When the actor was threatened with financial ruin.",
+      "When the actor was compelled by their spouse.",
+      "When the actor was compelled to commit the offense by a threat of imminent death or serious bodily injury to himself or another.",
+      "When the actor was persuaded to commit the crime by a police officer."
+    ],
+    "reference": "Sec. 8.05. DURESS. (a) It is an affirmative defense to prosecution that the actor engaged in the proscribed conduct because he was compelled to do so by threat of imminent death or serious bodily injury to himself or another."
+  },
+  {
+    "question": "What is 'Entrapment'?",
+    "answer": "When the actor was induced to commit the offense by a law enforcement agent using persuasion or other means likely to cause a person to commit the offense.",
+    "options": [
+      "When a law enforcement agent provides an opportunity to commit an offense.",
+      "When an informant provides information to law enforcement.",
+      "When the actor was induced to commit the offense by a law enforcement agent using persuasion or other means likely to cause a person to commit the offense.",
+      "When a law enforcement agent goes undercover."
+    ],
+    "reference": "Sec. 8.06. ENTRAPMENT. (a) It is a defense to prosecution that the actor engaged in the conduct charged because he was induced to do so by a law enforcement agent using persuasion or other means likely to cause persons to commit the offense. Conduct merely affording a person an opportunity to commit an offense does not constitute entrapment."
+  },
+  {
+    "question": "A person younger than what age cannot be prosecuted for any offense, with a few exceptions?",
+    "answer": "15",
+    "options": [
+      "13",
+      "14",
+      "15",
+      "16"
+    ],
+    "reference": "Sec. 8.07. AGE AFFECTING CRIMINAL RESPONSIBILITY. (a) A person may not be prosecuted for or convicted of any offense that he committed when younger than 15 years of age except..."
+  },
+  {
+    "question": "According to the Penal Code, what is the punishment for a Class C Misdemeanor?",
+    "answer": "A fine not to exceed $500.",
+    "options": [
+      "A fine not to exceed $500.",
+      "Confinement in jail for up to 30 days.",
+      "A fine not to exceed $2,000.",
+      "Community service only."
+    ],
+    "reference": "Sec. 12.23. CLASS C MISDEMEANOR. An individual adjudged guilty of a Class C misdemeanor shall be punished by a fine not to exceed $500."
+  },
+  {
+    "question": "What is the punishment range for a Class B Misdemeanor?",
+    "answer": "A fine not to exceed $2,000; confinement in jail for a term not to exceed 180 days; or both.",
+    "options": [
+      "A fine not to exceed $500.",
+      "A fine not to exceed $4,000 and confinement up to one year.",
+      "A fine not to exceed $2,000; confinement in jail for a term not to exceed 180 days; or both.",
+      "Confinement in a state jail for 180 days to 2 years."
+    ],
+    "reference": "Sec. 12.22. CLASS B MISDEMEANOR. An individual adjudged guilty of a Class B misdemeanor shall be punished by: (1) a fine not to exceed $2,000; (2) confinement in jail for a term not to exceed 180 days; or (3) both such fine and confinement."
+  },
+  {
+    "question": "What is the punishment range for a Class A Misdemeanor?",
+    "answer": "A fine not to exceed $4,000; confinement in jail not to exceed one year; or both.",
+    "options": [
+      "A fine not to exceed $2,000; confinement up to 180 days; or both.",
+      "A fine not to exceed $500.",
+      "A fine not to exceed $4,000; confinement in jail not to exceed one year; or both.",
+      "Confinement in a state jail for 180 days to 2 years."
+    ],
+    "reference": "Sec. 12.21. CLASS A MISDEMEANOR. An individual adjudged guilty of a Class A misdemeanor shall be punished by: (1) a fine not to exceed $4,000; (2) confinement in jail for a term not to exceed one year; or (3) both such fine and confinement."
+  },
+  {
+    "question": "What is the punishment for a state jail felony?",
+    "answer": "Confinement in a state jail for 180 days to two years and an optional fine up to $10,000.",
+    "options": [
+      "A prison term of two to 10 years.",
+      "A prison term of five to 99 years.",
+      "Confinement in a state jail for 180 days to two years and an optional fine up to $10,000.",
+      "Life imprisonment without parole."
+    ],
+    "reference": "Sec. 12.35. STATE JAIL FELONY PUNISHMENT. (a) an individual adjudged guilty of a state jail felony shall be punished by confinement in a state jail for any term of not more than two years or less than 180 days. (b) In addition to confinement, an individual... may be punished by a fine not to exceed $10,000."
+  },
+  {
+    "question": "What is the punishment range for a third-degree felony?",
+    "answer": "Imprisonment for any term of not more than 10 years or less than 2 years, and an optional fine not to exceed $10,000.",
+    "options": [
+      "Imprisonment for 2 to 20 years and a fine up to $10,000.",
+      "Imprisonment for 5 to 99 years or life.",
+      "Imprisonment for any term of not more than 10 years or less than 2 years, and an optional fine not to exceed $10,000.",
+      "Confinement in a state jail for 180 days to 2 years."
+    ],
+    "reference": "Sec. 12.34. THIRD-DEGREE FELONY PUNISHMENT. (a) An individual adjudged guilty of a felony of the third degree shall be punished by imprisonment in the Texas Department of Criminal Justice for any term of not more than 10 years or less than 2 years. (b) In addition to imprisonment, an individual... may be punished by a fine not to exceed $10,000."
+  },
+  {
+    "question": "What is the punishment range for a second-degree felony?",
+    "answer": "Imprisonment for any term of not more than 20 years or less than 2 years.",
+    "options": [
+      "Confinement in a state jail for 180 days to 2 years.",
+      "Imprisonment for any term of not more than 10 years or less than 2 years.",
+      "Imprisonment for life or for 5 to 99 years.",
+      "Imprisonment for any term of not more than 20 years or less than 2 years."
+    ],
+    "reference": "Sec. 12.33. SECOND DEGREE FELONY PUNISHMENT. (a) An individual adjudged guilty of a felony of the second degree shall be punished by imprisonment in the Texas Department of Criminal Justice for any term of not more than 20 years or less than 2 years."
+  },
+  {
+    "question": "What is the punishment for a first-degree felony?",
+    "answer": "Imprisonment for life or for any term of not more than 99 years or less than 5 years.",
+    "options": [
+      "Imprisonment for 2 to 20 years.",
+      "Imprisonment for life without parole.",
+      "Imprisonment for life or for any term of not more than 99 years or less than 5 years.",
+      "Imprisonment for 2 to 10 years."
+    ],
+    "reference": "Sec. 12.32. FIRST DEGREE FELONY PUNISHMENT. (a) An individual adjudged guilty of a felony of the first degree shall be punished by imprisonment in the Texas Department of Criminal Justice for life or for any term of not more than 99 years or less than 5 years."
+  },
+  {
+    "question": "What is the punishment for a capital felony when the state does not seek the death penalty?",
+    "answer": "Imprisonment for life without parole.",
+    "options": [
+      "Imprisonment for life with the possibility of parole.",
+      "Imprisonment for a term of 25 to 99 years.",
+      "Imprisonment for life without parole.",
+      "The punishment is reduced to a first-degree felony."
+    ],
+    "reference": "Sec. 12.31. CAPITAL FELONY. (a) An individual adjudged guilty of a capital felony in a case in which the state does not seek the death penalty shall be punished by imprisonment in the Texas Department of Criminal Justice for life without parole."
+  },
+  {
+    "question": "If a person on trial for a Class A misdemeanor has a prior conviction for any felony, what is the minimum term of confinement?",
+    "answer": "90 days.",
+    "options": [
+      "30 days.",
+      "60 days.",
+      "90 days.",
+      "180 days."
+    ],
+    "reference": "Sec. 12.43. PENALTIES FOR REPEAT AND HABITUAL MISDEMEANOR OFFENDERS. (a) If it is shown on the trial of a Class A misdemeanor that the defendant has been before convicted of a Class A misdemeanor or of any degree of felony, on conviction he shall be punished by... confinement in jail for any term of not more than one year or less than 90 days."
+  },
+  {
+    "question": "If an offense is committed against a person the actor knows is a public servant lawfully discharging their duty, how is the punishment increased?",
+    "answer": "It is increased to the punishment prescribed for the next higher category of offense.",
+    "options": [
+      "The fines are doubled.",
+      "A mandatory minimum sentence is added.",
+      "It is increased to the punishment prescribed for the next higher category of offense.",
+      "There is no change in punishment."
+    ],
+    "reference": "Sec. 12.501. ENHANCEMENT FOR CERTAIN OFFENSES COMMITTED AGAINST PUBLIC SERVANT. (b) ...the punishment for an offense... is increased to the punishment prescribed for the next higher category of offense if it is shown on the trial of the offense that: (1) the offense... was committed against a person the actor knows is a public servant..."
+  },
+  {
+    "question": "A person commits Criminal Attempt if, with specific intent to commit an offense, they do an act that amounts to what?",
+    "answer": "More than mere preparation.",
+    "options": [
+      "A criminal thought.",
+      "A verbal threat.",
+      "More than mere preparation.",
+      "A completed offense."
+    ],
+    "reference": "Sec. 15.01. CRIMINAL ATTEMPT. (a) A person commits an offense if, with specific intent to commit an offense, he does an act amounting to more than mere preparation that tends but fails to effect the commission of the offense intended."
+  },
+  {
+    "question": "A person commits Criminal Conspiracy if they agree with one or more persons to engage in conduct that would constitute a felony, and what else occurs?",
+    "answer": "He or one or more of them performs an overt act in pursuance of the agreement.",
+    "options": [
+      "They all possess the same culpable mental state.",
+      "The felony is actually completed.",
+      "He or one or more of them performs an overt act in pursuance of the agreement.",
+      "They create a written plan."
+    ],
+    "reference": "Sec. 15.02. CRIMINAL CONSPIRACY. (a) A person commits criminal conspiracy if, with intent that a felony be committed: (1) he agrees with one or more persons that they or one or more of them engage in conduct that would constitute the offense; and (2) he or one or more of them performs an overt act in pursuance of the agreement."
+  },
+  {
+    "question": "Criminal Solicitation is an offense when a person, with intent that a capital felony or first-degree felony be committed, does what?",
+    "answer": "Requests, commands, or attempts to induce another to engage in the specific conduct.",
+    "options": [
+      "Aids or assists another in committing the felony.",
+      "Provides the funds for the felony to be committed.",
+      "Is merely present during the planning of the felony.",
+      "Requests, commands, or attempts to induce another to engage in the specific conduct."
+    ],
+    "reference": "Sec. 15.03. CRIMINAL SOLICITATION. (a) A person commits an offense if, with intent that a capital felony or felony of the first degree be committed, he requests, commands, or attempts to induce another to engage in specific conduct that, under the circumstances surrounding his conduct as the actor believes them to be, would constitute the felony or an attempt to commit the felony."
+  }
+],
+        "Radio Communications": [
+  {
+    "question": "What is the primary goal of the Radio Communications unit as stated in the presentation?",
+    "answer": "To learn key terminology and procedures necessary to communicate effectively via Public Safety Radio.",
+    "options": [
+      "To learn how to repair radio equipment.",
+      "To memorize all FCC regulations.",
+      "To learn key terminology and procedures necessary to communicate effectively via Public Safety Radio.",
+      "To practice advanced pursuit driving techniques."
+    ],
+    "reference": "Unit Goal: Key terminology and procedures necessary to communicate effectively via Public Safety Radio."
+  },
+  {
+    "question": "What does the acronym PSAP stand for in public safety communications?",
+    "answer": "Public Safety Answering Point",
+    "options": [
+      "Police Safety Action Plan",
+      "Public Service Announcement Program",
+      "Primary Suspect Apprehension Protocol",
+      "Public Safety Answering Point"
+    ],
+    "reference": "PSAP: Public Safety Answering Point, communications facility operated continuously assigned the task of receiving first line 9-1-1 calls and dispatching a response."
+  },
+  {
+    "question": "What is a 'Telecommunicator'?",
+    "answer": "A person acknowledged by the commission and employed by a law enforcement agency who receives, processes, and transmits public safety information.",
+    "options": [
+      "An officer assigned to traffic control duties.",
+      "A person who repairs radio equipment for the department.",
+      "A certified IT professional who manages the agency's network.",
+      "A person acknowledged by the commission and employed by a law enforcement agency who receives, processes, and transmits public safety information."
+    ],
+    "reference": "Telecommunicator: a person acknowledged by the commission and employed by or serving a law enforcement agency on a 24-hour basis receives, processes, and transmits public safety information and criminal justice data for the agency by using a base radio station on a public safety frequency"
+  },
+  {
+    "question": "What is 'Interoperability' in the context of public safety communications?",
+    "answer": "Multiple entities being able to communicate with each other when working a large-scale incident.",
+    "options": [
+      "The ability of a radio to operate on multiple frequencies.",
+      "A system for translating between different languages on 9-1-1 calls.",
+      "The procedure for logging out of a mobile data computer.",
+      "Multiple entities being able to communicate with each other when working a large-scale incident."
+    ],
+    "reference": "Interoperability - multiple entities being able to communicate with each other when working a large-scale incident."
+  },
+  {
+    "question": "What information is provided by ANI/ALI?",
+    "answer": "The phone number and address of a 9-1-1 call.",
+    "options": [
+      "The criminal history of a suspect.",
+      "The officer's badge number and unit.",
+      "The phone number and address of a 9-1-1 call.",
+      "The weather conditions at an incident location."
+    ],
+    "reference": "ANI/ALI (Automatic Number Identification/Automatic Location Identification) the phone number and address of a 9-1-1 call that are used to route the call to the appropriate answering point."
+  },
+  {
+    "question": "What is the proper order for broadcasting a description of a person over the radio?",
+    "answer": "Name, gender, race, date of birth, height, weight, hair color, and eye color.",
+    "options": [
+      "Height, weight, hair color, eye color, name, gender, race, date of birth.",
+      "Race, gender, name, date of birth, height, weight, hair color, eye color.",
+      "Name, gender, race, date of birth, height, weight, hair color, and eye color.",
+      "Clothing, distinguishing marks, name, gender, race."
+    ],
+    "reference": "There is a standard order in which this information should be presented: name, gender, race, date of birth, height, weight, hair color, and eye color."
+  },
+  {
+    "question": "The acronym CYMBAL is used to remember the essential information for describing a vehicle. What does the 'C' stand for?",
+    "answer": "Color",
+    "options": [
+      "Car",
+      "Chassis",
+      "Color",
+      "County"
+    ],
+    "reference": "With regard to vehicles, the message should inform in the following order: color, year, make, body-style, and license number."
+  },
+    {
+    "question": "The acronym CYMBAL is used to remember the essential information for describing a vehicle. What does the 'Y' stand for?",
+    "answer": "Year",
+    "options": [
+      "Yield",
+      "Year",
+      "Yonder",
+      "Yard"
+    ],
+    "reference": "With regard to vehicles, the message should inform in the following order: color, year, make, body-style, and license number."
+  },
+  {
+    "question": "When broadcasting vehicle information using CYMBAL, what does the 'M' stand for?",
+    "answer": "Make",
+    "options": [
+      "Mileage",
+      "Model",
+      "Make",
+      "Motor"
+    ],
+    "reference": "With regard to vehicles, the message should inform in the following order: color, year, make, body-style, and license number."
+  },
+  {
+    "question": "According to the FCC rules mentioned in the guide, which of the following is unlawful to broadcast on a police radio?",
+    "answer": "Using pleasantries or profanity.",
+    "options": [
+      "Broadcasting a suspect's license plate.",
+      "Requesting backup during an emergency.",
+      "Using the 10-code system.",
+      "Using pleasantries or profanity."
+    ],
+    "reference": "Federal Communications Commission (FCC) - federal agency responsible for implementing and enforcing America's communications law and regulations. ... Unlawful to use pleasantries or profanity."
+  },
+  {
+    "question": "Is it lawful to rebroadcast any portion of radio programming according to the presentation?",
+    "answer": "No, it is unlawful.",
+    "options": [
+      "Yes, if it is for training purposes.",
+      "No, it is unlawful.",
+      "Yes, with permission from a supervisor.",
+      "Only if the broadcast is from another agency."
+    ],
+    "reference": "Unlawful to rebroadcast any portion of radio programming."
+  },
+  {
+    "question": "According to FCC rules, what is the policy on broadcasting false distress signals?",
+    "answer": "It is unlawful.",
+    "options": [
+      "It is allowed for training drills.",
+      "It is unlawful.",
+      "It is only unlawful if it causes a significant response.",
+      "It is at the discretion of the dispatcher."
+    ],
+    "reference": "Unlawful to broadcast any false distress signals."
+  },
+  {
+    "question": "What is a general guideline an officer should follow when making a radio transmission?",
+    "answer": "Think before you speak and use simple, plain language.",
+    "options": [
+      "Speak as quickly as possible to keep the channel clear.",
+      "Use complex jargon to sound more professional.",
+      "Think before you speak and use simple, plain language.",
+      "Provide as much detail as possible, even if it is not pertinent."
+    ],
+    "reference": "General Guidelines: Use simple and plain language. Communicate pertinent details only. -Think before you speak"
+  },
+  {
+    "question": "Which of the following is listed as a 'DO NOT' for radio traffic?",
+    "answer": "Using unnecessary words like 'at this time' or 'it appears to be'.",
+    "options": [
+      "Using the phonetic alphabet.",
+      "Communicating pertinent details only.",
+      "Using unnecessary words like 'at this time' or 'it appears to be'.",
+      "Using military time."
+    ],
+    "reference": "DO NOTS/NO NOs for Radio Traffic: Avold unnecessary words liker at this time, it appears to be, i ascertained that....etc"
+  },
+  {
+    "question": "When should an officer NOT transmit on the radio?",
+    "answer": "When asked to stand by or during an unrelated emergency situation.",
+    "options": [
+      "When another officer is speaking, regardless of the reason.",
+      "When asked to stand by or during an unrelated emergency situation.",
+      "If they have not been on duty for at least one hour.",
+      "During routine patrol."
+    ],
+    "reference": "Do not transmit unrelated information during an emergency situation. Do not transmit if asked to stand by."
+  },
+  {
+    "question": "What is the recommended cadence and rhythm for radio transmissions?",
+    "answer": "The presentation suggests listening to how others speak and pronounce things.",
+    "options": [
+      "Speak in a monotone voice.",
+      "Use a rapid-fire speech pattern.",
+      "The presentation suggests listening to how others speak and pronounce things.",
+      "Pause for two seconds between each word."
+    ],
+    "reference": "Use a good cadence and rhythm... Cadence and rhythm, regional pronunciations: listen to how others speak and pronounce things."
+  },
+  {
+    "question": "What is the primary purpose of using the phonetic alphabet in radio communications?",
+    "answer": "To ensure clarity when spelling names or other important words.",
+    "options": [
+      "To make transmissions sound more professional.",
+      "To encrypt the message.",
+      "To ensure clarity when spelling names or other important words.",
+      "To shorten the length of the transmission."
+    ],
+    "reference": "Motivate students to memorize the phonetic alphabet as they will be using it frequently in the academy and during their careers"
+  },
+  {
+    "question": "What time system are students motivated to become familiar and comfortable with for use in their profession?",
+    "answer": "Military time.",
+    "options": [
+      "Standard time (AM/PM).",
+      "Greenwich Mean Time (GMT).",
+      "Military time.",
+      "A 10-hour clock system."
+    ],
+    "reference": "Also motivate students to become familiar and comfortable using military time as that will be a staple in their profession as well"
+  },
+  {
+    "question": "In the American Law Enforcement Phonetic Alphabet, what word represents the letter 'A'?",
+    "answer": "ADAM",
+    "options": [
+      "ALPHA",
+      "APPLE",
+      "ADAM",
+      "ABLE"
+    ],
+    "reference": "American Law Enforcement Phonetic Alphabet (A) ADAM"
+  },
+  {
+    "question": "In the American Law Enforcement Phonetic Alphabet, what word represents the letter 'B'?",
+    "answer": "BOY",
+    "options": [
+      "BAKER",
+      "BRAVO",
+      "BOSTON",
+      "BOY"
+    ],
+    "reference": "American Law Enforcement Phonetic Alphabet (B) BOY"
+  },
+  {
+    "question": "In the American Law Enforcement Phonetic Alphabet, what word represents the letter 'C'?",
+    "answer": "CHARLES",
+    "options": [
+      "CHARLIE",
+      "CHARLES",
+      "CAT",
+      "CHICAGO"
+    ],
+    "reference": "American Law Enforcement Phonetic Alphabet (C) CHARLES"
+  },
+  {
+    "question": "In the American Law Enforcement Phonetic Alphabet, what word represents the letter 'D'?",
+    "answer": "DAVID",
+    "options": [
+      "DELTA",
+      "DOG",
+      "DAVID",
+      "DENVER"
+    ],
+    "reference": "American Law Enforcement Phonetic Alphabet (D) DAVID"
+  },
+  {
+    "question": "In the American Law Enforcement Phonetic Alphabet, what word represents the letter 'E'?",
+    "answer": "EDWARD",
+    "options": [
+      "ECHO",
+      "EASY",
+      "EDWARD",
+      "ELEPHANT"
+    ],
+    "reference": "American Law Enforcement Phonetic Alphabet (E) EDWARD"
+  },
+  {
+    "question": "In the American Law Enforcement Phonetic Alphabet, what word represents the letter 'F'?",
+    "answer": "FRANK",
+    "options": [
+      "FOXTROT",
+      "FAN",
+      "FRANK",
+      "FREDDY"
+    ],
+    "reference": "American Law Enforcement Phonetic Alphabet (F) FRANK"
+  },
+  {
+    "question": "In the American Law Enforcement Phonetic Alphabet, what word represents the letter 'G'?",
+    "answer": "GEORGE",
+    "options": [
+      "GOLF",
+      "GEORGE",
+      "GOAT",
+      "GIRL"
+    ],
+    "reference": "American Law Enforcement Phonetic Alphabet (G) GEORGE"
+  },
+  {
+    "question": "In the American Law Enforcement Phonetic Alphabet, what word represents the letter 'H'?",
+    "answer": "HENRY",
+    "options": [
+      "HOTEL",
+      "HENRY",
+      "HARRY",
+      "HAT"
+    ],
+    "reference": "American Law Enforcement Phonetic Alphabet (H) HENRY"
+  },
+  {
+    "question": "In the American Law Enforcement Phonetic Alphabet, what word represents the letter 'I'?",
+    "answer": "IDA",
+    "options": [
+      "INDIA",
+      "IDA",
+      "ICE",
+      "INK"
+    ],
+    "reference": "American Law Enforcement Phonetic Alphabet (I) IDA"
+  },
+  {
+    "question": "In the American Law Enforcement Phonetic Alphabet, what word represents the letter 'J'?",
+    "answer": "JOHN",
+    "options": [
+      "JULIETT",
+      "JOHN",
+      "JACK",
+      "JUMP"
+    ],
+    "reference": "American Law Enforcement Phonetic Alphabet (J) JOHN"
+  },
+  {
+    "question": "In the American Law Enforcement Phonetic Alphabet, what word represents the letter 'K'?",
+    "answer": "KING",
+    "options": [
+      "KILO",
+      "KITE",
+      "KENNETH",
+      "KING"
+    ],
+    "reference": "American Law Enforcement Phonetic Alphabet (K) KING"
+  },
+  {
+    "question": "In the American Law Enforcement Phonetic Alphabet, what word represents the letter 'L'?",
+    "answer": "LINCOLN",
+    "options": [
+      "LIMA",
+      "LION",
+      "LINCOLN",
+      "LARRY"
+    ],
+    "reference": "American Law Enforcement Phonetic Alphabet (L) LINCOLN"
+  },
+  {
+    "question": "In the American Law Enforcement Phonetic Alphabet, what word represents the letter 'M'?",
+    "answer": "MARY",
+    "options": [
+      "MIKE",
+      "MOTHER",
+      "MARY",
+      "MOON"
+    ],
+    "reference": "American Law Enforcement Phonetic Alphabet (M) MARY"
+  },
+  {
+    "question": "In the American Law Enforcement Phonetic Alphabet, what word represents the letter 'N'?",
+    "answer": "NORA",
+    "options": [
+      "NOVEMBER",
+      "NANCY",
+      "NORA",
+      "NORTH"
+    ],
+    "reference": "American Law Enforcement Phonetic Alphabet (N) NORA"
+  },
+  {
+    "question": "In the American Law Enforcement Phonetic Alphabet, what word represents the letter 'O'?",
+    "answer": "OCEAN",
+    "options": [
+      "OSCAR",
+      "OCEAN",
+      "OTTO",
+      "ORANGE"
+    ],
+    "reference": "American Law Enforcement Phonetic Alphabet (O) OCEAN"
+  },
+  {
+    "question": "In the American Law Enforcement Phonetic Alphabet, what word represents the letter 'P'?",
+    "answer": "PAUL",
+    "options": [
+      "PAPA",
+      "PETER",
+      "PAUL",
+      "PONY"
+    ],
+    "reference": "American Law Enforcement Phonetic Alphabet (P) PAUL"
+  },
+  {
+    "question": "In the American Law Enforcement Phonetic Alphabet, what word represents the letter 'Q'?",
+    "answer": "QUEEN",
+    "options": [
+      "QUEBEC",
+      "QUICK",
+      "QUESTION",
+      "QUEEN"
+    ],
+    "reference": "American Law Enforcement Phonetic Alphabet (Q) QUEEN"
+  },
+  {
+    "question": "In the American Law Enforcement Phonetic Alphabet, what word represents the letter 'R'?",
+    "answer": "ROBERT",
+    "options": [
+      "ROMEO",
+      "ROBERT",
+      "ROGER",
+      "RADIO"
+    ],
+    "reference": "American Law Enforcement Phonetic Alphabet (R) ROBERT"
+  },
+  {
+    "question": "In the American Law Enforcement Phonetic Alphabet, what word represents the letter 'S'?",
+    "answer": "SAM",
+    "options": [
+      "SIERRA",
+      "SAM",
+      "SUGAR",
+      "STOP"
+    ],
+    "reference": "American Law Enforcement Phonetic Alphabet (S) SAM"
+  },
+  {
+    "question": "In the American Law Enforcement Phonetic Alphabet, what word represents the letter 'T'?",
+    "answer": "TOM",
+    "options": [
+      "TANGO",
+      "THOMAS",
+      "TIGER",
+      "TOM"
+    ],
+    "reference": "American Law Enforcement Phonetic Alphabet (T) TOM"
+  },
+  {
+    "question": "In the American Law Enforcement Phonetic Alphabet, what word represents the letter 'U'?",
+    "answer": "UNION",
+    "options": [
+      "UNIFORM",
+      "UNCLE",
+      "UNION",
+      "UNITED"
+    ],
+    "reference": "American Law Enforcement Phonetic Alphabet (U) UNION"
+  },
+  {
+    "question": "In the American Law Enforcement Phonetic Alphabet, what word represents the letter 'V'?",
+    "answer": "VICTOR",
+    "options": [
+      "VICTOR",
+      "VICTORY",
+      "VIOLET",
+      "VOICE"
+    ],
+    "reference": "American Law Enforcement Phonetic Alphabet (V) VICTOR"
+  },
+  {
+    "question": "In the American Law Enforcement Phonetic Alphabet, what word represents the letter 'W'?",
+    "answer": "WILLIAM",
+    "options": [
+      "WHISKEY",
+      "WILLIAM",
+      "WILLY",
+      "WAGON"
+    ],
+    "reference": "American Law Enforcement Phonetic Alphabet (W) WILLIAM"
+  },
+  {
+    "question": "In the American Law Enforcement Phonetic Alphabet, what word represents the letter 'X'?",
+    "answer": "X-RAY",
+    "options": [
+      "XENON",
+      "XEROX",
+      "X-RAY",
+      "XYLOPHONE"
+    ],
+    "reference": "American Law Enforcement Phonetic Alphabet (X) X-RAY"
+  },
+  {
+    "question": "In the American Law Enforcement Phonetic Alphabet, what word represents the letter 'Y'?",
+    "answer": "YOUNG",
+    "options": [
+      "YANKEE",
+      "YELLOW",
+      "YESTERDAY",
+      "YOUNG"
+    ],
+    "reference": "American Law Enforcement Phonetic Alphabet (Y) YOUNG"
+  },
+  {
+    "question": "In the American Law Enforcement Phonetic Alphabet, what word represents the letter 'Z'?",
+    "answer": "ZEBRA",
+    "options": [
+      "ZULU",
+      "ZEBRA",
+      "ZERO",
+      "ZODIAC"
+    ],
+    "reference": "American Law Enforcement Phonetic Alphabet (Z) ZEBRA"
+  },
+  {
+    "question": "An officer receives a dispatch for a call at 3:15 PM. How would this be documented in a report using military time?",
+    "answer": "1515",
+    "options": [
+      "0315",
+      "315 PM",
+      "1515",
+      "1315"
+    ],
+    "reference": "To convert a PM time to military time, add 12 to the hour. For example, 3:00 PM becomes 1500 hours. "
+  },
+  {
+    "question": "A report states that an incident occurred at 2330 hours. What is this time in standard AM/PM format?",
+    "answer": "11:30 PM",
+    "options": [
+      "11:30 AM",
+      "1:30 PM",
+      "11:30 PM",
+      "3:30 AM"
+    ],
+    "reference": "To convert military time to standard PM time, subtract 12 from the hour if the hour is 13 or greater. For example, 2330 hours is 23 - 12 = 11, making it 11:30 PM. "
+  },
+  {
+    "question": "An officer begins their shift at 6:00 AM. How should this time be written in military time format?",
+    "answer": "0600",
+    "options": [
+      "6000",
+      "6:00",
+      "0600",
+      "1800"
+    ],
+    "reference": "For morning (AM) hours, military time uses the same hour number, but in a 24-hour format, often with a leading zero for single-digit hours. 6:00 AM is 0600. "
+  },
+  {
+    "question": "A supervisor requests a status update at 1900 hours. What time is it in standard AM/PM format?",
+    "answer": "7:00 PM",
+    "options": [
+      "9:00 AM",
+      "7:00 AM",
+      "9:00 PM",
+      "7:00 PM"
+    ],
+    "reference": "To convert military time to standard PM time, subtract 12 from any hour greater than 12. For 1900 hours, 19 - 12 = 7, making it 7:00 PM. "
+  },
+  {
+    "question": "What is 12:00 PM (noon) in military time?",
+    "answer": "1200",
+    "options": [
+      "0000",
+      "2400",
+      "1200",
+      "12 PM"
+    ],
+    "reference": "12:00 PM (noon) is represented as 1200 in military time. It is the start of the 'PM' hours, so no addition of 12 is needed. "
+  },
+  {
+    "question": "What is 12:00 AM (midnight) in military time?",
+    "answer": "0000",
+    "options": [
+      "1200",
+      "0000",
+      "12 AM",
+      "2400"
+    ],
+    "reference": "12:00 AM (midnight) marks the beginning of a new day and is represented as 0000 in military time. 2400 can be used to signify the end of the previous day. "
+  },
+  {
+    "question": "An officer documents a vehicle stop at 0045 hours. What is the standard AM/PM time?",
+    "answer": "12:45 AM",
+    "options": [
+      "12:45 PM",
+      "4:50 AM",
+      "12:45 AM",
+      "4:50 PM"
+    ],
+    "reference": "For military times between 0001 and 0059, the time is the first hour of the day (the 12 AM hour). 0045 is 12:45 AM. "
+  },
+  {
+    "question": "A witness states an event happened at 'half-past eight in the evening'. How would an officer record this in military time?",
+    "answer": "2030",
+    "options": [
+      "0830",
+      "1830",
+      "2030",
+      "8:30 PM"
+    ],
+    "reference": "To convert an evening (PM) time to military time, add 12 to the hour. 'Half-past eight in the evening' is 8:30 PM. 8 + 12 = 20, so the time is 2030. "
+  },
+  {
+    "question": "What is the primary reason law enforcement and other emergency services use military time?",
+    "answer": "To eliminate the confusion that can arise from using the 12-hour AM/PM system.",
+    "options": [
+      "It is easier to calculate time intervals.",
+      "It is required by federal law for all government agencies.",
+      "To eliminate the confusion that can arise from using the 12-hour AM/PM system.",
+      "It makes radio transmissions shorter."
+    ],
+    "reference": "Military time eliminates the confusion that can arise from using the 12-hour clock system, where the same numbers can mean different times of the day. Military time has many advantages over regular time, especially when it comes to clarity and accuracy. "
+  },
+  {
+    "question": "An officer's report lists a start time of 0900 and an end time of 1700 for an event. How long did the event last?",
+    "answer": "8 hours",
+    "options": [
+      "6 hours",
+      "8 hours",
+      "10 hours",
+      "12 hours"
+    ],
+    "reference": "Calculating time intervals that take place on the same day in military time is easy — simply subtract your start time from your end time. For example, if your time interval begins at 09:00 and ends at 17:00, you'd subtract 9 from 17 to get 8. "
+  }
+        ],
+        "Civilian Interactions": [],
+        "Fitness and Wellness": [],
+        "CCP and Constitution": [],
+        "Arrest & Frisk Tactics": [],
+        "Police Mindset": [],
+        "Portable Radio RSM": []
+    },
+    "week2": {
+        "Subcategory 1": [],
+        "Subcategory 2": []
+    },
+    "week3": {
+        "Subcategory 1": [],
+        "Subcategory 2": []
+    },
+    "week4": {
+        "Subcategory 1": [],
+        "Subcategory 2": []
+    },
+    "week5": {
+        "Subcategory 1": [],
+        "Subcategory 2": []
+    },
+    "week6": {
+        "Subcategory 1": [],
+        "Subcategory 2": []
+    },
+    "week7": {
+        "Subcategory 1": [],
+        "Subcategory 2": []
+    },
+    "week8": {
+        "Subcategory 1": [],
+        "Subcategory 2": []
+    },
+    "week9": {
+        "Subcategory 1": [],
+        "Subcategory 2": []
+    },
+    "week10": {
+        "Subcategory 1": [],
+        "Subcategory 2": []
+    },
+    "week11": {
+        "Subcategory 1": [],
+        "Subcategory 2": []
+    },
+    "week12": {
+        "Subcategory 1": [],
+        "Subcategory 2": []
+    },
+    "week13": {
+        "Subcategory 1": [],
+        "Subcategory 2": []
+    },
+    "week14": {
+        "Subcategory 1": [],
+        "Subcategory 2": []
+    },
+    "week15": {
+        "Subcategory 1": [],
+        "Subcategory 2": []
+    },
+    "week16": {
+        "Subcategory 1": [],
+        "Subcategory 2": []
+    },
+    "week17": {
+        "Subcategory 1": [],
+        "Subcategory 2": []
+    },
+    "week18": {
+        "Subcategory 1": [],
+        "Subcategory 2": []
+    },
+    "week19": {
+        "Subcategory 1": [],
+        "Subcategory 2": []
+    },
+    "week20": {
+        "Subcategory 1": [],
+        "Subcategory 2": []
+    },
+    "week21": {
+        "Subcategory 1": [],
+        "Subcategory 2": []
+    }
+}

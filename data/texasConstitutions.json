@@ -1,0 +1,3267 @@
+{
+      "article1": [
+    {
+      "question": "According to Article 1, Section 1 of the Texas Constitution, Texas is a free and independent State, subject only to what?",
+      "answer": "The Constitution of the United States",
+      "options": [
+        "The laws passed by the Texas Legislature",
+        "The will of the people of Texas",
+        "The Constitution of the United States",
+        "No other authority"
+      ],
+      "reference": "Sec. 1. FREEDOM AND SOVEREIGNTY OF STATE. Texas is a free and independent State, subject only to the Constitution of the United States..."
+    },
+    {
+      "question": "Article 1, Section 2 states that all political power is inherent in what group, and all free governments are founded on their authority?",
+      "answer": "The people",
+      "options": [
+        "The Legislature",
+        "The Judiciary",
+        "The people",
+        "The Executive Branch"
+      ],
+      "reference": "Sec. 2. INHERENT POLITICAL POWER; REPUBLICAN FORM OF GOVERNMENT. All political power is inherent in the people, and all free governments are founded on their authority, and instituted for their benefit."
+    },
+    {
+      "question": "The faith of the people of Texas stands pledged to the preservation of what form of government?",
+      "answer": "A republican form of government",
+      "options": [
+        "A direct democracy",
+        "A parliamentary system",
+        "A republican form of government",
+        "A monarchy"
+      ],
+      "reference": "The faith of the people of Texas stands pledged to the preservation of a republican form of government..."
+    },
+    {
+      "question": "Article 1, Section 3a prohibits the denial or abridgment of equality under the law because of what?",
+      "answer": "Sex, race, color, creed, or national origin.",
+      "options": [
+        "Political affiliation or belief.",
+        "Age, disability, or economic status.",
+        "Sex, race, color, creed, or national origin.",
+        "Place of residence or occupation."
+      ],
+      "reference": "Sec. 3a. EQUALITY UNDER THE LAW. Equality under the law shall not be denied or abridged because of sex, race, color, creed, or national origin."
+    },
+    {
+      "question": "What does Article 1, Section 4 of the Texas Constitution prohibit?",
+      "answer": "Requiring any religious test as a qualification for any office or public trust.",
+      "options": [
+        "The establishment of a state religion.",
+        "Public funding for religious schools.",
+        "Requiring any religious test as a qualification for any office or public trust.",
+        "Holding public office if you are an atheist."
+      ],
+      "reference": "Sec. 4. RELIGIOUS TESTS. No religious test shall ever be required as a qualification to any office, or public trust, in this State..."
+    },
+    {
+      "question": "While no religious test can be required for public office, what must a person in office acknowledge, according to Section 4?",
+      "answer": "The existence of a Supreme Being.",
+      "options": [
+        "The separation of church and state.",
+        "The authority of the Legislature.",
+        "The existence of a Supreme Being.",
+        "The supremacy of the Texas Constitution."
+      ],
+      "reference": "...nor shall any one be excluded from holding office on account of his religious sentiments, provided he acknowledge the existence of a Supreme Being."
+    },
+    {
+      "question": "Under Article 1, Section 5, a person is not disqualified from giving evidence on account of what?",
+      "answer": "His religious opinions.",
+      "options": [
+        "His criminal record.",
+        "His relationship to the defendant.",
+        "His religious opinions.",
+        "His personal interest in the case."
+      ],
+      "reference": "Sec. 5. WITNESSES NOT DISQUALIFIED BY RELIGIOUS BELIEFS; OATHS AND AFFIRMATIONS. No person shall be disqualified to give evidence in any of the Courts of this State on account of his religious opinions..."
+    },
+    {
+      "question": "According to Article 1, Section 6, no human authority ought to control or interfere with what?",
+      "answer": "The rights of conscience in matters of religion.",
+      "options": [
+        "The right to vote.",
+        "The freedom of the press.",
+        "The rights of conscience in matters of religion.",
+        "The right to a public education."
+      ],
+      "reference": "No human authority ought, in any case whatever, to control or interfere with the rights of conscience in matters of religion..."
+    },
+    {
+      "question": "In a prosecution for libel (the publication of papers investigating public officials), what can be given in evidence?",
+      "answer": "The truth of the matter.",
+      "options": [
+        "The opinion of the publisher.",
+        "The political affiliation of the official.",
+        "The truth of the matter.",
+        "The number of people who read the paper."
+      ],
+      "reference": "Sec. 8. FREEDOM OF SPEECH AND PRESS; LIBEL...and in all indictments for libels, the jury shall have the right to determine the law and the facts, under the direction of the Court, as in other cases."
+    },
+    {
+      "question": "According to Article 1, Section 9, a warrant to search a place or seize a person must be based on what?",
+      "answer": "Probable cause, supported by Oath or affirmation.",
+      "options": [
+        "The general reputation of the person.",
+        "An anonymous phone call.",
+        "An officer's intuition.",
+        "Probable cause, supported by Oath or affirmation."
+      ],
+      "reference": "...and no warrant to search any place, or to seize any person or thing, shall issue without describing them as near as may be, nor without probable cause, supported by Oath or affirmation."
+    },
+    {
+      "question": "Which of the following is a right of the accused in a criminal prosecution, according to Article 1, Section 10?",
+      "answer": "The right to be heard by himself or counsel, or both.",
+      "options": [
+        "The right to a private trial.",
+        "The right to choose the judge presiding over the case.",
+        "The right to be heard by himself or counsel, or both.",
+        "The right to delay the trial indefinitely."
+      ],
+      "reference": "In all criminal prosecutions the accused shall have a speedy public trial by an impartial jury. He shall have the right to demand the nature and cause of the accusation against him, and to have a copy thereof. He shall not be compelled to give evidence against himself, and shall have the right of being heard by himself or counsel, or both..."
+    },
+    {
+      "question": "Article 1, Section 10, states that an accused shall not be compelled to do what?",
+      "answer": "Give evidence against himself.",
+      "options": [
+        "Provide a list of witnesses.",
+        "Submit to a polygraph test.",
+        "Give evidence against himself.",
+        "Pay for court costs if found not guilty."
+      ],
+      "reference": "He shall not be compelled to give evidence against himself, and shall have the right of being heard by himself or counsel, or both..."
+    },
+    {
+      "question": "When can bail be denied for a felony less than capital, according to Section 11a?",
+      "answer": "When the person has been theretofore twice convicted of a felony.",
+      "options": [
+        "For any non-capital felony arrest.",
+        "If the person is a flight risk.",
+        "When the person has one prior felony conviction.",
+        "When the person has been theretofore twice convicted of a felony."
+      ],
+      "reference": "Sec. 11a. MULTIPLE CONVICTIONS; DENIAL OF BAIL. (a) Any person (1) accused of a felony less than capital in this State, who has been theretofore twice convicted of a felony..."
+    },
+    {
+      "question": "What is the writ of Habeas Corpus defined as in Article 1, Section 12?",
+      "answer": "A writ of right.",
+      "options": [
+        "A judicial privilege.",
+        "A writ of right.",
+        "A legislative order.",
+        "An executive decree."
+      ],
+      "reference": "Sec. 12. HABEAS CORPUS. The writ of Habeas Corpus is a writ of right, and shall never be suspended."
+    },
+    {
+      "question": "Article 1, Section 13, ensures that all courts shall be what?",
+      "answer": "Open.",
+      "options": [
+        "In session year-round.",
+        "Fair.",
+        "Open.",
+        "Appointed by the governor."
+      ],
+      "reference": "All courts shall be open, and every person for an injury done him, in his lands, goods, person or reputation, shall have remedy by due course of law."
+    },
+    {
+      "question": "What does Article 1, Section 14 prohibit?",
+      "answer": "Double Jeopardy.",
+      "options": [
+        "Bills of Attainder.",
+        "Ex Post Facto Laws.",
+        "Cruel and Unusual Punishment.",
+        "Double Jeopardy."
+      ],
+      "reference": "Sec. 14. DOUBLE JEOPARDY. No person, for the same offense, shall be twice put in jeopardy of life or liberty..."
+    },
+    {
+      "question": "Article 1, Section 15-a provides for the commitment of persons of unsound mind to custody for what purpose?",
+      "answer": "For their restraint and care.",
+      "options": [
+        "For punishment.",
+        "For their restraint and care.",
+        "For medical experimentation.",
+        "For a life term."
+      ],
+      "reference": "Sec. 15-a. COMMITMENT OF PERSONS OF UNSOUND MIND. No person shall be committed as a person of unsound mind except on competent medical or psychiatric testimony. The Legislature may enact all laws necessary to provide for the trial, adjudication of insanity and commitment of persons of unsound mind and to provide for a method of appeal from judgments rendered in such cases."
+    },
+    {
+      "question": "What is an 'ex post facto law,' which is prohibited by Article 1, Section 16?",
+      "answer": "A law that retroactively makes a previously legal act a criminal offense.",
+      "options": [
+        "A law that impairs the obligation of contracts.",
+        "A legislative act that declares someone guilty without a trial.",
+        "A law that applies to future actions only.",
+        "A law that retroactively makes a previously legal act a criminal offense."
+      ],
+      "reference": "Sec. 16. BILLS OF ATTAINDER; EX POST FACTO OR RETROACTIVE LAWS; IMPAIRING OBLIGATION OF CONTRACTS. No bill of attainder, ex post facto law, retroactive law, or any law impairing the obligation of contracts, shall be made."
+    },
+    {
+      "question": "What does Article 1, Section 18 state about imprisonment for debt?",
+      "answer": "No person shall ever be imprisoned for debt.",
+      "options": [
+        "A person can be imprisoned for debts owed to the State.",
+        "A person can be imprisoned for debt if fraud is involved.",
+        "No person shall ever be imprisoned for debt.",
+        "A person can be imprisoned for debt if the amount is over $1,000,000."
+      ],
+      "reference": "Sec. 18. IMPRISONMENT FOR DEBT. No person shall ever be imprisoned for debt."
+    },
+    {
+      "question": "According to Article 1, Section 22, what is required to convict a person of treason?",
+      "answer": "The testimony of two witnesses to the same overt act, or confession in open court.",
+      "options": [
+        "A unanimous jury verdict.",
+        "The testimony of two witnesses to the same overt act, or confession in open court.",
+        "A signed confession.",
+        "Circumstantial evidence."
+      ],
+      "reference": "Sec. 22. TREASON. Treason against the State shall consist only in levying war against it, or adhering to its enemies, giving them aid and comfort; and no person shall be convicted of treason except on the testimony of two witnesses to the same overt act, or on confession in open court."
+    },
+    {
+      "question": "Article 1, Section 25, places a restriction on the quartering of soldiers in a house. What is that restriction?",
+      "answer": "No soldier shall in time of peace be quartered in the house of any citizen without the consent of the owner.",
+      "options": [
+        "Soldiers may be quartered if they pay rent.",
+        "No soldier shall in time of peace be quartered in the house of any citizen without the consent of the owner.",
+        "Soldiers can be quartered in any house during wartime.",
+        "A homeowner can be forced to quarter soldiers if ordered by a general."
+      ],
+      "reference": "Sec. 25. QUARTERING SOLDIERS IN HOUSES. No soldier shall in time of peace be quartered in the house of any citizen without the consent of the owner, nor in time of war but in a manner prescribed by law."
+    },
+    {
+      "question": "What does Article 1, Section 26 declare to be contrary to the genius of a free government?",
+      "answer": "Perpetuities and monopolies.",
+      "options": [
+        "High taxes.",
+        "A standing army.",
+        "Perpetuities and monopolies.",
+        "A state-run lottery."
+      ],
+      "reference": "Sec. 26. PERPETUITIES AND MONOPOLIES; PRIMOGENITURE OR ENTAILMENTS. Perpetuities and monopolies are contrary to the genius of a free government, and shall never be allowed..."
+    },
+    {
+      "question": "What does Article 1, Section 29 state about the Bill of Rights?",
+      "answer": "That everything in the Bill of Rights is excepted out of the general powers of government and shall forever remain inviolate.",
+      "options": [
+        "That the Bill of Rights can be amended by a simple majority vote.",
+        "That the Legislature can suspend parts of the Bill of Rights.",
+        "That the Bill of Rights is a guide, but not legally binding.",
+        "That everything in the Bill of Rights is excepted out of the general powers of government and shall forever remain inviolate."
+      ],
+      "reference": "Sec. 29. PROVISIONS OF BILL OF RIGHTS EXCEPTED FROM POWERS OF GOVERNMENT; TO FOREVER REMAIN INVIOLATE. To guard against transgressions of the high powers herein delegated, we declare that every thing in this 'Bill of Rights' is excepted out of the general powers of government, and shall forever remain inviolate..."
+    },
+    {
+      "question": "What right does Article 1, Section 30 grant to a crime victim regarding court proceedings?",
+      "answer": "The right to be present at all public court proceedings related to the offense.",
+      "options": [
+        "The right to act as their own prosecutor.",
+        "The right to be present at all public court proceedings related to the offense.",
+        "The right to have the trial moved to their home county.",
+        "The right to cross-examine the defendant."
+      ],
+      "reference": "Sec. 30. RIGHTS OF CRIME VICTIMS. (a) A crime victim has the following rights: ... (3) the right to be present at all public court proceedings related to the offense, unless the victim is to testify and the court determines that the victim's testimony would be materially affected if the victim hears other testimony at the trial."
+    },
+    {
+      "question": "What is the subject of Article 1, Section 34 of the Texas Constitution?",
+      "answer": "The right to hunt, fish, and harvest wildlife.",
+      "options": [
+        "The right to access public beaches.",
+        "The definition of marriage.",
+        "The right to hunt, fish, and harvest wildlife.",
+        "The rights of facility residents to designate a caregiver."
+      ],
+      "reference": "Sec. 34. RIGHT TO HUNT, FISH, AND HARVEST WILDLIFE. (a) The people have the right to hunt, fish, and harvest wildlife..."
+    },
+    {
+      "question": "Article 1, Section 36 establishes a right for landowners and lessees to engage in what generally accepted practices?",
+      "answer": "Farming, ranching, timber production, horticulture, and wildlife management.",
+      "options": [
+        "Mining, oil drilling, and mineral exploration.",
+        "Farming, ranching, timber production, horticulture, and wildlife management.",
+        "Commercial development and retail sales.",
+        "Residential construction and subdivision development."
+      ],
+      "reference": "Sec. 36. RIGHT TO ENGAGE IN FARMING, RANCHING, TIMBER PRODUCTION, HORTICULTURE, AND WILDLIFE MANAGEMENT. (a) The people have the right to engage in generally accepted farm, ranch, timber production, horticulture, or wildlife management practices on real property they own or lease."
+    }
+  ],
+      "article3": [
+  {
+    "question": "According to Article 3, Section 1 of the Texas Constitution, where is the Legislative power of the State vested?",
+    "answer": "In a Senate and House of Representatives.",
+    "options": [
+      "Solely in the Senate.",
+      "In the Governor's office.",
+      "In a Senate and House of Representatives.",
+      "In the People of Texas directly."
+    ],
+    "reference": "Sec. 1. SENATE AND HOUSE OF REPRESENTATIVES. The Legislative power of this State shall be vested in a Senate and House of Representatives, which together shall be styled 'The Legislature of the State of Texas.'"
+  },
+  {
+    "question": "How many members does the Texas Senate consist of?",
+    "answer": "Thirty-one members.",
+    "options": [
+      "One hundred and fifty members.",
+      "Fifty members.",
+      "Thirty-one members.",
+      "It is based on population."
+    ],
+    "reference": "Sec. 2. MEMBERSHIP OF SENATE AND HOUSE OF REPRESENTATIVES. The Senate shall consist of thirty-one members."
+  },
+  {
+    "question": "How many members does the Texas House of Representatives consist of?",
+    "answer": "150 members.",
+    "options": [
+      "100 members.",
+      "150 members.",
+      "200 members.",
+      "31 members."
+    ],
+    "reference": "The House of Representatives shall consist of 150 members."
+  },
+  {
+    "question": "What is the term of office for Texas Senators?",
+    "answer": "Four years.",
+    "options": [
+      "Two years.",
+      "Four years.",
+      "Six years.",
+      "It varies by district."
+    ],
+    "reference": "Sec. 3. ELECTION AND TERM OF OFFICE OF SENATORS. The Senators shall be chosen by the qualified voters for the term of four years..."
+  },
+  {
+    "question": "To ensure that half of the Senate is chosen biennially, how are Senators divided after each apportionment?",
+    "answer": "By lot into two classes.",
+    "options": [
+      "By seniority.",
+      "By district number.",
+      "By political party.",
+      "By lot into two classes."
+    ],
+    "reference": "...the Senators elected after each apportionment shall be divided by lot into two classes. The seats of the Senators of the first class shall be vacated at the expiration of the first two years, and those of the second class at the expiration of four years, so that one half of the Senators shall be chosen biennially thereafter."
+  },
+  {
+    "question": "What is the term of office for members of the House of Representatives?",
+    "answer": "Two years.",
+    "options": [
+      "Two years.",
+      "Four years.",
+      "Six years.",
+      "One year."
+    ],
+    "reference": "Sec. 4. ELECTION AND TERM OF MEMBERS OF HOUSE OF REPRESENTATIVES. The Members of the House of Representatives shall be chosen by the qualified voters for the term of two years."
+  },
+  {
+    "question": "How often shall the Legislature meet?",
+    "answer": "Every two years.",
+    "options": [
+      "Annually.",
+      "Every two years.",
+      "Every four years.",
+      "Only when convened by the Governor."
+    ],
+    "reference": "Sec. 5. MEETINGS; ORDER OF BUSINESS. (a) The Legislature shall meet every two years at such time as may be provided by law and at other times when convened by the Governor."
+  },
+  {
+    "question": "What is the minimum age qualification for a Texas Senator?",
+    "answer": "Twenty-six years.",
+    "options": [
+      "Twenty-one years.",
+      "Twenty-five years.",
+      "Twenty-six years.",
+      "Thirty years."
+    ],
+    "reference": "Sec. 6. QUALIFICATIONS OF SENATORS. No person shall be a Senator, unless he... shall have attained the age of twenty-six years."
+  },
+  {
+    "question": "To be a Senator, a person must have been a resident of Texas for how long immediately preceding the election?",
+    "answer": "Five years.",
+    "options": [
+      "Two years.",
+      "Three years.",
+      "Five years.",
+      "Seven years."
+    ],
+    "reference": "Sec. 6. QUALIFICATIONS OF SENATORS. No person shall be a Senator, unless he... shall have been a resident of this State five years next preceding his election..."
+  },
+  {
+    "question": "What is the minimum age qualification for a member of the House of Representatives?",
+    "answer": "Twenty-one years.",
+    "options": [
+      "Eighteen years.",
+      "Twenty-one years.",
+      "Twenty-five years.",
+      "Twenty-six years."
+    ],
+    "reference": "Sec. 7. QUALIFICATIONS OF REPRESENTATIVES. No person shall be a Representative, unless he... shall have attained the age of twenty-one years."
+  },
+  {
+    "question": "To be a Representative, a person must have been a resident of their district for how long?",
+    "answer": "The last year thereof.",
+    "options": [
+      "Six months.",
+      "The last year thereof.",
+      "Two years.",
+      "Five years."
+    ],
+    "reference": "Sec. 7. QUALIFICATIONS OF REPRESENTATIVES. No person shall be a Representative, unless he... shall have been a resident of this State two years next preceding his election, the last year thereof a resident of the district for which he shall be chosen..."
+  },
+  {
+    "question": "According to Section 8, who is the judge of the qualifications and election of the members of each House?",
+    "answer": "Each House shall be the judge of its own members.",
+    "options": [
+      "The Governor.",
+      "The Supreme Court of Texas.",
+      "The Secretary of State.",
+      "Each House shall be the judge of its own members."
+    ],
+    "reference": "Sec. 8. EACH HOUSE JUDGE OF QUALIFICATIONS AND ELECTION OF ITS MEMBERS; ELECTION CONTESTS. Each House shall be the judge of the qualifications and election of its own members..."
+  },
+  {
+    "question": "If the office of Lieutenant Governor becomes vacant, what body convenes to elect a replacement?",
+    "answer": "The Committee of the Whole Senate.",
+    "options": [
+      "The House of Representatives.",
+      "The Governor appoints a replacement.",
+      "The Committee of the Whole Senate.",
+      "A special statewide election is held."
+    ],
+    "reference": "Sec. 9. PRESIDENT PRO TEMPORE OF SENATE... If the office of Lieutenant Governor becomes vacant, the President pro tempore of the Senate shall convene the Committee of the Whole Senate within 30 days after the vacancy occurs."
+  },
+  {
+    "question": "What constitutes a quorum to do business in each House?",
+    "answer": "Two-thirds of each House.",
+    "options": [
+      "A simple majority.",
+      "One-third of each House.",
+      "Two-thirds of each House.",
+      "All members must be present."
+    ],
+    "reference": "Sec. 10. QUORUM; ADJOURNMENTS FROM DAY TO DAY; COMPELLING ATTENDANCE. Two-thirds of each House shall constitute a quorum to do business..."
+  },
+  {
+    "question": "With the consent of what fraction of its members can a House expel a member?",
+    "answer": "Two-thirds.",
+    "options": [
+      "A simple majority.",
+      "Three-fifths.",
+      "Two-thirds.",
+      "Three-fourths."
+    ],
+    "reference": "Sec. 11. RULES OF PROCEDURE; PUNISHMENT OR EXPULSION OF MEMBER. Each House may... with the consent of two-thirds, expel a member, but not a second time for the same offencet."
+  },
+  {
+    "question": "A vote taken by either house must be a record vote with each member's vote entered in the journal for what matter?",
+    "answer": "A resolution proposing a constitutional amendment.",
+    "options": [
+      "A resolution of a purely ceremonial or honorary nature.",
+      "A resolution proposing a constitutional amendment.",
+      "Any procedural motion.",
+      "A vote to adjourn for the day."
+    ],
+    "reference": "Sec. 12. JOURNALS OF PROCEEDINGS; RECORD VOTES. (b) A vote taken by either house must be by record vote with the vote of each member entered in the journal of that house if the vote is on final passage of a bill, a resolution proposing or ratifying a constitutional amendment..."
+  },
+  {
+    "question": "If the Governor fails to issue a writ of election to fill a vacancy within 20 days, who is then authorized to order the election?",
+    "answer": "The returning officer of the district.",
+    "options": [
+      "The Secretary of State.",
+      "The presiding officer of that House.",
+      "The returning officer of the district.",
+      "The Attorney General."
+    ],
+    "reference": "Sec. 13. VACANCY IN LEGISLATURE. (a) ...should the Governor fail to issue a writ of election to fill any such vacancy within twenty days after it occurs, the returning officer of the district in which such vacancy may have happened, shall be authorized to order an election for that purpose."
+  },
+  {
+    "question": "Senators and Representatives are privileged from arrest during the legislative session, except in what cases?",
+    "answer": "Treason, felony, or breach of the peace.",
+    "options": [
+      "Any criminal case.",
+      "Any civil case.",
+      "Treason, felony, or breach of the peace.",
+      "There are no exceptions."
+    ],
+    "reference": "Sec. 14. PRIVILEGE FROM ARREST DURING LEGISLATIVE SESSION. Senators and Representatives shall, except in cases of treason, felony, or breach of the peace, be privileged from arrest during the session of the Legislature..."
+  },
+  {
+    "question": "Each House may punish a non-member for disrespectful or disorderly conduct by imprisonment for a period not to exceed what?",
+    "answer": "Forty-eight hours.",
+    "options": [
+      "Twenty-four hours.",
+      "Forty-eight hours.",
+      "Seventy-two hours.",
+      "Ten days."
+    ],
+    "reference": "Sec. 15. DISRESPECTFUL OR DISORDERLY CONDUCT; OBSTRUCTION OF PROCEEDINGS. Each House may punish, by imprisonment... provided, such imprisonment shall not, at any one time, exceed forty-eight hours."
+  },
+  {
+    "question": "The sessions of each House shall be open, with what exception?",
+    "answer": "The Senate when in Executive session.",
+    "options": [
+      "When discussing the budget.",
+      "When considering veto overrides.",
+      "The Senate when in Executive session.",
+      "There are no exceptions."
+    ],
+    "reference": "Sec. 16. OPEN SESSIONS. The sessions of each House shall be open, except the Senate when in Executive session."
+  },
+  {
+    "question": "Neither House can adjourn for more than how many days without the consent of the other?",
+    "answer": "Three days.",
+    "options": [
+      "One day.",
+      "Two days.",
+      "Three days.",
+      "One week."
+    ],
+    "reference": "Sec. 17. ADJOURNMENTS. Neither House shall, without the consent of the other, adjourn for more than three days..."
+  },
+  {
+    "question": "A Senator or Representative is ineligible to be appointed to what kind of office during their term?",
+    "answer": "Any civil office of profit under this State which shall have been created during such term.",
+    "options": [
+      "Any federal office.",
+      "Any judicial office.",
+      "Any civil office of profit under this State which shall have been created during such term.",
+      "Any municipal office."
+    ],
+    "reference": "Sec. 18. INELIGIBILITY FOR OTHER OFFICES... No Senator or Representative shall, during the term for which he was elected, be eligible to (1) any civil office of profit under this State which shall have been created, or the emoluments of which may have been increased, during such term..."
+  },
+  {
+    "question": "Which of these officials is ineligible to be a member of the Legislature during their term?",
+    "answer": "A judge of any Court.",
+    "options": [
+      "A mayor of a city.",
+      "A county commissioner.",
+      "A school board trustee.",
+      "A judge of any Court."
+    ],
+    "reference": "Sec. 19. INELIGIBILITY OF PERSONS HOLDING OTHER OFFICES. No judge of any Court, Secretary of State, Attorney General, Clerk of any Court of Record, or any person holding a lucrative office under the United States, or this State, or any foreign government shall during the term for which he is elected or appointed, be eligible to the Legislature."
+  },
+  {
+    "question": "Who is ineligible to serve in the Legislature until they have obtained a discharge for all public moneys entrusted to them?",
+    "answer": "A person who has been a collector of taxes.",
+    "options": [
+      "A former state employee.",
+      "A person who has been a collector of taxes.",
+      "A person who has declared bankruptcy.",
+      "A person who has served on a grand jury."
+    ],
+    "reference": "Sec. 20. ELIGIBILITY OF COLLECTORS OF TAXES OR PERSONS ENTRUSTED WITH PUBLIC MONEY. No person who at any time may have been a collector of taxes, or who may have been otherwise entrusted with public money, shall be eligible to the Legislature... until he shall have obtained a discharge for the amount of such collections..."
+  },
+  {
+    "question": "What protection is given to a member of the Legislature for words spoken in debate?",
+    "answer": "No member shall be questioned in any other place for words spoken in debate in either House.",
+    "options": [
+      "They have absolute immunity from slander laws.",
+      "They can be sued civilly but not charged criminally.",
+      "They are protected only if the words are true.",
+      "No member shall be questioned in any other place for words spoken in debate in either House."
+    ],
+    "reference": "Sec. 21. WORDS SPOKEN IN DEBATE. No member shall be questioned in any other place for words spoken in debate in either House."
+  },
+  {
+    "question": "What must a member of the Legislature do if they have a personal or private interest in a pending bill?",
+    "answer": "Disclose the fact to the House and not vote thereon.",
+    "options": [
+      "Vote in favor of the bill to represent their constituents.",
+      "Abstain from debate but still vote.",
+      "Disclose the fact to the House and not vote thereon.",
+      "Recuse themselves from the entire session."
+    ],
+    "reference": "Sec. 22. DISCLOSURE OF PERSONAL OR PRIVATE INTEREST IN MEASURE OR BILL; NOT TO VOTE. A member who has a personal or private interest in any measure or bill... shall disclose the fact to the House, of which he is a member, and shall not vote thereon."
+  },
+  {
+    "question": "What happens if a Senator or Representative removes their residence from the district for which they were elected?",
+    "answer": "Their office shall thereby become vacant.",
+    "options": [
+      "They must win a special election to retain their seat.",
+      "Their office shall thereby become vacant.",
+      "They can continue to serve until the end of their term.",
+      "They are censured by their respective House."
+    ],
+    "reference": "Sec. 23. VACANCY FOLLOWING REMOVAL FROM DISTRICT OR COUNTY FROM WHICH ELECTED. If any Senator or Representative remove his residence from the district or county for which he was elected, his office shall thereby become vacant..."
+  },
+  {
+    "question": "What is the maximum duration of a Regular Session of the Legislature?",
+    "answer": "One hundred and forty (140) days.",
+    "options": [
+      "Sixty days.",
+      "Ninety days.",
+      "One hundred and twenty days.",
+      "One hundred and forty (140) days."
+    ],
+    "reference": "Sec. 24. COMPENSATION AND EXPENSES OF MEMBERS OF LEGISLATURE; DURATION OF REGULAR SESSIONS. ... (b) No Regular Session shall be of longer duration than one hundred and forty (140) days."
+  },
+  {
+    "question": "Who sets the salary and per diem for members of the Legislature?",
+    "answer": "The Texas Ethics Commission, with voter approval for salary changes.",
+    "options": [
+      "The Legislature itself.",
+      "The Governor.",
+      "The Texas Ethics Commission, with voter approval for salary changes.",
+      "The Comptroller of Public Accounts."
+    ],
+    "reference": "Sec. 24a. TEXAS ETHICS COMMISSION; LEGISLATIVE SALARIES AND PER DIEM. (a) The Texas Ethics Commission is a state agency... (e) The commission may recommend the salary of the members of the legislature... (f) At each general election... the voters shall approve or disapprove the salary recommended by the commission..."
+  },
+  {
+    "question": "The Legislative Redistricting Board is created if the Legislature fails to do what?",
+    "answer": "Apportion the state into senatorial and representative districts after the census.",
+    "options": [
+      "Pass a budget.",
+      "Confirm the Governor's appointees.",
+      "Adjourn on time.",
+      "Apportion the state into senatorial and representative districts after the census."
+    ],
+    "reference": "Sec. 28. TIME FOR APPORTIONMENT; APPORTIONMENT BY LEGISLATIVE REDISTRICTING BOARD. The Legislature shall, at its first regular session after the publication of each United States decennial census, apportion the state into senatorial and representative districts... In the event the Legislature... fail to make such apportionment, same shall be done by the Legislative Redistricting Board of Texas..."
+  },
+  {
+    "question": "Who are the five members of the Legislative Redistricting Board?",
+    "answer": "The Lieutenant Governor, Speaker of the House, Attorney General, Comptroller, and Commissioner of the General Land Office.",
+    "options": [
+      "The Governor, Lieutenant Governor, Speaker of the House, Attorney General, and Secretary of State.",
+      "The Lieutenant Governor, Speaker of the House, Attorney General, Comptroller, and Commissioner of the General Land Office.",
+      "Five members of the Senate appointed by the Lieutenant Governor.",
+      "Five members of the House appointed by the Speaker."
+    ],
+    "reference": "...the Legislative Redistricting Board of Texas, which is hereby created, and shall be composed of five (5) members, as follows: The Lieutenant Governor, the Speaker of the House of Representatives, the Attorney General, the Comptroller of Public Accounts and the Commissioner of the General Land Office..."
+  },
+  {
+    "question": "What is the official enacting clause of all laws in Texas?",
+    "answer": "Be it enacted by the Legislature of the State of Texas.",
+    "options": [
+      "The people of Texas hereby declare...",
+      "It is ordered by the State of Texas...",
+      "By the authority vested in this Legislature...",
+      "Be it enacted by the Legislature of the State of Texas."
+    ],
+    "reference": "Sec. 29. ENACTING CLAUSE OF LAWS. The enacting clause of all laws shall be: 'Be it enacted by the Legislature of the State of Texas.'"
+  },
+  {
+    "question": "Can a bill be amended during its passage through either House so as to change its original purpose?",
+    "answer": "No.",
+    "options": [
+      "Yes, with a two-thirds vote.",
+      "Yes, if the amendment is approved by the Governor.",
+      "No.",
+      "Only if it is a revenue bill."
+    ],
+    "reference": "Sec. 30. LAWS PASSED BY BILL; AMENDMENTS CHANGING PURPOSE PROHIBITED. No law shall be passed, except by bill, and no bill shall be so amended in its passage through either House, as to change its original purpose."
+  },
+  {
+    "question": "What is required for a bill to have the force of a law?",
+    "answer": "It must have been read on three several days in each House.",
+    "options": [
+      "It must be sponsored by at least ten members.",
+      "It must have a public hearing in each county.",
+      "It must have been read on three several days in each House.",
+      "It must be approved by the Attorney General."
+    ],
+    "reference": "Sec. 32. READING ON THREE SEVERAL DAYS. No bill shall have the force of a law, until it has been read on three several days in each House..."
+  },
+  {
+    "question": "Where must all bills for raising revenue originate?",
+    "answer": "In the House of Representatives.",
+    "options": [
+      "In the Senate.",
+      "In the Comptroller's office.",
+      "In either House.",
+      "In the House of Representatives."
+    ],
+    "reference": "Sec. 33. ORIGINATION OF REVENUE BILLS IN HOUSE OF REPRESENTATIVES. All bills for raising revenue shall originate in the House of Representatives."
+  },
+  {
+    "question": "Except for general appropriation bills, a bill shall not contain more than how many subjects?",
+    "answer": "One subject.",
+    "options": [
+      "One subject.",
+      "Two subjects.",
+      "Three subjects.",
+      "There is no limit."
+    ],
+    "reference": "Sec. 35. SUBJECTS AND TITLES OF BILLS. (a) No bill, (except general appropriation bills...) shall contain more than one subject."
+  },
+  {
+    "question": "How long after the adjournment of a legislative session does a new law typically take effect?",
+    "answer": "Ninety days.",
+    "options": [
+      "Immediately upon passage.",
+      "Thirty days.",
+      "Sixty days.",
+      "Ninety days."
+    ],
+    "reference": "Sec. 39. TIME OF TAKING EFFECT OF LAWS. No law passed by the Legislature, except the general appropriation act, shall take effect or go into force until ninety days after the adjournment of the session..."
+  },
+  {
+    "question": "When the Legislature is convened in a special session, what is the duration limited to?",
+    "answer": "Thirty days.",
+    "options": [
+      "Ten days.",
+      "Thirty days.",
+      "Sixty days.",
+      "There is no time limit."
+    ],
+    "reference": "Sec. 40. SPECIAL SESSIONS; SUBJECTS OF LEGISLATION; DURATION. ...and no such session shall be of longer duration than thirty days."
+  },
+  {
+    "question": "How are votes given in all elections by the Senate and House of Representatives, except for their own officers?",
+    "answer": "Viva voce.",
+    "options": [
+      "By secret ballot.",
+      "By a show of hands.",
+      "By electronic tabulation.",
+      "Viva voce."
+    ],
+    "reference": "Sec. 41. ELECTIONS BY SENATE AND HOUSE OF REPRESENTATIVES. In all elections by the Senate and House of Representatives, jointly or separately, the vote shall be given viva voce, except in the election of their officers."
+  },
+  {
+    "question": "The Legislature may authorize charitable bingo games conducted by which of the following organizations?",
+    "answer": "A church, synagogue, or volunteer fire department.",
+    "options": [
+      "Any for-profit business.",
+      "Any individual for personal gain.",
+      "A political action committee.",
+      "A church, synagogue, or volunteer fire department."
+    ],
+    "reference": "Sec. 47. ... (b) The Legislature by law may authorize and regulate bingo games conducted by a church, synagogue, religious society, volunteer fire department, nonprofit veterans organization, fraternal organization, or nonprofit organization supporting medical research or treatment programs."
+  },
+  {
+    "question": "What is the maximum debt the State can create to supply 'casual deficiencies of revenue'?",
+    "answer": "Two hundred thousand dollars.",
+    "options": [
+      "One hundred thousand dollars.",
+      "Two hundred thousand dollars.",
+      "Five hundred thousand dollars.",
+      "One million dollars."
+    ],
+    "reference": "Sec. 49. STATE DEBTS. (a) No debt shall be created by or on behalf of the State, except: (1) to supply casual deficiencies of revenue, not to exceed in the aggregate at any one time two hundred thousand dollars;"
+  },
+  {
+    "question": "Except in an emergency, the Legislature cannot pass an appropriation bill that exceeds what?",
+    "answer": "The cash and anticipated revenue of the funds from which the appropriation is made.",
+    "options": [
+      "The previous biennium's budget.",
+      "The Governor's recommended amount.",
+      "10% of the state's GDP.",
+      "The cash and anticipated revenue of the funds from which the appropriation is made."
+    ],
+    "reference": "Sec. 49a. ... (b) Except in the case of emergency and imperative public necessity... no appropriation in excess of the cash and anticipated revenue of the funds from which such appropriation is to be made shall be valid."
+  },
+  {
+    "question": "The Veterans' Land Board is composed of the Commissioner of the General Land Office and how many citizens?",
+    "answer": "Two citizens.",
+    "options": [
+      "One citizen.",
+      "Two citizens.",
+      "Three citizens.",
+      "Five citizens."
+    ],
+    "reference": "Sec. 49-b. VETERANS' LAND BOARD... (a) The Veterans' Land Board shall be composed of the Commissioner of the General Land Office and two (2) citizens of the State of Texas..."
+  },
+  {
+    "question": "According to Section 51, the Legislature has no power to grant public money to any individual, with what exception?",
+    "answer": "In cases of public calamity.",
+    "options": [
+      "For educational scholarships.",
+      "To support small businesses.",
+      "In cases of public calamity.",
+      "For funding political campaigns."
+    ],
+    "reference": "Sec. 51. GRANTS OF PUBLIC MONEY PROHIBITED. The Legislature shall have no power to make any grant... of public moneys to any individual... provided that the provisions of this Section shall not be construed so as to prevent the grant of aid in cases of public calamity."
+  },
+  {
+    "question": "What does Section 56 of Article 3 generally prohibit?",
+    "answer": "The passage of local or special laws.",
+    "options": [
+      "The creation of new counties.",
+      "The raising of taxes.",
+      "The passage of local or special laws.",
+      "The suspension of any law."
+    ],
+    "reference": "Sec. 56. PROHIBITED LOCAL AND SPECIAL LAWS. (a) The Legislature shall not, except as otherwise provided in this Constitution, pass any local or special law..."
+  },
+  {
+    "question": "Before a local or special law can be passed, what must happen?",
+    "answer": "Notice of the intention to apply for the law must be published in the locality at least 30 days prior.",
+    "options": [
+      "It must be approved by the local city council.",
+      "A statewide referendum must be held.",
+      "It must be signed by the Governor first.",
+      "Notice of the intention to apply for the law must be published in the locality at least 30 days prior."
+    ],
+    "reference": "Sec. 57. NOTICE OF INTENTION TO APPLY FOR LOCAL OR SPECIAL LAW. No local or special law shall be passed, unless notice of the intention to apply therefor shall have been published in the locality... at least thirty days prior to the introduction into the Legislature of such bill..."
+  },
+  {
+    "question": "Where shall the Legislature hold its sessions, according to Section 58?",
+    "answer": "At the City of Austin.",
+    "options": [
+      "In any city with a population over 1 million.",
+      "In a location that rotates between major cities.",
+      "At the City of Austin.",
+      "Wherever the Governor designates."
+    ],
+    "reference": "Sec. 58. SEAT OF GOVERNMENT. The Legislature shall hold its sessions at the City of Austin, which is hereby declared to be the seat of government."
+  }
+],
+    "article4": [
+  {
+    "question": "Which of the following is NOT listed as a member of the Executive Department of the State of Texas in Article 4, Section 1?",
+    "answer": "Chief Justice of the Supreme Court",
+    "options": [
+      "Governor",
+      "Lieutenant Governor",
+      "Comptroller of Public Accounts",
+      "Chief Justice of the Supreme Court"
+    ],
+    "reference": "Sec. 1. OFFICERS CONSTITUTING EXECUTIVE DEPARTMENT. The Executive Department of the State shall consist of a Governor, who shall be the Chief Executive Officer of the State, a Lieutenant Governor, Secretary of State, Comptroller of Public Accounts, Commissioner of the General Land Office, and Attorney General."
+  },
+  {
+    "question": "According to Article 4, Section 2, which officer of the Executive Department is NOT elected by the qualified voters of the State?",
+    "answer": "Secretary of State",
+    "options": [
+      "Governor",
+      "Lieutenant Governor",
+      "Secretary of State",
+      "Attorney General"
+    ],
+    "reference": "Sec. 2. ELECTION OF OFFICERS OF EXECUTIVE DEPARTMENT. All the above officers of the Executive Department (except Secretary of State) shall be elected by the qualified voters of the State..."
+  },
+  {
+    "question": "In the case of a tie vote for an Executive Office, how is the winner chosen?",
+    "answer": "By a joint vote of both Houses of the Legislature.",
+    "options": [
+      "A runoff election is held.",
+      "The Governor appoints the winner.",
+      "By a joint vote of both Houses of the Legislature.",
+      "The Secretary of State casts the deciding vote."
+    ],
+    "reference": "But, if two or more persons shall have the highest and an equal number of votes for either of said offices, one of them shall be immediately chosen to such office by joint vote of both Houses of the Legislature."
+  },
+  {
+    "question": "If a person who received the highest number of votes for Governor dies or fails to qualify, who becomes Governor?",
+    "answer": "The person having the highest number of votes for Lieutenant Governor.",
+    "options": [
+      "The Speaker of the House.",
+      "The previous Governor remains in office.",
+      "A special election is held.",
+      "The person having the highest number of votes for Lieutenant Governor."
+    ],
+    "reference": "Sec. 3a. ...If, at the time the Legislature shall canvass the election returns for the offices of Governor and Lieutenant Governor, the person receiving the highest number of votes for the office of Governor... has died, fails to qualify, or for any other reason is unable to assume the office of Governor, then the person having the highest number of votes for the office of Lieutenant Governor shall become Governor..."
+  },
+  {
+    "question": "What is the term of office for the Governor of Texas?",
+    "answer": "Four years.",
+    "options": [
+      "Two years.",
+      "Four years.",
+      "Six years.",
+      "There is no term limit."
+    ],
+    "reference": "Sec. 4. INSTALLATION OF GOVERNOR; TERM; ELIGIBILITY. The Governor elected at the general election in 1974, and thereafter... shall hold his office for the term of four years..."
+  },
+  {
+    "question": "What is the minimum age requirement to be eligible for the office of Governor?",
+    "answer": "Thirty years of age.",
+    "options": [
+      "Twenty-one years of age.",
+      "Twenty-five years of age.",
+      "Thirty years of age.",
+      "Thirty-five years of age."
+    ],
+    "reference": "He shall be at least thirty years of age, a citizen of the United States, and shall have resided in this State at least five years immediately preceding his election."
+  },
+  {
+    "question": "According to Article 4, Section 6, which of the following is the Governor prohibited from doing while in office?",
+    "answer": "Holding any other office: civil, military or corporate.",
+    "options": [
+      "Owning property in another state.",
+      "Receiving a pension from previous government service.",
+      "Holding any other office: civil, military or corporate.",
+      "Serving on the board of a non-profit organization."
+    ],
+    "reference": "Sec. 6. HOLDING OTHER OFFICE... During the time he holds the office of Governor, he shall not hold any other office: civil, military or corporate; nor shall he practice any profession, and receive compensation..."
+  },
+  {
+    "question": "The Governor has the power to call forth the militia for what purpose?",
+    "answer": "To execute the laws of the State, to suppress insurrections, and to repel invasions.",
+    "options": [
+      "To assist in local law enforcement operations.",
+      "To provide security for state buildings.",
+      "To execute the laws of the State, to suppress insurrections, and to repel invasions.",
+      "To serve as a personal guard for the Governor."
+    ],
+    "reference": "Sec. 7. GOVERNOR AS COMMANDER-IN-CHIEF OF MILITARY FORCES. He shall have power to call forth the militia to execute the laws of the State, to suppress insurrections, and to repel invasions."
+  },
+  {
+    "question": "Under what circumstance may the Governor convene the Legislature at a place other than the seat of Government?",
+    "answer": "If the seat of Government is in possession of the public enemy or in case of the prevalence of disease threat.",
+    "options": [
+      "For the convenience of the legislators.",
+      "If there is a major infrastructure failure in Austin.",
+      "If the Governor believes a different location would be more productive.",
+      "If the seat of Government is in possession of the public enemy or in case of the prevalence of disease threat."
+    ],
+    "reference": "Sec. 8. CONVENING LEGISLATURE ON EXTRAORDINARY OCCASIONS. (a) The Governor may, on extraordinary occasions, convene the Legislature at the seat of Government, or at a different place, in case that should be in possession of the public enemy or in case of the prevalence of disease threat."
+  },
+  {
+    "question": "What is the Governor's primary duty regarding the laws of the state, as stated in Section 10?",
+    "answer": "He shall cause the laws to be faithfully executed.",
+    "options": [
+      "He shall have the power to interpret the laws.",
+      "He shall cause the laws to be faithfully executed.",
+      "He can suspend laws he disagrees with.",
+      "He is responsible for writing new laws."
+    ],
+    "reference": "Sec. 10. EXECUTION OF LAWS AND CONDUCT OF BUSINESS... He shall cause the laws to be faithfully executed..."
+  },
+  {
+    "question": "In criminal cases, except for treason and impeachment, the Governor has the power to grant pardons based on what?",
+    "answer": "The written signed recommendation and advice of the Board of Pardons and Paroles.",
+    "options": [
+      "His own sole discretion.",
+      "A majority vote of the Legislature.",
+      "The recommendation of the Attorney General.",
+      "The written signed recommendation and advice of the Board of Pardons and Paroles."
+    ],
+    "reference": "Sec. 11. ... (b) In all criminal cases, except treason and impeachment, the Governor shall have power... on the written signed recommendation and advice of the Board of Pardons and Paroles, or a majority thereof, to grant reprieves and commutations of punishment and pardons..."
+  },
+  {
+    "question": "How long is the single reprieve that the Governor has the power to grant in any capital case?",
+    "answer": "Not to exceed thirty (30) days.",
+    "options": [
+      "Not to exceed ten (10) days.",
+      "Not to exceed thirty (30) days.",
+      "Not to exceed sixty (60) days.",
+      "Not to exceed ninety (90) days."
+    ],
+    "reference": "The Governor shall have the power to grant one reprieve in any capital case for a period not to exceed thirty (30) days..."
+  },
+  {
+    "question": "According to Section 11A, which branch of government has the power to suspend the imposition of a sentence and place a defendant on probation?",
+    "answer": "The Courts of the State of Texas.",
+    "options": [
+      "The Legislature.",
+      "The Governor.",
+      "The Board of Pardons and Paroles.",
+      "The Courts of the State of Texas."
+    ],
+    "reference": "Sec. 11A. SUSPENSION OF SENTENCE; PROBATION. The Courts of the State of Texas having original jurisdiction of criminal actions shall have the power, after conviction, to suspend the imposition or execution of sentence and to place the defendant upon probation..."
+  },
+  {
+    "question": "How are vacancies in State or district offices filled, unless otherwise provided by law?",
+    "answer": "By appointment of the Governor.",
+    "options": [
+      "By a special election.",
+      "By the Lieutenant Governor.",
+      "By the Legislature.",
+      "By appointment of the Governor."
+    ],
+    "reference": "Sec. 12. VACANCIES IN STATE OR DISTRICT OFFICES. (a) All vacancies in State or district offices, except members of the Legislature, shall be filled unless otherwise provided by law by appointment of the Governor."
+  },
+  {
+    "question": "If the Governor vetoes a bill, what vote is required by both Houses of the Legislature to override the veto and make it law?",
+    "answer": "A vote of two-thirds of the members present.",
+    "options": [
+      "A simple majority of the members present.",
+      "A vote of three-fifths of the members present.",
+      "A vote of two-thirds of the members present.",
+      "A unanimous vote."
+    ],
+    "reference": "If after such reconsideration, two-thirds of the members present agree to pass the bill, it shall be sent... to the other House... and, if approved by two-thirds of the members of that House, it shall become a law..."
+  },
+  {
+    "question": "What happens if a bill is not returned by the Governor with his objections within ten days (Sundays excepted)?",
+    "answer": "It shall be a law, in like manner as if he had signed it.",
+    "options": [
+      "The bill is automatically vetoed.",
+      "The Legislature must vote on it again.",
+      "It shall be a law, in like manner as if he had signed it.",
+      "It must be resubmitted in the next session."
+    ],
+    "reference": "If any bill shall not be returned by the Governor with his objections within ten days (Sundays excepted) after it shall have been presented to him, the same shall be a law, in like manner as if he had signed it..."
+  },
+  {
+    "question": "What special power does the Governor have regarding bills containing several items of appropriation?",
+    "answer": "He may object to one or more of such items, and approve the other portion of the bill.",
+    "options": [
+      "He must approve or veto the entire bill.",
+      "He can reduce the amount of any appropriation item.",
+      "He may object to one or more of such items, and approve the other portion of the bill.",
+      "He can add new appropriation items to the bill."
+    ],
+    "reference": "If any bill presented to the Governor contains several items of appropriation he may object to one or more of such items, and approve the other portion of the bill."
+  },
+  {
+    "question": "By virtue of his office, the Lieutenant Governor holds what position?",
+    "answer": "President of the Senate.",
+    "options": [
+      "Speaker of the House.",
+      "Secretary of State.",
+      "President of the Senate.",
+      "Attorney General."
+    ],
+    "reference": "Sec. 16. LIEUTENANT GOVERNOR. ... (b) The Lieutenant Governor shall by virtue of his office be President of the Senate..."
+  },
+  {
+    "question": "When does the Lieutenant Governor have the power to cast a vote in the Senate?",
+    "answer": "When the Senate is equally divided.",
+    "options": [
+      "On all questions.",
+      "Only on procedural matters.",
+      "When the Senate is equally divided.",
+      "Never, they only preside."
+    ],
+    "reference": "...and shall have, when in Committee of the Whole, a right to debate and vote on all questions; and when the Senate is equally divided to give the casting vote."
+  },
+  {
+    "question": "What does the Seal of the State of Texas consist of?",
+    "answer": "A Star of five points encircled by olive and live oak branches.",
+    "options": [
+      "A lone star with the words 'Don't Tread on Me'.",
+      "An image of the Alamo with six flags.",
+      "A Star of five points encircled by olive and live oak branches.",
+      "An eagle perched on a cactus."
+    ],
+    "reference": "Sec. 19. SEAL OF STATE. ... The Seal of the State shall be a Star of five points encircled by olive and live oak branches, and the words 'The State of Texas.'"
+  },
+  {
+    "question": "How does the Secretary of State assume office?",
+    "answer": "Appointed by the Governor, by and with the advice and consent of the Senate.",
+    "options": [
+      "Elected by the qualified voters of the State.",
+      "Appointed by the Legislature.",
+      "Appointed by the Governor, by and with the advice and consent of the Senate.",
+      "The position is held by the Lieutenant Governor ex officio."
+    ],
+    "reference": "Sec. 21. SECRETARY OF STATE. There shall be a Secretary of State, who shall be appointed by the Governor, by and with the advice and consent of the Senate..."
+  },
+  {
+    "question": "What is a primary duty of the Attorney General?",
+    "answer": "To represent the State in all suits and pleas in the Supreme Court of the State.",
+    "options": [
+      "To oversee all local law enforcement agencies.",
+      "To prosecute all felony cases in the state.",
+      "To serve as the state's chief election officer.",
+      "To represent the State in all suits and pleas in the Supreme Court of the State."
+    ],
+    "reference": "Sec. 22. ATTORNEY GENERAL. The Attorney General shall represent the State in all suits and pleas in the Supreme Court of the State in which the State may be a party..."
+  },
+  {
+    "question": "What is the term of office for elected state officers like the Comptroller and Attorney General?",
+    "answer": "Four years.",
+    "options": [
+      "Two years.",
+      "Four years.",
+      "Six years.",
+      "Eight years."
+    ],
+    "reference": "Sec. 23. TERM AND SALARY OF ELECTED STATE OFFICERS... The Comptroller of Public Accounts, the Commissioner of the General Land Office, the Attorney General, and any statutory State officer who is elected by the electorate of Texas at large... shall each hold office for the term of four years."
+  },
+  {
+    "question": "What must officers of the Executive Department and managers of State institutions do semi-annually?",
+    "answer": "Make a report under oath to the Governor of all moneys received and disbursed.",
+    "options": [
+      "Undergo a performance review.",
+      "Publish their budget in a newspaper.",
+      "Submit to a financial audit by the Comptroller.",
+      "Make a report under oath to the Governor of all moneys received and disbursed."
+    ],
+    "reference": "Sec. 24. ACCOUNTS AND REPORTS OF EXECUTIVE OFFICERS TO GOVERNOR... An account shall be kept by the officers of the Executive Department, and by all officers and managers of State institutions, of all moneys... and a semi-annual report thereof shall be made to the Governor under oath."
+  },
+  {
+    "question": "An officer or manager who wilfully makes a false report to the Governor is guilty of what?",
+    "answer": "Perjury.",
+    "options": [
+      "Official Oppression.",
+      "A Class A Misdemeanor.",
+      "Contempt of the Legislature.",
+      "Perjury."
+    ],
+    "reference": "...and any officer or manager who, at any time, shall wilfully make a false report or give false information, shall be guilty of perjury, and so adjudged, and punished accordingly, and removed from office."
+  },
+  {
+    "question": "What is the term of office for a Notary Public in Texas?",
+    "answer": "Not less than two years nor more than four years.",
+    "options": [
+      "One year.",
+      "Not less than two years nor more than four years.",
+      "Exactly four years.",
+      "A life term upon appointment."
+    ],
+    "reference": "Sec. 26. NOTARIES PUBLIC. ... (b) The terms of office of Notaries Public shall be not less than two years nor more than four years as provided by law."
+  }
+],
+    "article5": [
+  {
+    "question": "According to Article 5, Section 1, the judicial power of the State of Texas is vested in which of the following courts?",
+    "answer": "One Supreme Court, one Court of Criminal Appeals, Courts of Appeals, and District Courts, among others.",
+    "options": [
+      "Only a Supreme Court and District Courts.",
+      "One Supreme Court, one Court of Criminal Appeals, Courts of Appeals, and District Courts, among others.",
+      "Only in a Supreme Court.",
+      "Federal Courts, State Courts, and Municipal Courts."
+    ],
+    "reference": "Sec. 1. JUDICIAL POWER VESTED IN COURTS; LEGISLATIVE POWER REGARDING COURTS. The judicial power of this State shall be vested in one Supreme Court, in one Court of Criminal Appeals, in Courts of Appeals, in District Courts, in County Courts, in Commissioners Courts, in Courts of Justices of the Peace, and in such other courts as may be provided by law."
+  },
+  {
+    "question": "Under what circumstance does the office of a Justice or Judge of an Appellate or District Court become vacant due to age?",
+    "answer": "On the expiration of the term during which the incumbent reaches the age of seventy-five (75) years.",
+    "options": [
+      "Immediately upon turning 70 years old.",
+      "At the end of the calendar year in which they turn 75.",
+      "On the expiration of the term during which the incumbent reaches the age of seventy-five (75) years.",
+      "They may serve for life, regardless of age."
+    ],
+    "reference": "Sec. 1-a. ... The office of every such Justice and Judge shall become vacant on the expiration of the term during which the incumbent reaches the age of seventy-five (75) years or such earlier age, not less than seventy (70) years, as the Legislature may prescribe..."
+  },
+  {
+    "question": "The State Commission on Judicial Conduct is composed of how many members?",
+    "answer": "Thirteen (13) members.",
+    "options": [
+      "Seven (7) members.",
+      "Nine (9) members.",
+      "Eleven (11) members.",
+      "Thirteen (13) members."
+    ],
+    "reference": "Sec. 1-a. ...(2) The State Commission on Judicial Conduct consists of thirteen (13) members, to wit:..."
+  },
+  {
+    "question": "Which of the following is NOT a valid reason for the State Commission on Judicial Conduct to recommend removal of a judge from office?",
+    "answer": "The judge's political affiliation.",
+    "options": [
+      "Wilful or persistent violation of rules promulgated by the Supreme Court of Texas.",
+      "Incompetence in performing the duties of the office.",
+      "The judge's political affiliation.",
+      "Willful violation of the Code of Judicial Conduct."
+    ],
+    "reference": "Sec. 1-a. ...(6)A. Any Justice or Judge... may... be removed from office for willful or persistent violation of rules promulgated by the Supreme Court of Texas, incompetence in performing the duties of the office, willful violation of the Code of Judicial Conduct, or willful or persistent conduct that is clearly inconsistent with the proper performance of his duties..."
+  },
+  {
+    "question": "How many Justices make up the Supreme Court of Texas?",
+    "answer": "A Chief Justice and eight Justices.",
+    "options": [
+      "A Chief Justice and six Justices.",
+      "A Chief Justice and eight Justices.",
+      "Nine Justices of equal standing.",
+      "A number determined by the Legislature each session."
+    ],
+    "reference": "Sec. 2. SUPREME COURT; JUSTICES. (a) The Supreme Court shall consist of the Chief Justice and eight Justices..."
+  },
+  {
+    "question": "What is the minimum age requirement to be eligible to serve as a Justice of the Supreme Court?",
+    "answer": "Thirty-five years.",
+    "options": [
+      "Twenty-five years.",
+      "Thirty years.",
+      "Thirty-five years.",
+      "Forty years."
+    ],
+    "reference": "Sec. 2. ...(b) No person shall be eligible to serve in the office of Chief Justice or Justice of the Supreme Court unless the person: ... (3) has attained the age of thirty-five years;"
+  },
+  {
+    "question": "To be eligible for the Supreme Court, a person must have been a practicing lawyer or judge for a combined total of at least how many years?",
+    "answer": "Ten years.",
+    "options": [
+      "Five years.",
+      "Eight years.",
+      "Ten years.",
+      "Twelve years."
+    ],
+    "reference": "Sec. 2. ...(b)(4) has been either: (A) a practicing lawyer licensed in the State of Texas for at least ten years; or (B) a practicing lawyer licensed in the State of Texas and judge of a state court or county court... for a combined total of at least ten years;"
+  },
+  {
+    "question": "What is the appellate jurisdiction of the Supreme Court?",
+    "answer": "It extends to all cases except in criminal law matters.",
+    "options": [
+      "It is limited to cases involving the constitutionality of a statute.",
+      "It extends to all cases except in criminal law matters.",
+      "It only hears appeals from District Courts.",
+      "It has no appellate jurisdiction."
+    ],
+    "reference": "Sec. 3. JURISDICTION OF SUPREME COURT. (a) ...Its appellate jurisdiction shall be final and shall extend to all cases except in criminal law matters..."
+  },
+  {
+    "question": "The Supreme Court has the power to issue which writ, which is necessary for a person to be brought before a court?",
+    "answer": "Writ of habeas corpus.",
+    "options": [
+      "Writ of mandamus.",
+      "Writ of certiorari.",
+      "Writ of quo warranto.",
+      "Writ of habeas corpus."
+    ],
+    "reference": "The Supreme Court and the Justices thereof shall have power to issue writs of habeas corpus, as may be prescribed by law..."
+  },
+  {
+    "question": "What power does the Legislature have regarding direct appeals to the Supreme Court?",
+    "answer": "To provide by law for a direct appeal from a trial court order granting or denying an injunction based on the constitutionality of a statute.",
+    "options": [
+      "The Legislature cannot regulate appeals to the Supreme Court.",
+      "To require all felony cases to be appealed directly to the Supreme Court.",
+      "To provide by law for a direct appeal from a trial court order granting or denying an injunction based on the constitutionality of a statute.",
+      "To prohibit all direct appeals to the Supreme Court."
+    ],
+    "reference": "Sec. 3-b. DIRECT APPEAL FROM ORDER GRANTING OR DENYING INJUNCTION. The Legislature shall have the power to provide by law, for an appeal direct to the Supreme Court of this State from an order of any trial court granting or denying an interlocutory or permanent injunction on the grounds of the constitutionality or unconstitutionality of any statute of this State..."
+  },
+  {
+    "question": "How many Judges make up the Court of Criminal Appeals?",
+    "answer": "Eight Judges and one Presiding Judge.",
+    "options": [
+      "Six Judges and one Presiding Judge.",
+      "Eight Judges and one Presiding Judge.",
+      "Nine Judges of equal standing.",
+      "Twelve Judges."
+    ],
+    "reference": "Sec. 4. COURT OF CRIMINAL APPEALS; JUDGES. (a) The Court of Criminal Appeals shall consist of eight Judges and one Presiding Judge."
+  },
+  {
+    "question": "When the Court of Criminal Appeals sits 'en banc' to hear a case, how many Judges constitute a quorum?",
+    "answer": "Five Judges.",
+    "options": [
+      "Three Judges.",
+      "Five Judges.",
+      "Seven Judges.",
+      "All nine Judges."
+    ],
+    "reference": "When convened en banc, five Judges shall constitute a quorum and the concurrence of five Judges shall be necessary for a decision."
+  },
+  {
+    "question": "According to Article 5, Section 5, the appeal of all cases in which the death penalty has been assessed shall be to which court?",
+    "answer": "The Court of Criminal Appeals.",
+    "options": [
+      "The Supreme Court.",
+      "The Court of Appeals.",
+      "The District Court.",
+      "The Court of Criminal Appeals."
+    ],
+    "reference": "Sec. 5. JURISDICTION OF COURT OF CRIMINAL APPEALS. ... (b) The appeal of all cases in which the death penalty has been assessed shall be to the Court of Criminal Appeals."
+  },
+  {
+    "question": "What is 'discretionary review' by the Court of Criminal Appeals?",
+    "answer": "A review of a Court of Appeals decision that is not a matter of right, but of sound judicial discretion.",
+    "options": [
+      "A mandatory review of all felony convictions.",
+      "A review that can be requested by any citizen.",
+      "A review of a Court of Appeals decision that is not a matter of right, but of sound judicial discretion.",
+      "A review conducted by the Governor."
+    ],
+    "reference": "In addition, the Court of Criminal Appeals may, on its own motion, review a decision of a Court of Appeals in a criminal case... Discretionary review by the Court of Criminal Appeals is not a matter of right, but of sound judicial discretion."
+  },
+  {
+    "question": "What is the term of office for a Clerk of an Appellate Court?",
+    "answer": "Four years.",
+    "options": [
+      "Two years.",
+      "Four years.",
+      "Six years.",
+      "It depends on the court."
+    ],
+    "reference": "Sec. 5a. CLERKS OF APPELLATE COURTS. ...may hold office for four years subject to removal by the appointing court for good cause..."
+  },
+  {
+    "question": "Justices of the Courts of Appeals must have the same qualifications as whom?",
+    "answer": "Justices of the Supreme Court.",
+    "options": [
+      "District Court Judges.",
+      "The Attorney General.",
+      "Justices of the Supreme Court.",
+      "Members of the Legislature."
+    ],
+    "reference": "Sec. 6. COURTS OF APPEALS; JUSTICES; JURISDICTION. (a) ... The Justices shall have the qualifications prescribed for Justices of the Supreme Court."
+  },
+  {
+    "question": "To be eligible for election as a district judge, a person must have been a practicing lawyer or judge for how many years preceding the election?",
+    "answer": "Eight years.",
+    "options": [
+      "Four years.",
+      "Six years.",
+      "Eight years.",
+      "Ten years."
+    ],
+    "reference": "Sec. 7. ... (b) To be eligible for appointment or election as a district judge, a person must: ... (3) have been a practicing lawyer or a Judge of a Court in this State, or both combined, for eight years next preceding the judge's election..."
+  },
+  {
+    "question": "What is the term of office for a district judge?",
+    "answer": "Four years.",
+    "options": [
+      "Two years.",
+      "Four years.",
+      "Six years.",
+      "Eight years."
+    ],
+    "reference": "Sec. 7. ... (c) A district judge shall hold the office for the term of four years..."
+  },
+  {
+    "question": "If the Judicial Districts Board fails to make a statewide apportionment after a census, what body is then required to do so?",
+    "answer": "The Legislative Redistricting Board.",
+    "options": [
+      "The Legislature.",
+      "The Supreme Court.",
+      "The Governor.",
+      "The Legislative Redistricting Board."
+    ],
+    "reference": "Sec. 7a. ... If the Judicial Districts Board fails to make a statewide apportionment by that date, the Legislative Redistricting Board established by Article III, Section 28, of this constitution shall make a statewide reapportionment of the judicial districts..."
+  },
+  {
+    "question": "What kind of jurisdiction does a District Court have over the County Commissioners Court?",
+    "answer": "Appellate jurisdiction and general supervisory control.",
+    "options": [
+      "None.",
+      "Only original jurisdiction.",
+      "Only appellate jurisdiction.",
+      "Appellate jurisdiction and general supervisory control."
+    ],
+    "reference": "Sec. 8. JURISDICTION OF DISTRICT COURTS. ... The District Court shall have appellate jurisdiction and general supervisory control over the County Commissioners Court..."
+  },
+  {
+    "question": "When is a judge disqualified from sitting in a case?",
+    "answer": "When the judge may be interested in the case, or is related to one of the parties.",
+    "options": [
+      "If the judge has previously ruled against one of the attorneys.",
+      "If the judge resides in the same county as one of the parties.",
+      "When the judge may be interested in the case, or is related to one of the parties.",
+      "If the judge has publicly expressed an opinion on a similar legal issue."
+    ],
+    "reference": "Sec. 11. DISQUALIFICATION OF JUDGES... No judge shall sit in any case wherein the judge may be interested, or where either of the parties may be connected with the judge, either by affinity or consanguinity... or when the judge shall have been counsel in the case."
+  },
+  {
+    "question": "What is an 'indictment' as defined in Article 5, Section 12?",
+    "answer": "A written instrument presented to a court by a grand jury charging a person with an offense.",
+    "options": [
+      "A formal complaint filed by a citizen.",
+      "A written instrument presented to a court by an attorney for the State.",
+      "An arrest warrant signed by a magistrate.",
+      "A written instrument presented to a court by a grand jury charging a person with an offense."
+    ],
+    "reference": "Sec. 12. ... (b) An indictment is a written instrument presented to a court by a grand jury charging a person with the commission of an offense."
+  },
+  {
+    "question": "In the District Courts, how many members compose a grand jury?",
+    "answer": "Twelve persons.",
+    "options": [
+      "Six persons.",
+      "Nine persons.",
+      "Twelve persons.",
+      "Sixteen persons."
+    ],
+    "reference": "Sec. 13. GRAND AND PETIT JURIES IN DISTRICT COURTS: COMPOSITION AND VERDICT. Grand and petit juries in the District Courts shall be composed of twelve persons..."
+  },
+  {
+    "question": "How many members of a grand jury constitute a quorum to transact business and present bills?",
+    "answer": "Nine members.",
+    "options": [
+      "Six members.",
+      "Seven members.",
+      "Nine members.",
+      "All twelve members."
+    ],
+    "reference": "...but nine members of a grand jury shall be a quorum to transact business and present bills."
+  },
+  {
+    "question": "What is the term of office for a County Judge?",
+    "answer": "Four years.",
+    "options": [
+      "Two years.",
+      "Four years.",
+      "Six years.",
+      "It depends on the size of the county."
+    ],
+    "reference": "Sec. 15. COUNTY COURT; COUNTY JUDGE. ...there shall be elected in each county, by the qualified voters, a County Judge, who...shall hold his office for four years..."
+  },
+  {
+    "question": "A jury in the County Court shall consist of how many persons?",
+    "answer": "Six persons.",
+    "options": [
+      "Three persons.",
+      "Six persons.",
+      "Nine persons.",
+      "Twelve persons."
+    ],
+    "reference": "Sec. 17. COUNTY COURT: TERMS, PROSECUTIONS, AND JURIES. ... A jury in the County Court shall consist of six persons..."
+  },
+  {
+    "question": "In a county with a population of 50,000 or more, how shall it be divided for the convenience of the people?",
+    "answer": "Into not less than four and not more than eight precincts.",
+    "options": [
+      "Into exactly four precincts.",
+      "Into not less than two and not more than six precincts.",
+      "Into not less than four and not more than eight precincts.",
+      "As a single precinct."
+    ],
+    "reference": "Sec. 18. DIVISION OF COUNTIES INTO PRECINCTS... (a) Each county in the State with a population of 50,000 or more... shall be divided into not less than four and not more than eight precincts."
+  },
+  {
+    "question": "Justice of the peace courts have exclusive jurisdiction in civil matters where the amount in controversy is what?",
+    "answer": "Two hundred dollars or less.",
+    "options": [
+      "Five hundred dollars or less.",
+      "Two hundred dollars or less.",
+      "One thousand dollars or less.",
+      "There is no limit."
+    ],
+    "reference": "Sec. 19. JURISDICTION OF JUSTICE OF THE PEACE COURTS... exclusive jurisdiction in civil matters where the amount in controversy is two hundred dollars or less..."
+  },
+  {
+    "question": "Under what grounds may county officers like judges and constables be removed by the judges of the district courts?",
+    "answer": "For incompetency, official misconduct, or habitual drunkenness.",
+    "options": [
+      "For disagreeing with a district court's ruling.",
+      "For failing to win re-election.",
+      "For incompetency, official misconduct, or habitual drunkenness.",
+      "For any reason deemed appropriate by the district judge."
+    ],
+    "reference": "Sec. 24. REMOVAL OF COUNTY OFFICERS. County judges, county attorneys, clerks of the district and county courts, justices of the peace, constables, and other county officers, may be removed by the judges of the district courts for incompetency, official misconduct, habitual drunkenness, or other causes defined by law..."
+  },
+  {
+    "question": "How is a vacancy in the office of County Judge or Justice of the Peace filled?",
+    "answer": "By the Commissioners Court until the next succeeding General Election.",
+    "options": [
+      "By appointment of the Governor.",
+      "By a special election held within 60 days.",
+      "The office remains vacant until the next election.",
+      "By the Commissioners Court until the next succeeding General Election."
+    ],
+    "reference": "Sec. 28. VACANCY IN JUDICIAL OFFICE. ... (b) A vacancy in the office of County Judge or Justice of the Peace shall be filled by the Commissioners Court until the next succeeding General Election."
+  },
+  {
+    "question": "Who is responsible for the efficient administration of the judicial branch of the state?",
+    "answer": "The Supreme Court.",
+    "options": [
+      "The Legislature.",
+      "The Governor.",
+      "The State Commission on Judicial Conduct.",
+      "The Supreme Court."
+    ],
+    "reference": "Sec. 31. COURT ADMINISTRATION AND RULE-MAKING AUTHORITY. (a) The Supreme Court is responsible for the efficient administration of the judicial branch..."
+  }
+],
+    "article6": [
+  {
+    "question": "According to Article 6, Section 1, which of the following classes of persons shall NOT be allowed to vote in Texas?",
+    "answer": "Persons under 18 years of age.",
+    "options": [
+      "Persons who do not own property.",
+      "Persons who have recently moved to the state.",
+      "Persons under 18 years of age.",
+      "Persons who are not members of a political party."
+    ],
+    "reference": "Sec. 1. CLASSES OF PERSONS NOT ALLOWED TO VOTE. (a) The following classes of persons shall not be allowed to vote in this State: (1) persons under 18 years of age;"
+  },
+  {
+    "question": "Besides being under 18, what is another reason a person may be disqualified from voting under Article 6, Section 1?",
+    "answer": "Persons who have been determined mentally incompetent by a court.",
+    "options": [
+      "Persons who cannot read or write.",
+      "Persons who have been determined mentally incompetent by a court.",
+      "Persons who have served in the military of another country.",
+      "Persons who have previously failed to vote in an election."
+    ],
+    "reference": "Sec. 1. CLASSES OF PERSONS NOT ALLOWED TO VOTE. (a) The following classes of persons shall not be allowed to vote in this State: ... (2) persons who have been determined mentally incompetent by a court, subject to such exceptions as the Legislature may make;"
+  },
+  {
+    "question": "A person convicted of what type of crime may be excluded from the right of suffrage by the Legislature?",
+    "answer": "Any felony.",
+    "options": [
+      "Any Class A Misdemeanor.",
+      "Any offense involving moral turpitude.",
+      "Any traffic offense.",
+      "Any felony."
+    ],
+    "reference": "Sec. 1. CLASSES OF PERSONS NOT ALLOWED TO VOTE. (a) The following classes of persons shall not be allowed to vote in this State: ... (3) persons convicted of any felony, subject to such exceptions as the Legislature may make."
+  },
+  {
+    "question": "To be deemed a qualified voter in Texas, a person must be a citizen of the United States and what else?",
+    "answer": "A resident of this state.",
+    "options": [
+      "A high school graduate.",
+      "A property owner.",
+      "A resident of this state.",
+      "Employed within the state."
+    ],
+    "reference": "Sec. 2. QUALIFIED VOTER; REGISTRATION; ABSENTEE VOTING. (a) Every person subject to none of the disqualifications provided by Section 1 of this article or by a law enacted under that section who is a citizen of the United States and who is a resident of this state shall be deemed a qualified voter..."
+  },
+  {
+    "question": "According to Article 6, Section 2, what shall the requirement for voter registration NOT be considered?",
+    "answer": "A qualification of a voter (except for eligibility to vote).",
+    "options": [
+      "A mandatory prerequisite for all elections.",
+      "A barrier to voting.",
+      "A qualification of a voter (except for eligibility to vote).",
+      "An optional procedure."
+    ],
+    "reference": "...provided, however, that before offering to vote at an election a voter shall have registered, but such requirement for registration shall not be considered a qualification of a voter within the meaning of the term 'qualified voter' as used in any other Article of this Constitution in respect to any matter except qualification and eligibility to vote at an election."
+  },
+  {
+    "question": "What does Article 6, Section 2(c) state shall be protected by laws regulating elections?",
+    "answer": "The privilege of free suffrage.",
+    "options": [
+      "The right to campaign.",
+      "The privacy of the voting booth.",
+      "The privilege of free suffrage.",
+      "The accuracy of the vote count."
+    ],
+    "reference": "Sec. 2. ... (c) The privilege of free suffrage shall be protected by laws regulating elections and prohibiting under adequate penalties all undue influence in elections from power, bribery, tumult, or other improper practice."
+  },
+  {
+    "question": "Under Section 2a, the Legislature may permit a person who meets all qualifications except local residency to vote for what offices?",
+    "answer": "Electors for President and Vice President, and all statewide offices.",
+    "options": [
+      "Only for local city council and mayor.",
+      "Only for members of the Legislature.",
+      "Only for Governor and Lieutenant Governor.",
+      "Electors for President and Vice President, and all statewide offices."
+    ],
+    "reference": "Sec. 2a. ...permitting any person who is qualified to vote in this State except for the residence requirements... to vote for (1) electors for President and Vice President of the United States and (2) all offices, questions or propositions to be voted on by all voters throughout this State."
+  },
+  {
+    "question": "A former resident of Texas who has moved to another state may be permitted to vote for President and Vice President by absentee ballot for a period not to exceed what?",
+    "answer": "Twenty-four (24) months.",
+    "options": [
+      "Six (6) months.",
+      "Twelve (12) months.",
+      "Eighteen (18) months.",
+      "Twenty-four (24) months."
+    ],
+    "reference": "Sec. 2a. ...permitting absentee voting for electors for President and Vice President of the United States in this State by former residents of this State... in no case for more than twenty-four (24) months."
+  },
+  {
+    "question": "According to Article 6, Section 3, who has the right to vote for Mayor and all other elective officers in a city?",
+    "answer": "All qualified voters of the State who reside within the limits of that city.",
+    "options": [
+      "Only property owners within the city.",
+      "All qualified voters of the State who reside within the limits of that city.",
+      "Anyone who works within the city limits.",
+      "Only residents who have lived in the city for more than one year."
+    ],
+    "reference": "Sec. 3. QUALIFICATIONS OF VOTERS IN MUNICIPAL ELECTIONS. All qualified voters of the State, as herein described, who reside within the limits of any city or corporate town, shall have the right to vote for Mayor and all other elective officers."
+  },
+  {
+    "question": "In an election held for the purpose of issuing bonds or assuming debt, who is qualified to vote?",
+    "answer": "Only qualified voters of the State, county, or political sub-division where such election is held.",
+    "options": [
+      "All registered voters in the State of Texas.",
+      "All property taxpayers in the district.",
+      "Only qualified voters of the State, county, or political sub-division where such election is held.",
+      "Any resident over the age of 18."
+    ],
+    "reference": "Sec. 3a. QUALIFICATIONS OF VOTERS IN LOCAL ELECTIONS REGARDING PUBLIC DEBTS OR EXPENDITURES. ...only qualified voters of the State, county, political sub-division, district, city, town or village where such election is held shall be qualified to vote."
+  },
+  {
+    "question": "What method of voting is required in all elections by the people?",
+    "answer": "By ballot.",
+    "options": [
+      "By a show of hands.",
+      "By voice vote.",
+      "By ballot.",
+      "By electronic means only."
+    ],
+    "reference": "Sec. 4. ELECTIONS BY BALLOT; PURITY OF ELECTIONS; REGISTRATION OF VOTERS. In all elections by the people, the vote shall be by ballot..."
+  },
+  {
+    "question": "The Legislature is tasked with making regulations to detect and punish fraud and to preserve what?",
+    "answer": "The purity of the ballot box.",
+    "options": [
+      "The anonymity of the voter.",
+      "The efficiency of the election.",
+      "The purity of the ballot box.",
+      "The historical record of the vote."
+    ],
+    "reference": "...the Legislature shall provide for the numbering of tickets and make such other regulations as may be necessary to detect and punish fraud and preserve the purity of the ballot box..."
+  },
+  {
+    "question": "During their attendance at elections, voters are privileged from arrest except in what cases?",
+    "answer": "Treason, felony or breach of the peace.",
+    "options": [
+      "Any criminal offense.",
+      "There are no exceptions.",
+      "Treason, felony or breach of the peace.",
+      "Only for traffic violations."
+    ],
+    "reference": "Sec. 5. VOTERS PRIVILEGED FROM ARREST. Voters shall, in all cases, except treason, felony or breach of the peace, be privileged from arrest during their attendance at elections, and in going to and returning therefrom."
+  }
+],
+    "article7": [
+  {
+    "question": "According to Article 7, Section 1, what is the duty of the Legislature regarding public schools?",
+    "answer": "To establish and make suitable provision for the support and maintenance of an efficient system of public free schools.",
+    "options": [
+      "To set the curriculum for all public schools.",
+      "To directly manage the operation of all school districts.",
+      "To establish and make suitable provision for the support and maintenance of an efficient system of public free schools.",
+      "To ensure all students attend college."
+    ],
+    "reference": "Sec. 1. SUPPORT AND MAINTENANCE OF SYSTEM OF PUBLIC FREE SCHOOLS. A general diffusion of knowledge being essential to the preservation of the liberties and rights of the people, it shall be the duty of the Legislature of the State to establish and make suitable provision for the support and maintenance of an efficient system of public free schools."
+  },
+  {
+    "question": "What constitutes the Permanent School Fund, as defined in Article 7, Section 2?",
+    "answer": "All funds, lands, and other property set apart for public schools, including one half of the public domain of the State.",
+    "options": [
+      "Only the funds generated from state property taxes.",
+      "Annual appropriations made by the Legislature.",
+      "All funds, lands, and other property set apart for public schools, including one half of the public domain of the State.",
+      "Donations from private corporations and individuals."
+    ],
+    "reference": "Sec. 2. PERMANENT SCHOOL FUND. All funds, lands and other property heretofore set apart and appropriated for the support of public schools; all the alternate sections of land reserved by the State... one half of the public domain of the State; and all sums of money that may come to the State from the sale of any portion of the same, shall constitute a permanent school fund."
+  },
+  {
+    "question": "What portion of the revenue from State occupation taxes is set apart for the benefit of public free schools?",
+    "answer": "One-fourth.",
+    "options": [
+      "One-tenth.",
+      "One-fourth.",
+      "One-third.",
+      "One-half."
+    ],
+    "reference": "Sec. 3. TAXES FOR BENEFIT OF SCHOOLS... (a) One-fourth of the revenue derived from the State occupation taxes shall be set apart annually for the benefit of the public free schools."
+  },
+  {
+    "question": "Who has the duty to set aside available funds to provide free text books for children in public schools?",
+    "answer": "The State Board of Education.",
+    "options": [
+      "The Legislature.",
+      "The Governor.",
+      "Each individual school district.",
+      "The State Board of Education."
+    ],
+    "reference": "Sec. 3. ... (b) It shall be the duty of the State Board of Education to set aside a sufficient amount of available funds to provide free text books for the use of children attending the public free schools of this State."
+  },
+  {
+    "question": "If an independent school district's boundaries change, what happens to unissued bonds that were previously approved by voters?",
+    "answer": "They shall be abrogated, cancelled or invalidated.",
+    "options": [
+      "They can be issued by the newly formed district.",
+      "They must be re-approved by voters in the new district.",
+      "They shall be abrogated, cancelled or invalidated.",
+      "Their value is transferred to the district's general fund."
+    ],
+    "reference": "Sec. 3-b. ...No tax for the maintenance of public free schools voted in any independent school district... nor any bonds voted in any such district, but unissued, shall be abrogated, cancelled or invalidated by change of any kind in the boundaries thereof."
+  },
+  {
+    "question": "The Available School Fund consists of distributions from the permanent school fund, taxes, and what other source?",
+    "answer": "Appropriations made to the available school fund by the legislature.",
+    "options": [
+      "Federal education grants.",
+      "Fines collected by state courts.",
+      "Proceeds from the state lottery.",
+      "Appropriations made to the available school fund by the legislature."
+    ],
+    "reference": "Sec. 5. ... The available school fund consists of the distributions made to it from the total return on all investment assets of the permanent school fund, the taxes authorized by this constitution or general law to be part of the available school fund, and appropriations made to the available school fund by the legislature."
+  },
+  {
+    "question": "The total amount distributed from the permanent school fund to the available school fund in a year cannot exceed what percentage of the permanent school fund's average market value?",
+    "answer": "Six percent.",
+    "options": [
+      "Four percent.",
+      "Five percent.",
+      "Six percent.",
+      "Ten percent."
+    ],
+    "reference": "Sec. 5. ...(1) in each year of a state fiscal biennium must be an amount that is not more than six percent of the average of the market value of the permanent school fund..."
+  },
+  {
+    "question": "What is the policy regarding the use of the permanent or available school funds for sectarian schools?",
+    "answer": "They may not be appropriated to or used for the support of any sectarian school.",
+    "options": [
+      "They can be used if the school also provides non-religious instruction.",
+      "They can be used with a two-thirds vote of the Legislature.",
+      "They may not be appropriated to or used for the support of any sectarian school.",
+      "They can be used to purchase textbooks for sectarian schools."
+    ],
+    "reference": "Sec. 5. ... (c) ... The permanent school fund and the available school fund may not be appropriated to or used for the support of any sectarian school."
+  },
+  {
+    "question": "How is the available school fund distributed to the several counties?",
+    "answer": "According to their scholastic population.",
+    "options": [
+      "Based on their geographic size.",
+      "Based on their property tax revenue.",
+      "Equally among all counties.",
+      "According to their scholastic population."
+    ],
+    "reference": "The available school fund shall be distributed to the several counties according to their scholastic population and applied in the manner provided by law."
+  },
+  {
+    "question": "Who holds the title to lands granted to the several counties for educational purposes?",
+    "answer": "The counties themselves.",
+    "options": [
+      "The State of Texas.",
+      "The Permanent School Fund.",
+      "The State Board of Education.",
+      "The counties themselves."
+    ],
+    "reference": "Sec. 6. COUNTY SCHOOL LANDS AND PROCEEDS OF SALES HELD AS SCHOOL TRUST. All lands heretofore, or hereafter granted to the several counties of this State for educational purposes, are of right the property of said counties respectively, to which they were granted, and title thereto is vested in said counties..."
+  },
+  {
+    "question": "What is the maximum term length the Legislature can prescribe for members of the State Board of Education?",
+    "answer": "Six years.",
+    "options": [
+      "Two years.",
+      "Four years.",
+      "Six years.",
+      "There is no maximum term."
+    ],
+    "reference": "Sec. 8. STATE BOARD OF EDUCATION. The Legislature shall provide by law for a State Board of Education, whose members shall be appointed or elected... and shall serve for such terms as the Legislature shall prescribe not to exceed six years."
+  },
+  {
+    "question": "According to Section 10, the Legislature shall establish a 'University of the first class' to be styled what?",
+    "answer": "The University of Texas",
+    "options": [
+      "The State University of Texas",
+      "Texas State University",
+      "The University of Texas",
+      "The Texas Public University"
+    ],
+    "reference": "Sec. 10. ESTABLISHMENT OF UNIVERSITY OF TEXAS... The Legislature shall as soon as practicable establish, organize and provide for the maintenance, support and direction of a University of the first class, to be located by a vote of the people of this State, and styled, 'The University of Texas'..."
+  },
+  {
+    "question": "What is the maximum percentage of the Permanent University Fund that can be invested in the securities of any one corporation?",
+    "answer": "One percent.",
+    "options": [
+      "One percent.",
+      "Three percent.",
+      "Five percent.",
+      "Ten percent."
+    ],
+    "reference": "Sec. 11a. INVESTMENT OF PERMANENT UNIVERSITY FUND. ...provided, however, that not more than one per cent (1%) of said fund shall be invested in the securities of any one (1) corporation..."
+  },
+  {
+    "question": "The Board of Regents may not own more than what percentage of the voting stock of any one corporation?",
+    "answer": "Five percent.",
+    "options": [
+      "One percent.",
+      "Five percent.",
+      "Ten percent.",
+      "Fifteen percent."
+    ],
+    "reference": "...nor shall more than five per cent (5%) of the voting stock of any one (1) corporation be owned..."
+  },
+  {
+    "question": "Stocks are eligible for purchase by the Permanent University Fund only if the companies have paid dividends for how many consecutive years?",
+    "answer": "Five years.",
+    "options": [
+      "One year.",
+      "Three years.",
+      "Five years.",
+      "Ten years."
+    ],
+    "reference": "...provided, further, that stocks eligible for purchase shall be restricted to stocks of companies incorporated within the United States which have paid dividends for five (5) consecutive years or longer immediately prior to the date of purchase..."
+  },
+  {
+    "question": "The Agricultural and Mechanical College of Texas (Texas A&M) is constituted as a Branch of what institution?",
+    "answer": "The University of Texas.",
+    "options": [
+      "It is a separate, independent system.",
+      "The Texas State University System.",
+      "The University of Texas.",
+      "The Texas Tech University System."
+    ],
+    "reference": "Sec. 13. AGRICULTURAL AND MECHANICAL COLLEGE. The Agricultural and Mechanical College of Texas... is hereby made, and constituted a Branch of the University of Texas..."
+  },
+  {
+    "question": "Prairie View A&M University is established as an institution of the first class under the same governing board as what university?",
+    "answer": "Texas A&M University.",
+    "options": [
+      "The University of Texas at Austin.",
+      "Texas Southern University.",
+      "The University of Houston.",
+      "Texas A&M University."
+    ],
+    "reference": "Sec. 14. PRAIRIE VIEW A&M UNIVERSITY. Prairie View A&M University in Waller County is an institution of the first class under the direction of the same governing board as Texas A&M University..."
+  },
+  {
+    "question": "Which of the following universities is NOT listed under Section 17 as an eligible institution for funding from the special higher education fund?",
+    "answer": "The University of Texas at Austin.",
+    "options": [
+      "University of North Texas",
+      "Texas Woman's University",
+      "Texas Southern University",
+      "The University of Texas at Austin."
+    ],
+    "reference": "Sec. 17. ... (b) The funds appropriated under Subsection (a) of this section shall be for the use of the following eligible agencies and institutions... (An institution that is entitled to participate in dedicated funding provided by Article VII, Section 18... may not be entitled to participate in the funding provided by this section.)"
+  },
+  {
+    "question": "How is the annual distribution from the Permanent University Fund to the Available University Fund split between the UT and A&M Systems?",
+    "answer": "One-third to the A&M System and two-thirds to the UT System.",
+    "options": [
+      "It is split evenly between the two systems.",
+      "One-fourth to A&M and three-fourths to UT.",
+      "One-third to the A&M System and two-thirds to the UT System.",
+      "It is based on the student population of each system."
+    ],
+    "reference": "Sec. 18. ... (f) Out of one-third of the annual distribution from the permanent university fund to the available university fund, there shall be appropriated an annual sum... to the Board of Regents of The Texas A&M University System... Out of the other two-thirds of the annual distribution... there shall be appropriated an annual sum... to the Board of Regents of The University of Texas System..."
+  },
+  {
+    "question": "Which of the following is a component institution of The Texas A&M University System listed in Section 18?",
+    "answer": "Tarleton State University.",
+    "options": [
+      "The University of Texas at Arlington.",
+      "The University of Houston.",
+      "Tarleton State University.",
+      "Texas State University."
+    ],
+    "reference": "Sec. 18. ... at or for The Texas A&M University System administration and the following component institutions of the system: (1) Texas A&M University... (3) Tarleton State University;"
+  },
+  {
+    "question": "Which of the following is a component institution of The University of Texas System listed in Section 18?",
+    "answer": "The University of Texas at El Paso.",
+    "options": [
+      "Texas A&M University at Galveston.",
+      "Prairie View A&M University.",
+      "The University of Texas at El Paso.",
+      "Texas Tech University."
+    ],
+    "reference": "Sec. 18. ... at or for The University of Texas System administration and the following component institutions of the system: ... (4) The University of Texas at El Paso;"
+  },
+  {
+    "question": "The proceeds from bonds issued under Section 18 for the UT and A&M systems may NOT be used for what purpose?",
+    "answer": "Student housing, intercollegiate athletics, or auxiliary enterprises.",
+    "options": [
+      "Acquiring land.",
+      "Constructing and equipping buildings.",
+      "Major repair of buildings.",
+      "Student housing, intercollegiate athletics, or auxiliary enterprises."
+    ],
+    "reference": "Sec. 18. ... (d) The proceeds of the bonds or notes issued under Subsection (a) or (b) of this section may not be used for the purpose of constructing, equipping, repairing, or rehabilitating buildings or other permanent improvements that are to be used for student housing, intercollegiate athletics, or auxiliary enterprises."
+  },
+  {
+    "question": "What is the purpose of the Texas Tomorrow Fund, as described in Section 19?",
+    "answer": "To be a trust fund dedicated to the prepayment of tuition and fees for higher education.",
+    "options": [
+      "To provide general funding for university research.",
+      "To fund construction of new university buildings.",
+      "To provide scholarships for low-income students.",
+      "To be a trust fund dedicated to the prepayment of tuition and fees for higher education."
+    ],
+    "reference": "Sec. 19. TEXAS TOMORROW FUND. (a) The Texas tomorrow fund is created as a trust fund dedicated to the prepayment of tuition and fees for higher education as provided by the general laws of this state for the prepaid higher education tuition program."
+  },
+  {
+    "question": "What is the purpose of the Texas University Fund established in Section 20?",
+    "answer": "To provide a dedicated funding source for emerging research universities to achieve national prominence.",
+    "options": [
+      "To fund all community colleges in the state.",
+      "To provide a dedicated funding source for emerging research universities to achieve national prominence.",
+      "To guarantee student loans.",
+      "To fund the Teacher Retirement System."
+    ],
+    "reference": "Sec. 20. TEXAS UNIVERSITY FUND. (a) There is established the Texas University Fund for the purpose of providing a dedicated, independent, and equitable source of funding to enable emerging research universities in this state to achieve national prominence as major research universities."
+  },
+  {
+    "question": "A state university that is entitled to participate in the dedicated funding from the Permanent University Fund (under Sec. 18) is eligible to receive money from the Texas University Fund (Sec. 20). True or False?",
+    "answer": "False",
+    "options": [
+      "True",
+      "False",
+      "Only if they are also designated as an emerging research university.",
+      "Only with a two-thirds vote of the legislature."
+    ],
+    "reference": "Sec. 20. ...(g) ...A state university that is entitled to participate in dedicated funding provided by Section 18 of this article is not eligible to receive money from the fund."
+  }
+],
+    "article8": [
+  {
+    "question": "According to Article 8, Section 1, all real and tangible personal property in the State shall be taxed in proportion to what?",
+    "answer": "Its value.",
+    "options": [
+      "The owner's income.",
+      "Its size.",
+      "Its value.",
+      "Its age."
+    ],
+    "reference": "Sec. 1. ... (b) All real property and tangible personal property in this State... shall be taxed in proportion to its value, which shall be ascertained as may be provided by law."
+  },
+  {
+    "question": "Which of the following groups shall never be required to pay an occupation tax?",
+    "answer": "Persons engaged in mechanical and agricultural pursuits.",
+    "options": [
+      "Corporations.",
+      "Persons engaged in mechanical and agricultural pursuits.",
+      "Natural persons doing any business in the State.",
+      "Municipalities."
+    ],
+    "reference": "Sec. 1. ... (c) ... Persons engaged in mechanical and agricultural pursuits shall never be required to pay an occupation tax."
+  },
+  {
+    "question": "The Legislature by general law may limit the maximum appraised value of a residence homestead for ad valorem tax purposes to the lesser of its most recent market value or what?",
+    "answer": "110 percent, or a greater percentage, of the appraised value for the preceding tax year.",
+    "options": [
+      "105 percent of the appraised value for the preceding tax year.",
+      "110 percent, or a greater percentage, of the appraised value for the preceding tax year.",
+      "115 percent of the appraised value for the preceding tax year.",
+      "120 percent of the appraised value for the preceding tax year."
+    ],
+    "reference": "Sec. 1. ... (i) ...the Legislature by general law may limit the maximum appraised value of a residence homestead for ad valorem tax purposes in a tax year to the lesser of the most recent market value of the residence homestead... or 110 percent, or a greater percentage, of the appraised value of the residence homestead for the preceding tax year."
+  },
+  {
+    "question": "The several counties of the State are authorized to levy ad valorem taxes for county road and flood control purposes not to exceed what rate?",
+    "answer": "Thirty cents (30¢) on each One Hundred Dollars ($100) valuation.",
+    "options": [
+      "Ten cents (10¢) on each One Hundred Dollars ($100) valuation.",
+      "Twenty cents (20¢) on each One Hundred Dollars ($100) valuation.",
+      "Thirty cents (30¢) on each One Hundred Dollars ($100) valuation.",
+      "Fifty cents (50¢) on each One Hundred Dollars ($100) valuation."
+    ],
+    "reference": "Sec. 1-a. COUNTY TAX LEVY FOR ROADS AND FLOOD CONTROL. The several counties of the State are authorized to levy ad valorem taxes... not to exceed thirty cents (30¢) on each One Hundred Dollars ($100) valuation..."
+  },
+  {
+    "question": "What is the mandatory amount of the assessed taxable value of all residence homesteads that shall be exempt from all taxation for all State purposes?",
+    "answer": "Three Thousand Dollars ($3,000).",
+    "options": [
+      "One Thousand Dollars ($1,000).",
+      "Three Thousand Dollars ($3,000).",
+      "Five Thousand Dollars ($5,000).",
+      "Ten Thousand Dollars ($10,000)."
+    ],
+    "reference": "Sec. 1-b. RESIDENCE HOMESTEAD TAX EXEMPTIONS AND LIMITATIONS. (a) Three Thousand Dollars ($3,000) of the assessed taxable value of all residence homesteads... shall be exempt from all taxation for all State purposes."
+  },
+  {
+    "question": "A surviving spouse of a member of the armed services killed in the line of duty is entitled to an exemption from ad valorem taxation on their residence homestead under what condition?",
+    "answer": "If the surviving spouse has not remarried since the death of the member.",
+    "options": [
+      "Under all circumstances.",
+      "Only if they have minor children.",
+      "If the surviving spouse has not remarried since the death of the member.",
+      "For a period of ten years after the member's death."
+    ],
+    "reference": "Sec. 1-b. ... (m) The legislature by general law may provide that the surviving spouse of a member of the armed services of the United States who is killed or fatally injured in the line of duty is entitled to an exemption... if the surviving spouse has not remarried since the death of the member of the armed services."
+  },
+  {
+    "question": "What is the definition of 'agricultural use' for the purpose of tax assessment under Section 1-d?",
+    "answer": "The raising of livestock or growing of crops, fruit, flowers, and other products of the soil under natural conditions as a business venture for profit.",
+    "options": [
+      "Any use of land outside of a city's limits.",
+      "The raising of livestock or growing of crops, fruit, flowers, and other products of the soil under natural conditions as a business venture for profit.",
+      "Operating a farmer's market or other retail agricultural business.",
+      "Holding land for future agricultural development."
+    ],
+    "reference": "Sec. 1-d. ASSESSMENT FOR TAX PURPOSES OF LANDS DESIGNATED FOR AGRICULTURAL USE. (a) ...'Agricultural use' means the raising of livestock or growing of crops, fruit, flowers, and other products of the soil under natural conditions as a business venture for profit, which business is the primary occupation and source of income of the owner."
+  },
+  {
+    "question": "If land designated for agricultural use is subsequently diverted to another purpose, what is it subject to?",
+    "answer": "An additional tax equal to the difference between taxes paid and what would have been paid for the preceding three years.",
+    "options": [
+      "A permanent increase in its tax rate.",
+      "A one-time penalty of $1,000.",
+      "An additional tax equal to the difference between taxes paid and what would have been paid for the preceding three years.",
+      "The forfeiture of the land to the state."
+    ],
+    "reference": "Sec. 1-d. ... (f) ...If designated land is subsequently diverted to a purpose other than that of agricultural use, or is sold, the land shall be subject to an additional tax. The additional tax shall equal the difference between taxes paid or payable, hereunder, and the amount of tax payable for the preceding three years had the land been otherwise assessed."
+  },
+  {
+    "question": "What does Article 8, Section 1-e of the Texas Constitution prohibit?",
+    "answer": "The levying of State ad valorem taxes.",
+    "options": [
+      "The levying of any income taxes.",
+      "The levying of any sales taxes.",
+      "The levying of State ad valorem taxes.",
+      "The levying of any occupation taxes."
+    ],
+    "reference": "Sec. 1-e. STATE AD VALOREM TAXES PROHIBITED. No State ad valorem taxes shall be levied upon any property within this State."
+  },
+  {
+    "question": "To promote economic development, goods and merchandise are exempt from ad valorem taxation if they are detained in the state for certain purposes and transported out of state no later than how many days?",
+    "answer": "175 days (or a later date established by the local governing body).",
+    "options": [
+      "90 days.",
+      "120 days.",
+      "175 days (or a later date established by the local governing body).",
+      "365 days."
+    ],
+    "reference": "Sec. 1-j. ...if: ... (3) the property is transported outside of this State not later than: (A) 175 days after the date the person acquired or imported the property in this State; or (B) if applicable, a later date established by the governing body..."
+  },
+  {
+    "question": "Which of the following is listed as property that the Legislature may exempt from taxation by general laws under Section 2?",
+    "answer": "Actual places of religious worship.",
+    "options": [
+      "All property owned by corporations.",
+      "The personal residences of government officials.",
+      "All commercial real estate.",
+      "Actual places of religious worship."
+    ],
+    "reference": "Sec. 2. EXEMPTIONS FROM AD VALOREM TAXATION. (a) ...the legislature may, by general laws, exempt from taxation public property used for public purposes; actual places of religious worship..."
+  },
+  {
+    "question": "A disabled veteran with a disability rating of 70 percent or more is entitled to a property tax exemption of up to what value?",
+    "answer": "$12,000",
+    "options": [
+      "$5,000",
+      "$7,500",
+      "$10,000",
+      "$12,000"
+    ],
+    "reference": "Sec. 2. ... (b) ...A veteran who has a disability rating of 70 percent or more... may be granted an exemption from taxation for property valued at up to $12,000."
+  },
+  {
+    "question": "According to Article 8, Section 3, taxes shall be levied and collected for what purposes only?",
+    "answer": "For public purposes only.",
+    "options": [
+      "For state and county purposes only.",
+      "For public purposes only.",
+      "For any purpose approved by the Legislature.",
+      "To pay the salaries of government employees."
+    ],
+    "reference": "Sec. 3. TAXATION BY GENERAL LAW FOR PUBLIC PURPOSES. Taxes shall be levied and collected by general laws and for public purposes only."
+  },
+  {
+    "question": "What is the maximum duration for which an appropriation of money can be made by the Legislature?",
+    "answer": "Two years.",
+    "options": [
+      "One year.",
+      "Two years.",
+      "Four years.",
+      "There is no limit."
+    ],
+    "reference": "Sec. 6. WITHDRAWAL OF MONEY FROM TREASURY; DURATION OF APPROPRIATION. ...nor shall any appropriation of money be made for a longer term than two years."
+  },
+  {
+    "question": "What does Article 8, Section 7 prohibit the Legislature from doing?",
+    "answer": "Borrowing from or diverting any special fund from its purpose.",
+    "options": [
+      "Creating new special funds.",
+      "Cutting funding for any established program.",
+      "Borrowing from or diverting any special fund from its purpose.",
+      "Appropriating money to local governments."
+    ],
+    "reference": "Sec. 7. BORROWING, WITHHOLDING, OR DIVERTING SPECIAL FUNDS PROHIBITED. The Legislature shall not have power to borrow, or in any manner divert from its purpose, any special fund that may, or ought to, come into the Treasury..."
+  },
+  {
+    "question": "Under Section 7-a, net revenues from motor vehicle registration fees and taxes on motor fuels shall be used for what sole purpose?",
+    "answer": "Acquiring rights-of-way, constructing, maintaining, and policing public roadways.",
+    "options": [
+      "Funding public schools.",
+      "Paying for general state government operations.",
+      "Acquiring rights-of-way, constructing, maintaining, and policing public roadways.",
+      "Supporting the Texas Parks and Wildlife Department."
+    ],
+    "reference": "Sec. 7-a. ...all net revenues... shall be used for the sole purpose of acquiring rights-of-way, constructing, maintaining, and policing such public roadways, and for the administration of such laws as may be prescribed by the Legislature pertaining to the supervision of traffic and safety on such roads..."
+  },
+  {
+    "question": "How is the rolling stock of railroad companies assessed for tax purposes?",
+    "answer": "In gross in the county where the principal office of the company is located.",
+    "options": [
+      "It is exempt from county taxes.",
+      "Each rail car is assessed individually in the county where it is found.",
+      "In gross in the county where the principal office of the company is located.",
+      "It is assessed by the State Comptroller's office."
+    ],
+    "reference": "Sec. 8. ASSESSMENT AND COLLECTION OF TAXES ON PROPERTY OF RAILROAD COMPANIES. ... The rolling stock may be assessed in gross in the county where the principal office of the company is located..."
+  },
+  {
+    "question": "No county, city or town shall levy a tax rate in excess of what amount on the $100 valuation for general, permanent improvement, road, and jury fund purposes?",
+    "answer": "Eighty Cents (80¢)",
+    "options": [
+      "Fifty Cents (50¢)",
+      "Eighty Cents (80¢)",
+      "One Dollar ($1.00)",
+      "One Dollar and Fifty Cents ($1.50)"
+    ],
+    "reference": "Sec. 9. MAXIMUM COUNTY, CITY, AND TOWN TAX RATES... (a) No county, city or town shall levy a tax rate in excess of Eighty Cents (80¢) on the One Hundred Dollars ($100) valuation in any one (1) year for general fund, permanent improvement fund, road and bridge fund and jury fund purposes."
+  },
+  {
+    "question": "When can the Legislature release the inhabitants of a county, city, or town from the payment of taxes?",
+    "answer": "In case of great public calamity, by a vote of two-thirds of each House.",
+    "options": [
+      "Never, under any circumstances.",
+      "If the area has experienced an economic downturn.",
+      "By a simple majority vote of the Legislature at any time.",
+      "In case of great public calamity, by a vote of two-thirds of each House."
+    ],
+    "reference": "Sec. 10. RELEASE FROM PAYMENT OF TAXES RESTRICTED. The Legislature shall have no power to release the inhabitants of... any county, city or town from the payment of taxes... unless in case of great public calamity in any such county, city or town, when such release may be made by a vote of two-thirds of each House of the Legislature."
+  },
+  {
+    "question": "What right does the former owner of a residence homestead sold for unpaid taxes have?",
+    "answer": "The right to redeem the property within two years from the date of the filing of the Purchaser's Deed.",
+    "options": [
+      "The right to buy the property back at market value.",
+      "No right to redeem the property once it is sold.",
+      "The right to redeem the property within six months.",
+      "The right to redeem the property within two years from the date of the filing of the Purchaser's Deed."
+    ],
+    "reference": "Sec. 13. SALES OF LANDS AND OTHER PROPERTY FOR UNPAID TAXES; REDEMPTION. ... (c) The former owner of a residence homestead... sold for unpaid taxes shall within two years from date of the filing for record of the Purchaser's Deed have the right to redeem the property..."
+  },
+  {
+    "question": "All property belonging to a delinquent taxpayer is liable to seizure and sale for the payment of what?",
+    "answer": "All taxes and penalties due.",
+    "options": [
+      "Only the principal amount of the taxes due.",
+      "Only property taxes, not occupation taxes.",
+      "All taxes and penalties due.",
+      "Only real property, not personal property."
+    ],
+    "reference": "Sec. 15. LIEN OF ASSESSMENT; SEIZURE AND SALE OF PROPERTY OF DELINQUENT TAXPAYER. ...and all property, both real and personal, belonging to any delinquent tax payer shall be liable to seizure and sale for the payment of all the taxes and penalties due by such delinquent..."
+  },
+  {
+    "question": "According to Section 18, the Legislature shall provide for a single appraisal of all property within what geographic area?",
+    "answer": "Within each county.",
+    "options": [
+      "Within each city.",
+      "Within each school district.",
+      "Within each county.",
+      "Within the entire state."
+    ],
+    "reference": "Sec. 18. EQUALIZATION OF PROPERTY VALUATIONS FOR TAXATION... (b) A single appraisal within each county of all property subject to ad valorem taxation by the county and all other taxing units located therein shall be provided by general law."
+  },
+  {
+    "question": "What items are exempt from all taxation until otherwise directed by a two-thirds vote of the Legislature?",
+    "answer": "Farm products, livestock, and poultry in the hands of the producer.",
+    "options": [
+      "All agricultural land.",
+      "All business inventory.",
+      "Farm products, livestock, and poultry in the hands of the producer.",
+      "All vehicles used for farming."
+    ],
+    "reference": "Sec. 19. EXEMPTION FROM TAXATION OF FARM PRODUCTS, LIVESTOCK, POULTRY, AND FAMILY SUPPLIES. Farm products, livestock, and poultry in the hands of the producer, and family supplies for home and farm use, are exempt from all taxation until otherwise directed by a two-thirds vote of all the members elect to both houses of the Legislature."
+  },
+  {
+    "question": "No property in Texas shall ever be assessed for ad valorem taxes at a value greater than what?",
+    "answer": "Its fair cash market value.",
+    "options": [
+      "Its purchase price.",
+      "The previous year's value plus 10%.",
+      "Its replacement cost.",
+      "Its fair cash market value."
+    ],
+    "reference": "Sec. 20. AD VALOREM TAXATION OF PROPERTY AT VALUE EXCEEDING FAIR CASH MARKET VALUE PROHIBITED... No property of any kind in this State shall ever be assessed for ad valorem taxes at a greater value than its fair cash market value..."
+  },
+  {
+    "question": "What is required before a political subdivision can increase the total amount of property taxes imposed from the preceding year?",
+    "answer": "It must give notice of its intent and hold a public hearing.",
+    "options": [
+      "A majority vote of the qualified voters.",
+      "Approval from the State Comptroller.",
+      "It must give notice of its intent and hold a public hearing.",
+      "A two-thirds vote of its governing body."
+    ],
+    "reference": "Sec. 21. INCREASE IN TOTAL AMOUNT OF PROPERTY TAXES IMPOSED PROHIBITED WITHOUT NOTICE AND HEARING... (a) ...the total amount of property taxes imposed by a political subdivision in any year may not exceed the total amount of property taxes imposed by that subdivision in the preceding year unless the governing body of the subdivision gives notice of its intent to consider an increase in taxes and holds a public hearing on the proposed increase..."
+  },
+  {
+    "question": "What restriction does Section 22 place on the rate of growth of appropriations from state tax revenues?",
+    "answer": "It shall not exceed the estimated rate of growth of the state's economy.",
+    "options": [
+      "It cannot exceed the rate of inflation.",
+      "It cannot increase by more than 5% per biennium.",
+      "It shall not exceed the estimated rate of growth of the state's economy.",
+      "There are no restrictions on the rate of growth."
+    ],
+    "reference": "Sec. 22. RESTRICTION ON RATE OF GROWTH OF APPROPRIATIONS. (a) In no biennium shall the rate of growth of appropriations from state tax revenues not dedicated by this constitution exceed the estimated rate of growth of the state's economy."
+  },
+  {
+    "question": "What type of tax is the legislature prohibited from imposing on the net incomes of individuals?",
+    "answer": "An individual income tax.",
+    "options": [
+      "A corporate income tax.",
+      "A sales tax.",
+      "An ad valorem tax.",
+      "An individual income tax."
+    ],
+    "reference": "Sec. 24-a. INDIVIDUAL INCOME TAX PROHIBITED. The legislature may not impose a tax on the net incomes of individuals, including an individual's share of partnership and unincorporated association income."
+  }
+],
+    "article9": [
+  {
+    "question": "According to Article 9, Section 1, no new county shall be created with an area less than what size?",
+    "answer": "Seven hundred square miles.",
+    "options": [
+      "Five hundred square miles.",
+      "Seven hundred square miles.",
+      "Nine hundred square miles.",
+      "One thousand square miles."
+    ],
+    "reference": "Sec. 1. CREATION AND MODIFICATION OF COUNTIES. ... (1) Within the territory of any county or counties, no new county shall be created with a less area than seven hundred square miles..."
+  },
+  {
+    "question": "A new county cannot be created so as to approach nearer than what distance to the county seat of any county from which it may be taken?",
+    "answer": "Twelve miles.",
+    "options": [
+      "Five miles.",
+      "Ten miles.",
+      "Twelve miles.",
+      "Twenty miles."
+    ],
+    "reference": "No new counties shall be created so as to approach nearer than twelve miles of the county seat of any county from which it may in whole or in part be taken."
+  },
+  {
+    "question": "What vote is required in each House of the Legislature to create a new county with an area between seven hundred and nine hundred square miles?",
+    "answer": "A two-thirds vote.",
+    "options": [
+      "A simple majority vote.",
+      "A three-fifths vote.",
+      "A two-thirds vote.",
+      "A unanimous vote."
+    ],
+    "reference": "Counties of a less area than nine hundred, but of seven hundred or more square miles, within counties now existing, may be created by a two-thirds vote of each House of the Legislature..."
+  },
+  {
+    "question": "What is required to detach a part of an existing county and attach it to another county?",
+    "answer": "A majority vote of the voters of both counties.",
+    "options": [
+      "An order from the Governor.",
+      "A two-thirds vote of the Legislature.",
+      "A petition signed by 10% of residents.",
+      "A majority vote of the voters of both counties."
+    ],
+    "reference": "(2) No part of any existing county shall be detached from it and attached to another existing county until the proposition for such change shall have been submitted...to a vote of the voters of both counties, and shall have received a majority of those voting on the question in each."
+  },
+  {
+    "question": "Under Section 1-A, the Legislature may authorize the governing body of which counties to regulate motor vehicles on beaches?",
+    "answer": "Any county bordering on the Gulf of Mexico.",
+    "options": [
+      "All 254 counties.",
+      "Any county with a public park.",
+      "Any county bordering on the Gulf of Mexico.",
+      "Only counties with a population over 1 million."
+    ],
+    "reference": "Sec. 1-A. AUTHORITY OF COASTAL COUNTIES TO REGULATE MOTOR VEHICLES AND LITTERING ON BEACHES. The Legislature may authorize the governing body of any county bordering on the Gulf of Mexico or the tidewater limits thereof to regulate and restrict the speed, parking and travel of motor vehicles on beaches..."
+  },
+  {
+    "question": "What vote is required to remove a county seat that is situated within five miles of the geographical center of the county?",
+    "answer": "A vote of two-thirds of all the voters voting on the subject.",
+    "options": [
+      "A simple majority of the voters.",
+      "A vote of the Commissioners Court.",
+      "A vote of two-thirds of all the voters voting on the subject.",
+      "An order from a District Judge."
+    ],
+    "reference": "Sec. 2. REMOVAL OF COUNTY SEATS. ...no county seat situated within five miles of the geographical centre of the county shall be removed, except by a vote of two-thirds of all the voters voting on the subject."
+  },
+  {
+    "question": "The Legislature may authorize the creation of county-wide Hospital Districts in counties having a population in excess of what number?",
+    "answer": "190,000",
+    "options": [
+      "50,000",
+      "100,000",
+      "150,000",
+      "190,000"
+    ],
+    "reference": "Sec. 4. COUNTY-WIDE HOSPITAL DISTRICTS IN CERTAIN LARGE COUNTIES. The Legislature may by law authorize the creation of county-wide Hospital Districts in counties having a population in excess of 190,000 and in Galveston County..."
+  },
+  {
+    "question": "What is the maximum tax rate a county-wide Hospital District under Section 4 may be authorized to levy?",
+    "answer": "Seventy-five cents ($0.75) on the One Hundred Dollars ($100.00) valuation.",
+    "options": [
+      "Ten cents ($0.10) on the One Hundred Dollars ($100.00) valuation.",
+      "Twenty-five cents ($0.25) on the One Hundred Dollars ($100.00) valuation.",
+      "Fifty cents ($0.50) on the One Hundred Dollars ($100.00) valuation.",
+      "Seventy-five cents ($0.75) on the One Hundred Dollars ($100.00) valuation."
+    ],
+    "reference": "...to levy a tax not to exceed seventy-five ($ .75) cents on the One Hundred ($100.00) Dollars valuation of all taxable property within such district..."
+  },
+  {
+    "question": "A Hospital District created under Section 4 must assume full responsibility for what?",
+    "answer": "Providing medical and hospital care to needy inhabitants of the county.",
+    "options": [
+      "Operating the county's emergency ambulance service.",
+      "Providing health insurance to all county residents.",
+      "Providing medical and hospital care to needy inhabitants of the county.",
+      "Funding all medical research within the county."
+    ],
+    "reference": "...provided further, that such Hospital District shall assume full responsibility for providing medical and hospital care to needy inhabitants of the county..."
+  },
+  {
+    "question": "Under Section 5, if a tax is authorized for a hospital district in Amarillo or Wichita County, what can other political subdivisions within that district NOT do?",
+    "answer": "Levy a tax for medical or hospital care for needy individuals.",
+    "options": [
+      "Issue bonds for any purpose.",
+      "Contract with the hospital district for services.",
+      "Provide public health services.",
+      "Levy a tax for medical or hospital care for needy individuals."
+    ],
+    "reference": "If such tax is authorized, no political subdivision or municipality within or having the same boundaries as the district may levy a tax for medical or hospital care for needy individuals, nor shall they maintain or erect hospital facilities..."
+  },
+  {
+    "question": "Under Section 8, the creation and levying of a tax for the Hospital District in Comanche County must be approved by what?",
+    "answer": "A majority vote of the participating resident qualified voters.",
+    "options": [
+      "A two-thirds vote of the Commissioners Court.",
+      "An order from the Governor.",
+      "A majority vote of the participating resident qualified voters.",
+      "A petition signed by 20% of residents."
+    ],
+    "reference": "If such District is created, it may be authorized to levy a tax... provided, however, no tax may be levied until approved by a majority vote of the participating resident qualified voters."
+  },
+  {
+    "question": "According to Section 9, a hospital district created by special law requires public notice to the district for how long before the law can be passed?",
+    "answer": "Thirty (30) days.",
+    "options": [
+      "Ten (10) days.",
+      "Twenty (20) days.",
+      "Thirty (30) days.",
+      "Sixty (60) days."
+    ],
+    "reference": "Provided, however, that no district shall be created by special law except after thirty (30) days' public notice to the district affected..."
+  },
+  {
+    "question": "What process is afforded by statute for the dissolution of a hospital district?",
+    "answer": "Determining the desire of a majority of the qualified voters within the district to dissolve it.",
+    "options": [
+      "A decision by the Commissioners Court.",
+      "An order from the Legislature.",
+      "The district automatically dissolves if it becomes insolvent.",
+      "Determining the desire of a majority of the qualified voters within the district to dissolve it."
+    ],
+    "reference": "The Legislature may also provide for the dissolution of hospital districts provided that a process is afforded by statute for: (1) determining the desire of a majority of the qualified voters within the district to dissolve it;"
+  },
+  {
+    "question": "Section 9A allows the legislature to determine what for a hospital district?",
+    "answer": "The health care services it is required to provide and the requirements a resident must meet to qualify.",
+    "options": [
+      "The salaries of its board members.",
+      "The specific location of its facilities.",
+      "The maximum tax rate it can levy.",
+      "The health care services it is required to provide and the requirements a resident must meet to qualify."
+    ],
+    "reference": "Sec. 9A. HOSPITAL DISTRICTS: REGULATION OF HEALTH CARE SERVICES. The legislature by law may determine the health care services a hospital district is required to provide, the requirements a resident must meet to qualify for services, and any other relevant provisions necessary to regulate the provision of health care to residents."
+  },
+  {
+    "question": "The Legislature may authorize the creation of Airport Authorities composed of what?",
+    "answer": "One or more counties.",
+    "options": [
+      "Only cities with a population over 50,000.",
+      "One or more counties.",
+      "A partnership of private corporations.",
+      "A state-level transportation agency."
+    ],
+    "reference": "Sec. 12. AIRPORT AUTHORITIES. (a) The Legislature may by law provide for the creation, establishment, maintenance and operation of Airport Authorities composed of one or more counties..."
+  },
+  {
+    "question": "An election to create an Airport Authority is called upon petition of what percentage of qualified voters within the county?",
+    "answer": "Five per cent (5%).",
+    "options": [
+      "One per cent (1%).",
+      "Five per cent (5%).",
+      "Ten per cent (10%).",
+      "Twenty per cent (20%)."
+    ],
+    "reference": "Sec. 12. ... (c) The Legislature shall provide for the holding of an election in each county proposing the creation of an Authority to be called by the Commissioners Court... upon petition of five per cent (5%) of the qualified voters within the county or counties."
+  },
+  {
+    "question": "Directors of an Airport Authority shall serve for a term not to exceed how many years?",
+    "answer": "Six (6) years.",
+    "options": [
+      "Two (2) years.",
+      "Four (4) years.",
+      "Six (6) years.",
+      "Eight (8) years."
+    ],
+    "reference": "Directors shall serve without compensation for a term fixed by the Legislature not to exceed six (6) years..."
+  },
+  {
+    "question": "What is the maximum tax an Airport Authority can be authorized to levy?",
+    "answer": "Seventy-Five Cents (75¢) per One Hundred Dollars ($100) assessed valuation.",
+    "options": [
+      "Ten Cents (10¢) per One Hundred Dollars ($100) assessed valuation.",
+      "Twenty-Five Cents (25¢) per One Hundred Dollars ($100) assessed valuation.",
+      "Fifty Cents (50¢) per One Hundred Dollars ($100) assessed valuation.",
+      "Seventy-Five Cents (75¢) per One Hundred Dollars ($100) assessed valuation."
+    ],
+    "reference": "...the tax to be levied not to exceed Seventy-Five Cents (75¢) per One Hundred Dollars ($100) assessed valuation of the property."
+  },
+  {
+    "question": "What does Section 13 clarify regarding the responsibilities of a newly created hospital district?",
+    "answer": "The district shall not be required to assume full responsibility for mental health or public health services.",
+    "options": [
+      "The district must assume responsibility for all health services in its boundaries.",
+      "The district is prohibited from providing mental health services.",
+      "The district shall not be required to assume full responsibility for mental health or public health services.",
+      "The district must create its own public health department."
+    ],
+    "reference": "Sec. 13. ...the Legislature in providing for the creation... of a hospital district, shall not be required to provide that such district shall assume full responsibility for the establishment, maintenance, support, or operation of mental health services or mental retardation services..."
+  },
+  {
+    "question": "What may each county in the State provide for its indigent and poor inhabitants, according to Section 14?",
+    "answer": "A Manual Labor Poor House and Farm.",
+    "options": [
+      "Guaranteed basic income.",
+      "Free public transportation.",
+      "Universal health care.",
+      "A Manual Labor Poor House and Farm."
+    ],
+    "reference": "Sec. 14. COUNTY FACILITIES FOR INDIGENT INHABITANTS. Each county in the State may provide... a Manual Labor Poor House and Farm, for taking care of, managing, employing and supplying the wants of its indigent and poor inhabitants."
+  }
+],
+    "article10": [
+  {
+    "question": "According to Article 10, Section 2 of the Texas Constitution, what are railroads constructed in the state declared to be?",
+    "answer": "Public highways, and railroad companies as common carriers.",
+    "options": [
+      "Private corporate property.",
+      "The sole property of the State of Texas.",
+      "Exempt from legislative regulation.",
+      "Public highways, and railroad companies as common carriers."
+    ],
+    "reference": "Sec. 2. RAILROADS AS PUBLIC HIGHWAYS AND COMMON CARRIERS; REGULATION. Railroads heretofore constructed or which may hereafter be constructed in this state are hereby declared public highways, and railroad companies, common carriers."
+  },
+  {
+    "question": "What power does the Legislature have regarding railroad, freight, and passenger tariffs?",
+    "answer": "To pass laws to regulate them.",
+    "options": [
+      "To set the exact price for all tariffs.",
+      "To pass laws to regulate them.",
+      "To delegate all tariff authority to the railroad companies.",
+      "To prohibit all tariffs."
+    ],
+    "reference": "The Legislature shall pass laws to regulate railroad, freight and passenger tariffs..."
+  },
+  {
+    "question": "For what purpose does the Legislature regulate freight and passenger tariffs on railroads?",
+    "answer": "To correct abuses and prevent unjust discrimination and extortion.",
+    "options": [
+      "To ensure maximum profit for the railroad companies.",
+      "To fund other state projects.",
+      "To correct abuses and prevent unjust discrimination and extortion.",
+      "To simplify the shipping process for consumers."
+    ],
+    "reference": "...to correct abuses and prevent unjust discrimination and extortion in the rates of freight and passenger tariffs on the different railroads in this state..."
+  },
+  {
+    "question": "How is the Legislature directed to enforce the laws regulating railroad tariffs?",
+    "answer": "By adequate penalties.",
+    "options": [
+      "Through direct negotiations with railroad companies.",
+      "By seizing railroad assets.",
+      "By adequate penalties.",
+      "By creating a new court system."
+    ],
+    "reference": "...and enforce the same by adequate penalties; and to the further accomplishment of these objects and purposes, may provide and establish all requisite means and agencies invested with such powers as may be deemed adequate and advisable."
+  }
+],
+    "article11": [
+  {
+    "question": "According to Article 11, Section 1, what are the several Counties of this State recognized as?",
+    "answer": "Legal subdivisions of the State.",
+    "options": [
+      "Independent government entities.",
+      "Municipal corporations.",
+      "Special purpose districts.",
+      "Legal subdivisions of the State."
+    ],
+    "reference": "Sec. 1. COUNTIES AS LEGAL SUBDIVISIONS. The several Counties of this State are hereby recognized as legal subdivisions of the State."
+  },
+  {
+    "question": "What does Article 11, Section 3 prohibit a county or city from doing?",
+    "answer": "Becoming a subscriber to the capital of any private corporation or loaning its credit to one.",
+    "options": [
+      "Entering into contracts with other government entities.",
+      "Levying property taxes.",
+      "Becoming a subscriber to the capital of any private corporation or loaning its credit to one.",
+      "Investing its funds in government bonds."
+    ],
+    "reference": "Sec. 3. COUNTY OR MUNICIPAL INVESTMENT IN OR DONATION OR LOAN TO PRIVATE CORPORATION OR ASSOCIATION PROHIBITED. No county, city, or other municipal corporation shall hereafter become a subscriber to the capital of any private corporation or association, or make any appropriation or donation to the same, or in anywise loan its credit..."
+  },
+  {
+    "question": "Cities and towns with a population of 5,000 or less may be chartered by what means?",
+    "answer": "By general law only.",
+    "options": [
+      "By a special act of the Legislature.",
+      "By a vote of the county commissioners court.",
+      "By general law only.",
+      "By adopting their own charter."
+    ],
+    "reference": "Sec. 4. CITIES AND TOWNS WITH POPULATION OF 5,000 OR LESS: CHARTERED BY GENERAL LAW... Cities and towns having a population of five thousand or less may be chartered alone by general law."
+  },
+  {
+    "question": "For a city with a population of 5,000 or less, what is the maximum lawful tax rate for any one year?",
+    "answer": "One and one-half per cent of the taxable property.",
+    "options": [
+      "One-half of one per cent of the taxable property.",
+      "One per cent of the taxable property.",
+      "One and one-half per cent of the taxable property.",
+      "Two and one-half per cent of the taxable property."
+    ],
+    "reference": "...but no tax for any purpose shall ever be lawful for any one year which shall exceed one and one-half per cent of the taxable property of such city..."
+  },
+  {
+    "question": "A city with a population of more than 5,000 may adopt or amend its charter by what method?",
+    "answer": "A majority vote of the qualified voters of said city.",
+    "options": [
+      "A two-thirds vote of the city council.",
+      "An order from the Governor.",
+      "A majority vote of the qualified voters of said city.",
+      "A special act of the Legislature."
+    ],
+    "reference": "Sec. 5. CITIES OF MORE THAN 5,000 POPULATION: ADOPTION OR AMENDMENT OF CHARTERS... (a) Cities having more than five thousand (5000) inhabitants may, by a majority vote of the qualified voters of said city, at an election held for that purpose, adopt or amend their charters."
+  },
+  {
+    "question": "For a city with a population over 5,000, what is the maximum lawful tax rate for any one year?",
+    "answer": "Two and one-half per cent of the taxable property.",
+    "options": [
+      "One and one-half per cent of the taxable property.",
+      "Two per cent of the taxable property.",
+      "Two and one-half per cent of the taxable property.",
+      "Three per cent of the taxable property."
+    ],
+    "reference": "Said cities may levy, assess and collect such taxes as may be authorized by law or by their charters; but no tax for any purpose shall ever be lawful for any one year, which shall exceed two and one-half per cent. of the taxable property of such city..."
+  },
+  {
+    "question": "When a city creates a debt, what provision must it make at the same time?",
+    "answer": "Assess and collect annually a sufficient sum to pay the interest and create a sinking fund of at least two per cent.",
+    "options": [
+      "Pledge public property as collateral.",
+      "Get approval from the State Comptroller.",
+      "Assess and collect annually a sufficient sum to pay the interest and create a sinking fund of at least two per cent.",
+      "Purchase insurance to cover the debt."
+    ],
+    "reference": "...and no debt shall ever be created by any city, unless at the same time provision be made to assess and collect annually a sufficient sum to pay the interest thereon and creating a sinking fund of at least two per cent. thereon..."
+  },
+  {
+    "question": "How often can a city charter be altered, amended or repealed?",
+    "answer": "Not oftener than every two years.",
+    "options": [
+      "As often as needed.",
+      "Only once every ten years.",
+      "Not oftener than every two years.",
+      "Only during a general election."
+    ],
+    "reference": "Furthermore, no city charter shall be altered, amended or repealed oftener than every two years."
+  },
+  {
+    "question": "Counties and cities bordering the Gulf of Mexico are authorized to levy a tax for what specific purpose?",
+    "answer": "Construction of sea walls, breakwaters, or sanitary purposes.",
+    "options": [
+      "Promoting tourism.",
+      "Funding a local port authority.",
+      "Beach nourishment and restoration.",
+      "Construction of sea walls, breakwaters, or sanitary purposes."
+    ],
+    "reference": "Sec. 7. COUNTIES AND CITIES ON GULF OF MEXICO; TAX FOR SEA WALLS, BREAKWATERS, AND SANITATION... (a) All counties and cities bordering on the coast of the Gulf of Mexico are hereby authorized... to levy and collect such tax for construction of sea walls, breakwaters, or sanitary purposes..."
+  },
+  {
+    "question": "Which of the following types of county or municipal property is exempt from forced sale and taxation?",
+    "answer": "Public buildings and the sites therefor, and Fire engines.",
+    "options": [
+      "All property owned by a city, without exception.",
+      "Land held for future development.",
+      "Public buildings and the sites therefor, and Fire engines.",
+      "Vehicles used by city employees."
+    ],
+    "reference": "Sec. 9. COUNTY OR MUNICIPAL PROPERTY HELD FOR PUBLIC PURPOSE EXEMPT FROM FORCED SALE AND TAXATION. The property of counties, cities and towns, owned and held only for public purposes, such as public buildings and the sites therefor, Fire engines and the furniture thereof, and all property used, or intended for extinguishing fires... shall be exempt from forced sale and from taxation..."
+  },
+  {
+    "question": "A Home Rule City may provide for a term of office for its officers not to exceed how many years?",
+    "answer": "Four (4) years.",
+    "options": [
+      "Two (2) years.",
+      "Four (4) years.",
+      "Six (6) years.",
+      "There is no limit."
+    ],
+    "reference": "Sec. 11. TERM OF OFFICE EXCEEDING TWO YEARS IN HOME RULE AND GENERAL LAW CITIES... (a) A Home Rule City may provide by charter or charter amendment... for a longer term of office than two (2) years for its officers... but not to exceed four (4) years..."
+  },
+  {
+    "question": "According to Section 11, how must a vacancy on the governing body of a municipality be filled?",
+    "answer": "By majority vote of the qualified voters at a special election.",
+    "options": [
+      "By appointment by the Mayor.",
+      "By appointment by the remaining members of the governing body.",
+      "By majority vote of the qualified voters at a special election.",
+      "The position remains vacant until the next general election."
+    ],
+    "reference": "Sec. 11. ... (c) Any vacancy or vacancies occurring on such governing body shall not be filled by appointment but must be filled by majority vote of the qualified voters at a special election called for such purpose..."
+  },
+  {
+    "question": "A city may expend public funds to replace sanitation sewer or water laterals on private property only if it is done in conjunction with what other work?",
+    "answer": "The replacement or relocation of the main sewer or water lines serving the property.",
+    "options": [
+      "A city-wide street improvement project.",
+      "The replacement or relocation of the main sewer or water lines serving the property.",
+      "A request from the property owner.",
+      "The construction of a new public building."
+    ],
+    "reference": "Sec. 12. EXPENDITURES FOR RELOCATION OR REPLACEMENT OF SANITATION SEWER OR WATER LATERALS ON PRIVATE PROPERTY. The legislature by general law may authorize a city or town to expend public funds for the relocation or replacement of sanitation sewer laterals or water laterals on private property if the relocation or replacement is done in conjunction with or immediately following the replacement or relocation of sanitation sewer mains or water mains serving the property."
+  },
+  {
+    "question": "When a city places a lien on private property for the cost of replacing laterals, the cost must be amortized over a period not to exceed what?",
+    "answer": "Five years.",
+    "options": [
+      "One year.",
+      "Three years.",
+      "Five years.",
+      "Ten years."
+    ],
+    "reference": "...and must provide that the cost shall be assessed against the property with repayment by the property owner to be amortized over a period not to exceed five years..."
+  },
+  {
+    "question": "Article 11, Section 13 gives the Legislature the power to define for all purposes which functions of a municipality are to be considered what?",
+    "answer": "Governmental and proprietary.",
+    "options": [
+      "Essential and non-essential.",
+      "Taxable and non-taxable.",
+      "Legislative and executive.",
+      "Governmental and proprietary."
+    ],
+    "reference": "Sec. 13. CLASSIFICATION OF MUNICIPAL FUNCTIONS. (a) ...the legislature may by law define for all purposes those functions of a municipality that are to be considered governmental and those that are proprietary..."
+  }
+],
+    "article12": [
+  {
+    "question": "According to Article 12, Section 1, by what method shall Private Corporations be created?",
+    "answer": "By general laws only.",
+    "options": [
+      "By special acts of the Legislature.",
+      "By executive order of the Governor.",
+      "By general laws only.",
+      "By a direct vote of the people."
+    ],
+    "reference": "Sec. 1. CREATION OF PRIVATE CORPORATIONS BY GENERAL LAWS ONLY. No Private Corporation shall be created except by general laws."
+  },
+  {
+    "question": "What shall the general laws enacted for the creation of Private Corporations provide for, according to Article 12, Section 2?",
+    "answer": "The adequate protection of the public and of the individual stockholders.",
+    "options": [
+      "A minimum tax rate for the corporation.",
+      "The appointment of its officers by the state.",
+      "The adequate protection of the public and of the individual stockholders.",
+      "Limitations on the corporation's profits."
+    ],
+    "reference": "Sec. 2. GENERAL LAWS FOR CREATION OF PRIVATE CORPORATIONS AND PROTECTION OF PUBLIC AND STOCKHOLDERS. General laws shall be enacted providing for the creation of Private Corporations, and shall therein provide fully for the adequate protection of the public and of the individual stockholders."
+  }
+],
+    "article13": [],
+    "article14": [
+  {
+    "question": "According to Article 14, Section 1, how many General Land Offices shall there be in the State?",
+    "answer": "One",
+    "options": [
+      "Two",
+      "One",
+      "One in each county",
+      "As many as the Legislature deems necessary"
+    ],
+    "reference": "Sec. 1. GENERAL LAND OFFICE. There shall be one General Land Office in the State..."
+  },
+  {
+    "question": "Where shall the General Land Office be located?",
+    "answer": "At the Seat of Government",
+    "options": [
+      "In the most populous city",
+      "In the geographical center of the state",
+      "At the Seat of Government",
+      "In a location determined by the Land Commissioner"
+    ],
+    "reference": "There shall be one General Land Office in the State, which shall be at the Seat of Government..."
+  },
+  {
+    "question": "What is required to be registered at the General Land Office?",
+    "answer": "All Land Titles which have emanated or may hereafter emanate from the State.",
+    "options": [
+      "All private land sale contracts.",
+      "All property tax records.",
+      "All Land Titles which have emanated or may hereafter emanate from the State.",
+      "All historical documents."
+    ],
+    "reference": "...where all Land Titles which have emanated or may hereafter emanate from the State shall be registered, except those titles the registration of which may be prohibited by this Constitution."
+  },
+  {
+    "question": "What is the duty of the Legislature regarding the General Land Office?",
+    "answer": "To make the Land Office self-sustaining.",
+    "options": [
+      "To appoint the Land Commissioner.",
+      "To fund the office from general revenue.",
+      "To audit the office's records annually.",
+      "To make the Land Office self-sustaining."
+    ],
+    "reference": "It shall be the duty of the Legislature at the earliest practicable time to make the Land Office self sustaining..."
+  },
+  {
+    "question": "What may the Legislature establish from time to time as may be deemed necessary?",
+    "answer": "Such subordinate Offices.",
+    "options": [
+      "New counties.",
+      "Special courts for land disputes.",
+      "Such subordinate Offices.",
+      "Additional General Land Offices."
+    ],
+    "reference": "...and from time to time the Legislature may establish such subordinate Offices as may be deemed necessary."
+  }
+],
+    "article15": [
+  {
+    "question": "According to Article 15, Section 1, where is the power of impeachment vested?",
+    "answer": "In the House of Representatives.",
+    "options": [
+      "In the Senate.",
+      "In the Supreme Court.",
+      "In the House of Representatives.",
+      "In the Governor's office."
+    ],
+    "reference": "Sec. 1. IMPEACHMENT BY HOUSE OF REPRESENTATIVES. The power of impeachment shall be vested in the House of Representatives."
+  },
+  {
+    "question": "Which body is responsible for trying the impeachment of the Governor, Lieutenant Governor, and Attorney General?",
+    "answer": "The Senate.",
+    "options": [
+      "The House of Representatives.",
+      "The Supreme Court.",
+      "A special tribunal of judges.",
+      "The Senate."
+    ],
+    "reference": "Sec. 2. TRIAL OF IMPEACHMENT OF CERTAIN OFFICERS BY SENATE. Impeachment of the Governor, Lieutenant Governor, Attorney General, Commissioner of the General Land Office, Comptroller and the Judges of the Supreme Court, Court of Appeals and District Court shall be tried by the Senate."
+  },
+  {
+    "question": "When the Senate is sitting as a Court of Impeachment, what is required for a person to be convicted?",
+    "answer": "The concurrence of two-thirds of the Senators present.",
+    "options": [
+      "A simple majority of the Senators present.",
+      "A three-fifths vote of the Senators present.",
+      "A unanimous vote of the Senators present.",
+      "The concurrence of two-thirds of the Senators present."
+    ],
+    "reference": "Sec. 3. IMPARTIAL TRIAL BY SENATE; CONCURRENCE OF TWO-THIRDS REQUIRED. ...no person shall be convicted without the concurrence of two-thirds of the Senators present."
+  },
+  {
+    "question": "According to Section 4, what is the maximum extent of the judgment in cases of impeachment?",
+    "answer": "Removal from office and disqualification from holding any office of honor, trust or profit under this State.",
+    "options": [
+      "Removal from office and a fine not to exceed $10,000.",
+      "Imprisonment for a term not to exceed ten years.",
+      "Removal from office and disqualification from holding any office of honor, trust or profit under this State.",
+      "Censure and a formal reprimand only."
+    ],
+    "reference": "Sec. 4. JUDGMENT TO REMOVE AND DISQUALIFY; PUNISHMENT UNDER OTHER LAW PERMITTED. Judgement† in cases of impeachment shall extend only to removal from office, and disqualification from holding any office of honor, trust or profit under this State."
+  },
+  {
+    "question": "Is a party convicted on impeachment still subject to criminal proceedings for their actions?",
+    "answer": "Yes, they shall also be subject to indictment, trial and punishment according to law.",
+    "options": [
+      "No, impeachment is the final judgment.",
+      "Yes, they shall also be subject to indictment, trial and punishment according to law.",
+      "Only if the offense was a felony.",
+      "Only if the Senate recommends further prosecution."
+    ],
+    "reference": "A. Party† convicted on impeachment shall also be subject to indictment; trial and punishment according to law."
+  },
+  {
+    "question": "What happens to officers against whom articles of impeachment may be preferred?",
+    "answer": "They shall be suspended from the exercise of the duties of their office.",
+    "options": [
+      "They continue to perform their duties until a verdict is rendered.",
+      "They are placed on paid administrative leave.",
+      "They are immediately removed from office.",
+      "They shall be suspended from the exercise of the duties of their office."
+    ],
+    "reference": "Sec. 5. SUSPENSION PENDING IMPEACHMENT; PROVISIONAL APPOINTMENT. All officers against whom articles of impeachment may be preferred shall be suspended from the exercise of the duties of their office, during the pendency of such impeachment."
+  },
+  {
+    "question": "Who has the power to make a provisional appointment to fill a vacancy created by the suspension of an officer pending impeachment?",
+    "answer": "The Governor.",
+    "options": [
+      "The Lieutenant Governor.",
+      "The President pro tempore of the Senate.",
+      "The Governor.",
+      "The Chief Justice of the Supreme Court."
+    ],
+    "reference": "The Governor may make a provisional appointment to fill the vacancy,† occasioned by the suspension of an officer until the decision on the impeachment."
+  },
+  {
+    "question": "Under Section 6, the Supreme Court has original jurisdiction to remove which officials?",
+    "answer": "Any Judge of the District Courts of the State.",
+    "options": [
+      "Any elected official in the state.",
+      "The Governor or Lieutenant Governor.",
+      "Any Judge of the District Courts of the State.",
+      "Members of the Legislature."
+    ],
+    "reference": "Sec. 6. REMOVAL OF DISTRICT JUDGES BY SUPREME COURT. Any Judge of the District Courts of the State who is incompetent... may be removed by the Supreme Court."
+  },
+  {
+    "question": "For the Supreme Court to remove a District Judge, a presentment must be made in writing upon the oaths of how many lawyers?",
+    "answer": "Not less than ten lawyers.",
+    "options": [
+      "At least two lawyers.",
+      "Not less than five lawyers.",
+      "Not less than ten lawyers.",
+      "At least twenty-five lawyers."
+    ],
+    "reference": "The Supreme Court shall have original jurisdiction to hear and determine the causes aforesaid when presented in writing upon the oaths taken before some Judge of a court of record of not less than ten lawyers, practicing in the courts held by such Judge..."
+  },
+  {
+    "question": "For officers whose mode of removal is not provided for in the Constitution, who is responsible for providing a method for their trial and removal?",
+    "answer": "The Legislature.",
+    "options": [
+      "The Governor.",
+      "The Supreme Court.",
+      "The Attorney General.",
+      "The Legislature."
+    ],
+    "reference": "Sec. 7. REMOVAL OF OFFICERS WHEN MODE NOT PROVIDED IN CONSTITUTION. The Legislature shall provide by law for the trial and removal from office of all officers of this State, the modes for which have not been provided in this Constitution."
+  },
+  {
+    "question": "Judges of the Supreme Court, Court of Appeals, and District Courts can be removed by the Governor upon what action by the Legislature?",
+    "answer": "On the address of two-thirds of each House of the Legislature.",
+    "options": [
+      "A simple majority vote of each House.",
+      "A concurrent resolution.",
+      "On the address of two-thirds of each House of the Legislature.",
+      "A recommendation from the Judiciary Committee."
+    ],
+    "reference": "Sec. 8. REMOVAL OF JUDGES BY GOVERNOR ON ADDRESS OF TWO-THIRDS OF EACH HOUSE OF LEGISLATURE. The Judges of the Supreme Court, Court of Appeals and District Courts, shall be removed by the Governor on the address of two-thirds of each House of the Legislature..."
+  },
+  {
+    "question": "Before a vote for removal of a judge by address of the Legislature can pass, what must be provided to the judge?",
+    "answer": "The cause for removal must be notified to the Judge, and he shall be admitted to a hearing in his own defense.",
+    "options": [
+      "A chance to resign from office.",
+      "A written apology from the Legislature.",
+      "The cause for removal must be notified to the Judge, and he shall be admitted to a hearing in his own defense.",
+      "A severance package."
+    ],
+    "reference": "...provided further, that the cause or causes shall be notified to the Judge so intended to be removed, and he shall be admitted to a hearing in his own defense before any vote for such address shall pass..."
+  },
+  {
+    "question": "In addition to other procedures, a governor who appoints an officer may remove that officer with what?",
+    "answer": "The advice and consent of two-thirds of the members of the senate present.",
+    "options": [
+      "A simple majority vote of the senate.",
+      "A court order.",
+      "The advice and consent of two-thirds of the members of the senate present.",
+      "A recommendation from the Attorney General."
+    ],
+    "reference": "Sec. 9. REMOVAL OF PUBLIC OFFICER BY APPOINTING GOVERNOR WITH ADVICE AND CONSENT OF SENATE. (a) In addition to the other procedures provided by law for removal of public officers, the governor who appoints an officer may remove the officer with the advice and consent of two-thirds of the members of the senate present."
+  }
+],
+    "article16": [
+  {
+    "question": "What must all elected and appointed officers do before they enter upon the duties of their offices?",
+    "answer": "Take the official Oath or Affirmation.",
+    "options": [
+      "File a financial disclosure statement.",
+      "Post a surety bond.",
+      "Take the official Oath or Affirmation.",
+      "Be confirmed by the Senate."
+    ],
+    "reference": "Sec. 1. OFFICIAL OATH OF OFFICE. (a) All elected and appointed officers, before they enter upon the duties of their offices, shall take the following Oath or Affirmation..."
+  },
+  {
+    "question": "The official Oath of Office requires an officer to preserve, protect, and defend the Constitution and laws of what two entities?",
+    "answer": "The United States and of this State (Texas).",
+    "options": [
+      "Their home county and the State of Texas.",
+      "The United States and of this State (Texas).",
+      "The North American continent.",
+      "The office they hold and the agency they work for."
+    ],
+    "reference": "...and will to the best of my ability preserve, protect, and defend the Constitution and laws of the United States and of this State, so help me God."
+  },
+  {
+    "question": "In addition to the Oath of Office, what must all elected and appointed officers subscribe to?",
+    "answer": "A statement that they have not engaged in bribery to secure their office.",
+    "options": [
+      "A pledge of allegiance to the Texas flag.",
+      "A statement of their political party affiliation.",
+      "A non-compete agreement.",
+      "A statement that they have not engaged in bribery to secure their office."
+    ],
+    "reference": "Sec. 1. ... (b) All elected or appointed officers, before taking the Oath or Affirmation... shall subscribe to the following statement: 'I,_____, do solemnly swear (or affirm) that I have not directly or indirectly paid, offered, promised to pay, contributed, or promised to contribute any money or thing of value... for the giving or withholding of a vote at the election at which I was elected...'"
+  },
+  {
+    "question": "According to Article 16, Section 2, the Legislature shall make laws to exclude from office persons who have been convicted of what crimes?",
+    "answer": "Bribery, perjury, forgery, or other high crimes.",
+    "options": [
+      "Any felony offense.",
+      "Any offense involving moral turpitude.",
+      "Bribery, perjury, forgery, or other high crimes.",
+      "Any Class A misdemeanor or higher."
+    ],
+    "reference": "Sec. 2. EXCLUSIONS FROM OFFICE FOR CONVICTION OF HIGH CRIMES. Laws shall be made to exclude from office persons who have been convicted of bribery, perjury, forgery, or other high crimes."
+  },
+  {
+    "question": "What is the consequence for a person convicted of having given or offered a bribe to procure their election or appointment?",
+    "answer": "They shall be disqualified from holding any office of profit, or trust, in this State.",
+    "options": [
+      "They must pay a fine to the state.",
+      "They are barred from voting for life.",
+      "They must serve a mandatory prison sentence.",
+      "They shall be disqualified from holding any office of profit, or trust, in this State."
+    ],
+    "reference": "Sec. 5. DISQUALIFICATION FROM OFFICE FOR GIVING OR OFFERING BRIBE. Every person shall be disqualified from holding any office of profit, or trust, in this State, who shall have been convicted of having given or offered a bribe to procure his election or appointment."
+  },
+  {
+    "question": "Article 16, Section 6 prohibits the Legislature from making appropriations for what purposes?",
+    "answer": "Private or individual purposes.",
+    "options": [
+      "Any purpose not approved by the Governor.",
+      "Federal government programs.",
+      "Private or individual purposes.",
+      "Purposes outside the state of Texas."
+    ],
+    "reference": "Sec. 6. APPROPRIATIONS FOR PRIVATE PURPOSES... (a) No appropriation for private or individual purposes shall be made, unless authorized by this Constitution."
+  },
+  {
+    "question": "Under what circumstance does absence on business of the State or of the United States forfeit a residence once obtained?",
+    "answer": "It shall not forfeit a residence once obtained.",
+    "options": [
+      "If the absence is longer than one year.",
+      "If the person establishes a home in another state.",
+      "It shall not forfeit a residence once obtained.",
+      "If the person votes in another state's election."
+    ],
+    "reference": "Sec. 9. NO FORFEITURE OF RESIDENCE BY ABSENCE ON PUBLIC BUSINESS. Absence on business of the State, or of the United States, shall not forfeit a residence once obtained, so as to deprive any one of the right of suffrage, or of being elected or appointed to any office..."
+  },
+  {
+    "question": "In the absence of legislation, what is the maximum rate of interest for all contracts?",
+    "answer": "Ten per centum (10%) per annum.",
+    "options": [
+      "Six per centum (6%) per annum.",
+      "Eight per centum (8%) per annum.",
+      "Ten per centum (10%) per annum.",
+      "Twelve per centum (12%) per annum."
+    ],
+    "reference": "Sec. 11. USURY... in the absence of legislation fixing maximum rates of interest all contracts for a greater rate of interest than ten per centum (10%) per annum shall be deemed usurious..."
+  },
+  {
+    "question": "If no rate of interest is agreed upon in a contract, what rate shall the contract not exceed?",
+    "answer": "Six per centum (6%) per annum.",
+    "options": [
+      "Six per centum (6%) per annum.",
+      "Eight per centum (8%) per annum.",
+      "Ten per centum (10%) per annum.",
+      "There is no default rate."
+    ],
+    "reference": "Sec. 11. USURY... provided, further, that in contracts where no rate of interest is agreed upon, the rate shall not exceed six per centum (6%) per annum."
+  },
+  {
+    "question": "Who is ineligible to be a member of the Legislature or hold any office of profit or trust under this State?",
+    "answer": "A member of Congress, or a person holding office under the United States.",
+    "options": [
+      "A person who is not a natural born citizen.",
+      "A former governor of another state.",
+      "A person who has declared bankruptcy.",
+      "A member of Congress, or a person holding office under the United States."
+    ],
+    "reference": "Sec. 12. INELIGIBILITY OF MEMBERS OF CONGRESS AND OFFICERS OF UNITED STATES OR FOREIGN POWER TO HOLD ANOTHER OFFICE. No member of Congress, nor person holding or exercising any office of profit or trust, under the United States... shall be eligible as a member of the Legislature, or hold or exercise any office of profit or trust under this State."
+  },
+  {
+    "question": "What happens if a district or county officer fails to reside within their district or county?",
+    "answer": "They shall vacate the office so held.",
+    "options": [
+      "They are subject to a fine.",
+      "They must receive permission from the Governor.",
+      "They are given a 90-day grace period to move.",
+      "They shall vacate the office so held."
+    ],
+    "reference": "Sec. 14. CIVIL OFFICERS; RESIDENCE; LOCATION OF OFFICES. All civil officers shall reside within the State; and all district or county officers within their districts or counties... and failure to comply with this condition shall vacate the office so held."
+  },
+  {
+    "question": "Under Article 16, Section 15, what constitutes the separate property of a spouse?",
+    "answer": "All property owned or claimed before marriage, and that acquired afterward by gift, devise or descent.",
+    "options": [
+      "Only property owned before marriage.",
+      "Any property held in that spouse's name.",
+      "All property owned or claimed before marriage, and that acquired afterward by gift, devise or descent.",
+      "Half of all property acquired during the marriage."
+    ],
+    "reference": "Sec. 15. SEPARATE AND COMMUNITY PROPERTY OF SPOUSES. All property, both real and personal, of a spouse owned or claimed before marriage, and that acquired afterward by gift, devise or descent, shall be the separate property of that spouse..."
+  },
+  {
+    "question": "According to Section 17, how long shall all officers of the State continue to perform the duties of their offices?",
+    "answer": "Until their successors shall be duly qualified.",
+    "options": [
+      "Until the last day of their designated term.",
+      "Until their successors shall be duly qualified.",
+      "For a period not to exceed 30 days after their term expires.",
+      "Until the next general election."
+    ],
+    "reference": "Sec. 17. SERVICE OF PUBLIC OFFICER PENDING QUALIFICATION OF SUCCESSOR. (a) Except as provided by Subsection (b) of this section, all officers of this State shall continue to perform the duties of their offices until their successors shall be duly qualified."
+  },
+  {
+    "question": "The Legislature has the power to enact a Mixed Beverage Law regulating the sale of mixed alcoholic beverages on what basis?",
+    "answer": "A local option election basis.",
+    "options": [
+      "A statewide basis only.",
+      "A local option election basis.",
+      "A county-by-county basis as set by Commissioners Courts.",
+      "Any basis the Legislature chooses."
+    ],
+    "reference": "Sec. 20. REGULATION OF MIXED ALCOHOLIC BEVERAGES... (a) The Legislature shall have the power to enact a Mixed Beverage Law regulating the sale of mixed alcoholic beverages on a local option election basis."
+  },
+  {
+    "question": "According to Section 21, contracts for public printing and binding shall be given to whom?",
+    "answer": "The lowest responsible bidder.",
+    "options": [
+      "A company located in Austin.",
+      "Any company with a state contract.",
+      "The lowest responsible bidder.",
+      "A non-profit organization."
+    ],
+    "reference": "Sec. 21. CONTRACTS FOR PUBLIC PRINTING AND BINDING... shall be performed under contract, to be given to the lowest responsible bidder..."
+  },
+  {
+    "question": "What protection is granted to current wages for personal service under Article 16, Section 28?",
+    "answer": "They shall never be subject to garnishment, with certain exceptions.",
+    "options": [
+      "They can be garnished for any consumer debt.",
+      "They shall never be subject to garnishment, with certain exceptions.",
+      "Up to 50% of wages can be garnished.",
+      "They can only be garnished with a court order for any type of debt."
+    ],
+    "reference": "Sec. 28. GARNISHMENT OF WAGES. No current wages for personal service shall ever be subject to garnishment..."
+  },
+  {
+    "question": "What is an exception to the prohibition on garnishment of wages?",
+    "answer": "The enforcement of court-ordered child support payments.",
+    "options": [
+      "Payment of federal income taxes.",
+      "Payment of student loans.",
+      "The enforcement of court-ordered child support payments.",
+      "Payment of unpaid medical bills."
+    ],
+    "reference": "No current wages for personal service shall ever be subject to garnishment, except for the enforcement of court-ordered: (1) child support payments; or (2) spousal maintenance."
+  },
+  {
+    "question": "The duration of all offices not fixed by the Constitution shall never exceed what term?",
+    "answer": "Two years.",
+    "options": [
+      "One year.",
+      "Two years.",
+      "Four years.",
+      "Six years."
+    ],
+    "reference": "Sec. 30. DURATION OF PUBLIC OFFICES... (a) The duration of all offices not fixed by this Constitution shall never exceed two years."
+  },
+  {
+    "question": "According to Section 31, the Legislature may pass laws prescribing the qualifications of practitioners of medicine, but what shall never be given by law?",
+    "answer": "Preference to any school of medicine.",
+    "options": [
+      "Licenses to practice medicine.",
+      "Funding for medical schools.",
+      "Preference to any school of medicine.",
+      "Regulations on malpractice."
+    ],
+    "reference": "Sec. 31. PRACTITIONERS OF MEDICINE. The Legislature may pass laws prescribing the qualifications of practitioners of medicine in this State, and to punish persons for mal-practice, but no preference shall ever be given by law to any schools of medicine."
+  },
+  {
+    "question": "Who shall have a lien upon the buildings and articles made or repaired by them for the value of their labor or material?",
+    "answer": "Mechanics, artisans and material men.",
+    "options": [
+      "General contractors only.",
+      "Any employee of a construction company.",
+      "Mechanics, artisans and material men.",
+      "Only those who have a written contract."
+    ],
+    "reference": "Sec. 37. LIENS OF MECHANICS, ARTISANS, AND MATERIAL MEN. Mechanics, artisans and material men, of every class, shall have a lien upon the buildings and articles made or repaired by them for the value of their labor done thereon, or material furnished therefor..."
+  },
+  {
+    "question": "What is the general rule under Section 40 regarding a person holding public office?",
+    "answer": "No person shall hold or exercise at the same time, more than one civil office of emolument.",
+    "options": [
+      "A person can hold up to three offices simultaneously.",
+      "A person can hold both a state and a federal office.",
+      "No person shall hold or exercise at the same time, more than one civil office of emolument.",
+      "There are no restrictions on holding multiple offices."
+    ],
+    "reference": "Sec. 40. HOLDING MORE THAN ONE PUBLIC OFFICE; EXCEPTIONS... (a) No person shall hold or exercise at the same time, more than one civil office of emolument, except that..."
+  },
+  {
+    "question": "Which of the following is an exception to the rule against holding more than one public office?",
+    "answer": "A Justice of the Peace.",
+    "options": [
+      "A member of the Legislature.",
+      "A County Judge.",
+      "A Justice of the Peace.",
+      "A District Attorney."
+    ],
+    "reference": "Sec. 40. ...except that of Justice of the Peace, County Commissioner, Notary Public and Postmaster, Officer of the National Guard..."
+  },
+  {
+    "question": "A person who offers or gives any money or thing of value to influence an executive or judicial officer in their public duties is guilty of what?",
+    "answer": "Bribery.",
+    "options": [
+      "Extortion.",
+      "Fraud.",
+      "Bribery.",
+      "Embezzlement."
+    ],
+    "reference": "Sec. 41. BRIBERY AND SOLICITATION OR ACCEPTANCE OF BRIBES. Any person who shall, directly or indirectly, offer, give, or promise, any money or thing of value... to any executive or judicial officer or member of the legislature to influence him in the performance of any of his public or official duties, shall be guilty of bribery..."
+  },
+  {
+    "question": "The Texas Constitution requires the Legislature to protect from forced sale a certain portion of what?",
+    "answer": "The personal property of all heads of families and unmarried adults.",
+    "options": [
+      "All property owned by a business.",
+      "The personal property of all heads of families and unmarried adults.",
+      "Any property subject to a federal tax lien.",
+      "Land held for investment purposes."
+    ],
+    "reference": "Sec. 49. PROTECTION OF PERSONAL PROPERTY FROM FORCED SALE. The Legislature shall have power, and it shall be its duty, to protect by law from forced sale a certain portion of the personal property of all heads of families, and also of unmarried adults, male and female."
+  },
+  {
+    "question": "For which of the following debts is the homestead NOT protected from forced sale?",
+    "answer": "The taxes due thereon.",
+    "options": [
+      "Credit card debt.",
+      "A personal loan from a bank.",
+      "The taxes due thereon.",
+      "A judgment from a civil lawsuit."
+    ],
+    "reference": "Sec. 50. PROTECTION OF HOMESTEAD FROM FORCED OR UNAUTHORIZED SALE; EXCEPTIONS... (a) The homestead of a family, or of a single adult person, shall be... protected from forced sale, for the payment of all debts except for: ... (2) the taxes due thereon;"
+  },
+  {
+    "question": "A home equity loan is limited to a principal amount that, when added to all other liens, does not exceed what percentage of the homestead's fair market value?",
+    "answer": "80 percent.",
+    "options": [
+      "75 percent.",
+      "80 percent.",
+      "90 percent.",
+      "100 percent."
+    ],
+    "reference": "Sec. 50. ... (a)(6) an extension of credit that: ... (B) is of a principal amount that when added to the aggregate total of the outstanding principal balances of all other indebtedness secured by valid encumbrances of record against the homestead does not exceed 80 percent of the fair market value of the homestead..."
+  },
+  {
+    "question": "How long does an owner have to rescind a home equity loan after it is made, without penalty or charge?",
+    "answer": "Within three days.",
+    "options": [
+      "24 hours.",
+      "Within three days.",
+      "Seven days.",
+      "There is no right of rescission."
+    ],
+    "reference": "Sec. 50. ... (a)(6)(Q)(viii) the owner of the homestead and any spouse of the owner may, within three days after the extension of credit is made, rescind the extension of credit without penalty or charge;"
+  },
+  {
+    "question": "A homestead not in a town or city shall consist of not more than how many acres?",
+    "answer": "Two hundred acres.",
+    "options": [
+      "One hundred acres.",
+      "One hundred and sixty acres.",
+      "Two hundred acres.",
+      "Five hundred acres."
+    ],
+    "reference": "Sec. 51. SIZE OF HOMESTEAD; USES... The homestead, not in a town or city, shall consist of not more than two hundred acres of land, which may be in one or more parcels, with the improvements thereon..."
+  },
+  {
+    "question": "A homestead in a city, town, or village shall consist of a lot or contiguous lots amounting to not more than how many acres?",
+    "answer": "10 acres.",
+    "options": [
+      "One acre.",
+      "Five acres.",
+      "10 acres.",
+      "20 acres."
+    ],
+    "reference": "Sec. 51. ...the homestead in a city, town or village, shall consist of lot or contiguous lots amounting to not more than 10 acres of land, together with any improvements on the land..."
+  },
+  {
+    "question": "According to Section 52, the homestead shall not be partitioned among the heirs of the deceased under what circumstance?",
+    "answer": "During the lifetime of the surviving husband or wife, or so long as the survivor may elect to use or occupy the same as a homestead.",
+    "options": [
+      "For a period of one year after the death.",
+      "If the deceased has outstanding debts.",
+      "During the lifetime of the surviving husband or wife, or so long as the survivor may elect to use or occupy the same as a homestead.",
+      "Under any circumstances; it must be sold."
+    ],
+    "reference": "Sec. 52. DESCENT AND DISTRIBUTION OF HOMESTEAD; RESTRICTIONS ON PARTITION. ...it shall not be partitioned among the heirs of the deceased during the lifetime of the surviving husband or wife, or so long as the surviver† may elect to use or occupy the same as a homestead..."
+  },
+  {
+    "question": "What does Article 16, Section 59 declare to be public rights and duties?",
+    "answer": "The conservation and development of all of the natural resources of this State.",
+    "options": [
+      "The establishment of a state police force.",
+      "The provision of public education.",
+      "The construction of public roads.",
+      "The conservation and development of all of the natural resources of this State."
+    ],
+    "reference": "Sec. 59. CONSERVATION AND DEVELOPMENT OF NATURAL RESOURCES... (a) The conservation and development of all of the natural resources of this State... are each and all hereby declared public rights and duties..."
+  }
+],
+    "article17": [
+  {
+    "question": "According to Article 17, Section 1, who may propose amendments revising the Texas Constitution?",
+    "answer": "The Legislature.",
+    "options": [
+      "The Governor.",
+      "The Supreme Court of Texas.",
+      "The Legislature.",
+      "The citizens, by petition."
+    ],
+    "reference": "Sec. 1. PROPOSED AMENDMENTS; PUBLICATION; SUBMISSION TO VOTERS; ADOPTION. (a) The Legislature, at any regular session, or at any special session when the matter is included within the purposes for which the session is convened, may propose amendments revising the Constitution..."
+  },
+  {
+    "question": "What vote is required in each House of the Legislature for a constitutional amendment to be submitted to the voters?",
+    "answer": "A vote of two-thirds of all the members elected to each House.",
+    "options": [
+      "A simple majority of the members present.",
+      "A three-fifths vote of all members elected.",
+      "A vote of two-thirds of all the members elected to each House.",
+      "A unanimous vote."
+    ],
+    "reference": "The proposal for submission must be approved by a vote of two-thirds of all the members elected to each House, entered by yeas and nays on the journals."
+  },
+  {
+    "question": "Who prepares the brief explanatory statement of the nature of a proposed amendment that appears on the ballot?",
+    "answer": "The Secretary of State.",
+    "options": [
+      "The Governor.",
+      "The Attorney General.",
+      "The Legislature.",
+      "The Secretary of State."
+    ],
+    "reference": "The explanatory statement shall be prepared by the Secretary of State and shall be approved by the Attorney General."
+  },
+  {
+    "question": "Who must approve the explanatory statement of a proposed amendment before it is published?",
+    "answer": "The Attorney General.",
+    "options": [
+      "The Governor.",
+      "The Lieutenant Governor.",
+      "The Attorney General.",
+      "The Chief Justice of the Supreme Court."
+    ],
+    "reference": "The explanatory statement shall be prepared by the Secretary of State and shall be approved by the Attorney General."
+  },
+  {
+    "question": "How many times must the explanatory statement and proposition for a constitutional amendment be published in newspapers?",
+    "answer": "Twice.",
+    "options": [
+      "Once.",
+      "Twice.",
+      "Three times.",
+      "Weekly until the election."
+    ],
+    "reference": "A brief explanatory statement of the nature of a proposed amendment...shall be published twice in each newspaper in the State which meets requirements set by the Legislature..."
+  },
+  {
+    "question": "What is the duty of each county clerk regarding a proposed constitutional amendment?",
+    "answer": "To post a full and complete copy in a public place in the courthouse.",
+    "options": [
+      "To mail a copy to every registered voter.",
+      "To publish it in the local newspaper.",
+      "To hold a public hearing on the amendment.",
+      "To post a full and complete copy in a public place in the courthouse."
+    ],
+    "reference": "The Secretary of State shall send a full and complete copy of the proposed amendment or amendments to each county clerk who shall post the same in a public place in the courthouse at least 30 days prior to the election on said amendment."
+  },
+  {
+    "question": "When must the first newspaper notice of a proposed constitutional amendment be published?",
+    "answer": "Not more than 60 days nor less than 50 days before the date of the election.",
+    "options": [
+      "Exactly 30 days before the election.",
+      "At least 90 days before the election.",
+      "Not more than 60 days nor less than 50 days before the date of the election.",
+      "In the week immediately preceding the election."
+    ],
+    "reference": "The first notice shall be published not more than 60 days nor less than 50 days before the date of the election, and the second notice shall be published on the same day in the succeeding week."
+  },
+  {
+    "question": "What is required for a proposed amendment to become a part of the Constitution after an election?",
+    "answer": "A majority of the votes cast must have been cast in favor of the amendment.",
+    "options": [
+      "A two-thirds majority of the votes cast.",
+      "A majority vote in at least 75% of the counties.",
+      "A majority of the votes cast must have been cast in favor of the amendment.",
+      "The approval of the Governor after the election."
+    ],
+    "reference": "If it appears from the returns that a majority of the votes cast have been cast in favor of an amendment, it shall become a part of this Constitution..."
+  },
+  {
+    "question": "Who makes the final proclamation that an amendment has been adopted and is now part of the Constitution?",
+    "answer": "The Governor.",
+    "options": [
+      "The Secretary of State.",
+      "The Speaker of the House.",
+      "The Chief Justice of the Supreme Court.",
+      "The Governor."
+    ],
+    "reference": "...it shall become a part of this Constitution, and proclamation thereof shall be made by the Governor."
+  }
+]
+}
