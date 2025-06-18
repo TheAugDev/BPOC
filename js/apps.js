@@ -23,6 +23,7 @@ async function ensureDataLoaded() {
 
 // --- DOM Elements ---
 const mainHeader = document.querySelector('header');
+const dpdLogo = document.getElementById('dpd-logo');
 const welcomeScreen = document.getElementById('welcome-screen');
 const unitSelectionModal = document.getElementById('unit-selection-modal');
 const chapterButtonsDiv = document.getElementById('chapter-buttons');
@@ -183,11 +184,12 @@ function init() {
     if (flashcardCard) flashcardCard.addEventListener('click', flipFlashcard);
     if (previousFlashcardBtn) previousFlashcardBtn.addEventListener('click', previousFlashcard);
     if (nextFlashcardBtn) nextFlashcardBtn.addEventListener('click', nextFlashcard);
-    if (mainMenuFlashcardBtn) mainMenuFlashcardBtn.addEventListener('click', showWelcomeScreen);
-
-    if (backFromUnitSelectionBtn) backFromUnitSelectionBtn.addEventListener('click', goBack);
+    if (mainMenuFlashcardBtn) mainMenuFlashcardBtn.addEventListener('click', showWelcomeScreen);    if (backFromUnitSelectionBtn) backFromUnitSelectionBtn.addEventListener('click', goBack);
     if (backFromQuizBtn) backFromQuizBtn.addEventListener('click', goBack);
     if (backFromFlashcardBtn) backFromFlashcardBtn.addEventListener('click', goBack);
+
+    // Add logo click handler to return to home page
+    if (dpdLogo) dpdLogo.addEventListener('click', showWelcomeScreen);
 
     // Ensure we start with the correct initial state
     showWelcomeScreen(); 
