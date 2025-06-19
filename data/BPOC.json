@@ -355,12 +355,13 @@
   },
   {
     "question": "Which of the following are considered an 'Element of an Offense' in the Penal Code?",
-    "answer": "A forbidden conduct, a required culpability, any required result, and the negation of any exception.",
+    "answer": "all of the above",
     "options": [
       "a forbidden conduct",
       "a required culpability",
       "any required result",
-      "the negation of any exception"
+      "the negation of any exception",
+      "all of the above"
     ],
     "reference": "Texas Penal Code, Sec. 1.07. DEFINITIONS. (a)(22) 'Element of offense' means: (A) the forbidden conduct; (B) the required culpability; (C) any required result; and (D) the negation of any exception to the offense."
   },
