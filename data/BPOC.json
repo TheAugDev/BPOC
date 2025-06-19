@@ -1810,8 +1810,687 @@
     "reference": "Deflection and Redirection of Verbal Abuse. [from 37-Civilian Interactions 2025.pdf]"
   }
 ],
-        "Fitness and Wellness": [],
-        "CCP and Constitution": [],
+        "Fitness and Wellness": [
+  {
+    "question": "What is the definition of 'Physical Fitness' according to the guide?",
+    "answer": "The condition of the body that enables an individual to use their body in activities without undue experience of fatigue and exhaustion.",
+    "options": [
+      "The absence of disease and a low risk of illness.",
+      "The ability to lift a specific amount of weight.",
+      "The condition of the body that enables an individual to use their body in activities without undue experience of fatigue and exhaustion.",
+      "A person's health status on a continuum from death to optimal well-being."
+    ],
+    "reference": "Definition of Physical Fitness - The condition of the body that enables an individual to use his/her body in activities without undue experience of fatigue and exhaustion. "
+  },
+  {
+    "question": "What is the definition of 'Wellness'?",
+    "answer": "A person's health/disease status and risk potential, which goes beyond just performance.",
+    "options": [
+      "The ability to perform job-specific physical tasks.",
+      "A person's health/disease status and risk potential, which goes beyond just performance.",
+      "The measure of muscular strength and cardiovascular endurance only.",
+      "The state of being free from all physical stress."
+    ],
+    "reference": "Definition of Wellness - Consists of a person's health/disease status and risk potential. Wellness ranges on a continuum from death to optimal well-being. It is not just the absence of disease; but is a state of positive well-being. ... A person can be physically fit but not well-Wellness goes beyond performance. "
+  },
+  {
+    "question": "Which category of fitness is considered most important because it relates to being a fit and functional human being for a lifetime?",
+    "answer": "Functional and Health-Related Fitness",
+    "options": [
+      "Motor-Related Fitness",
+      "Skill-Related Fitness",
+      "Performance-Oriented Fitness",
+      "Functional and Health-Related Fitness"
+    ],
+    "reference": "Functional and Health-Related Fitness-most important because these components do not just focus on job functions; they are related to being a fit, functional, productive human being for a lifetime. "
+  },
+  {
+    "question": "Which of the following is a component of 'Functional and Health-Related Fitness'?",
+    "answer": "Cardiovascular fitness or endurance.",
+    "options": [
+      "Agility.",
+      "Power.",
+      "Cardiovascular fitness or endurance.",
+      "Anaerobic power (Speed)."
+    ],
+    "reference": "Functional and Health-Related Fitness... Cardiovascular fitness or endurance, Flexibility, Muscular endurance, Muscular strength, Body Composition. "
+  },
+  {
+    "question": "Which of the following is a component of 'Motor-Related Fitness'?",
+    "answer": "Agility",
+    "options": [
+      "Flexibility",
+      "Body Composition",
+      "Agility",
+      "Cardiovascular endurance"
+    ],
+    "reference": "Motor Fitness... Agility, Anaerobic power (Speed), Explosive leg strength or power. "
+  },
+  {
+    "question": "What is the single most important factor that influences fitness and wellness?",
+    "answer": "Regular exercise.",
+    "options": [
+      "Proper nutrition.",
+      "Stress management.",
+      "Regular exercise.",
+      "Weight control."
+    ],
+    "reference": "Factors Influencing Fitness & Wellness... In order of importance: Regular exercise, Proper nutrition... "
+  },
+  {
+    "question": "What does the 'F' in the FITT acronym for exercise planning stand for?",
+    "answer": "Frequency",
+    "options": [
+      "Fitness",
+      "Force",
+      "Flexibility",
+      "Frequency"
+    ],
+    "reference": "F.I.T.T. is an acronym for Frequency, Intensity, Time, Type. "
+  },
+  {
+    "question": "What does the 'I' in the FITT acronym for exercise planning stand for?",
+    "answer": "Intensity",
+    "options": [
+      "Interval",
+      "Intensity",
+      "Improvement",
+      "Individual"
+    ],
+    "reference": "F.I.T.T. is an acronym for Frequency, Intensity, Time, Type. "
+  },
+    {
+    "question": "What does the first 'T' in the FITT acronym for exercise planning stand for?",
+    "answer": "Time",
+    "options": [
+      "Target",
+      "Training",
+      "Time",
+      "Technique"
+    ],
+    "reference": "F.I.T.T. is an acronym for Frequency, Intensity, Time, Type. "
+  },
+  {
+    "question": "What does the second 'T' in the FITT acronym for exercise planning stand for?",
+    "answer": "Type",
+    "options": [
+      "Threshold",
+      "Tension",
+      "Type",
+      "Target"
+    ],
+    "reference": "F.I.T.T. is an acronym for Frequency, Intensity, Time, Type. "
+  },
+  {
+    "question": "To achieve a target heart rate for cardiovascular training, you should exercise at what percentage of your predicted maximum heart rate?",
+    "answer": "60-80%",
+    "options": [
+      "40-50%",
+      "50-70%",
+      "60-80%",
+      "80-100%"
+    ],
+    "reference": "Intensity: The exercise intensity should be such to get the heart rate into a target zone (60-80% of predicted max heart rate)... "
+  },
+  {
+    "question": "What are the two essential fuel nutrients for the body?",
+    "answer": "Carbohydrates and Fats",
+    "options": [
+      "Proteins and Vitamins",
+      "Carbohydrates and Fats",
+      "Fats and Proteins",
+      "Carbohydrates and Water"
+    ],
+    "reference": "Fuel Nutrients: Carbohydrates, Fats... "
+  },
+  {
+    "question": "Which type of carbohydrate provides 'empty calories' and should be limited in a healthy diet?",
+    "answer": "Simple Carbohydrates.",
+    "options": [
+      "Complex Carbohydrates.",
+      "Fibrous Carbohydrates.",
+      "Simple Carbohydrates.",
+      "Starches."
+    ],
+    "reference": "Simple Carbohydrates are considered 'empty calories' and their consumption should be limited. They are sugars like sucrose, fructose, dextrose, and lactose. "
+  },
+  {
+    "question": "What percentage of your total daily calories should come from protein?",
+    "answer": "About 12-15%.",
+    "options": [
+      "Less than 10%.",
+      "About 12-15%.",
+      "About 25-30%.",
+      "About 40-50%."
+    ],
+    "reference": "Protein ... should make up about 12-15% of the daily calories. "
+  },
+  {
+    "question": "Which of the following is an example of a saturated fat?",
+    "answer": "Fat in meat, lard, and cream.",
+    "options": [
+      "Corn oil and nuts.",
+      "Avocados and olive oil.",
+      "Fat in meat, lard, and cream.",
+      "Soybean oil and sunflower oil."
+    ],
+    "reference": "Saturated fats tend to be solid at room temperature and come from animal sources like whole milk, cheese, butter, beef, and pork. "
+  },
+  {
+    "question": "What is the difference between Eustress and Distress?",
+    "answer": "Eustress is a stressor that is perceived as positive, while Distress is a stressor perceived as negative.",
+    "options": [
+      "Eustress is long-term stress, while Distress is short-term.",
+      "Eustress is a stressor that is perceived as positive, while Distress is a stressor perceived as negative.",
+      "Eustress is a physical stressor, while Distress is an emotional one.",
+      "Eustress only affects officers on-duty, while Distress affects them off-duty."
+    ],
+    "reference": "Eustress is a stressor that is perceived as positive such as a promotion, getting married or achieving an accomplishment. Distress is a stressor that is perceived as negative such as an injury, illness, divorce or being fired. "
+  },
+  {
+    "question": "A peace officer is involved in a shooting. In the days following the incident, they experience anxiety, sleep problems, and flashbacks. This is a normal reaction to an abnormal event known as what?",
+    "answer": "Critical Incident Stress (CIS)",
+    "options": [
+      "Chronic Stress",
+      "Eustress",
+      "Critical Incident Stress (CIS)",
+      "Wellness Deficiency"
+    ],
+    "reference": "Critical Incident Stress (CIS) is a traumatic event that may cause a strong emotional reaction which has the potential to interfere with an individual’s ability to function at the scene or later. ... It’s a normal reaction to an abnormal event. "
+  },
+  {
+    "question": "Which part of the nervous system is responsible for the 'fight or flight' response?",
+    "answer": "The Sympathetic Nervous System.",
+    "options": [
+      "The Central Nervous System.",
+      "The Parasympathetic Nervous System.",
+      "The Somatic Nervous System.",
+      "The Sympathetic Nervous System."
+    ],
+    "reference": "Sympathetic Nervous System - creates biochemical changes to the mind and body to respond to a threat (fight or flight). "
+  },
+  {
+    "question": "Which part of the nervous system is responsible for rest, digestion, and nutrients?",
+    "answer": "The Parasympathetic Nervous System.",
+    "options": [
+      "The Central Nervous System.",
+      "The Sympathetic Nervous System.",
+      "The Parasympathetic Nervous System.",
+      "The Autonomic Nervous System."
+    ],
+    "reference": "Parasympathetic Nervous System - responsible for rest, digestion & nutrients "
+  },
+  {
+    "question": "Which of the following is a potential cognitive or emotional symptom of stress?",
+    "answer": "Cognitive impairment and impaired decision making.",
+    "options": [
+      "Increased metabolism.",
+      "Cognitive impairment and impaired decision making.",
+      "Stronger immune system.",
+      "Increased cardiovascular efficiency."
+    ],
+    "reference": "Cognitive / Emotional ... Cognitive impairment (impaired decision making, memory, and the ability to focus or engage in a task). ... Alcoholism, Suicide, Abrupt change in typical behavior patterns, Rapid mood changes, Overly suspicious, Overly irritable... "
+  },
+    {
+    "question": "Which of the following is a potential physical symptom of stress?",
+    "answer": "Headaches and high blood pressure.",
+    "options": [
+      "Improved memory.",
+      "Emotional outbursts.",
+      "Headaches and high blood pressure.",
+      "Increased focus."
+    ],
+    "reference": "Physical ... Digestive disorders, Headaches, Excessive Illnesses, High blood pressure, Sleep disorders. "
+  },
+  {
+    "question": "Which of the following is a potential social symptom of stress?",
+    "answer": "Making infrequent or no contact with family and friends.",
+    "options": [
+      "Increased heart rate.",
+      "Suicidal thoughts.",
+      "Making infrequent or no contact with family and friends.",
+      "Digestive disorders."
+    ],
+    "reference": "Social ... Making infrequent or no contact with family and friends. ... Increased arguments, Decreased intimacy, Infidelity. "
+  },
+  {
+    "question": "Which of the following is a stressor related to the criminal justice system that a peace officer might face?",
+    "answer": "The perceived lack of public support and negative media coverage.",
+    "options": [
+      "Fear and dangers of the job.",
+      "Rotating shift work.",
+      "Marital problems.",
+      "The perceived lack of public support and negative media coverage."
+    ],
+    "reference": "Stressors in Law Enforcement ... The Criminal Justice System ... Lack of public support / negative media"
+  },
+  {
+    "question": "Work overload, poor training, and inconsistent discipline are examples of what type of stressor for a peace officer?",
+    "answer": "Organizational stressors.",
+    "options": [
+      "Stressors from the work itself.",
+      "Stressors from the criminal justice system.",
+      "Stressors confronting the individual officer.",
+      "Organizational stressors."
+    ],
+    "reference": "The Law Enforcement Organization ... Poor training / career development, Poor equipment or facilities, Inconsistent discipline, Perceived favoritism..."
+  },
+  {
+    "question": "An officer is trying to cope with stress. Which strategy involves focusing on 'what is in my circle of control'?",
+    "answer": "Mindset / Attitude",
+    "options": [
+      "Physical Relaxation Techniques",
+      "Exercise",
+      "Nutrition",
+      "Mindset / Attitude"
+    ],
+    "reference": "Ways to reduce stress through relaxation ... Mindset / Attitude... Focus on what is in my circle of control and what is not."
+  },
+  {
+    "question": "Which of the following is a common warning sign of suicidal ideation in a law enforcement officer?",
+    "answer": "Expressing feelings of hopelessness and talking about getting affairs in order.",
+    "options": [
+      "Showing an increased interest in departmental activities.",
+      "Suddenly becoming more talkative and outgoing.",
+      "Expressing feelings of hopelessness and talking about getting affairs in order.",
+      "Taking on extra shifts and overtime."
+    ],
+    "reference": "Warning Signs of Suicidal Thoughts... Loss of interest in side activities. ... Talks about death and wanting to die... Expresses hopelessness, helplessness, and worthlessness. ... Puts affairs in order... "
+  },
+  {
+    "question": "An officer who is considering suicide is most likely to confide in whom?",
+    "answer": "A coworker.",
+    "options": [
+      "Their supervisor.",
+      "A family member.",
+      "A coworker.",
+      "No one."
+    ],
+    "reference": "A law enforcement officer who is considering suicide is likely to express their plan to someone, often a coworker. "
+  }
+],
+        "CCP and Constitution": [
+  {
+    "question": "What is the primary purpose of the Code of Criminal Procedure (CCP) in Texas?",
+    "answer": "It serves as the rule book for the administration of criminal justice.",
+    "options": [
+      "It defines what acts are considered criminal offenses.",
+      "It serves as the rule book for the administration of criminal justice.",
+      "It outlines the budget for all law enforcement agencies.",
+      "It establishes the rules for civil lawsuits."
+    ],
+    "reference": "CCP is the rule book for the administration of criminal justice in Texas ",
+    "explanation": "The CCP provides the legal framework and procedures that police, prosecutors, and courts must follow from the time of an arrest through trial and sentencing."
+  },
+  {
+    "question": "Which of the following is an objective of the Code of Criminal Procedure (CCP) under Article 1.03?",
+    "answer": "To insure a trial with as little delay as is consistent with the ends of justice.",
+    "options": [
+      "To ensure proportionate penalties for offenses.",
+      "To safeguard conduct that is without guilt.",
+      "To insure a trial with as little delay as is consistent with the ends of justice.",
+      "To define offenses with fair warning."
+    ],
+    "reference": "CCP Objectives 1.03: ...To insure a trial with as little delay as is consistent with the ends of justice ",
+    "explanation": "Unlike the Penal Code which defines crimes, the CCP focuses on the process, ensuring that once a person is accused, the judicial process is fair and efficient."
+  },
+  {
+    "question": "What is the fundamental right guaranteed by Article 1.04 of the Code of Criminal Procedure?",
+    "answer": "No citizen shall be deprived of life, liberty, or property except by the due course of law.",
+    "options": [
+      "The right to bear arms.",
+      "The right to a jury in all cases.",
+      "No citizen shall be deprived of life, liberty, or property except by the due course of law.",
+      "The right to face one's accuser."
+    ],
+    "reference": "Article 1.04 of the Code of Criminal Procedure declares that no state citizen should be deprived of life, liberty, property, privileges, or should be in any way disenfranchised except by the law’s due course. "
+  },
+  {
+    "question": "If a criminal defendant cannot afford an attorney, what does CCP Article 1.051 guarantee?",
+    "answer": "They are entitled to a court-appointed attorney.",
+    "options": [
+      "They must represent themselves.",
+      "They can receive a loan from the state to hire one.",
+      "They are entitled to a court-appointed attorney.",
+      "Their case will be automatically dismissed."
+    ],
+    "reference": "Article 1.051 of the Code of Criminal Procedure declares that criminal defendants have the right to counsel. Those defendants who cannot afford counsel are entitled to a court-appointed attorney. ",
+    "explanation": "This right ensures that a defendant's ability to pay does not determine their access to legal representation, which is fundamental to a fair trial."
+  },
+  {
+    "question": "What does Article 1.06 of the CCP require before a search or seizure warrant can be issued?",
+    "answer": "A thorough description and probable cause.",
+    "options": [
+      "A reasonable suspicion.",
+      "The consent of the property owner.",
+      "A thorough description and probable cause.",
+      "A supervisor's approval."
+    ],
+    "reference": "Article 1.06 of the Code of Criminal Procedure states that the citizens of Texas are protected from all unreasonable searches and seizures... Search and seizure warrants must include a thorough description and must contain probable cause. ",
+    "explanation": "This mirrors the 4th Amendment, protecting citizens from general warrants and requiring police to specify who and what they are searching for based on evidence."
+  },
+  {
+    "question": "What is the 'writ of habeas corpus' according to Article 1.08 of the CCP?",
+    "answer": "A right that shall never be suspended, allowing a person to be brought before a court.",
+    "options": [
+      "An order to seize property.",
+      "A formal accusation by a grand jury.",
+      "A right that shall never be suspended, allowing a person to be brought before a court.",
+      "An appeal of a guilty verdict."
+    ],
+    "reference": "Article 1.08 of the Code of Criminal Procedure asserts that the citizens of Texas have a right to the writ of habeas corpus, and this right shall never be suspended. ",
+    "explanation": "This writ is a crucial safeguard against unlawful detention, as it forces the government to provide a legal justification for holding someone in custody."
+  },
+  {
+    "question": "What is the legal principle of 'double jeopardy' as described in Article 1.10 of the CCP?",
+    "answer": "No person may be put on trial twice for the same offense.",
+    "options": [
+      "A person can be tried in both state and federal court for the same act.",
+      "No person may be put on trial twice for the same offense.",
+      "A person cannot be charged with two crimes from the same incident.",
+      "A person can be retried if new evidence is discovered."
+    ],
+    "reference": "Article 1.10 of the Code of Criminal Procedure states that no person may be put on trial twice for the same offense, in what is known as double jeopardy. "
+  },
+  {
+    "question": "According to the U.S. Constitution, which amendment establishes the freedoms of speech, religion, and the press?",
+    "answer": "The First Amendment.",
+    "options": [
+      "The First Amendment.",
+      "The Second Amendment.",
+      "The Fourth Amendment.",
+      "The Fifth Amendment."
+    ],
+    "reference": "Constitutional Amendment I establishes freedom of speech, religion, press, assembly, and petition. ",
+    "explanation": "This amendment forms the bedrock of personal expression and religious freedom in the United States."
+  },
+  {
+    "question": "The right to keep and bear arms is protected by which amendment?",
+    "answer": "The Second Amendment.",
+    "options": [
+      "The First Amendment.",
+      "The Second Amendment.",
+      "The Third Amendment.",
+      "The Fourth Amendment."
+    ],
+    "reference": "Amendment 2 'A well-regulated militia being necessary to the security of a free state, the right to the people to keep and bear arms shall not be infringed.' "
+  },
+  {
+    "question": "What does the Third Amendment of the U.S. Constitution prohibit during peacetime?",
+    "answer": "The quartering of soldiers in any house without the consent of the owner.",
+    "options": [
+      "Unreasonable searches and seizures.",
+      "The quartering of soldiers in any house without the consent of the owner.",
+      "Excessive bail and fines.",
+      "The denial of a speedy trial."
+    ],
+    "reference": "Amendment 3: Quartering of Soldiers 'No soldier shall, in time of peace, be quartered in any house, without the consent of the owner...' ",
+    "explanation": "This amendment was a direct response to British practices before the Revolution and protects the sanctity of the home from military intrusion."
+  },
+  {
+    "question": "Which amendment protects a person from being compelled to be a witness against themself in a criminal case?",
+    "answer": "The Fifth Amendment.",
+    "options": [
+      "The Fourth Amendment.",
+      "The Fifth Amendment.",
+      "The Sixth Amendment.",
+      "The Eighth Amendment."
+    ],
+    "reference": "Constitutional Amendment V declares that a person cannot be tried twice for the same crime (double jeopardy). This amendment also... makes it illegal to require a person to be a witness against him or herself. ",
+    "explanation": "This is the well-known 'right to remain silent' that protects individuals from self-incrimination during police questioning and trial."
+  },
+  {
+    "question": "The right to confront one's accusers and the right to counsel are guaranteed by which amendment?",
+    "answer": "The Sixth Amendment.",
+    "options": [
+      "The Fifth Amendment.",
+      "The Sixth Amendment.",
+      "The Eighth Amendment.",
+      "The Tenth Amendment."
+    ],
+    "reference": "The Sixth Amendment guarantees the right to trial, the right to legal counsel, and the right to confront one’s accusers. "
+  },
+  {
+    "question": "Which amendment protects against cruel and unusual punishment?",
+    "answer": "The Eighth Amendment.",
+    "options": [
+      "The Sixth Amendment.",
+      "The Seventh Amendment.",
+      "The Eighth Amendment.",
+      "The Ninth Amendment."
+    ],
+    "reference": "The Eighth Amendment outlaws excessive bail, excessive fines, and cruel and unusual punishment. ",
+    "explanation": "This amendment ensures that punishments for crimes are not barbaric or disproportionate to the offense."
+  },
+  {
+    "question": "According to the presentation, what is the role of police as viewed by the Constitution?",
+    "answer": "To safeguard the inalienable rights of the citizens.",
+    "options": [
+      "To enforce laws as they see fit.",
+      "To prioritize order over individual rights.",
+      "To act as the primary instrument for punishing offenders.",
+      "To safeguard the inalienable rights of the citizens."
+    ],
+    "reference": "In the view of the Constitution, police officers are there to safeguard the inalienable rights of the citizens. "
+  },
+  {
+    "question": "What is the primary duty of every magistrate according to CCP Article 2.10?",
+    "answer": "To preserve the peace by all lawful means.",
+    "options": [
+      "To preside over felony trials.",
+      "To issue search warrants upon request.",
+      "To preserve the peace by all lawful means.",
+      "To appoint attorneys for all defendants."
+    ],
+    "reference": "Article 2.10 of the Code of Criminal Procedure asserts that it is the duty of every magistrate to preserve the peace by all lawful means, as well as to arrest offenders and issue all process that aims to prevent crime. "
+  },
+  {
+    "question": "What fundamental right is protected by the Fourth Amendment of the U.S. Constitution?",
+    "answer": "The right of the people to be secure in their persons, houses, papers, and effects, against unreasonable searches and seizures.",
+    "options": [
+      "The right to a speedy and public trial.",
+      "The right to keep and bear arms.",
+      "The right of the people to be secure in their persons, houses, papers, and effects, against unreasonable searches and seizures.",
+      "The right to be free from cruel and unusual punishment."
+    ],
+    "reference": "Amendment 4: \"The right of the people to be secure in their persons, houses, papers, and effects, against unreasonable searches and seizures, shall not be violated...\"",
+    "explanation": "This amendment is the cornerstone of privacy rights in the U.S., protecting citizens from arbitrary intrusion by the government."
+  },
+  {
+    "question": "According to the Supreme Court case Tennessee v. Garner, is the use of deadly force by a police officer considered a 'seizure' under the 4th Amendment?",
+    "answer": "Yes, all police uses of force are seizures subject to the reasonableness standard.",
+    "options": [
+      "No, use of force is governed by the 8th Amendment.",
+      "No, only an arrest is considered a seizure.",
+      "Yes, all police uses of force are seizures subject to the reasonableness standard.",
+      "Yes, but only if the force results in a fatality."
+    ],
+    "reference": "Tennessee v. Garner (1985); is police deadly force a seizure under the 4th Amendment? All police uses of force are seizures under the reasonableness standard of the 4th",
+    "explanation": "This landmark case established that any use of force by police to apprehend a subject is a 'seizure' and must therefore be 'reasonable' as required by the Fourth Amendment."
+  },
+  {
+    "question": "A search warrant shall not be issued unless it is based upon what?",
+    "answer": "Probable cause, supported by oath or affirmation.",
+    "options": [
+      "Mere suspicion.",
+      "An anonymous tip.",
+      "Probable cause, supported by oath or affirmation.",
+      "The request of a peace officer."
+    ],
+    "reference": "\"...and no warrants shall issue, but upon probable cause, supported by oath or affirmation, and particularly describing the place to be searched and the persons or things to be seized.\"",
+    "explanation": "This ensures that a neutral magistrate, not just the police officer, determines if there is enough evidence to justify intruding on a person's privacy."
+  },
+  {
+    "question": "What is 'Mere Suspicion' defined as in the handout?",
+    "answer": "A hunch or feeling of intuition, which is insufficient proof in court.",
+    "options": [
+      "Enough evidence to make an arrest.",
+      "A hunch or feeling of intuition, which is insufficient proof in court.",
+      "The standard required to conduct a search.",
+      "A belief based on direct observation of a crime."
+    ],
+    "reference": "What is Mere Suspicion? Hunch / feeling of intuition... insufficient proof of any fact in a court of law.",
+    "explanation": "This is the lowest level of certainty. An officer can act on a hunch to observe or approach someone, but cannot detain them based on mere suspicion alone."
+  },
+  {
+    "question": "An officer sees a person quickly walk away from a known drug house late at night. The officer has a hunch the person may be involved in criminal activity. What level of proof does the officer have?",
+    "answer": "Mere Suspicion.",
+    "options": [
+      "Probable Cause.",
+      "Reasonable Suspicion.",
+      "Mere Suspicion.",
+      "Proof Beyond a Reasonable Doubt."
+    ],
+    "reference": "What is Mere Suspicion? Hunch / feeling of intuition",
+    "explanation": "The officer's feeling is a starting point for observation but is not enough to legally justify stopping or detaining the individual without more specific facts."
+  },
+  {
+    "question": "Which of the following can be a source used to establish probable cause?",
+    "answer": "Information provided by a credible informant.",
+    "options": [
+      "A person's race or ethnicity alone.",
+      "Information provided by a credible informant.",
+      "A person's refusal to answer questions.",
+      "A person exercising their right to remain silent."
+    ],
+    "reference": "Sources of PC... Information from a reliable, credible informant who is known to the peace officer",
+    "explanation": "Probable cause is built on objective facts. Information from a trusted source who has provided accurate information in the past can be a valid component in establishing PC."
+  },
+  {
+    "question": "What is required for an officer to conduct a 'Temporary Detention'?",
+    "answer": "Reasonable suspicion that a person is connected with suspicious activity.",
+    "options": [
+      "Probable cause to believe a crime has been committed.",
+      "A warrant signed by a magistrate.",
+      "The consent of the person being detained.",
+      "Reasonable suspicion that a person is connected with suspicious activity."
+    ],
+    "reference": "Temporary Detention: Holding a person for a limited time, but who, as yet, is not answerable to a criminal offense. You have REASONABLE SUSPICION that a person is connected with some suspicious activity..."
+  },
+  {
+    "question": "What is the primary purpose of a 'Frisk' or 'Pat Down'?",
+    "answer": "To search for weapons only, for officer safety.",
+    "options": [
+      "To search for illegal narcotics.",
+      "To search for any and all evidence of a crime.",
+      "To identify the person being detained.",
+      "To search for weapons only, for officer safety."
+    ],
+    "reference": "Frisk: a “pat down” of the outer clothing of a person whom you have stopped... to protect the safety of the officer... It is a search for WEAPONS only.",
+    "explanation": "A frisk is strictly a protective measure and is less intrusive than a full search. An officer cannot go into pockets unless they feel an object they reasonably believe is a weapon."
+  },
+  {
+    "question": "An officer lawfully arrests a person for theft. What area is the officer justified in searching incident to that arrest?",
+    "answer": "The person and the area within their immediate control.",
+    "options": [
+      "The person's entire home.",
+      "The person's vehicle, even if it is parked blocks away.",
+      "The person and the area within their immediate control.",
+      "Any property owned by the person."
+    ],
+    "reference": "Search Incident to Lawful Arrest: The person under arrest... The area immediately around the person arrested... The passenger compartment of a motor vehicle may be searched if the person is arrested out of the car."
+  },
+  {
+    "question": "The 'automobile exception' allows for a warrantless search of a vehicle when an officer has what?",
+    "answer": "Probable cause that the vehicle contains evidence or contraband.",
+    "options": [
+      "Reasonable suspicion the driver committed a traffic violation.",
+      "The driver's verbal consent.",
+      "A hunch that something is wrong.",
+      "Probable cause that the vehicle contains evidence or contraband."
+    ],
+    "reference": "Motor Vehicles: The 'automobile exception' allows for warrantless searches of vehicles when there is probable cause that the vehicle contains evidence or contraband.",
+    "explanation": "This exception exists because a vehicle is mobile and can be moved out of the jurisdiction, creating an exigent circumstance that makes getting a warrant impractical."
+  },
+  {
+    "question": "What is the area immediately adjacent to a house that is considered part of the house for 4th Amendment purposes?",
+    "answer": "Curtilage",
+    "options": [
+      "Open field",
+      "Easement",
+      "Curtilage",
+      "Public access area"
+    ],
+    "reference": "Curtilage: generally considered to be that area of open space surrounding a dwelling which is so immediately adjacent to the dwelling that it is considered part of the house."
+  },
+  {
+    "question": "What does the 'Exclusionary Rule' mandate?",
+    "answer": "That evidence obtained through an illegal search or seizure is not admissible in court.",
+    "options": [
+      "That certain types of witnesses are excluded from testifying.",
+      "That illegally obtained confessions can still be used if they are true.",
+      "That evidence obtained through an illegal search or seizure is not admissible in court.",
+      "That evidence can be excluded if it is too prejudicial to the jury."
+    ],
+    "reference": "The Exclusionary Rule ... has been interpreted to include fruit of the poisonous tree. Evidence obtained from an illegal search or seizure is not admissible in court."
+  },
+  {
+    "question": "Under CCP Art. 18.16, a private citizen may seize stolen property and bring it, along with the offender, before whom?",
+    "answer": "A magistrate or a peace officer.",
+    "options": [
+      "The District Attorney.",
+      "The property's original owner.",
+      "The Chief of Police.",
+      "A magistrate or a peace officer."
+    ],
+    "reference": "Article 18.16 of the Code of Criminal Procedure states that citizens have the right to prevent the consequences of theft by seizing stolen personal property and bringing it before a magistrate. If possible, they can also present the person who committed the theft to a magistrate. Another option is to take the person and the property to a peace officer."
+  },
+  {
+    "question": "Which of the following is a requisite component of a 'complaint' under CCP Art. 15.05?",
+    "answer": "The name of the accused or a reasonable description of him.",
+    "options": [
+      "The signature of a judge.",
+      "A statement from at least two witnesses.",
+      "The recommended bail amount.",
+      "The name of the accused or a reasonable description of him."
+    ],
+    "reference": "Article 15.05 of the Code of Criminal Procedure states a complaint must have the following components: name of the accused or a reasonable description of him, reasons to believe the accused has committed some offense, time and place of the commission of the offense, and the signature or mark of the affiant."
+  },
+  {
+    "question": "The 5th Amendment protects a person from being tried twice for the same crime. What is this protection called?",
+    "answer": "Double Jeopardy",
+    "options": [
+      "Habeas Corpus",
+      "Due Process",
+      "Double Jeopardy",
+      "Ex Post Facto"
+    ],
+    "reference": "Amendment 5... A person can't be tried twice for the same crime (Double Jeopardy)."
+  },
+  {
+    "question": "The 6th Amendment guarantees an accused person the right to compulsory process. What does this mean?",
+    "answer": "The right to obtain witnesses in his favor (subpoena).",
+    "options": [
+      "The right to a trial free of charge.",
+      "The right to process an appeal automatically.",
+      "The right to obtain witnesses in his favor (subpoena).",
+      "The right to have the legal process explained by the judge."
+    ],
+    "reference": "6th Amendment: Rights of the accused... shall have compulsory process for obtaining witnesses in his favor"
+  },
+  {
+    "question": "In Texas, a person accused of a felony cannot be convicted without what?",
+    "answer": "A jury's verdict, unless the right to a jury is waived.",
+    "options": [
+      "A confession.",
+      "The testimony of at least two witnesses.",
+      "Physical evidence linking them to the crime.",
+      "A jury's verdict, unless the right to a jury is waived."
+    ],
+    "reference": "CCP Art. 1.15: Jury in Felony... no person can be convicted of a felony except upon the verdict of a jury duly rendered and recorded, unless the defendant... has waived his right of trial by jury."
+  },
+  {
+    "question": "The 7th Amendment preserves the right to a trial by jury in what type of cases?",
+    "answer": "Suits at common law (civil suits).",
+    "options": [
+      "All criminal cases.",
+      "Only felony cases.",
+      "Suits at common law (civil suits).",
+      "Cases involving the government as a party."
+    ],
+    "reference": "Amendment 7: 'In suits at common law... the right of trial by jury shall be preserved...'"
+  }
+],
         "Arrest & Frisk Tactics": [],
         "Police Mindset": [],
         "Portable Radio RSM": []
