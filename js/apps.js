@@ -959,8 +959,44 @@ function displayQuestion() {
 }
 
 function selectOption(button, selectedAnswer, correctAnswer, reference) {
-    const isCorrect = selectedAnswer.toLowerCase() === correctAnswer.toLowerCase();
-    userAnswers.push({ question: questions[currentQuestionIndex].question, selected: selectedAnswer, correct: correctAnswer, isCorrect: isCorrect, reference: reference });
+    // More robust comparison function
+    function normalizeAnswer(str) {
+        return str
+            .trim()                    // Remove leading/trailing whitespace
+            .replace(/\s+/g, ' ')      // Replace multiple spaces with single space
+            .toLowerCase()             // Convert to lowercase
+            .replace(/[^\w\s]/g, '')   // Remove all punctuation except spaces
+            .trim();                   // Trim again after punctuation removal
+    }
+    
+    const normalizedSelected = normalizeAnswer(selectedAnswer);
+    const normalizedCorrect = normalizeAnswer(correctAnswer);
+    
+    // First try exact match (case-insensitive with whitespace trimming)
+    let isCorrect = selectedAnswer.trim().toLowerCase() === correctAnswer.trim().toLowerCase();
+    
+    // If that fails, try the more robust normalization
+    if (!isCorrect) {
+        isCorrect = normalizedSelected === normalizedCorrect;
+    }
+    
+    // Debug logging for troubleshooting
+    if (!isCorrect) {
+        console.log('Answer comparison failed:');
+        console.log('Selected:', `"${selectedAnswer}"`);
+        console.log('Correct:', `"${correctAnswer}"`);
+        console.log('Selected (normalized):', `"${normalizedSelected}"`);
+        console.log('Correct (normalized):', `"${normalizedCorrect}"`);
+        console.log('Selected length:', selectedAnswer.length, 'Correct length:', correctAnswer.length);
+    }
+    
+    userAnswers.push({ 
+        question: questions[currentQuestionIndex].question, 
+        selected: selectedAnswer, 
+        correct: correctAnswer, 
+        isCorrect: isCorrect, 
+        reference: reference 
+    });
 
     if (isCorrect) {
         score++;
@@ -971,7 +1007,9 @@ function selectOption(button, selectedAnswer, correctAnswer, reference) {
         button.classList.add('incorrect');
         feedbackText.textContent = `Incorrect. The correct answer is: ${correctAnswer}`;
         Array.from(optionsContainerDiv.children).forEach(child => {
-            if (child.textContent.toLowerCase() === correctAnswer.toLowerCase()) {
+            const childNormalized = normalizeAnswer(child.textContent);
+            if (childNormalized === normalizedCorrect || 
+                child.textContent.trim().toLowerCase() === correctAnswer.trim().toLowerCase()) {
                 child.classList.add('correct');
             }
         });
