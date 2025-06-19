@@ -931,39 +931,105 @@
         "Civilian Interactions": [
   {
     "question": "What is the primary goal of the Community Safety Education Act (Senate Bill 30)?",
-    "answer": "To provide information to drivers and law enforcement on the expectations each should have during a traffic stop.",
+    "answer": "To provide information to drivers, the public, and law enforcement on the expectations each should have during a traffic stop.",
     "options": [
-      "To increase the number of traffic citations issued.",
-      "To provide information to drivers and law enforcement on the expectations each should have during a traffic stop.",
-      "To establish new traffic laws for the state.",
-      "To require all new vehicles to have enhanced safety features."
+      "To increase the number of traffic citations issued statewide.",
+      "To require new safety features in all Texas vehicles.",
+      "To provide information to drivers, the public, and law enforcement on the expectations each should have during a traffic stop.",
+      "To establish a new state-level traffic enforcement agency."
     ],
     "reference": "Goal: to provide information to drivers, the public, students, and training for members of law enforcement, on the expectations that each should have during a contact between officers and motorists."
   },
   {
-    "question": "The 7-Step Violator Contact method is a program designed to define the role, duties, and responsibilities of whom?",
-    "answer": "Peace officers.",
+    "question": "The curriculum required by the Community Safety Education Act includes instruction on the role, duties, and responsibilities of officers, which is defined by what program?",
+    "answer": "7 Step Violator Contact",
     "options": [
-      "Drivers.",
-      "Dispatchers.",
-      "Peace officers.",
-      "Judges."
+      "The SARA Model",
+      "The PACE Model",
+      "The LEAPS Model",
+      "7 Step Violator Contact"
     ],
     "reference": "1) the role, duties, and responsibilities of officers (7 Step Violator Contact);"
   },
   {
-    "question": "The Community Safety Education Act requires that driver education courses include instruction on what topic?",
-    "answer": "Proper responses and communication with officers during a traffic stop.",
+    "question": "As part of the Community Safety Education Act curriculum, what must be taught regarding the behavior of both civilians and peace officers?",
+    "answer": "Proper behavior for both parties.",
     "options": [
-      "How to contest a traffic ticket in court.",
-      "Advanced defensive driving maneuvers.",
-      "Proper responses and communication with officers during a traffic stop.",
-      "The mechanical basics of vehicle maintenance."
+      "That civilians must always obey, even unlawful orders.",
+      "The officer's right to use force in any situation.",
+      "Proper behavior for both parties.",
+      "That civilians are not permitted to ask officers questions."
     ],
-    "reference": "Includes instructions to drivers on how they should react and communicate with officers during a traffic stop. The proper responses by the driving public are to be included in training for new officers and continuing education courses for veteran patrol officers."
+    "reference": "3) proper behavior for civilians and peace officent [sic];"
   },
   {
-    "question": "What does the 'L' in the LEAPS communication model stand for?",
+    "question": "The Community Safety Education Act requires instruction on laws regarding police questioning and detention, including which specific offenses?",
+    "answer": "Fail to ID, Interference, & Evading",
+    "options": [
+      "Speeding, Reckless Driving, & DWI",
+      "Assault, Robbery, & Burglary",
+      "Fail to ID, Interference, & Evading",
+      "Theft, Forgery, & Fraud"
+    ],
+    "reference": "4) laws regarding police questioning & detention, Including Fail to ID, Interference, & Evading and"
+  },
+  {
+    "question": "Which article of the Code of Criminal Procedure requires law enforcement agencies to provide public education relating to the complaint process?",
+    "answer": "CCP 2.132",
+    "options": [
+      "CCP 1.03",
+      "CCP 14.01",
+      "CCP 38.02",
+      "CCP 2.132"
+    ],
+    "reference": "5) How/where to file a complaint/compliment for an officer: CCP 2.132 requires all agencies to provide public education relating to the complaint process"
+  },
+  {
+    "question": "In the PACE communication model, what does the 'P' stand for?",
+    "answer": "Problem",
+    "options": [
+      "Person",
+      "Polite",
+      "Problem",
+      "Procedure"
+    ],
+    "reference": "PACE & LEAPS"
+  },
+  {
+    "question": "In the PACE communication model, what does the 'A' stand for?",
+    "answer": "Audience",
+    "options": [
+      "Action",
+      "Appeal",
+      "Audience",
+      "Assess"
+    ],
+    "reference": "PACE & LEAPS"
+  },
+  {
+    "question": "In the PACE communication model, what does the 'C' stand for?",
+    "answer": "Constraints",
+    "options": [
+      "Command",
+      "Control",
+      "Constraints",
+      "Compliance"
+    ],
+    "reference": "PACE & LEAPS"
+  },
+  {
+    "question": "What is the final element, represented by 'E', in the PACE communication model?",
+    "answer": "Ethical Presence",
+    "options": [
+      "Empathy",
+      "Evaluation",
+      "Enforcement",
+      "Ethical Presence"
+    ],
+    "reference": "PACE & LEAPS"
+  },
+  {
+    "question": "In the LEAPS communication model, what does the 'L' stand for?",
     "answer": "Listen",
     "options": [
       "Lead",
@@ -971,10 +1037,21 @@
       "Linger",
       "Listen"
     ],
-    "reference": "PACE & LEAPS... LEAPS, which stands for listen, empathize, ask, paraphrase, and summarize."
+    "reference": "LEAPS, which stands for listen, empathize, ask, paraphrase, and summarize."
   },
   {
-    "question": "What does the 'A' in the LEAPS communication model stand for?",
+    "question": "In the LEAPS communication model, what does the 'E' stand for?",
+    "answer": "Empathize",
+    "options": [
+      "Evaluate",
+      "Engage",
+      "Examine",
+      "Empathize"
+    ],
+    "reference": "LEAPS, which stands for listen, empathize, ask, paraphrase, and summarize."
+  },
+  {
+    "question": "In the LEAPS communication model, what does the 'A' stand for?",
     "answer": "Ask",
     "options": [
       "Assess",
@@ -982,49 +1059,104 @@
       "Advise",
       "Ask"
     ],
-    "reference": "PACE & LEAPS... LEAPS, which stands for listen, empathize, ask, paraphrase, and summarize."
+    "reference": "LEAPS, which stands for listen, empathize, ask, paraphrase, and summarize."
   },
   {
-    "question": "What does the 'P' in the PACE communication model stand for?",
-    "answer": "Problem",
+    "question": "In the LEAPS communication model, what does the 'P' stand for?",
+    "answer": "Paraphrase",
     "options": [
-      "Position",
-      "Presence",
+      "Proceed",
       "Problem",
-      "Paraphrase"
+      "Paraphrase",
+      "Pause"
     ],
-    "reference": "7 Step Personal Contact PACE & LEAPS"
+    "reference": "LEAPS, which stands for listen, empathize, ask, paraphrase, and summarize."
   },
   {
-    "question": "When an officer is dealing with a citizen's voluntary non-compliance, what is the first step in the five-step process?",
+    "question": "What is the final step, represented by 'S', in the LEAPS communication model?",
+    "answer": "Summarize",
+    "options": [
+      "Secure",
+      "Submit",
+      "Speak",
+      "Summarize"
+    ],
+    "reference": "LEAPS, which stands for listen, empathize, ask, paraphrase, and summarize."
+  },
+  {
+    "question": "What is the first step in the 5-step process for handling voluntary non-compliance?",
     "answer": "Ask (Ethical Appeal)",
     "options": [
       "Tell (Reasonable Appeal)",
       "Make (Personal Appeal)",
       "Ask (Ethical Appeal)",
-      "Use Force Options"
+      "Act (Determine appropriate action)"
     ],
-    "reference": "5 Steps for VOLUNTARY Non-compliance: 1) Ask (Ethical Appeal) 2) Set Context (Reasonable Appeal) 3) Present Options (Personal Appeal) 4) Confirm (Practical Appeal) 5) Act (Determine appropriate action)"
+    "reference": "5 Steps for VOLUNTARY Non-compliance: 1) Ask (Ethical Appeal)"
   },
   {
-    "question": "In the 'Commands/Instructions' model for gaining compliance, what is the final step if asking and telling are not effective?",
-    "answer": "Make",
+    "question": "What is the second step in the 5-step process for handling voluntary non-compliance?",
+    "answer": "Set Context (Reasonable Appeal)",
     "options": [
-      "Demand",
-      "Request",
-      "Force",
-      "Make"
+      "Present Options (Personal Appeal)",
+      "Ask (Ethical Appeal)",
+      "Set Context (Reasonable Appeal)",
+      "Confirm (Practical Appeal)"
+    ],
+    "reference": "5 Steps for VOLUNTARY Non-compliance: ... 2) Set Context (Reasonable Appeal)"
+  },
+  {
+    "question": "What is the third step in the 5-step process for handling voluntary non-compliance?",
+    "answer": "Present Options (Personal Appeal)",
+    "options": [
+      "Confirm (Practical Appeal)",
+      "Set Context (Reasonable Appeal)",
+      "Present Options (Personal Appeal)",
+      "Act (Determine appropriate action)"
+    ],
+    "reference": "5 Steps for VOLUNTARY Non-compliance: ... 3) Present Options (Personal Appeal)"
+  },
+  {
+    "question": "What is the fourth step in the 5-step process for handling voluntary non-compliance?",
+    "answer": "Confirm (Practical Appeal)",
+    "options": [
+      "Act (Determine appropriate action)",
+      "Confirm (Practical Appeal)",
+      "Set Context (Reasonable Appeal)",
+      "Ask (Ethical Appeal)"
+    ],
+    "reference": "5 Steps for VOLUNTARY Non-compliance: ... 4) Confirm (Practical Appeal)"
+  },
+  {
+    "question": "What is the final step in the 5-step process for handling voluntary non-compliance, after confirming the subject understands?",
+    "answer": "Act (Determine appropriate action)",
+    "options": [
+      "Ask again",
+      "Wait for a supervisor",
+      "Act (Determine appropriate action)",
+      "Release the individual"
+    ],
+    "reference": "5 Steps for VOLUNTARY Non-compliance: ... 5) Act (Determine appropriate action)"
+  },
+  {
+    "question": "The 'Ask, Tell, Make' model is used for what purpose?",
+    "answer": "Giving commands and instructions to gain compliance.",
+    "options": [
+      "Conducting an investigation.",
+      "Interviewing a witness.",
+      "Giving commands and instructions to gain compliance.",
+      "Writing a report."
     ],
     "reference": "Commands/Instructions. Ask Tell, Make"
   },
   {
-    "question": "The two primary mindset modes for policing described in the presentation are 'Verbal Persuasion' and what?",
-    "answer": "Recognize-React",
+    "question": "What are the two primary mindset modes for policing described in the presentation?",
+    "answer": "'Verbal Persuasion' and 'Recognize-React'",
     "options": [
-      "Command-Control",
-      "Observe-Report",
-      "Recognize-React",
-      "Enforce-Investigate"
+      "'Command' and 'Control'",
+      "'Observe' and 'Report'",
+      "'Verbal Persuasion' and 'Recognize-React'",
+      "'Enforce' and 'Investigate'"
     ],
     "reference": "The 2 Mindset Modes for Policing: 'Verbal Persuasion' 'Recognize-React'"
   },
@@ -1040,48 +1172,169 @@
     "reference": "What Mode Should They Be In and Why? Verbal Persuasion... 7 Step Personal Contact, PACE & LEAPS, Deflection and Redirection of Verbal Abuse"
   },
   {
-    "question": "If a security risk like an attack or an attempt to flee becomes apparent during an interaction, the officer should switch to which mindset mode?",
-    "answer": "Recognize-React",
+    "question": "Which of the following would cause an officer to switch from 'Verbal Persuasion' mode to 'Recognize-React' mode?",
+    "answer": "A security risk becomes apparent, such as an attack or attempt to flee.",
     "options": [
-      "Verbal Persuasion",
-      "De-escalation Tactics",
-      "Recognize-React",
-      "Ethical Appeal"
+      "The citizen asks a question.",
+      "The citizen begins to argue verbally.",
+      "The officer needs to write a citation.",
+      "A security risk becomes apparent, such as an attack or attempt to flee."
     ],
     "reference": "What Mode Should They Be In and Why? ... Recognize & React... Security Risk, Attack, Flee, Excessive Repetition"
   },
   {
-    "question": "What is the difference between 'Concealment' and 'Cover'?",
-    "answer": "Cover stops bullets, while concealment only hides you.",
+    "question": "What is the key difference between 'Concealment' and 'Cover' for an officer?",
+    "answer": "Cover provides protection from incoming rounds, while concealment only hides the officer from view.",
     "options": [
       "There is no difference.",
-      "Cover is for vehicles, while concealment is for buildings.",
-      "Cover stops bullets, while concealment only hides you.",
+      "Cover is only for vehicles, while concealment is for buildings.",
+      "Cover provides protection from incoming rounds, while concealment only hides the officer from view.",
       "Concealment is a tactic, while cover is a physical object."
     ],
     "reference": "Distance, Concealment v Cover"
   },
   {
-    "question": "According to the presentation, what is the key to learning and improving as a peace officer?",
-    "answer": "Asking questions.",
+    "question": "When dealing with a verbally abusive person, which technique is recommended?",
+    "answer": "Deflection and Redirection",
     "options": [
-      "Watching police movies.",
-      "Following orders without question.",
-      "Asking questions.",
-      "Writing detailed reports."
+      "Escalating verbal commands.",
+      "Immediately resorting to force.",
+      "Ignoring the person completely.",
+      "Deflection and Redirection"
     ],
-    "reference": "Questions? ?????? Questions are the path to learning"
+    "reference": "Verbal Persuasion... Deflection and Redirection of Verbal Abuse"
   },
   {
-    "question": "The Community Safety Education Act requires law enforcement agencies to provide public education relating to what process?",
-    "answer": "The complaint process.",
+    "question": "What is the first step in the 8-step Tactical Vehicle Stop method?",
+    "answer": "Greeting",
     "options": [
-      "The hiring process.",
-      "The evidence collection process.",
-      "The complaint process.",
-      "The court and appeals process."
+      "Identify yourself and the Department",
+      "Reason",
+      "Greeting",
+      "Driver’s license"
     ],
-    "reference": "5) How/where to file a complaint/compliment for an officer: CCP 2.132 requires all agencies to provide public education relating to the complaint process"
+    "reference": "8-step Tactical Vehicle Stop v 1. Greeting"
+  },
+  {
+    "question": "In the 8-step Tactical Vehicle Stop, what action immediately follows identifying yourself and the Department?",
+    "answer": "Stating the Reason for the stop.",
+    "options": [
+      "Asking for the driver's license.",
+      "Stating the Justification.",
+      "Making a Decision.",
+      "Stating the Reason for the stop."
+    ],
+    "reference": "8-step Tactical Vehicle Stop v ... 2. Identify yourself and the Department 3. Reason"
+  },
+  {
+    "question": "What is the fourth step in the 8-step Tactical Vehicle Stop method?",
+    "answer": "Justification (May outweigh the violation)",
+    "options": [
+      "Reason",
+      "Decision",
+      "Insurance",
+      "Justification (May outweigh the violation)"
+    ],
+    "reference": "8-step Tactical Vehicle Stop v ... 4. Justification (May outweigh the violation)"
+  },
+  {
+    "question": "According to the 8-step Tactical Vehicle Stop, what is the final step of the interaction?",
+    "answer": "Close",
+    "options": [
+      "Decision",
+      "Leave",
+      "Close",
+      "Final instructions"
+    ],
+    "reference": "8-step Tactical Vehicle Stop v ... 8. Close"
+  },
+  {
+    "question": "What is the first step in the 7-Step Violator Contact Method?",
+    "answer": "Greeting and identification of the police agency",
+    "options": [
+      "Statement of violation committed",
+      "Greeting and identification of the police agency",
+      "Identification of driver",
+      "Statement of action to be taken"
+    ],
+    "reference": "7 Step Violator Contact Method: • Step One: Greeting and identification of the police agency"
+  },
+  {
+    "question": "In the 7-Step Violator Contact Method, what is the third step?",
+    "answer": "Identification of driver and check of conditions of violator & vehicle",
+    "options": [
+      "Statement of violation committed",
+      "Statement of action to be taken",
+      "Take that action",
+      "Identification of driver and check of conditions of violator & vehicle"
+    ],
+    "reference": "7 Step Violator Contact Method: ... • Step Three: Identification of driver and check of conditions of violator & vehicle"
+  },
+  {
+    "question": "According to the 7-Step Violator Contact Method, what should an officer do immediately after stating the action to be taken?",
+    "answer": "Take that action",
+    "options": [
+      "Explain what the violator must do.",
+      "Take that action",
+      "Ask for justification from the driver.",
+      "Leave the scene."
+    ],
+    "reference": "7 Step Violator Contact Method: ... • Step Four: Statement of action to be taken • Step Five: Take that action"
+  },
+  {
+    "question": "What is the final step in the 7-Step Violator Contact Method?",
+    "answer": "Leave",
+    "options": [
+      "Close",
+      "Take action",
+      "Explain what the violator must do",
+      "Leave"
+    ],
+    "reference": "7 Step Violator Contact Method: ... • Step Seven: Leave"
+  },
+  {
+    "question": "Which vehicle stop method explicitly includes giving the person a 'chance to justify/explain/respond' as its third step?",
+    "answer": "7-Step Professional Contact",
+    "options": [
+      "8-step Tactical Vehicle Stop",
+      "7-Step Violator Contact Method",
+      "7-Step Professional Contact",
+      "None of the methods include this step"
+    ],
+    "reference": "7 Step Professional Contact 1. Introduction 2. Contact reason & 3. Their chance to justify/explain/respond"
+  },
+  {
+    "question": "In the 7-Step Professional Contact method, what is the second step?",
+    "answer": "Contact reason",
+    "options": [
+      "Introduction",
+      "ID info",
+      "Contact reason",
+      "Evaluate & make a decision"
+    ],
+    "reference": "7 Step Professional Contact ... 2. Contact reason & ..."
+  },
+  {
+    "question": "According to the comparison chart, what step in the 7-Step Violator Contact Method corresponds to the 'Evaluate & decision' step in the 7-Step Professional Contact method?",
+    "answer": "Statement of action & Take the action",
+    "options": [
+      "Greeting & ID",
+      "ID of driver & conditions check",
+      "Statement of action & Take the action",
+      "Explain it to them & Leave"
+    ],
+    "reference": "7 Step Comparisons: ... 6. Evaluate & decision / 4. Statement of action 5. Take the action"
+  },
+  {
+    "question": "Based on the comparison chart, which method is considered the 'Enforcement' model?",
+    "answer": "The 7-Step Violator Contact Method",
+    "options": [
+      "The 8-step Tactical Vehicle Stop",
+      "The 7-Step Violator Contact Method",
+      "The 7-Step Professional Contact",
+      "All three are considered enforcement models."
+    ],
+    "reference": "7 Step Comparisons: Professional vs Enforcement"
   }
 ],
         "Fitness and Wellness": [],
