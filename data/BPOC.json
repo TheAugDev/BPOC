@@ -330,6 +330,314 @@
       "Requests, commands, or attempts to induce another to engage in the specific conduct."
     ],
     "reference": "Sec. 15.03. CRIMINAL SOLICITATION. (a) A person commits an offense if, with intent that a capital felony or felony of the first degree be committed, he requests, commands, or attempts to induce another to engage in specific conduct that, under the circumstances surrounding his conduct as the actor believes them to be, would constitute the felony or an attempt to commit the felony."
+  },
+  {
+    "question": "Which of the following are objectives of the Texas Penal Code?",
+    "answer": "To define the scope of state interest and systematize jurisdiction; To guide & limit official discretion; To insure public safety via penalties, punishment, and rehabilitation; To safeguard conduct that is without guilt; and To define prohibited behavior and warn of consequences.",
+    "options": [
+      "To safeguard conduct that is without guilt from condemnation as criminal",
+      "To insure the public safety via deterrent penalties, punishments, and rehabilitation",
+      "To guide & limit offical discretion to prevent arbitrary or oppressive treatment",
+      "To define the scope of state interest in law enforcement against specific offenses and to systematize the exercise of state criminal jurisdiction"
+    ],
+    "reference": "Texas Penal Code, Sec. 1.02. OBJECTIVES OF CODE."
+  },
+  {
+    "question": "Which of the following actions would be considered 'coercion' under the Penal Code?",
+    "answer": "A threat to commit an offense; a threat to inflict future bodily injury; a threat to expose a person to hatred or contempt; and a threat to take or withhold action as a public servant.",
+    "options": [
+      "threat to inflict bodily injury in the future on the person threatened or another",
+      "threat to take or withhold action as a public servant",
+      "threat to commit an offense",
+      "threat to expose a person to hatred or contempt"
+    ],
+    "reference": "Texas Penal Code, Sec. 1.07. DEFINITIONS. (a)(9) 'Coercion' means a threat, however communicated..."
+  },
+  {
+    "question": "Which of the following are considered an 'Element of an Offense' in the Penal Code?",
+    "answer": "A forbidden conduct, a required culpability, any required result, and the negation of any exception.",
+    "options": [
+      "a forbidden conduct",
+      "a required culpability",
+      "any required result",
+      "the negation of any exception"
+    ],
+    "reference": "Texas Penal Code, Sec. 1.07. DEFINITIONS. (a)(22) 'Element of offense' means: (A) the forbidden conduct; (B) the required culpability; (C) any required result; and (D) the negation of any exception to the offense."
+  },
+  {
+    "question": "Which of the following locations would be considered a 'Public Place'?",
+    "answer": "Any place with public access, streets, hotel lobbies, common areas of schools, apartment parking lots, and airport luggage areas.",
+    "options": [
+      "streets and highways",
+      "hotel lobby",
+      "common areas of schools",
+      "any place to which the public or a substantial group of the public has access"
+    ],
+    "reference": "Texas Penal Code, Sec. 1.07. DEFINITIONS. (a)(40) 'Public place' means any place to which the public or a substantial group of the public has access and includes, but is not limited to, streets, highways, and the common areas of schools, hospitals, apartment houses, office buildings, transport facilities, and shops."
+  },
+  {
+    "question": "Which of the following individuals is considered a 'Public Servant'?",
+    "answer": "An officer of government, a juror, a candidate for public office, a magistrate, an arbitrator, and an attorney performing a governmental function.",
+    "options": [
+      "an officer, employee, or agent of government",
+      "a candidate for nomination or election to public office",
+      "a juror or grand juror",
+      "an attorney at law or notary public when participating in the performance of a governmental function"
+    ],
+    "reference": "Texas Penal Code, Sec. 1.07. DEFINITIONS. (a)(41) 'Public servant' means a person elected, selected, appointed, employed, or otherwise designated as one of the following, even if he has not yet qualified for office or assumed his duties: (A) an officer, employee, or agent of government..."
+  },
+  {
+    "question": "Which of the following statements about criminal responsibility is true?",
+    "answer": "A person is responsible for their own conduct, for aiding an innocent person to commit an offense, for soliciting or aiding another to commit an offense, and for felonies committed by a co-conspirator.",
+    "options": [
+      "A person is criminally responsible if the offense is committed by his own conduct, by the conduct of another for which he is criminally responsible.",
+      "A person is criminally responsible if acting with the kind of culpability required for the offense, he causes or aids an innocent or nonresponsible person to engage in conduct prohibited by the definition of the offense.",
+      "A person is criminally responsible if acting with intent to promote or assist the commission of the offense, he solicits, encourages, directs, aids, or attempts to aid the other person to commit the offense.",
+      "A person is criminally responsible if in the attempt to carry out a conspiracy to commit a felony, another felony is committed by a conspirator, all conspirators are guilty of the felony committed..."
+    ],
+    "reference": "Texas Penal Code, Sec. 7.01 and Sec. 7.02."
+  },
+  {
+    "question": "What is the term for a belief that would be held by an ordinary and prudent man in the same circumstances as the actor?",
+    "answer": "Reasonable belief",
+    "options": [
+      "Effective consent",
+      "Reasonable belief",
+      "Mistake of Fact",
+      "Affirmative Defense"
+    ],
+    "reference": "Texas Penal Code, Sec. 1.07. DEFINITIONS. (a)(42) 'Reasonable belief' means a belief that would be held by an ordinary and prudent man in the same circumstances as the actor."
+  },
+  {
+    "question": "A threat to cause death or serious bodily injury by producing a weapon does not constitute the use of __________ if the actor's purpose is limited to creating an apprehension.",
+    "answer": "Deadly force",
+    "options": [
+      "Deadly force",
+      "Assault",
+      "Coercion",
+      "Bodily Injury"
+    ],
+    "reference": "Texas Penal Code, Sec. 9.04. THREATS AS JUSTIFIABLE FORCE. The threat of force is justified when the use of force is justified... A threat to cause death or serious bodily injury by the production of a weapon... does not constitute the use of deadly force."
+  },
+  {
+    "question": "It is no defense to prosecution that the actor was __________ of the provisions of any law after the law has taken effect.",
+    "answer": "Ignorant",
+    "options": [
+      "in disagreement",
+      "forced to violate",
+      "ignorant",
+      "mistaken about"
+    ],
+    "reference": "Texas Penal Code, Sec. 8.03. MISTAKE OF LAW. (a) It is no defense to prosecution that the actor was ignorant of the provisions of any law after the law has taken effect."
+  },
+  {
+    "question": "Consent is not effective if it is given solely to _________ the commission of an offense.",
+    "answer": "Detect",
+    "options": [
+      "Prevent",
+      "Report",
+      "Detect",
+      "Observe"
+    ],
+    "reference": "Texas Penal Code, Sec. 1.07. DEFINITIONS. (a)(19) 'Effective consent' includes consent by a person legally authorized to act for the owner. Consent is not effective if: ... (C) given solely to detect the commission of an offense."
+  },
+  {
+    "question": "A 'Felony' is an offense so designated by law or punishable by death or confinement in a ________.",
+    "answer": "Penitentiary",
+    "options": [
+      "County jail",
+      "State jail",
+      "Penitentiary",
+      "Detention center"
+    ],
+    "reference": "Texas Penal Code, Sec. 1.07. DEFINITIONS. (a)(23) 'Felony' means an offense so designated by law or punishable by death or confinement in a penitentiary."
+  },
+  {
+    "question": "No person may be convicted of an offense unless each element of the offense is proved beyond a __________.",
+    "answer": "Reasonable doubt",
+    "options": [
+      "Preponderance of the evidence",
+      "Reasonable doubt",
+      "Shadow of a doubt",
+      "Reasonable suspicion"
+    ],
+    "reference": "Texas Penal Code, Sec. 2.01. PROOF BEYOND A REASONABLE DOUBT. All persons are presumed to be innocent and no person may be convicted of an offense unless each element of the offense is proved beyond a reasonable doubt."
+  },
+  {
+    "question": "Consent is not effective if given by a person who is known by the actor to be unable to make reasonable decisions due to youth, mental disease, or _________.",
+    "answer": "Intoxication",
+    "options": [
+      "Duress",
+      "Intoxication",
+      "Coercion",
+      "Entrapment"
+    ],
+    "reference": "Texas Penal Code, Sec. 1.07. DEFINITIONS. (a)(19) 'Effective consent' includes consent by a person legally authorized to act for the owner. Consent is not effective if: ... (B) given by a person who by reason of youth, mental disease or defect, or intoxication is known by the actor to be unable to make reasonable decisions."
+  },
+  {
+    "question": "Which term matches the definition: 'physical pain, illness, or any impairment of physical condition'?",
+    "answer": "Bodily Injury",
+    "options": [
+      "Act",
+      "Harm",
+      "Bodily Injury",
+      "Conduct"
+    ],
+    "reference": "Texas Penal Code, Sec. 1.07. DEFINITIONS. (a)(8) 'Bodily injury' means physical pain, illness, or any impairment of physical condition."
+  },
+  {
+    "question": "Which term matches the definition: 'an act or omission and its accompanying mental state'?",
+    "answer": "Conduct",
+    "options": [
+      "Act",
+      "Conduct",
+      "Omission",
+      "Possession"
+    ],
+    "reference": "Texas Penal Code, Sec. 1.07. DEFINITIONS. (a)(10) 'Conduct' means an act or omission and its accompanying mental state."
+  },
+  {
+    "question": "Which term matches the definition: 'a firearm or anything manifestly designed, made, or adapted for the purpose of inflicting death or serious bodily injury'?",
+    "answer": "Deadly weapon",
+    "options": [
+      "Benefit",
+      "Deadly weapon",
+      "Act",
+      "Harm"
+    ],
+    "reference": "Texas Penal Code, Sec. 1.07. DEFINITIONS. (a)(17) 'Deadly weapon' means: (A) a firearm or anything manifestly designed, made, or adapted for the purpose of inflicting death or serious bodily injury;"
+  },
+  {
+    "question": "Which term matches the definition: 'disturbance of mental or physical capacity from the introduction of any substance into the body'?",
+    "answer": "Intoxication",
+    "options": [
+      "Bodily Injury",
+      "Harm",
+      "Intoxication",
+      "Benefit"
+    ],
+    "reference": "Texas Penal Code, Sec. 49.01. DEFINITIONS. (2) 'Intoxicated' means: (A) not having the normal use of mental or physical faculties by reason of the introduction of alcohol, a controlled substance, a drug, a dangerous drug, a combination of two or more of those substances, or any other substance into the body;"
+  },
+  {
+    "question": "Which term matches the definition: 'actual care, custody, control, or management'?",
+    "answer": "Possession",
+    "options": [
+      "Omission",
+      "Possession",
+      "Conduct",
+      "Act"
+    ],
+    "reference": "Texas Penal Code, Sec. 1.07. DEFINITIONS. (a)(39) 'Possession' means actual care, custody, control, or management."
+  },
+  {
+    "question": "Which term matches the description: 'burden of proof lies with the defense attorney to prove when he or she chooses to use it'?",
+    "answer": "Affirmative Defense",
+    "options": [
+      "Exception",
+      "Defense",
+      "Affirmative Defense",
+      "Mistake of Law"
+    ],
+    "reference": "Texas Penal Code, Sec. 2.04. AFFIRMATIVE DEFENSE. (d) If the issue of the existence of an affirmative defense is submitted to the jury, the court shall charge that the defendant must prove the affirmative defense by a preponderance of the evidence."
+  },
+  {
+    "question": "Which term matches the definition: 'Anything reasonably regarded as loss, disadvantage, or injury'?",
+    "answer": "Harm",
+    "options": [
+      "Harm",
+      "Bodily Injury",
+      "Benefit",
+      "Omission"
+    ],
+    "reference": "Texas Penal Code, Sec. 1.07. DEFINITIONS. (a)(25) 'Harm' means anything reasonably regarded as loss, disadvantage, or injury, including harm to another person in whose welfare the person affected is interested."
+  },
+  {
+    "question": "Which term matches the definition: 'a person's conscious objective or desire to engage in a conduct or cause a result'?",
+    "answer": "Intentional",
+    "options": [
+      "Knowing",
+      "Reckless",
+      "Intentional",
+      "Criminal negligence"
+    ],
+    "reference": "Texas Penal Code, Sec. 6.03. DEFINITIONS OF CULPABLE MENTAL STATES. (a) A person acts intentionally, or with intent, with respect to the nature of his conduct or to a result of his conduct when it is his conscious objective or desire to engage in the conduct or cause the result."
+  },
+  {
+    "question": "The affirmative defense that occurs when an actor was compelled to commit a crime by threat of imminent death or serious bodily injury is known as what?",
+    "answer": "Duress",
+    "options": [
+      "Entrapment",
+      "Duress",
+      "Mistake of Fact",
+      "Intoxication"
+    ],
+    "reference": "Texas Penal Code, Sec. 8.05. DURESS. (a) It is an affirmative defense to prosecution that the actor engaged in the proscribed conduct because he was compelled to do so by threat of imminent death or serious bodily injury to himself or another."
+  },
+  {
+    "question": "Which defense applies if an actor, through mistake, formed a reasonable belief about a matter of fact that negated the required culpability?",
+    "answer": "Mistake of Fact",
+    "options": [
+      "Mistake of Law",
+      "Duress",
+      "Entrapment",
+      "Mistake of Fact"
+    ],
+    "reference": "Texas Penal Code, Sec. 8.02. MISTAKE OF FACT. (a) It is a defense to prosecution that the actor through mistake formed a reasonable belief about a matter of fact if his mistaken belief negated the kind of culpability required for commission of the offense."
+  },
+  {
+    "question": "What is the legal term for when the burden of proof to negate an issue rests with the prosecution?",
+    "answer": "Exception",
+    "options": [
+      "Exception",
+      "Defense",
+      "Affirmative Defense",
+      "Omission"
+    ],
+    "reference": "Texas Penal Code, Sec. 2.02. EXCEPTION. (b) The prosecuting attorney must negate the existence of an exception in the indictment, information, or complaint and prove beyond a reasonable doubt that the defendant or defendant's conduct does not fall within the exception."
+  },
+  {
+    "question": "Which term describes when a person's conduct results from a failure to perceive a substantial and unjustifiable risk?",
+    "answer": "Criminal negligence",
+    "options": [
+      "Reckless",
+      "Intentional",
+      "Knowing",
+      "Criminal negligence"
+    ],
+    "reference": "Texas Penal Code, Sec. 6.03. DEFINITIONS OF CULPABLE MENTAL STATES. (d) A person acts with criminal negligence... when he ought to be aware of a substantial and unjustifiable risk... The risk must be of such a nature and degree that the failure to perceive it constitutes a gross deviation from the standard of care that an ordinary person would exercise..."
+  },
+  {
+    "question": "Which term best describes an individual, corporation, or association?",
+    "answer": "Person",
+    "options": [
+      "Individual",
+      "Public servant",
+      "Person",
+      "Actor"
+    ],
+    "reference": "Texas Penal Code, Sec. 1.07. DEFINITIONS. (a)(38) 'Person' means an individual, corporation, or association."
+  },
+  {
+    "question": "Which term matches the definition: 'a human being who is alive, including an unborn child at every stage of gestation from fertilization until birth'?",
+    "answer": "Individual",
+    "options": [
+      "Person",
+      "Individual",
+      "Actor",
+      "Human"
+    ],
+    "reference": "Texas Penal Code, Sec. 1.07. DEFINITIONS. (a)(26) 'Individual' means a human being who is alive, including an unborn child at every stage of gestation from fertilization until birth."
+  },
+  {
+    "question": "According to the worksheet, does voluntary intoxication constitute a defense to the commission of a crime?",
+    "answer": "No",
+    "options": [
+      "Yes",
+      "No",
+      "Only if the intoxication was severe.",
+      "Only for misdemeanor offenses."
+    ],
+    "reference": "Texas Penal Code, Sec. 8.04. INTOXICATION. (a) Voluntary intoxication does not constitute a defense to the commission of a crime."
   }
 ],
         "Radio Communications": [
@@ -1335,6 +1643,171 @@
       "All three are considered enforcement models."
     ],
     "reference": "7 Step Comparisons: Professional vs Enforcement"
+  },
+  {
+    "question": "An officer is dispatched to a 'welfare check'. Upon arrival, she finds an elderly man who seems confused and has difficulty communicating. He appears physically unharmed but cannot state his name or address. What is the officer's best first step based on civilian interaction principles?",
+    "answer": "Use a calm and patient tone, speak simply, and use non-threatening body language to try and build rapport before asking for identification.",
+    "options": [
+      "Immediately detain the man in handcuffs for his own safety.",
+      "Assume he is intoxicated and conduct field sobriety tests.",
+      "Use a calm and patient tone, speak simply, and use non-threatening body language to try and build rapport before asking for identification.",
+      "Leave the scene as no crime has been committed."
+    ],
+    "reference": "Crisis intervention programs have existed for a long time, with the primary intention of separating people with mental illness from the general criminal population. One of the hallmarks of crisis intervention training programs is the emphasis on avoiding confrontation: officers are taught to defuse situations..."
+  },
+  {
+    "question": "An officer stops a vehicle for a minor traffic offense. The driver, a recent immigrant, appears extremely nervous and avoids eye contact. Based on the TCOLE guide's cultural awareness section, what should the officer consider?",
+    "answer": "That avoiding eye contact can be a sign of respect in some cultures, not necessarily guilt.",
+    "options": [
+      "That avoiding eye contact is a universal sign of deception and warrants further investigation.",
+      "That the driver is likely trying to hide something and should be ordered out of the car.",
+      "That avoiding eye contact can be a sign of respect in some cultures, not necessarily guilt.",
+      "That the driver's nervousness automatically provides reasonable suspicion for a vehicle search."
+    ],
+    "reference": "For instance, Hispanic Americans are much more likely to avoid eye contact, but this is done out of respect rather than feelings of shame or guilt."
+  },
+  {
+    "question": "During a consensual encounter on the street, a person who is not being detained tells the officer, 'I do not wish to speak with you' and begins to walk away. What should the officer do?",
+    "answer": "Allow the person to leave, as the encounter was consensual and they are free to go.",
+    "options": [
+      "Order the person to stop and demand their identification.",
+      "Arrest the person for Failure to Identify.",
+      "Follow the person and continue asking questions.",
+      "Allow the person to leave, as the encounter was consensual and they are free to go."
+    ],
+    "reference": "A suspicious peace officer may investigate further, and may approach people to ask questions. However, these people may not be detained, may not be forced to identify themselves, and may refuse to answer questions."
+  },
+  {
+    "question": "An officer responds to a landlord-tenant dispute. The landlord has locked the tenant out for non-payment of rent. The tenant is demanding entry. What is the officer's primary role in this civil dispute?",
+    "answer": "To keep the peace, prevent any criminal activity from occurring, and advise the parties to seek a civil remedy in court.",
+    "options": [
+      "Force the landlord to unlock the door for the tenant.",
+      "Arrest the tenant for trespassing.",
+      "To keep the peace, prevent any criminal activity from occurring, and advise the parties to seek a civil remedy in court.",
+      "Review the lease agreement and decide who is legally correct."
+    ],
+    "reference": "Sec. 511.3 [Denton GO] GENERAL CONSIDERATIONS. When responding to a civil dispute, members should: (a) Remain impartial... (c) Advise the parties that the police department cannot resolve a civil dispute and that they should seek a civil remedy in court."
+  },
+  {
+    "question": "An officer is speaking with an individual who is becoming verbally aggressive and shouting insults. Using the 'Deflection and Redirection' technique, what is an appropriate response?",
+    "answer": "'I understand you're frustrated, but I am here to discuss the situation with the initial call. Let's focus on that.'",
+    "options": [
+      "'If you don't stop yelling, you will be arrested.'",
+      "'You don't have the right to speak to me that way.'",
+      "'I understand you're frustrated, but I am here to discuss the situation with the initial call. Let's focus on that.'",
+      "Shout back at the person to show authority."
+    ],
+    "reference": "Verbal Persuasion... Deflection and Redirection of Verbal Abuse [from 37-Civilian Interactions 2025.pdf]"
+  },
+  {
+    "question": "During a traffic stop, a driver who received a citation is angry and asks, 'How do I complain about your attitude?' According to SB 30, what is the officer's duty?",
+    "answer": "To provide information on how and where to file a complaint against an officer.",
+    "options": [
+      "To tell the driver they cannot file a complaint.",
+      "To ignore the question and walk away.",
+      "To provide information on how and where to file a complaint against an officer.",
+      "To give the driver their supervisor's personal phone number."
+    ],
+    "reference": "5) How/where to file a complaint/compliment for an officer: CCP 2.132 requires all agencies to provide public education relating to the complaint process [from 37-Civilian Interactions 2025.pdf]"
+  },
+  {
+    "question": "An officer asks a driver to step out of the vehicle. The driver says, 'No.' The officer then says, 'Sir, for my safety, I need you to step out of the vehicle so we can talk about this citation.' This is an example of which step in the 5-step process for non-compliance?",
+    "answer": "Set Context (Reasonable Appeal)",
+    "options": [
+      "Ask (Ethical Appeal)",
+      "Set Context (Reasonable Appeal)",
+      "Present Options (Personal Appeal)",
+      "Confirm (Practical Appeal)"
+    ],
+    "reference": "5 Steps for VOLUNTARY Non-compliance: 1) Ask (Ethical Appeal) 2) Set Context (Reasonable Appeal) 3) Present Options (Personal Appeal) 4) Confirm (Practical Appeal) 5) Act (Determine appropriate action)"
+  },
+  {
+    "question": "After asking a subject to comply and explaining why, the officer says, 'You can either hand me the item, or I will have to take it from you, which could lead to an additional charge. What would you prefer to do?' This is an example of which step?",
+    "answer": "Present Options (Personal Appeal)",
+    "options": [
+      "Set Context (Reasonable Appeal)",
+      "Act (Determine appropriate action)",
+      "Ask (Ethical Appeal)",
+      "Present Options (Personal Appeal)"
+    ],
+    "reference": "5 Steps for VOLUNTARY Non-compliance: ... 3) Present Options (Personal Appeal)"
+  },
+  {
+    "question": "An officer is interviewing a witness to a crime. To build rapport and ensure understanding, the officer uses the LEAPS model. After the witness explains what they saw, the officer says, 'So, if I understand you correctly, you saw the man in the red shirt run out of the store. Is that right?' This demonstrates which part of LEAPS?",
+    "answer": "Paraphrase and Summarize",
+    "options": [
+      "Listen and Empathize",
+      "Ask",
+      "Paraphrase and Summarize",
+      "Problem and Audience"
+    ],
+    "reference": "LEAPS, which stands for listen, empathize, ask, paraphrase, and summarize."
+  },
+  {
+    "question": "An officer responds to a call about a suspicious person looking into cars. The officer locates the person, who matches the description, and initiates contact. The officer's initial goal should be to conduct what type of interaction?",
+    "answer": "A consensual encounter to investigate further.",
+    "options": [
+      "An immediate arrest for attempted burglary.",
+      "A temporary detention and frisk.",
+      "A consensual encounter to investigate further.",
+      "A surveillance operation from a distance."
+    ],
+    "reference": "A suspicious peace officer may investigate further, and may approach people to ask questions. However, these people may not be detained, may not be forced to identify themselves, and may refuse to answer questions. [from TCOLE Study Guide]"
+  },
+  {
+    "question": "An officer at a First Amendment assembly observes a participant lawfully recording them from a safe distance. What should the officer do?",
+    "answer": "Allow the person to continue recording without interference.",
+    "options": [
+      "Order the person to stop recording.",
+      "Seize the phone as evidence.",
+      "Block the camera with their hand.",
+      "Allow the person to continue recording without interference."
+    ],
+    "reference": "GO 516.2 [Denton GO] POLICY: The Denton Police Department recognizes the right of persons to lawfully record members of this department who are performing their official duties. Members of this department will not prohibit or intentionally interfere with such lawful recordings."
+  },
+  {
+    "question": "During an interaction, a citizen tells an officer, 'I know my rights! You can't do this!' What is the most professional response?",
+    "answer": "'I understand you're concerned about your rights, and I will respect them. Right now, I need you to do...' (gives lawful order).",
+    "options": [
+      "'I decide what your rights are out here.'",
+      "'If you say 'rights' one more time, you're going to jail.'",
+      "Laugh at the person and continue the action.",
+      "'I understand you're concerned about your rights, and I will respect them. Right now, I need you to do...' (gives lawful order)."
+    ],
+    "reference": "Peace officers should be nonjudgmental, and should see themselves as detached enforcers of the law. At the same time, peace officers should be friendly and empathic with others. [from TCOLE Study Guide]"
+  },
+  {
+    "question": "An officer is interviewing a crime victim who is highly emotional and crying. What communication technique is most appropriate?",
+    "answer": "Using an empathetic and understanding tone, and allowing for pauses.",
+    "options": [
+      "Telling the victim to 'calm down so I can get the facts.'",
+      "Using a loud, firm voice to take control of the conversation.",
+      "Focusing only on the facts and ignoring the victim's emotional state.",
+      "Using an empathetic and understanding tone, and allowing for pauses."
+    ],
+    "reference": "The paralinguistic factors of a communication are all of the aspects of vocal production besides the content of the message. This may include the volume, tone, or rhythm of speech, to name a few. A person’s tone of voice indicates his emotional state. [from TCOLE Study Guide]"
+  },
+  {
+    "question": "An officer is speaking with two potentially involved parties who are standing very close to each other, face-to-face. What should the officer's initial action be?",
+    "answer": "Verbally direct the parties to separate to a safe distance to defuse the situation and ensure safety.",
+    "options": [
+      "Stand between them to physically separate them.",
+      "Immediately handcuff both individuals.",
+      "Interview them together to hear both sides at once.",
+      "Verbally direct the parties to separate to a safe distance to defuse the situation and ensure safety."
+    ],
+    "reference": "Officers should be sure to note the relative positions of the people. If people are standing close together, it may mean that they know each other well or are about to get in a fight. [from TCOLE Study Guide]"
+  },
+  {
+    "question": "A driver tells an officer, 'You only pulled me over because you're profiling.' What is the most professional response to de-escalate and redirect the contact?",
+    "answer": "'I understand your concern. The reason for the stop was for the traffic violation I observed. Let's focus on resolving that.'",
+    "options": [
+      "'That's a serious accusation, and you'd better be able to prove it.'",
+      "'I can pull over anyone I want to.'",
+      "'I understand your concern. The reason for the stop was for the traffic violation I observed. Let's focus on resolving that.'",
+      "Immediately call for a supervisor and refuse to speak further with the driver."
+    ],
+    "reference": "Deflection and Redirection of Verbal Abuse. [from 37-Civilian Interactions 2025.pdf]"
   }
 ],
         "Fitness and Wellness": [],
