@@ -2491,8 +2491,406 @@
     "reference": "Amendment 7: 'In suits at common law... the right of trial by jury shall be preserved...'"
   }
 ],
-        "Arrest & Frisk Tactics": [],
-        "Police Mindset": [],
+        "Arrest & Frisk Tactics": [
+  {
+    "question": "An officer has a 'hunch' or 'feeling of intuition' that a person might be involved in criminal activity, but has no specific facts to support this feeling. What level of proof does the officer have?",
+    "answer": "Mere Suspicion.",
+    "options": [
+      "Probable Cause.",
+      "Reasonable Suspicion.",
+      "Mere Suspicion.",
+      "Proof Beyond a Reasonable Doubt."
+    ],
+    "reference": "What is Mere Suspicion? Hunch / feeling of intuition... insufficient proof of any fact in a court of law.",
+    "explanation": "Mere suspicion is the lowest level of certainty and is not enough to justify a detention. It does, however, allow an officer to continue observing and to approach the individual for a consensual encounter."
+  },
+  {
+    "question": "What is the legal standard required for a peace officer to conduct a temporary detention (a 'Terry Stop')?",
+    "answer": "Reasonable Suspicion.",
+    "options": [
+      "A warrant signed by a magistrate.",
+      "Probable Cause.",
+      "A mere hunch or suspicion.",
+      "Reasonable Suspicion."
+    ],
+    "reference": "Temporary Detention: Holding a person for a limited time... You have REASONABLE SUSPICION that a person is connected with some suspicious activity...",
+    "explanation": "To temporarily detain someone, an officer must have specific, articulable facts that, when taken together, would lead a reasonable officer to believe that criminal activity is afoot."
+  },
+  {
+    "question": "What is the legal standard required for a peace officer to make an arrest or conduct a full search?",
+    "answer": "Probable Cause.",
+    "options": [
+      "Probable Cause.",
+      "Reasonable Suspicion.",
+      "Mere Suspicion.",
+      "Absolute certainty."
+    ],
+    "reference": "Probable Cause: The facts & circumstances within the officer’s knowledge, & of which they have reasonable trustworthy information, are sufficient in themselves to warrant a belief by a man of reasonable caution that a crime has been or is being committed.",
+    "explanation": "Probable Cause is a higher standard than reasonable suspicion and is the constitutional requirement for arrests and most searches."
+  },
+  {
+    "question": "According to the Frisking Tactics handout, what is the primary purpose of conducting a frisk?",
+    "answer": "Officer Safety related to Weapons.",
+    "options": [
+      "To discover illegal narcotics.",
+      "To discover any and all evidence of a crime.",
+      "To identify the suspect through their wallet.",
+      "Officer Safety related to Weapons."
+    ],
+    "reference": "Justifying a Proper 'Frisk'. Purpose is Officer Safety related to Weapons",
+    "explanation": "A frisk (or pat-down) is strictly a protective search of a person's outer clothing to find weapons; it is not a search for general evidence."
+  },
+  {
+    "question": "An officer tells a judge, 'I frisked the suspect for officer safety.' Why is this justification insufficient on its own?",
+    "answer": "The officer must be able to articulate the specific facts that caused them to fear for their safety.",
+    "options": [
+      "It is a perfect justification and no more is needed.",
+      "The officer should have said 'public safety' instead of 'officer safety'.",
+      "The officer must be able to articulate the specific facts that caused them to fear for their safety.",
+      "The officer must have a witness to corroborate their fear."
+    ],
+    "reference": "Bad response: 'Officer safety' and nothing more. Good Answer: I was in fear for my safety because of the following facts...",
+    "explanation": "Courts require objective facts to justify a frisk, not just a subjective feeling. The officer must explain *why* they were in fear (e.g., suspect's furtive movements, bulges in clothing, nature of the suspected crime)."
+  },
+  {
+    "question": "What is the key difference between a 'frisk' and a 'search'?",
+    "answer": "A frisk is a pat-down of outer clothing for weapons, while a search allows for a more intrusive examination for weapons or evidence.",
+    "options": [
+      "There is no difference; the terms are interchangeable.",
+      "A frisk requires probable cause, while a search only requires reasonable suspicion.",
+      "A frisk is a pat-down of outer clothing for weapons, while a search allows for a more intrusive examination for weapons or evidence.",
+      "A frisk can only be performed by male officers, while a search can be performed by any officer."
+    ],
+    "reference": "Frisk: a “pat down” of the outer clothing of a person... It is a search for WEAPONS only. ... Frisks ARE NOT USED FOR ARRESTS: handcuff then search for arrests",
+    "explanation": "The scope of a frisk is limited to what is necessary for protection. A full search, typically done after an arrest, is more thorough and can be used to discover evidence of the crime."
+  },
+  {
+    "question": "An officer is conducting a lawful frisk and feels a hard, cylindrical object in the suspect's pocket that they immediately recognize as a crack pipe. What does the 'Plain Feel' Doctrine allow the officer to do?",
+    "answer": "Seize the crack pipe as contraband.",
+    "options": [
+      "Continue the frisk but ignore the pipe as it is not a weapon.",
+      "Ask the suspect for consent to remove the pipe.",
+      "Immediately arrest the suspect for possession of a weapon.",
+      "Seize the crack pipe as contraband."
+    ],
+    "reference": "This concept is not explicitly in the provided text but is a standard TCOLE topic directly related to frisks. The 'Plain Feel' or 'Plain Touch' doctrine allows seizure of contraband if its identity as contraband is 'immediately apparent' to the officer during a lawful pat-down."
+  },
+  {
+    "question": "During a lawful temporary detention, is a person required to provide their name, address, or date of birth?",
+    "answer": "No, a person is not required to identify themselves during a temporary detention.",
+    "options": [
+      "Yes, if the officer demands it.",
+      "No, a person is not required to identify themselves during a temporary detention.",
+      "Yes, but only if they are a suspect in a felony.",
+      "Only if the officer promises not to arrest them."
+    ],
+    "reference": "Failure to ID... A person being temporarily detained is NOT required to identify him or herself."
+  },
+  {
+    "question": "A person has been lawfully arrested. When can they be charged with Failure to Identify?",
+    "answer": "If they intentionally refuse to give their name, address, or date of birth after being requested by an officer.",
+    "options": [
+      "They cannot be charged, as they have a right to remain silent.",
+      "If they intentionally refuse to give their name, address, or date of birth after being requested by an officer.",
+      "Only if they give a false name, not if they refuse to give one.",
+      "Only if they are arrested for a felony."
+    ],
+    "reference": "PC 38.02 Failure to Identify... A person lawfully arrested shall give their name, address, and date of birth."
+  },
+  {
+    "question": "When cuffing a suspect from a frisk position, what does the handout say is the first mechanical step?",
+    "answer": "Apply the bottom cuff first.",
+    "options": [
+      "Bring the suspect's hands together.",
+      "Apply the top cuff first.",
+      "Apply the bottom cuff first.",
+      "Double-lock the cuffs."
+    ],
+    "reference": "Cuffing from the frisk position... Cuff the same, bottom cuff first and then apply the second cuff"
+  },
+  {
+    "question": "An officer is handcuffing a suspect whose wrists are too far apart to apply the cuffs in one motion. What is the recommended technique?",
+    "answer": "Apply the first cuff, 'peel off' the uncuffed hand into a wrist lock, and then move the hands together.",
+    "options": [
+      "Use two pairs of handcuffs.",
+      "Apply more pressure until the hands can be brought together.",
+      "Apply the first cuff, 'peel off' the uncuffed hand into a wrist lock, and then move the hands together.",
+      "Forgo handcuffing and use a different restraint method."
+    ],
+    "reference": "If the wrists are too far apart: Apply the first cuff (bottom cuff); 'Peel off' the uncuffed hand into a wrist lock type grip; Move the hands together as you apply the 2nd cuff"
+  },
+  {
+    "question": "Under CCP Art. 18.16, who has the right to seize stolen property to prevent the consequences of theft?",
+    "answer": "Any citizen.",
+    "options": [
+      "Only a peace officer.",
+      "Only the property owner.",
+      "Any citizen.",
+      "Only a licensed security guard."
+    ],
+    "reference": "Article 18.16 of the Code of Criminal Procedure states that citizens have the right to prevent the consequences of theft by seizing stolen personal property and bringing it before a magistrate."
+  },
+  {
+    "question": "A peace officer observes a person commit a felony offense. According to the handout, what is the officer's authority to arrest?",
+    "answer": "The officer may arrest without a warrant.",
+    "options": [
+      "The officer must first obtain a warrant.",
+      "The officer may only detain the person.",
+      "The officer may arrest without a warrant.",
+      "The officer must get a supervisor's approval before arresting."
+    ],
+    "reference": "When a Peace Officer MAY arrest: ... 3. Offense within view/presence (for Peace Breach or Felony)"
+  },
+  {
+    "question": "An officer has probable cause to believe a person has committed an assault and that there is a danger of further bodily injury to the victim. Does the officer need a warrant to arrest?",
+    "answer": "No, the officer may arrest without a warrant.",
+    "options": [
+      "Yes, a warrant is always required for an assault not seen by the officer.",
+      "No, the officer may arrest without a warrant.",
+      "The officer can only arrest if the victim agrees to press charges at that moment.",
+      "The officer must wait for the victim to get a protective order first."
+    ],
+    "reference": "When a Peace Officer MAY arrest: ... 8. NON-Family violence assault & PC of further BI to the victim"
+  },
+  {
+    "question": "An officer has probable cause to believe a person has violated a protective order, but the violation did not happen in the officer's presence. What is the officer's arrest authority?",
+    "answer": "The officer may arrest without a warrant.",
+    "options": [
+      "The officer must arrest without a warrant.",
+      "The officer may only issue a citation.",
+      "The officer may arrest without a warrant.",
+      "The officer must obtain a warrant as the act was not in their presence."
+    ],
+    "reference": "When a Peace Officer MAY arrest: ... 11. Protective Orders with PC: shall arrest if in your presence; May arrest if not in your presence"
+  }
+],
+        "Police Mindset": [
+  {
+    "question": "What is the concept of 'The Learning Circle' as described in the handout?",
+    "answer": "Operating at the very limit of, and beyond, one's ability to ensure learning and growth.",
+    "options": [
+      "A group study session for recruits.",
+      "A method for de-escalating a conversation.",
+      "Operating at the very limit of, and beyond, one's ability to ensure learning and growth.",
+      "A tactical formation for searching a room."
+    ],
+    "reference": "Emphasize the need to operate at the very limit, and beyond, of the Recruit's ability to ensure learning and growth.",
+    "explanation": "This principle suggests that true learning occurs when you are challenged and pushed outside of your comfort zone, where mistakes are necessary for improvement."
+  },
+  {
+    "question": "The handout distinguishes between necessary mistakes and 'Stupid Mistakes'. What is an example of a 'Stupid Mistake'?",
+    "answer": "A mistake made due to a lack of focus.",
+    "options": [
+      "A mistake made while attempting a new, difficult technique.",
+      "A mistake made due to a lack of focus.",
+      "A mistake that results in learning.",
+      "The first time a recruit makes an error."
+    ],
+    "reference": "Stupid Mistakes. Not paying attention, lack of focus, being lazy",
+    "explanation": "Necessary mistakes happen during the learning process, while 'stupid mistakes' are those that stem from inattention or a lack of effort and are considered counterproductive."
+  },
+  {
+    "question": "What is a 'Repetitive Mistake' according to the handout?",
+    "answer": "Making the same mistake over and over again.",
+    "options": [
+      "Any mistake made more than once.",
+      "A mistake that is common among all recruits.",
+      "Making the same mistake over and over again.",
+      "A mistake made intentionally."
+    ],
+    "reference": "Repetitive Mistakes. Making the same mistake over and over again.",
+    "explanation": "This type of mistake indicates that learning is not occurring, and the recruit is not correcting their actions based on previous feedback."
+  },
+  {
+    "question": "What does the acronym W.I.N. stand for, and when should an officer ask this question?",
+    "answer": "What's Important Now?; After every decision you make.",
+    "options": [
+      "Where Is aNother (officer)?; When you need backup.",
+      "Weapon, Intent, Notification; During a use of force.",
+      "What's Important Now?; After every decision you make.",
+      "Who, Incident, Notify; When writing a report."
+    ],
+    "reference": "What's Important Now? After every decision you make, your next question should be W.I.N.?",
+    "explanation": "W.I.N. is a mental tool used to constantly re-focus, prioritize actions, and avoid distractions during evolving situations."
+  },
+  {
+    "question": "What is the first step in the Critical Decision-Making Model (CDM)?",
+    "answer": "Collect Information / The Observation Loop.",
+    "options": [
+      "Threat Assessment.",
+      "Identify Options.",
+      "Collect Information / The Observation Loop.",
+      "Act, Review, and Re-assess."
+    ],
+    "reference": "Introduce the 5 steps of the CDM ... 1. Collect Information 'The Observation Loop'",
+    "explanation": "The CDM begins with gathering as much information as possible about the situation, person, and environment before making any other decisions."
+  },
+  {
+    "question": "In the Critical Decision-Making Model (CDM), assessing a person's behavior, weapons, and the environment falls under which step?",
+    "answer": "Threat Assessment.",
+    "options": [
+      "Collect Information.",
+      "Threat Assessment.",
+      "Identify Options.",
+      "Act, Review, and Re-assess."
+    ],
+    "reference": "The critical decision-making model ... 2. Threat Assessment. The person's behavior... Weapons? ... The environment..."
+  },
+  {
+    "question": "Step 3 of the Critical Decision-Making Model (CDM) requires an officer to consider what?",
+    "answer": "Powers, Agency Policy, and the Law.",
+    "options": [
+      "The suspect's criminal history.",
+      "The time of day.",
+      "Powers, Agency Policy, and the Law.",
+      "The officer's personal feelings."
+    ],
+    "reference": "The critical decision-making model ... 3. Powers, Agency Policy, and the Law"
+  },
+  {
+    "question": "What is the fourth step of the Critical Decision-Making Model (CDM)?",
+    "answer": "Identify Options and Determine the Best Course of Action.",
+    "options": [
+      "Collect Information.",
+      "Threat Assessment.",
+      "Identify Options and Determine the Best Course of Action.",
+      "Act, Review, and Re-assess."
+    ],
+    "reference": "The critical decision-making model ... 4. Identify Options and Determine the Best Course of Action."
+  },
+  {
+    "question": "What is the final step of the Critical Decision-Making Model (CDM)?",
+    "answer": "Act, Review, and Re-assess.",
+    "options": [
+      "Collect Information.",
+      "Threat Assessment.",
+      "Identify Options and Determine the Best Course of Action.",
+      "Act, Review, and Re-assess."
+    ],
+    "reference": "The critical decision-making model ... 5. Act, Review, and Re-assess."
+  },
+  {
+    "question": "What does the 'M' in the 'MORE' PIE model for Use of Force options stand for?",
+    "answer": "Move",
+    "options": [
+      "Make",
+      "Maintain",
+      "Move",
+      "Monitor"
+    ],
+    "reference": "Use of Force Options: 'MORE' PIE. Move"
+  },
+  {
+    "question": "What does the 'O' in the 'MORE' PIE model for Use of Force options stand for?",
+    "answer": "Observe",
+    "options": [
+      "Order",
+      "Observe",
+      "Obey",
+      "Overcome"
+    ],
+    "reference": "Use of Force Options: 'MORE' PIE. ... Observe"
+  },
+  {
+    "question": "What does the 'R' in the 'MORE' PIE model for Use of Force options stand for?",
+    "answer": "React",
+    "options": [
+      "Respond",
+      "Resist",
+      "Request",
+      "React"
+    ],
+    "reference": "Use of Force Options: 'MORE' PIE. ... React"
+  },
+  {
+    "question": "What does the 'E' in the 'MORE' PIE model for Use of Force options stand for?",
+    "answer": "Excuse",
+    "options": [
+      "Evaluate",
+      "Engage",
+      "Explain",
+      "Excuse"
+    ],
+    "reference": "Use of Force Options: 'MORE' PIE. ... Excuse"
+  },
+  {
+    "question": "Which type of mental imagery involves seeing yourself as if you were watching a movie?",
+    "answer": "External Imagery.",
+    "options": [
+      "Internal Imagery.",
+      "Kinesthetic Imagery.",
+      "External Imagery.",
+      "Tactical Imagery."
+    ],
+    "reference": "External Imagery: You see yourself as if you were watching a movie."
+  },
+  {
+    "question": "Which type of mental imagery involves seeing the event out of your own eyes, as if you were there?",
+    "answer": "Internal Imagery.",
+    "options": [
+      "External Imagery.",
+      "Internal Imagery.",
+      "Kinesthetic Imagery.",
+      "Cognitive Imagery."
+    ],
+    "reference": "Internal Imagery: You see the event out of your own eyes; as if you were there"
+  },
+  {
+    "question": "Which type of mental imagery focuses on the feeling of the movement or action, such as the feel of a trigger press?",
+    "answer": "Kinesthetic Imagery.",
+    "options": [
+      "External Imagery.",
+      "Internal Imagery.",
+      "Kinesthetic Imagery.",
+      "Sensory Imagery."
+    ],
+    "reference": "Kinesthetic Imagery: You feel yourself doing the event; the feel of the trigger press"
+  },
+  {
+    "question": "When physically searching a suspect, where should the officer's eyes be focused?",
+    "answer": "On the subject to observe movement.",
+    "options": [
+      "On the officer's own hands to see what they are doing.",
+      "On the surrounding area to watch for other threats.",
+      "On the subject to observe movement.",
+      "On the specific area of clothing being searched."
+    ],
+    "reference": "Officers’ eyes should be on subject to observe movement."
+  },
+  {
+    "question": "What is the tactical advantage of holding a suspect's waistband from the rear during a search?",
+    "answer": "The suspect can be pulled backward or pushed forward, giving the officer time to step away.",
+    "options": [
+      "It allows the officer to search faster.",
+      "It prevents the suspect from speaking.",
+      "It makes it easier to find hidden items.",
+      "The suspect can be pulled backward or pushed forward, giving the officer time to step away."
+    ],
+    "reference": "Should the suspect attempt resistance, they can be pulled backward or pushed forward, giving the officer an opportunity to step away."
+  },
+  {
+    "question": "Where should a physical search of a suspect always start?",
+    "answer": "The back waistband.",
+    "options": [
+      "The front pockets.",
+      "The ankles.",
+      "The back waistband.",
+      "The neck and collar area."
+    ],
+    "reference": "Searching Procedures. Always start with the back waistband"
+  },
+  {
+    "question": "What is the proper technique for searching a suspect's clothing?",
+    "answer": "Pass over the clothing with your hands; do not pat.",
+    "options": [
+      "Quickly pat down all outer clothing.",
+      "Pass over the clothing with your hands; do not pat.",
+      "Use only the fingertips to feel for objects.",
+      "Ask the suspect to empty their pockets first."
+    ],
+    "reference": "Slowly and methodically search EACH zone. Pass over the clothing: NO PATTING"
+  }
+],
         "Portable Radio RSM": []
     },
     "week2": {
