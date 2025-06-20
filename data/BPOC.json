@@ -345,14 +345,14 @@
   },
   {
     "question": "Which of the following actions would be considered 'coercion' under the Penal Code?",
-    "answer": "A threat to commit an offense; a threat to inflict future bodily injury; a threat to expose a person to hatred or contempt; and a threat to take or withhold action as a public servant.",
-    "options": [
-      "threat to inflict bodily injury in the future on the person threatened or another",
-      "threat to take or withhold action as a public servant",
-      "threat to commit an offense",
-      "threat to expose a person to hatred or contempt"
-    ],
-    "reference": "Texas Penal Code, Sec. 1.07. DEFINITIONS. (a)(9) 'Coercion' means a threat, however communicated..."
+  "answer": "All of the above",
+  "options": [
+    "A threat to commit an offense",
+    "A threat to inflict bodily injury in the future",
+    "A threat to expose a person to hatred, contempt, or ridicule",
+    "All of the above"
+  ],
+  "reference": "Texas Penal Code, Sec. 1.07. DEFINITIONS. (a)(9) 'Coercion' means a threat, however communicated..."
   },
   {
     "question": "Which of the following are considered an 'Element of an Offense' in the Penal Code?",
@@ -379,16 +379,16 @@
     "reference": "Texas Penal Code, Sec. 1.07. DEFINITIONS. (a)(40) 'Public place' means any place to which the public or a substantial group of the public has access and includes, but is not limited to, streets, highways, and the common areas of schools, hospitals, apartment houses, office buildings, transport facilities, and shops."
   },
   {
-    "question": "Which of the following individuals is considered a 'Public Servant'?",
-    "answer": "An officer of government, a juror, a candidate for public office, a magistrate, an arbitrator, and an attorney performing a governmental function.",
-    "options": [
-      "an officer, employee, or agent of government",
-      "a candidate for nomination or election to public office",
-      "a juror or grand juror",
-      "an attorney at law or notary public when participating in the performance of a governmental function"
-    ],
-    "reference": "Texas Penal Code, Sec. 1.07. DEFINITIONS. (a)(41) 'Public servant' means a person elected, selected, appointed, employed, or otherwise designated as one of the following, even if he has not yet qualified for office or assumed his duties: (A) an officer, employee, or agent of government..."
-  },
+  "question": "Which of the following individuals is considered a 'Public Servant' under the Texas Penal Code?",
+  "answer": "All of the above",
+  "options": [
+    "An officer, employee, or agent of government",
+    "A candidate for nomination or election to public office",
+    "A juror or grand juror",
+    "All of the above"
+  ],
+  "reference": "Texas Penal Code, Sec. 1.07. DEFINITIONS. (a)(41) 'Public servant' means a person elected, selected, appointed, employed, or otherwise designated as one of the following, even if he has not yet qualified for office or assumed his duties: (A) an officer, employee, or agent of government..."
+},
   {
     "question": "Which of the following statements about criminal responsibility is true?",
     "answer": "A person is responsible for their own conduct, for aiding an innocent person to commit an offense, for soliciting or aiding another to commit an offense, and for felonies committed by a co-conspirator.",
