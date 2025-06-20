@@ -390,16 +390,16 @@
   "reference": "Texas Penal Code, Sec. 1.07. DEFINITIONS. (a)(41) 'Public servant' means a person elected, selected, appointed, employed, or otherwise designated as one of the following, even if he has not yet qualified for office or assumed his duties: (A) an officer, employee, or agent of government..."
 },
   {
-    "question": "Which of the following statements about criminal responsibility is true?",
-    "answer": "A person is responsible for their own conduct, for aiding an innocent person to commit an offense, for soliciting or aiding another to commit an offense, and for felonies committed by a co-conspirator.",
-    "options": [
-      "A person is criminally responsible if the offense is committed by his own conduct, by the conduct of another for which he is criminally responsible.",
-      "A person is criminally responsible if acting with the kind of culpability required for the offense, he causes or aids an innocent or nonresponsible person to engage in conduct prohibited by the definition of the offense.",
-      "A person is criminally responsible if acting with intent to promote or assist the commission of the offense, he solicits, encourages, directs, aids, or attempts to aid the other person to commit the offense.",
-      "A person is criminally responsible if in the attempt to carry out a conspiracy to commit a felony, another felony is committed by a conspirator, all conspirators are guilty of the felony committed..."
-    ],
-    "reference": "Texas Penal Code, Sec. 7.01 and Sec. 7.02."
-  },
+  "question": "According to the Texas Penal Code, which of the following statements about criminal responsibility is true?",
+  "answer": "All of the above",
+  "options": [
+    "A person is criminally responsible for an offense committed by their own conduct.",
+    "A person is criminally responsible if they cause or aid an innocent person to commit an offense.",
+    "A person is criminally responsible if they intentionally solicit, encourage, or aid another person to commit an offense.",
+    "All of the above"
+  ],
+  "reference": "Texas Penal Code, Sec. 7.01(a) Parties to Offenses; Sec. 7.02(a)(1) & (2) Criminal Responsibility for Conduct of Another."
+},
   {
     "question": "What is the term for a belief that would be held by an ordinary and prudent man in the same circumstances as the actor?",
     "answer": "Reasonable belief",
