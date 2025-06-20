@@ -1241,578 +1241,711 @@
         ],
         "Civilian Interactions": [
   {
-    "question": "What is the primary goal of the Community Safety Education Act (Senate Bill 30)?",
-    "answer": "To provide information to drivers, the public, and law enforcement on the expectations each should have during a traffic stop.",
+    "question": "The Community Safety Education Act (SB 30) was passed during which session of the Texas Legislature?",
+    "answer": "85th Regular Session",
     "options": [
-      "To increase the number of traffic citations issued statewide.",
-      "To require new safety features in all Texas vehicles.",
-      "To provide information to drivers, the public, and law enforcement on the expectations each should have during a traffic stop.",
-      "To establish a new state-level traffic enforcement agency."
+      "84th Regular Session",
+      "85th Regular Session",
+      "86th Regular Session",
+      "87th Special Session"
     ],
-    "reference": "Goal: to provide information to drivers, the public, students, and training for members of law enforcement, on the expectations that each should have during a contact between officers and motorists."
+    "reference": "The text states that Senate Bill 30 was 'Passed by the 85th Regular Session of the Texas Legislature in 2017.'"
   },
   {
-    "question": "The curriculum required by the Community Safety Education Act includes instruction on the role, duties, and responsibilities of officers, which is defined by what program?",
-    "answer": "7 Step Violator Contact",
+    "question": "In addition to drivers and peace officers, the instructional materials from the Community Safety Education Act are also provided to whom?",
+    "answer": "High school students and driver training instructors.",
     "options": [
-      "The SARA Model",
-      "The PACE Model",
-      "The LEAPS Model",
-      "7 Step Violator Contact"
+      "College students and university professors.",
+      "Attorneys and judges.",
+      "High school students and driver training instructors.",
+      "City council members and public officials."
     ],
-    "reference": "1) the role, duties, and responsibilities of officers (7 Step Violator Contact);"
+    "reference": "According to the document, the same information would be 'part of instructional materials taught to high school students and provided to driver training and driving safety course instructors.'"
   },
   {
-    "question": "As part of the Community Safety Education Act curriculum, what must be taught regarding the behavior of both civilians and peace officers?",
-    "answer": "Proper behavior for both parties.",
+    "question": "The civilian interaction training must include information about the proper behavior for whom during an interaction?",
+    "answer": "Both civilians and peace officers.",
     "options": [
-      "That civilians must always obey, even unlawful orders.",
-      "The officer's right to use force in any situation.",
-      "Proper behavior for both parties.",
-      "That civilians are not permitted to ask officers questions."
+      "Only for peace officers.",
+      "Only for civilians.",
+      "Both civilians and peace officers.",
+      "Only for individuals under 18."
     ],
-    "reference": "3) proper behavior for civilians and peace officent [sic];"
+    "reference": "The training program must include information regarding '(3) proper behavior for civilians and peace officers during interactions'."
   },
   {
-    "question": "The Community Safety Education Act requires instruction on laws regarding police questioning and detention, including which specific offenses?",
-    "answer": "Fail to ID, Interference, & Evading",
+    "question": "Before finalizing the civilian interaction training program, what are the commission and the board required to do?",
+    "answer": "Provide a reasonable period for public comment.",
     "options": [
-      "Speeding, Reckless Driving, & DWI",
-      "Assault, Robbery, & Burglary",
-      "Fail to ID, Interference, & Evading",
-      "Theft, Forgery, & Fraud"
+      "Receive final approval from the Governor.",
+      "Publish the full program in a statewide newspaper.",
+      "Ensure all officers have completed a preliminary version.",
+      "Provide a reasonable period for public comment."
     ],
-    "reference": "4) laws regarding police questioning & detention, Including Fail to ID, Interference, & Evading and"
+    "reference": "The text specifies that 'Before finalizing a training program under this section, the commission and the board shall provide a reasonable period for public comment.'"
   },
   {
-    "question": "Which article of the Code of Criminal Procedure requires law enforcement agencies to provide public education relating to the complaint process?",
-    "answer": "CCP 2.132",
+    "question": "According to the training material, what is a primary objective of the first step, 'Greeting and identification of the police agency'?",
+    "answer": "To employ business courtesy and make the subject feel at ease.",
     "options": [
-      "CCP 1.03",
-      "CCP 14.01",
-      "CCP 38.02",
-      "CCP 2.132"
+      "To immediately assert authority and control.",
+      "To get a confession from the violator.",
+      "To employ business courtesy and make the subject feel at ease.",
+      "To find grounds for a vehicle search."
     ],
-    "reference": "5) How/where to file a complaint/compliment for an officer: CCP 2.132 requires all agencies to provide public education relating to the complaint process"
+    "reference": "Step One states the objectives are to 'employ business courtesy, to help make the subject feel at ease, and to establish a common ground free of unnatural actions, superiority, or deference.'"
   },
   {
-    "question": "In the PACE communication model, what does the 'P' stand for?",
-    "answer": "Problem",
+    "question": "In Step Two, 'Statement of violation committed,' what is the recommended practice for an officer when addressing the driver?",
+    "answer": "To inform the driver of the violation using a statement rather than a question.",
     "options": [
-      "Person",
-      "Polite",
-      "Problem",
-      "Procedure"
+      "To ask the driver, 'Do you know why I pulled you over?'",
+      "To inform the driver of the violation using a statement rather than a question.",
+      "To immediately ask for license and registration before stating the violation.",
+      "To state the fine amount for the violation upfront."
     ],
-    "reference": "PACE & LEAPS"
+    "reference": "Step Two explains that, with the exception of asking about reasons for speeding, 'one should refrain from asking questions concerning the subject’s knowledge of the violation... Remarks made by the officer should be in the form of a statement rather than a question.'"
   },
   {
-    "question": "In the PACE communication model, what does the 'A' stand for?",
-    "answer": "Audience",
+    "question": "During Step Three, 'Identification of driver,' what should an officer do if the violator's license is inside a purse or billfold?",
+    "answer": "Have the violator remove the license themselves.",
     "options": [
-      "Action",
-      "Appeal",
-      "Audience",
-      "Assess"
+      "Take the entire purse or billfold to the patrol car for safety.",
+      "Have the violator remove the license themselves.",
+      "Ask the violator to hold up the license so the officer can read it from a distance.",
+      "Note the refusal and issue a citation for failure to identify."
     ],
-    "reference": "PACE & LEAPS"
+    "reference": "Step Three advises to 'have them remove the license themselves so that no accusations can be made about loss of money or important papers.'"
   },
   {
-    "question": "In the PACE communication model, what does the 'C' stand for?",
-    "answer": "Constraints",
+    "question": "In Step Four, 'Statement of action to be taken,' why should the patrol officer practice using the word 'you' instead of 'I'?",
+    "answer": "To keep the focus on the violator and the violation, not the officer's action.",
     "options": [
-      "Command",
-      "Control",
-      "Constraints",
-      "Compliance"
+      "To sound less formal and more friendly.",
+      "To avoid legal liability for the action taken.",
+      "To keep the focus on the violator and the violation, not the officer's action.",
+      "Because using 'I' is against department policy in all reports."
     ],
-    "reference": "PACE & LEAPS"
+    "reference": "Step Four explains that using 'I' shifts the blame from the offense to the officer's action. When the 'you' technique is used, 'the action shifts from the violation committed to the action to be taken by the officer... much unpleasantness is avoided.'"
   },
   {
-    "question": "What is the final element, represented by 'E', in the PACE communication model?",
-    "answer": "Ethical Presence",
+    "question": "What is a critical component of Step Seven, 'Leave'?",
+    "answer": "Notifying the driver that they are free to leave.",
     "options": [
-      "Empathy",
-      "Evaluation",
-      "Enforcement",
-      "Ethical Presence"
+      "Waiting for the driver to leave the scene first.",
+      "Notifying the driver that they are free to leave.",
+      "Asking the driver if they have any questions before they depart.",
+      "Giving the violator a final warning about future conduct."
     ],
-    "reference": "PACE & LEAPS"
+    "reference": "Step Seven states, 'This is an appropriate time to notify the driver that they are free to leave. When the violator contact has been broken, immediately return to the patrol car.'"
   },
   {
-    "question": "In the LEAPS communication model, what does the 'L' stand for?",
-    "answer": "Listen",
+    "question": "Why has the Seven Step Violator Contact method become more important for officers to know, despite being an older method?",
+    "answer": "Because it is now being taught to citizens, which increases their expectation that officers will use it.",
     "options": [
-      "Lead",
-      "Look",
-      "Linger",
-      "Listen"
+      "Because it is the only method legally allowed in Texas.",
+      "Because newer methods have been found to be ineffective.",
+      "Because it is now being taught to citizens, which increases their expectation that officers will use it.",
+      "Because it is required for all federal grant funding."
     ],
-    "reference": "LEAPS, which stands for listen, empathize, ask, paraphrase, and summarize."
+    "reference": "The text states this procedure 'will be taught to citizens for the first time through training in high schools, driver’s education courses and driver safety courses... This will increase citizen expectations that officers will use the procedure.'"
   },
   {
-    "question": "In the LEAPS communication model, what does the 'E' stand for?",
-    "answer": "Empathize",
+    "question": "According to the training material, what is a primary objective of the first step, 'Greeting and identification of the police agency'?",
+    "answer": "To employ business courtesy and make the subject feel at ease.",
     "options": [
-      "Evaluate",
-      "Engage",
-      "Examine",
-      "Empathize"
+      "To immediately assert authority and control.",
+      "To get a confession from the violator.",
+      "To employ business courtesy and make the subject feel at ease.",
+      "To find grounds for a vehicle search."
     ],
-    "reference": "LEAPS, which stands for listen, empathize, ask, paraphrase, and summarize."
+    "reference": "Step One states the objectives are to 'employ business courtesy, to help make the subject feel at ease, and to establish a common ground free of unnatural actions, superiority, or deference.'"
   },
   {
-    "question": "In the LEAPS communication model, what does the 'A' stand for?",
-    "answer": "Ask",
+    "question": "In Step Two, 'Statement of violation committed,' what is the recommended practice for an officer when addressing the driver?",
+    "answer": "To inform the driver of the violation using a statement rather than a question.",
     "options": [
-      "Assess",
-      "Act",
-      "Advise",
-      "Ask"
+      "To ask the driver, 'Do you know why I pulled you over?'",
+      "To inform the driver of the violation using a statement rather than a question.",
+      "To immediately ask for license and registration before stating the violation.",
+      "To state the fine amount for the violation upfront."
     ],
-    "reference": "LEAPS, which stands for listen, empathize, ask, paraphrase, and summarize."
+    "reference": "Step Two explains that, with the exception of asking about reasons for speeding, 'one should refrain from asking questions concerning the subject’s knowledge of the violation... Remarks made by the officer should be in the form of a statement rather than a question.'"
   },
   {
-    "question": "In the LEAPS communication model, what does the 'P' stand for?",
-    "answer": "Paraphrase",
+    "question": "During Step Three, 'Identification of driver,' what should an officer do if the violator's license is inside a purse or billfold?",
+    "answer": "Have the violator remove the license themselves.",
     "options": [
-      "Proceed",
-      "Problem",
-      "Paraphrase",
-      "Pause"
+      "Take the entire purse or billfold to the patrol car for safety.",
+      "Have the violator remove the license themselves.",
+      "Ask the violator to hold up the license so the officer can read it from a distance.",
+      "Note the refusal and issue a citation for failure to identify."
     ],
-    "reference": "LEAPS, which stands for listen, empathize, ask, paraphrase, and summarize."
+    "reference": "Step Three advises to 'have them remove the license themselves so that no accusations can be made about loss of money or important papers.'"
   },
   {
-    "question": "What is the final step, represented by 'S', in the LEAPS communication model?",
-    "answer": "Summarize",
+    "question": "In Step Four, 'Statement of action to be taken,' why should the patrol officer practice using the word 'you' instead of 'I'?",
+    "answer": "To keep the focus on the violator and the violation, not the officer's action.",
     "options": [
-      "Secure",
-      "Submit",
-      "Speak",
-      "Summarize"
+      "To sound less formal and more friendly.",
+      "To avoid legal liability for the action taken.",
+      "To keep the focus on the violator and the violation, not the officer's action.",
+      "Because using 'I' is against department policy in all reports."
     ],
-    "reference": "LEAPS, which stands for listen, empathize, ask, paraphrase, and summarize."
+    "reference": "Step Four explains that using 'I' shifts the blame from the offense to the officer's action. When the 'you' technique is used, 'the action shifts from the violation committed to the action to be taken by the officer... much unpleasantness is avoided.'"
   },
   {
-    "question": "What is the first step in the 5-step process for handling voluntary non-compliance?",
-    "answer": "Ask (Ethical Appeal)",
+    "question": "What is a critical component of Step Seven, 'Leave'?",
+    "answer": "Notifying the driver that they are free to leave.",
     "options": [
-      "Tell (Reasonable Appeal)",
-      "Make (Personal Appeal)",
-      "Ask (Ethical Appeal)",
-      "Act (Determine appropriate action)"
+      "Waiting for the driver to leave the scene first.",
+      "Notifying the driver that they are free to leave.",
+      "Asking the driver if they have any questions before they depart.",
+      "Giving the violator a final warning about future conduct."
     ],
-    "reference": "5 Steps for VOLUNTARY Non-compliance: 1) Ask (Ethical Appeal)"
+    "reference": "Step Seven states, 'This is an appropriate time to notify the driver that they are free to leave. When the violator contact has been broken, immediately return to the patrol car.'"
   },
   {
-    "question": "What is the second step in the 5-step process for handling voluntary non-compliance?",
-    "answer": "Set Context (Reasonable Appeal)",
+    "question": "Why has the Seven Step Violator Contact method become more important for officers to know, despite being an older method?",
+    "answer": "Because it is now being taught to citizens, which increases their expectation that officers will use it.",
     "options": [
-      "Present Options (Personal Appeal)",
-      "Ask (Ethical Appeal)",
-      "Set Context (Reasonable Appeal)",
-      "Confirm (Practical Appeal)"
+      "Because it is the only method legally allowed in Texas.",
+      "Because newer methods have been found to be ineffective.",
+      "Because it is now being taught to citizens, which increases their expectation that officers will use it.",
+      "Because it is required for all federal grant funding."
     ],
-    "reference": "5 Steps for VOLUNTARY Non-compliance: ... 2) Set Context (Reasonable Appeal)"
+    "reference": "The text states this procedure 'will be taught to citizens for the first time through training in high schools, driver’s education courses and driver safety courses... This will increase citizen expectations that officers will use the procedure.'"
   },
   {
-    "question": "What is the third step in the 5-step process for handling voluntary non-compliance?",
-    "answer": "Present Options (Personal Appeal)",
+    "question": "What are the first three steps of the Seven Step Violator Contact method in the correct order?",
+    "answer": "Greeting and Identification; Statement of Violation; Identification of Driver.",
     "options": [
-      "Confirm (Practical Appeal)",
-      "Set Context (Reasonable Appeal)",
-      "Present Options (Personal Appeal)",
-      "Act (Determine appropriate action)"
+      "Statement of Violation; Greeting and Identification; Identification of Driver.",
+      "Greeting and Identification; Identification of Driver; Statement of Violation.",
+      "Greeting and Identification; Statement of Violation; Identification of Driver.",
+      "Greeting and Identification; Statement of Action; Take Action."
     ],
-    "reference": "5 Steps for VOLUNTARY Non-compliance: ... 3) Present Options (Personal Appeal)"
+    "reference": "The correct sequence is Step One: Greeting and identification of the police agency; Step Two: Statement of violation committed; and Step Three: Identification of driver and check of conditions."
   },
   {
-    "question": "What is the fourth step in the 5-step process for handling voluntary non-compliance?",
-    "answer": "Confirm (Practical Appeal)",
+    "question": "Which of the the vehicle stop methods listed explicitly includes separate steps for 'Justification' and 'Insurance'?",
+    "answer": "The 8-Step Tactical Vehicle Stop",
     "options": [
-      "Act (Determine appropriate action)",
-      "Confirm (Practical Appeal)",
-      "Set Context (Reasonable Appeal)",
-      "Ask (Ethical Appeal)"
-    ],
-    "reference": "5 Steps for VOLUNTARY Non-compliance: ... 4) Confirm (Practical Appeal)"
-  },
-  {
-    "question": "What is the final step in the 5-step process for handling voluntary non-compliance, after confirming the subject understands?",
-    "answer": "Act (Determine appropriate action)",
-    "options": [
-      "Ask again",
-      "Wait for a supervisor",
-      "Act (Determine appropriate action)",
-      "Release the individual"
-    ],
-    "reference": "5 Steps for VOLUNTARY Non-compliance: ... 5) Act (Determine appropriate action)"
-  },
-  {
-    "question": "The 'Ask, Tell, Make' model is used for what purpose?",
-    "answer": "Giving commands and instructions to gain compliance.",
-    "options": [
-      "Conducting an investigation.",
-      "Interviewing a witness.",
-      "Giving commands and instructions to gain compliance.",
-      "Writing a report."
-    ],
-    "reference": "Commands/Instructions. Ask Tell, Make"
-  },
-  {
-    "question": "What are the two primary mindset modes for policing described in the presentation?",
-    "answer": "'Verbal Persuasion' and 'Recognize-React'",
-    "options": [
-      "'Command' and 'Control'",
-      "'Observe' and 'Report'",
-      "'Verbal Persuasion' and 'Recognize-React'",
-      "'Enforce' and 'Investigate'"
-    ],
-    "reference": "The 2 Mindset Modes for Policing: 'Verbal Persuasion' 'Recognize-React'"
-  },
-  {
-    "question": "During a routine interaction where an officer is building rapport and explaining a situation, which mindset mode should they primarily be in?",
-    "answer": "Verbal Persuasion",
-    "options": [
-      "Recognize-React",
-      "Security Risk",
-      "Verbal Persuasion",
-      "Force Options"
-    ],
-    "reference": "What Mode Should They Be In and Why? Verbal Persuasion... 7 Step Personal Contact, PACE & LEAPS, Deflection and Redirection of Verbal Abuse"
-  },
-  {
-    "question": "Which of the following would cause an officer to switch from 'Verbal Persuasion' mode to 'Recognize-React' mode?",
-    "answer": "A security risk becomes apparent, such as an attack or attempt to flee.",
-    "options": [
-      "The citizen asks a question.",
-      "The citizen begins to argue verbally.",
-      "The officer needs to write a citation.",
-      "A security risk becomes apparent, such as an attack or attempt to flee."
-    ],
-    "reference": "What Mode Should They Be In and Why? ... Recognize & React... Security Risk, Attack, Flee, Excessive Repetition"
-  },
-  {
-    "question": "What is the key difference between 'Concealment' and 'Cover' for an officer?",
-    "answer": "Cover provides protection from incoming rounds, while concealment only hides the officer from view.",
-    "options": [
-      "There is no difference.",
-      "Cover is only for vehicles, while concealment is for buildings.",
-      "Cover provides protection from incoming rounds, while concealment only hides the officer from view.",
-      "Concealment is a tactic, while cover is a physical object."
-    ],
-    "reference": "Distance, Concealment v Cover"
-  },
-  {
-    "question": "When dealing with a verbally abusive person, which technique is recommended?",
-    "answer": "Deflection and Redirection",
-    "options": [
-      "Escalating verbal commands.",
-      "Immediately resorting to force.",
-      "Ignoring the person completely.",
-      "Deflection and Redirection"
-    ],
-    "reference": "Verbal Persuasion... Deflection and Redirection of Verbal Abuse"
-  },
-  {
-    "question": "What is the first step in the 8-step Tactical Vehicle Stop method?",
-    "answer": "Greeting",
-    "options": [
-      "Identify yourself and the Department",
-      "Reason",
-      "Greeting",
-      "Driver’s license"
-    ],
-    "reference": "8-step Tactical Vehicle Stop v 1. Greeting"
-  },
-  {
-    "question": "In the 8-step Tactical Vehicle Stop, what action immediately follows identifying yourself and the Department?",
-    "answer": "Stating the Reason for the stop.",
-    "options": [
-      "Asking for the driver's license.",
-      "Stating the Justification.",
-      "Making a Decision.",
-      "Stating the Reason for the stop."
-    ],
-    "reference": "8-step Tactical Vehicle Stop v ... 2. Identify yourself and the Department 3. Reason"
-  },
-  {
-    "question": "What is the fourth step in the 8-step Tactical Vehicle Stop method?",
-    "answer": "Justification (May outweigh the violation)",
-    "options": [
-      "Reason",
-      "Decision",
-      "Insurance",
-      "Justification (May outweigh the violation)"
-    ],
-    "reference": "8-step Tactical Vehicle Stop v ... 4. Justification (May outweigh the violation)"
-  },
-  {
-    "question": "According to the 8-step Tactical Vehicle Stop, what is the final step of the interaction?",
-    "answer": "Close",
-    "options": [
-      "Decision",
-      "Leave",
-      "Close",
-      "Final instructions"
-    ],
-    "reference": "8-step Tactical Vehicle Stop v ... 8. Close"
-  },
-  {
-    "question": "What is the first step in the 7-Step Violator Contact Method?",
-    "answer": "Greeting and identification of the police agency",
-    "options": [
-      "Statement of violation committed",
-      "Greeting and identification of the police agency",
-      "Identification of driver",
-      "Statement of action to be taken"
-    ],
-    "reference": "7 Step Violator Contact Method: • Step One: Greeting and identification of the police agency"
-  },
-  {
-    "question": "In the 7-Step Violator Contact Method, what is the third step?",
-    "answer": "Identification of driver and check of conditions of violator & vehicle",
-    "options": [
-      "Statement of violation committed",
-      "Statement of action to be taken",
-      "Take that action",
-      "Identification of driver and check of conditions of violator & vehicle"
-    ],
-    "reference": "7 Step Violator Contact Method: ... • Step Three: Identification of driver and check of conditions of violator & vehicle"
-  },
-  {
-    "question": "According to the 7-Step Violator Contact Method, what should an officer do immediately after stating the action to be taken?",
-    "answer": "Take that action",
-    "options": [
-      "Explain what the violator must do.",
-      "Take that action",
-      "Ask for justification from the driver.",
-      "Leave the scene."
-    ],
-    "reference": "7 Step Violator Contact Method: ... • Step Four: Statement of action to be taken • Step Five: Take that action"
-  },
-  {
-    "question": "What is the final step in the 7-Step Violator Contact Method?",
-    "answer": "Leave",
-    "options": [
-      "Close",
-      "Take action",
-      "Explain what the violator must do",
-      "Leave"
-    ],
-    "reference": "7 Step Violator Contact Method: ... • Step Seven: Leave"
-  },
-  {
-    "question": "Which vehicle stop method explicitly includes giving the person a 'chance to justify/explain/respond' as its third step?",
-    "answer": "7-Step Professional Contact",
-    "options": [
-      "8-step Tactical Vehicle Stop",
-      "7-Step Violator Contact Method",
-      "7-Step Professional Contact",
-      "None of the methods include this step"
-    ],
-    "reference": "7 Step Professional Contact 1. Introduction 2. Contact reason & 3. Their chance to justify/explain/respond"
-  },
-  {
-    "question": "In the 7-Step Professional Contact method, what is the second step?",
-    "answer": "Contact reason",
-    "options": [
-      "Introduction",
-      "ID info",
-      "Contact reason",
-      "Evaluate & make a decision"
-    ],
-    "reference": "7 Step Professional Contact ... 2. Contact reason & ..."
-  },
-  {
-    "question": "According to the comparison chart, what step in the 7-Step Violator Contact Method corresponds to the 'Evaluate & decision' step in the 7-Step Professional Contact method?",
-    "answer": "Statement of action & Take the action",
-    "options": [
-      "Greeting & ID",
-      "ID of driver & conditions check",
-      "Statement of action & Take the action",
-      "Explain it to them & Leave"
-    ],
-    "reference": "7 Step Comparisons: ... 6. Evaluate & decision / 4. Statement of action 5. Take the action"
-  },
-  {
-    "question": "Based on the comparison chart, which method is considered the 'Enforcement' model?",
-    "answer": "The 7-Step Violator Contact Method",
-    "options": [
-      "The 8-step Tactical Vehicle Stop",
       "The 7-Step Violator Contact Method",
+      "The 8-Step Tactical Vehicle Stop",
       "The 7-Step Professional Contact",
-      "All three are considered enforcement models."
+      "All of the methods require these steps."
     ],
-    "reference": "7 Step Comparisons: Professional vs Enforcement"
+    "reference": "The list for the '8-step Tactical Vehicle Stop' is the only one that contains '4. Justification (May outweigh the violation)' and '6. Insurance' as distinct, listed steps."
   },
   {
-    "question": "An officer is dispatched to a 'welfare check'. Upon arrival, she finds an elderly man who seems confused and has difficulty communicating. He appears physically unharmed but cannot state his name or address. What is the officer's best first step based on civilian interaction principles?",
-    "answer": "Use a calm and patient tone, speak simply, and use non-threatening body language to try and build rapport before asking for identification.",
+    "question": "In the '7 Step Comparisons' chart, the 'Evaluate & make a decision' step of the Professional model aligns with which steps in the Enforcement model?",
+    "answer": "Statement of action to be taken and Take that action.",
     "options": [
-      "Immediately detain the man in handcuffs for his own safety.",
-      "Assume he is intoxicated and conduct field sobriety tests.",
-      "Use a calm and patient tone, speak simply, and use non-threatening body language to try and build rapport before asking for identification.",
-      "Leave the scene as no crime has been committed."
+      "ID of driver & conditions check.",
+      "Statement of action to be taken and Take that action.",
+      "Explain it to them and Leave.",
+      "Statement of Violation."
     ],
-    "reference": "Crisis intervention programs have existed for a long time, with the primary intention of separating people with mental illness from the general criminal population. One of the hallmarks of crisis intervention training programs is the emphasis on avoiding confrontation: officers are taught to defuse situations..."
+    "reference": "The comparison chart shows that step 6 ('Evaluate & decision') in the Professional model corresponds with steps 4 ('Statement of action') and 5 ('Take the action') of the Enforcement model."
   },
   {
-    "question": "An officer stops a vehicle for a minor traffic offense. The driver, a recent immigrant, appears extremely nervous and avoids eye contact. Based on the TCOLE guide's cultural awareness section, what should the officer consider?",
-    "answer": "That avoiding eye contact can be a sign of respect in some cultures, not necessarily guilt.",
+    "question": "Which step is common to all three described methods (8-Step Tactical, 7-Step Violator, and 7-Step Professional)?",
+    "answer": "A final step to close the contact or leave.",
     "options": [
-      "That avoiding eye contact is a universal sign of deception and warrants further investigation.",
-      "That the driver is likely trying to hide something and should be ordered out of the car.",
-      "That avoiding eye contact can be a sign of respect in some cultures, not necessarily guilt.",
-      "That the driver's nervousness automatically provides reasonable suspicion for a vehicle search."
+      "A step for the driver to justify their actions.",
+      "A final step to close the contact or leave.",
+      "A step to check the vehicle's condition.",
+      "A step to request proof of insurance."
     ],
-    "reference": "For instance, Hispanic Americans are much more likely to avoid eye contact, but this is done out of respect rather than feelings of shame or guilt."
+    "reference": "All three methods end with a similar concluding step: Step 8 'Close' (Tactical), Step 7 'Leave' (Violator Contact), and Step 7 'Close the contact' (Professional)."
   },
   {
-    "question": "During a consensual encounter on the street, a person who is not being detained tells the officer, 'I do not wish to speak with you' and begins to walk away. What should the officer do?",
-    "answer": "Allow the person to leave, as the encounter was consensual and they are free to go.",
+    "question": "What is the primary difference between the opening step of the '7 Step Professional Contact' and the '7 Step Violator Contact' method?",
+    "answer": "The Professional contact begins with 'Introduction,' while the Violator contact begins with 'Greeting & ID.'",
     "options": [
-      "Order the person to stop and demand their identification.",
-      "Arrest the person for Failure to Identify.",
-      "Follow the person and continue asking questions.",
-      "Allow the person to leave, as the encounter was consensual and they are free to go."
+      "The Professional contact begins with 'Introduction,' while the Violator contact begins with 'Greeting & ID.'",
+      "The Professional contact requires stating the violation first, while the Violator contact requires a greeting first.",
+      "There is no difference in the opening step.",
+      "The Violator contact omits the greeting entirely."
     ],
-    "reference": "A suspicious peace officer may investigate further, and may approach people to ask questions. However, these people may not be detained, may not be forced to identify themselves, and may refuse to answer questions."
+    "reference": "The comparison chart clearly shows the difference in the first step: 1. Introduction (Professional) vs. 1. Greeting & ID (Enforcement/Violator)."
   },
   {
-    "question": "An officer responds to a landlord-tenant dispute. The landlord has locked the tenant out for non-payment of rent. The tenant is demanding entry. What is the officer's primary role in this civil dispute?",
-    "answer": "To keep the peace, prevent any criminal activity from occurring, and advise the parties to seek a civil remedy in court.",
+    "question": "What is the primary reason officers are taught to use 'you' phrases (e.g., 'You were stopped for...') instead of 'I' phrases (e.g., 'I caught you...')?",
+    "answer": "To keep the focus on the violator's actions rather than the officer's enforcement.",
     "options": [
-      "Force the landlord to unlock the door for the tenant.",
-      "Arrest the tenant for trespassing.",
-      "To keep the peace, prevent any criminal activity from occurring, and advise the parties to seek a civil remedy in court.",
-      "Review the lease agreement and decide who is legally correct."
+      "To sound less aggressive and more personal.",
+      "To meet a legal requirement for all traffic stops.",
+      "To keep the focus on the violator's actions rather than the officer's enforcement.",
+      "To make the interaction quicker and more efficient."
     ],
-    "reference": "Sec. 511.3 [Denton GO] GENERAL CONSIDERATIONS. When responding to a civil dispute, members should: (a) Remain impartial... (c) Advise the parties that the police department cannot resolve a civil dispute and that they should seek a civil remedy in court."
+    "reference": "The text states: '“I” phrases can make it seem that your enforcement is personal... shifts the focus from their illegal action to your enforcement of it, allowing an opportunity to shift blame from their offense onto your response.'"
   },
   {
-    "question": "An officer is speaking with an individual who is becoming verbally aggressive and shouting insults. Using the 'Deflection and Redirection' technique, what is an appropriate response?",
-    "answer": "'I understand you're frustrated, but I am here to discuss the situation with the initial call. Let's focus on that.'",
+    "question": "What is the recommended procedure for an officer when asking the driver for their proof of insurance?",
+    "answer": "First ask where the insurance is kept before asking the driver to retrieve it.",
     "options": [
-      "'If you don't stop yelling, you will be arrested.'",
-      "'You don't have the right to speak to me that way.'",
-      "'I understand you're frustrated, but I am here to discuss the situation with the initial call. Let's focus on that.'",
-      "Shout back at the person to show authority."
+      "Demand the driver retrieve it immediately.",
+      "First ask where the insurance is kept before asking the driver to retrieve it.",
+      "Instruct the driver to place the insurance on the roof of their car.",
+      "Inform the driver that failure to produce insurance is an arrestable offense."
     ],
-    "reference": "Verbal Persuasion... Deflection and Redirection of Verbal Abuse [from 37-Civilian Interactions 2025.pdf]"
+    "reference": "The guide suggests: 'You might want to find out where they keep it before you just ask for it, and they start reaching around the car.' This is a safety measure to be aware of the driver's movements."
   },
   {
-    "question": "During a traffic stop, a driver who received a citation is angry and asks, 'How do I complain about your attitude?' According to SB 30, what is the officer's duty?",
-    "answer": "To provide information on how and where to file a complaint against an officer.",
+    "question": "If an officer receives a License to Carry a Handgun from a driver, what is the immediate next step?",
+    "answer": "Ask where the gun is and remind the driver not to reach into that area.",
     "options": [
-      "To tell the driver they cannot file a complaint.",
-      "To ignore the question and walk away.",
-      "To provide information on how and where to file a complaint against an officer.",
-      "To give the driver their supervisor's personal phone number."
+      "Immediately ask the driver to step out of the vehicle.",
+      "Disarm the driver for the duration of the stop.",
+      "Ask where the gun is and remind the driver not to reach into that area.",
+      "Ignore the license and proceed with the traffic stop as normal."
     ],
-    "reference": "5) How/where to file a complaint/compliment for an officer: CCP 2.132 requires all agencies to provide public education relating to the complaint process [from 37-Civilian Interactions 2025.pdf]"
+    "reference": "The instructions are clear: 'If they give you a GUN LICENSE; ASK WHERE THE GUN IS & Remind them to not reach into that area during the stop'."
   },
   {
-    "question": "An officer asks a driver to step out of the vehicle. The driver says, 'No.' The officer then says, 'Sir, for my safety, I need you to step out of the vehicle so we can talk about this citation.' This is an example of which step in the 5-step process for non-compliance?",
-    "answer": "Set Context (Reasonable Appeal)",
+    "question": "Where should an officer conduct administrative tasks like ticket preparation and computer wanted checks?",
+    "answer": "Away from the violator's vehicle, while still maintaining visual contact.",
     "options": [
-      "Ask (Ethical Appeal)",
-      "Set Context (Reasonable Appeal)",
-      "Present Options (Personal Appeal)",
-      "Confirm (Practical Appeal)"
+      "Inside their patrol car with their back to the violator's vehicle.",
+      "At the driver's window to speed up the process.",
+      "Away from the violator's vehicle, while still maintaining visual contact.",
+      "Only after a cover unit has arrived on scene."
     ],
-    "reference": "5 Steps for VOLUNTARY Non-compliance: 1) Ask (Ethical Appeal) 2) Set Context (Reasonable Appeal) 3) Present Options (Personal Appeal) 4) Confirm (Practical Appeal) 5) Act (Determine appropriate action)"
+    "reference": "The text emphasizes this point multiple times: 'Ticket/warning prep/computer checks are done AWAY FROM the VIOLATOR... DON’T RUN CHECKS AT THE VHEICLE... Keep visual on the vehicle and occupants'."
   },
   {
-    "question": "After asking a subject to comply and explaining why, the officer says, 'You can either hand me the item, or I will have to take it from you, which could lead to an additional charge. What would you prefer to do?' This is an example of which step?",
-    "answer": "Present Options (Personal Appeal)",
+    "question": "What must an officer explain to a driver when they are asked to sign a citation?",
+    "answer": "The signature is not an admission of guilt, but a promise to appear in court.",
     "options": [
-      "Set Context (Reasonable Appeal)",
-      "Act (Determine appropriate action)",
-      "Ask (Ethical Appeal)",
-      "Present Options (Personal Appeal)"
+      "The signature is an admission of guilt for the offense.",
+      "Refusing to sign will result in the vehicle being impounded.",
+      "The signature is not an admission of guilt, but a promise to appear in court.",
+      "The signature is for identification purposes only."
     ],
-    "reference": "5 Steps for VOLUNTARY Non-compliance: ... 3) Present Options (Personal Appeal)"
+    "reference": "The material states the officer should explain: 'Your signature is NOT an admission of guilt, It is a written promise to appear to the court'."
   },
   {
-    "question": "An officer is interviewing a witness to a crime. To build rapport and ensure understanding, the officer uses the LEAPS model. After the witness explains what they saw, the officer says, 'So, if I understand you correctly, you saw the man in the red shirt run out of the store. Is that right?' This demonstrates which part of LEAPS?",
-    "answer": "Paraphrase and Summarize",
+    "question": "According to the training, what is the recommended way to conclude a traffic stop?",
+    "answer": "Use a professional closing statement and explicitly tell the driver they are free to go.",
     "options": [
-      "Listen and Empathize",
-      "Ask",
-      "Paraphrase and Summarize",
-      "Problem and Audience"
+      "Walk away from the car and wait for the driver to leave first.",
+      "Say 'Have a nice day,' even if the encounter was contentious.",
+      "Use a professional closing statement and explicitly tell the driver they are free to go.",
+      "Ask the driver if they have any complaints about the stop."
     ],
-    "reference": "LEAPS, which stands for listen, empathize, ask, paraphrase, and summarize."
+    "reference": "The text recommends using an appropriate parting phrase like 'Thank you for your cooperation' and states, 'While it is not required by law, it is recommended that an officer inform a driver or passenger(s) of when they are no longer being detained.'"
   },
   {
-    "question": "An officer responds to a call about a suspicious person looking into cars. The officer locates the person, who matches the description, and initiates contact. The officer's initial goal should be to conduct what type of interaction?",
-    "answer": "A consensual encounter to investigate further.",
+    "question": "According to the training material, what is a primary source of tension during traffic stops?",
+    "answer": "Officer uncertainty about a driver's actions and driver ignorance of police safety procedures.",
     "options": [
-      "An immediate arrest for attempted burglary.",
-      "A temporary detention and frisk.",
-      "A consensual encounter to investigate further.",
-      "A surveillance operation from a distance."
+      "The time of day and traffic conditions.",
+      "The driver's failure to use a turn signal.",
+      "Officer uncertainty about a driver's actions and driver ignorance of police safety procedures.",
+      "The type of vehicle being driven."
     ],
-    "reference": "A suspicious peace officer may investigate further, and may approach people to ask questions. However, these people may not be detained, may not be forced to identify themselves, and may refuse to answer questions. [from TCOLE Study Guide]"
+    "reference": "The text states: 'Tension on traffic stops comes from officer uncertainty and/or driver ignorance.' It gives the example of a driver rummaging for documents, which the officer may perceive as a threat, leading to an escalated, confrontational interaction."
   },
   {
-    "question": "An officer at a First Amendment assembly observes a participant lawfully recording them from a safe distance. What should the officer do?",
-    "answer": "Allow the person to continue recording without interference.",
+    "question": "When stopped by law enforcement, what are drivers taught to do with their hands after safely parking the vehicle?",
+    "answer": "Keep both hands clearly in sight on the steering wheel.",
     "options": [
-      "Order the person to stop recording.",
-      "Seize the phone as evidence.",
-      "Block the camera with their hand.",
-      "Allow the person to continue recording without interference."
+      "Immediately begin searching for their driver's license.",
+      "Place their hands on the dashboard.",
+      "Keep both hands clearly in sight on the steering wheel.",
+      "Lower the window and place their left hand outside the vehicle."
     ],
-    "reference": "GO 516.2 [Denton GO] POLICY: The Denton Police Department recognizes the right of persons to lawfully record members of this department who are performing their official duties. Members of this department will not prohibit or intentionally interfere with such lawful recordings."
+    "reference": "The Texas Drivers Handbook excerpt advises drivers to 'Remain in the car... Keep both hands clearly in sight on the steering wheel. Wait for the law enforcement officer to give you instructions.'"
   },
   {
-    "question": "During an interaction, a citizen tells an officer, 'I know my rights! You can't do this!' What is the most professional response?",
-    "answer": "'I understand you're concerned about your rights, and I will respect them. Right now, I need you to do...' (gives lawful order).",
+    "question": "If a driver feels a location is unsafe to pull over immediately, what course of action is recommended?",
+    "answer": "Turn on hazard lights, drive slowly below the speed limit to a safer location, and call 9-1-1.",
     "options": [
-      "'I decide what your rights are out here.'",
-      "'If you say 'rights' one more time, you're going to jail.'",
-      "Laugh at the person and continue the action.",
-      "'I understand you're concerned about your rights, and I will respect them. Right now, I need you to do...' (gives lawful order)."
+      "Accelerate and find the nearest police station.",
+      "Stop immediately regardless of the location to avoid an evading charge.",
+      "Ignore the police vehicle until you reach your destination.",
+      "Turn on hazard lights, drive slowly below the speed limit to a safer location, and call 9-1-1."
     ],
-    "reference": "Peace officers should be nonjudgmental, and should see themselves as detached enforcers of the law. At the same time, peace officers should be friendly and empathic with others. [from TCOLE Study Guide]"
+    "reference": "The guide states that if the area is unsafe, 'turn on your hazard lights and drive slowly and carefully below the posted speed limit; you may call 9-1-1... you may drive to a nearby well-lighted, populated place to stop.'"
   },
   {
-    "question": "An officer is interviewing a crime victim who is highly emotional and crying. What communication technique is most appropriate?",
-    "answer": "Using an empathetic and understanding tone, and allowing for pauses.",
+    "question": "According to the text, under what circumstance is a person lawfully required to provide their full name, residence address, and date of birth?",
+    "answer": "After being lawfully arrested.",
     "options": [
-      "Telling the victim to 'calm down so I can get the facts.'",
-      "Using a loud, firm voice to take control of the conversation.",
-      "Focusing only on the facts and ignoring the victim's emotional state.",
-      "Using an empathetic and understanding tone, and allowing for pauses."
+      "Anytime a peace officer requests it during a traffic stop.",
+      "Only if they do not have their driver license with them.",
+      "After being lawfully arrested.",
+      "A person is never required to provide this information."
     ],
-    "reference": "The paralinguistic factors of a communication are all of the aspects of vocal production besides the content of the message. This may include the volume, tone, or rhythm of speech, to name a few. A person’s tone of voice indicates his emotional state. [from TCOLE Study Guide]"
+    "reference": "The text clarifies the legal requirement: '...drivers are required by law to display a driver license when requested... If you are lawfully arrested, you are also required to give your name, residence address, and date of birth.'"
   },
   {
-    "question": "An officer is speaking with two potentially involved parties who are standing very close to each other, face-to-face. What should the officer's initial action be?",
-    "answer": "Verbally direct the parties to separate to a safe distance to defuse the situation and ensure safety.",
+    "question": "If an officer has probable cause to believe a vehicle contains evidence of a crime, can it be searched without consent?",
+    "answer": "Yes, it can be searched without consent.",
     "options": [
-      "Stand between them to physically separate them.",
-      "Immediately handcuff both individuals.",
-      "Interview them together to hear both sides at once.",
-      "Verbally direct the parties to separate to a safe distance to defuse the situation and ensure safety."
+      "No, a search warrant is always required.",
+      "Yes, it can be searched without consent.",
+      "Only if the driver signs a consent form first.",
+      "Only the trunk of the vehicle can be searched without consent."
     ],
-    "reference": "Officers should be sure to note the relative positions of the people. If people are standing close together, it may mean that they know each other well or are about to get in a fight. [from TCOLE Study Guide]"
+    "reference": "The training material states: 'You may grant or deny the request to search; however, if an officer has probable cause to believe that your vehicle contains evidence of a crime, it can be searched without your consent.'"
   },
   {
-    "question": "A driver tells an officer, 'You only pulled me over because you're profiling.' What is the most professional response to de-escalate and redirect the contact?",
-    "answer": "'I understand your concern. The reason for the stop was for the traffic violation I observed. Let's focus on resolving that.'",
+    "question": "What is the proper way for a citizen to contest a traffic citation they disagree with?",
+    "answer": "Argue the case before a judge or request a jury trial.",
     "options": [
-      "'That's a serious accusation, and you'd better be able to prove it.'",
-      "'I can pull over anyone I want to.'",
-      "'I understand your concern. The reason for the stop was for the traffic violation I observed. Let's focus on resolving that.'",
-      "Immediately call for a supervisor and refuse to speak further with the driver."
+      "Argue with the officer on the side of the road to have the charge dropped.",
+      "Refuse to sign the citation.",
+      "Argue the case before a judge or request a jury trial.",
+      "File a complaint against the officer with their supervisor."
     ],
-    "reference": "Deflection and Redirection of Verbal Abuse. [from 37-Civilian Interactions 2025.pdf]"
+    "reference": "The guide is explicit: 'Drivers should refrain from arguing the validity of a charge during the traffic stop... If you do not agree with the charge... you should argue your case before a judge or request a jury trial.'"
+  },
+  {
+    "question": "The Sandra Bland Act (SB 1849) amended the Code of Criminal Procedure to require law enforcement agencies to provide public education and information about what process?",
+    "answer": "The agency's compliment and complaint process.",
+    "options": [
+      "The process for appealing a traffic ticket.",
+      "The agency's compliment and complaint process.",
+      "The process for obtaining body camera footage.",
+      "The process for filing a claim for property damage."
+    ],
+    "reference": "The note about SB 1849 states it amended the law to 'require all agencies to “provide public education relating to the agency's compliment and complaint process...”'"
+  },
+  {
+    "question": "According to the text, what is a citizen's right regarding the recording of a traffic stop in Texas?",
+    "answer": "A citizen who is a participant or witness has the right to make a video or audio recording of the interaction.",
+    "options": [
+      "A citizen must first ask for the officer's permission before recording.",
+      "Only the driver of the vehicle is allowed to record the stop.",
+      "A citizen who is a participant or witness has the right to make a video or audio recording of the interaction.",
+      "Recording police officers is illegal in Texas."
+    ],
+    "reference": "The text states: 'In Texas, citizens have the right to make video or audio recordings of almost any transaction to which they are an active participant or witness. This includes interactions with law enforcement, such as traffic stops.'"
+  },
+  {
+    "question": "What is the primary legal restriction on a citizen's right to record a peace officer?",
+    "answer": "The recording may not physically impede the officer's ability to perform their duties.",
+    "options": [
+      "The recording may not be posted on social media.",
+      "The citizen must stay at least 100 feet away from the officer.",
+      "The recording may not physically impede the officer's ability to perform their duties.",
+      "The citizen must use a body-worn camera, not a smartphone."
+    ],
+    "reference": "The guide specifies: 'Citizens may not, however, do so in a manner that physically impedes an officer’s or other public servant’s ability to perform their duties.'"
+  },
+  {
+    "question": "Which of the '4 Types of Citizen Interactions' is defined as a 'Non-enforcement contact'?",
+    "answer": "Community Contacts",
+    "options": [
+      "Service Call",
+      "Field Interview",
+      "Traffic Stops",
+      "Community Contacts"
+    ],
+    "reference": "The chart explicitly defines 'Community Contacts' as a 'Non-enforcement contact.'"
+  },
+  {
+    "question": "An officer is dispatched to a location where a citizen is reporting a theft. What type of interaction is this?",
+    "answer": "Service Call",
+    "options": [
+      "Service Call",
+      "Community Contact",
+      "Field Interview",
+      "Investigative Stop"
+    ],
+    "reference": "A 'Service Call' is defined as a 'Contact of a person reporting an offense or incident,' with the specific example given: 'Someone stole my bike.'"
+  },
+  {
+    "question": "According to the training, the 7-Step Professional Contact method is versatile and can be easily adapted for what other situations?",
+    "answer": "It can be adapted for all other types of contacts listed.",
+    "options": [
+      "It can only be used for traffic stops.",
+      "It can only be adapted for service calls, not field interviews.",
+      "It can only be adapted for community contacts.",
+      "It can be adapted for all other types of contacts listed."
+    ],
+    "reference": "The text concludes that 'The 7-step professional contact... is very easily adapted for the other types of contacts: community interactions, service calls, and field interviews.'"
+  },
+  {
+    "question": "Which of the four types of citizen interactions is defined as a 'Non-enforcement contact'?",
+    "answer": "Community Contacts",
+    "options": [
+      "Service Call",
+      "Traffic Stops",
+      "Field Interview",
+      "Community Contacts"
+    ],
+    "reference": "The provided text explicitly defines 'Community Contacts' as a 'Non-enforcement contact'."
+  },
+  {
+    "question": "According to the guide, an officer making contact with a person who is reporting a stolen bike is an example of what type of interaction?",
+    "answer": "Service Call",
+    "options": [
+      "Field Interview",
+      "Service Call",
+      "Community Contact",
+      "Investigative Traffic Stop"
+    ],
+    "reference": "The text defines a 'Service Call' as the 'Contact of a person reporting an offense or incident' and provides 'Someone stole my bike' as a specific example."
+  },
+  {
+    "question": "What are the two types of 'Traffic Stops' listed in the document?",
+    "answer": "Enforcement and Investigative",
+    "options": [
+      "Primary and Secondary",
+      "Enforcement and Investigative",
+      "Routine and High-Risk",
+      "Official and Unofficial"
+    ],
+    "reference": "Under the 'Traffic Stops' category, the text lists '1. Enforcement' and '2. Investigative' as the two types."
+  },
+  {
+    "question": "How is a 'Field Interview' defined in the provided text?",
+    "answer": "A personal contact with a possible suspect.",
+    "options": [
+      "A non-enforcement conversation with a citizen.",
+      "A contact with a person reporting a crime.",
+      "A personal contact with a possible suspect.",
+      "An investigative traffic stop."
+    ],
+    "reference": "The text provides a clear definition for 'Field Interview' as a 'Personal contact with a possible suspect.'"
+  },
+  {
+    "question": "What are the two mindset modes for policing described in the training material?",
+    "answer": "Verbal Persuasion and Recognition - Reaction",
+    "options": [
+      "Community Policing and Tactical Enforcement",
+      "Verbal Persuasion and Recognition - Reaction",
+      "Officer Presence and Command Presence",
+      "De-escalation and Force Application"
+    ],
+    "reference": "The document is titled 'The 2 Mindset Modes for Policing' and repeatedly lists the two modes as 'Verbal Persuasion' and 'Recognition - Reaction'."
+  },
+  {
+    "question": "Which of the following sets of tactics belongs to the 'Verbal Persuasion' mindset?",
+    "answer": "7 Step Personal Contact, PACE & LEAPS, and Deflection of Verbal Abuse.",
+    "options": [
+      "Force Options, Prone Cuffing, and De-escalation for Mental Crisis.",
+      "7 Step Personal Contact, PACE & LEAPS, and Deflection of Verbal Abuse.",
+      "Positioning, Distance, and Concealment vs. Cover.",
+      "Ask, Tell, Make commands."
+    ],
+    "reference": "The text lists '7 Step Personal Contact,' 'PACE & LEAPS,' and 'Deflection and Redirection of Verbal Abuse' specifically under the 'Verbal Persuasion' heading."
+  },
+  {
+    "question": "The use of 'Force Options,' specific 'Cuffing Tactics' like kneeling and prone, and 'Ask, Tell, Make' commands are associated with which mindset?",
+    "answer": "Recognition - Reaction",
+    "options": [
+      "Verbal Persuasion",
+      "Community Contact",
+      "Recognition - Reaction",
+      "Service Call"
+    ],
+    "reference": "These tactics are all listed under the 'Recognition - Reaction' mindset, which is employed when verbal persuasion is no longer appropriate."
+  },
+  {
+    "question": "The acronym S.A.F.E. is used to determine when verbal persuasion is no longer appropriate. What does the 'S' in S.A.F.E. stand for?",
+    "answer": "Security Risk",
+    "options": [
+      "Suspect",
+      "Safety",
+      "Security Risk",
+      "Serious Offense"
+    ],
+    "reference": "The chart explicitly lists the components of the S.A.F.E. acronym, where 'S' stands for 'Security Risk'."
+  },
+  {
+    "question": "If a person is demonstrating 'Excessive Repetition' and is not complying, which mindset should an officer transition to?",
+    "answer": "Recognition - Reaction",
+    "options": [
+      "Verbal Persuasion",
+      "Recognition - Reaction",
+      "Service Call",
+      "Community Contact"
+    ],
+    "reference": "'Excessive Repetition' is the 'E' in the S.A.F.E. acronym, which provides the triggers for an officer to move from the 'Verbal Persuasion' mindset to the 'Recognition - Reaction' mindset."
+  },
+  {
+    "question": "According to the core philosophy of public interaction, why is it important for an officer to treat every traffic stop with professionalism?",
+    "answer": "Because for the citizen it is a significant event, and they deserve to be treated with respect. ",
+    "options": [
+      "To ensure the stop is concluded as quickly as possible.",
+      "Because for the citizen it is a significant event, and they deserve to be treated with respect. ",
+      "To immediately establish authority and control over the situation.",
+      "To prevent the citizen from filing a complaint."
+    ],
+    "reference": "The notes emphasize that while a stop is routine for an officer, it's a significant event for the citizen who deserves to be treated with respect and professionalism. "
+  },
+  {
+    "question": "What is a primary goal of the Community Safety Education Act (Senate Bill 30)?",
+    "answer": "To standardize training for both drivers and law enforcement to set clear expectations for interactions. ",
+    "options": [
+      "To increase the penalties for common traffic violations.",
+      "To standardize training for both drivers and law enforcement to set clear expectations for interactions. ",
+      "To require that all police vehicles be equipped with in-car cameras.",
+      "To give officers more discretion during traffic stops."
+    ],
+    "reference": "The study notes state that the Act's goal is to standardize training for drivers and officers to set clear expectations for how each should act during a traffic stop. "
+  },
+  {
+    "question": "In the 7-Step Violator Contact Method, what is the main reason for an officer to say 'You will be receiving a citation' instead of 'I am going to give you a citation'?",
+    "answer": "It keeps the focus on the violation itself, rather than making the enforcement seem like a personal action by the officer. ",
+    "options": [
+      "It is a legal requirement to phrase it that way.",
+      "It keeps the focus on the violation itself, rather than making the enforcement seem like a personal action by the officer. ",
+      "It sounds more authoritative and formal.",
+      "It prevents the driver from arguing about the ticket."
+    ],
+    "reference": "The notes explain that using 'you' statements keeps the focus on the violation, while 'I' statements can shift blame to the officer's action, making it feel personal. "
+  },
+  {
+    "question": "What is the key advantage of the modern Professional Contact Method?",
+    "answer": "It is versatile and can be adapted for all types of citizen interactions, not just violator stops. ",
+    "options": [
+      "It is quicker than the older 7-step violator method.",
+      "It allows officers to skip the greeting and identification step.",
+      "It is focused only on enforcement actions and issuing citations.",
+      "It is versatile and can be adapted for all types of citizen interactions, not just violator stops. "
+    ],
+    "reference": "The notes highlight that the Professional Contact Method is preferred because it is adaptable for consensual encounters, service calls, and field interviews, unlike the older, more rigid method. "
+  },
+  {
+    "question": "An officer using communication tactics like PACE & LEAPS to gain voluntary compliance is operating in which mindset mode?",
+    "answer": "Verbal Persuasion Mode ",
+    "options": [
+      "Verbal Persuasion Mode ",
+      "Recognition - Reaction Mode ",
+      "Tactical Enforcement Mode",
+      "Community Policing Mode"
+    ],
+    "reference": "The study notes define the 'Verbal Persuasion Mode' as the default mode for most interactions, involving communication tactics to achieve voluntary compliance. "
+  },
+  {
+    "question": "In the S.A.F.E. acronym, which letter represents the trigger to shift from a verbal to a tactical mindset when a subject flees?",
+    "answer": "F ",
+    "options": [
+      "S",
+      "A",
+      "F ",
+      "E"
+    ],
+    "reference": "The notes break down the S.A.F.E. acronym, where 'F' stands for 'Flight,' which is a trigger for an officer to shift from Verbal Persuasion to the Recognition-Reaction mindset. "
+  },
+  {
+    "question": "An officer has conducted five traffic stops in the last hour and feels tired and bored. On the sixth stop, the driver is slow to find their documents. The officer feels impatient. What core philosophy from the training should the officer remember in this moment?",
+    "answer": "That for the citizen, the stop is a significant and stressful event, and they deserve the officer's professionalism and respect, regardless of how routine it is for the officer.",
+    "options": [
+      "The primary goal is to complete the stop as quickly as possible to get back in service.",
+      "That for the citizen, the stop is a significant and stressful event, and they deserve the officer's professionalism and respect, regardless of how routine it is for the officer.",
+      "The driver's slowness is a sign of a potential security risk, and the officer should escalate their commands.",
+      "The officer's time is valuable, and the driver should be verbally reprimanded for the delay."
+    ],
+    "reference": "This reflects the core philosophy discussed in the lecture. It emphasizes remembering what it's like to be stopped and treating each citizen with respect, as the stop is a significant event for them, even if it's routine for the officer."
+  },
+  {
+    "question": "A high school student in a driver's education class asks their instructor why they are learning the proper way to interact with police. This educational requirement is a direct result of which legislation?",
+    "answer": "The Community Safety Education Act (Senate Bill 30)",
+    "options": [
+      "The Federal Motor Carrier Safety Act",
+      "The Sandra Bland Act",
+      "The Community Safety Education Act (Senate Bill 30)",
+      "The Texas Transportation Code"
+    ],
+    "reference": "The lecture material explicitly states that the Community Safety Education Act (SB 30) mandates that high school students and those in driver education receive standardized training on expected behaviors during traffic stops."
+  },
+  {
+    "question": "An officer stops a driver with out-of-state license plates. According to the 7-Step Violator Contact Method, why is it particularly important for the officer to state their name and agency in the initial greeting?",
+    "answer": "Because the driver may not be local and will not recognize the officer's uniform or patrol car.",
+    "options": [
+      "To assert authority immediately.",
+      "Because the driver may not be local and will not recognize the officer's uniform or patrol car.",
+      "It is a legal requirement only for out-of-state drivers.",
+      "To make the driver feel more comfortable asking for a warning."
+    ],
+    "reference": "This scenario tests the principle of Step 1 (Greeting & ID). The lecture notes that citizens, especially those not from the area, may not recognize uniforms, making the agency identification crucial for establishing a professional interaction."
+  },
+  {
+    "question": "An officer initiates a traffic stop for a driver who failed to stop at a stop sign. Which of the following is an example of an improper way to begin the interaction, according to the training?",
+    "answer": "'Good evening. Do you have any idea why I might have pulled you over tonight?'",
+    "options": [
+      "'Good evening. I'm Officer Jones. The reason for the stop is you failed to stop at the intersection of Oak and Main.'",
+      "'Good evening. Do you have any idea why I might have pulled you over tonight?'",
+      "'Good evening. I stopped you for the stop sign violation back there. Is there a reason for that?'",
+      "'Good evening. Please provide your driver's license. You were stopped for a stop sign violation.'"
+    ],
+    "reference": "This scenario is based on Step 2 (Statement of Violation). The lecture explicitly advises against asking 'Do you know why I stopped you?' because it can sound accusatory and start the interaction negatively."
+  },
+  {
+    "question": "An officer is trying to obtain a driver's license from a woman who says it's in her large, cluttered purse. The officer takes the purse, places it on the hood of the car, and begins searching through it himself. This action is a procedural error because:",
+    "answer": "The officer should have the driver retrieve the license themselves to prevent accusations of theft and to keep the officer's hands free.",
+    "options": [
+      "The officer should have asked for consent before touching the purse.",
+      "The officer should have the driver retrieve the license themselves to prevent accusations of theft and to keep the officer's hands free.",
+      "The officer is not allowed to place personal items on the hood of a citizen's car.",
+      "The officer should have taken the purse back to his own vehicle to search it."
+    ],
+    "reference": "This tests a key safety and professionalism point from Step 3 (Identification). The lecture stresses having the violator remove the license from a purse or wallet themselves to avoid any accusations and to ensure the officer's hands remain free for safety."
+  },
+  {
+    "question": "An officer has decided to issue a citation. Which statement best reflects the 'you' vs. 'I' principle taught in the lecture?",
+    "answer": "'Sir, you are being issued a citation for traveling 15 miles per hour over the speed limit.'",
+    "options": [
+      "'Sir, I have decided that I am going to issue you a citation for speeding.'",
+      "'Sir, you are being issued a citation for traveling 15 miles per hour over the speed limit.'",
+      "'Sir, because of your speed, I have no choice but to write you a ticket.'",
+      "'Sir, my department requires me to cite you for this violation.'"
+    ],
+    "reference": "This scenario applies the principle of Step 4 (Statement of Action). Using 'you' statements keeps the focus on the violator's actions, while 'I' statements can make the enforcement seem like a personal choice by the officer, which can lead to conflict."
+  },
+  {
+    "question": "An officer gives a driver a speeding ticket. After explaining the citation, the officer then spends five minutes lecturing the driver about the dangers of speeding. Why might this approach be counterproductive?",
+    "answer": "Because the ticket is the enforcement action; adding a lecture can feel punitive and may cause a complaint.",
+    "options": [
+      "The lecture should have been given before the ticket was written.",
+      "A lecture is only effective if it lasts less than two minutes.",
+      "Because the ticket is the enforcement action; adding a lecture can feel punitive and may cause a complaint.",
+      "The officer is required by law to give a lecture with every moving violation."
+    ],
+    "reference": "This scenario is based on the advice given in Step 5 (Take Action). The lecture advises 'don't lecture and ticket,' as the ticket itself is the consequence. A lecture is more appropriate when giving a warning."
+  },
+  {
+    "question": "After an officer explains a citation, the driver asks, 'Should I just pay this, or is it better to take defensive driving?' What is the officer's most appropriate response?",
+    "answer": "'I cannot give you legal advice, sir. You will need to contact the court to discuss your options.'",
+    "options": [
+      "'Defensive driving is always the best option to keep it off your record.'",
+      "'You should probably just pay it, it's less of a hassle.'",
+      "'I cannot give you legal advice, sir. You will need to contact the court to discuss your options.'",
+      "'I would fight it if I were you; this court dismisses tickets all the time.'"
+    ],
+    "reference": "This tests the 'no legal advice' rule from Step 6 (Explain What Violator Must Do). Officers are not qualified to give legal advice and should always refer citizens to the court for questions about their legal options."
+  },
+  {
+    "question": "An officer responds to a non-enforcement call to speak with a community group about neighborhood safety. This is a relaxed, conversational setting. Which contact method is most easily adapted for this situation?",
+    "answer": "The Professional Contact Method",
+    "options": [
+      "The 7-Step Violator Contact Method",
+      "The S.A.F.E. Method",
+      "The Professional Contact Method",
+      "The Recognition-Reaction Method"
+    ],
+    "reference": "The lecture notes highlight that the Professional Contact Method is versatile and can be adapted for all types of interactions, including non-enforcement 'Community Contacts'."
+  },
+  {
+    "question": "An officer asks a driver for their license. The driver, without explanation, immediately begins reaching quickly under their seat. This action should be perceived as which S.A.F.E. trigger?",
+    "answer": "S - Security Risk",
+    "options": [
+      "S - Security Risk",
+      "A - Attack",
+      "F - Flight",
+      "E - Excessive Repetition"
+    ],
+    "reference": "This is a classic 'S' for Security Risk scenario. The driver's unexpected and potentially dangerous movement creates a security risk, requiring the officer to shift from verbal persuasion to a tactical (Recognition-Reaction) mindset."
   }
 ],
+
         "Fitness and Wellness": [
   {
     "question": "What is the definition of 'Physical Fitness' according to the guide?",
