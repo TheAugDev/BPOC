@@ -1238,7 +1238,7 @@
     ],
     "reference": "Calculating time intervals that take place on the same day in military time is easy — simply subtract your start time from your end time. For example, if your time interval begins at 09:00 and ends at 17:00, you'd subtract 9 from 17 to get 8. "
   }
-        ],
+],
         "Civilian Interactions": [
   {
     "question": "The Community Safety Education Act (SB 30) was passed during which session of the Texas Legislature?",
@@ -1945,7 +1945,6 @@
     "reference": "This is a classic 'S' for Security Risk scenario. The driver's unexpected and potentially dangerous movement creates a security risk, requiring the officer to shift from verbal persuasion to a tactical (Recognition-Reaction) mindset."
   }
 ],
-
         "Fitness and Wellness": [
   {
     "question": "What is the definition of 'Physical Fitness' according to the guide?",
