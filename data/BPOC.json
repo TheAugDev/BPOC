@@ -2624,47 +2624,489 @@
       "Cases involving the government as a party."
     ],
     "reference": "Amendment 7: 'In suits at common law... the right of trial by jury shall be preserved...'"
+  },
+  {
+    "question": "What was the core mission of TCOLE as described in the introduction?",
+    "answer": "To ensure the people of Texas are served by highly trained and ethical professionals.",
+    "options": [
+      "To lobby for higher police salaries.",
+      "To prosecute officers who violate the law.",
+      "To provide legal defense for all peace officers.",
+      "To ensure the people of Texas are served by highly trained and ethical professionals."
+    ],
+    "reference": "The core mission of TCOLE is to ensure the people of Texas are served by highly trained and ethical professionals through rigorous screening, development, and monitoring of standards.",
+    "explanation": "TCOLE is the state's regulatory agency that sets the standards for licensing and training, with the goal of ensuring professional and ethical law enforcement service."
+  },
+  {
+    "question": "Which of the original thirteen colonies abstained from the First Continental Congress in 1774?",
+    "answer": "Rhode Island",
+    "options": [
+      "Georgia",
+      "Delaware",
+      "New York",
+      "Rhode Island"
+    ],
+    "reference": "First Continental Congress (1774): Twelve of the thirteen colonies (Rhode Island abstained) met to discuss grievances and demand rights...",
+    "explanation": "Initially, Rhode Island was hesitant to join the unified colonial efforts against Great Britain, though it later rejoined."
+  },
+  {
+    "question": "What was the significance of the Mecklenburg Resolves of May 1775?",
+    "answer": "Mecklenburg County, NC, unilaterally declared its independence from Great Britain before the other colonies.",
+    "options": [
+      "It was the first battle of the Revolutionary War.",
+      "It was a formal request for peace with King George III.",
+      "Mecklenburg County, NC, unilaterally declared its independence from Great Britain before the other colonies.",
+      "It established the Articles of Confederation."
+    ],
+    "reference": "Mecklenburg Resolves (May 1775): Mecklenburg County, North Carolina, unilaterally declared its independence from Great Britain, creating its own local government ahead of the other colonies.",
+    "explanation": "This was one of the earliest and most radical steps towards independence, showcasing the growing sentiment for separation from Britain at a local level."
+  },
+  {
+    "question": "Which of the following was a key weakness of the Articles of Confederation?",
+    "answer": "The central government had no authority to levy taxes.",
+    "options": [
+      "It created a chief executive with too much power.",
+      "It established a powerful national judiciary.",
+      "The central government had no authority to levy taxes.",
+      "It prohibited states from coining their own money."
+    ],
+    "reference": "It established a weak central government with significant limitations: No authority to levy taxes. No power to establish a national currency. No ability to maintain or pay a standing army.",
+    "explanation": "The inability to tax meant the federal government couldn't pay debts or fund essential functions like paying soldiers, which led to a crisis after the war."
+  },
+  {
+    "question": "What was the initial, stated goal of the delegates sent to the Constitutional Convention of 1787?",
+    "answer": "To revise the Articles of Confederation.",
+    "options": [
+      "To write a new Declaration of Independence.",
+      "To revise the Articles of Confederation.",
+      "To create a Bill of Rights.",
+      "To negotiate a new treaty with Great Britain."
+    ],
+    "reference": "The Mandate: Delegates were sent to Philadelphia with the initial goal of revising the Articles of Confederation.",
+    "explanation": "The delegates quickly realized the Articles were too flawed to fix, leading them to secretly discard the document and create a new Constitution from scratch."
+  },
+  {
+    "question": "What was the 'Three-Fifths Compromise'?",
+    "answer": "An agreement to count slaves as 3/5 of a person for purposes of legislative representation.",
+    "options": [
+      "A plan to end slavery in three-fifths of the states.",
+      "A rule requiring a 3/5 vote in Congress to pass laws about slavery.",
+      "An agreement to count slaves as 3/5 of a person for purposes of legislative representation.",
+      "A tax on 3/5 of all goods produced by slave labor."
+    ],
+    "reference": "This included the 'Three-Fifths Compromise,' where slaves were counted as 3/5 of a person for purposes of legislative representation, a decision that had profound and lasting consequences."
+  },
+  {
+    "question": "What was the compromise reached between the Federalists and Anti-Federalists regarding a Bill of Rights?",
+    "answer": "The states would ratify the Constitution with the promise that a Bill of Rights would be the first act of the new Congress.",
+    "options": [
+      "The Bill of Rights would be included in the original draft of the Constitution.",
+      "The states would ratify the Constitution with the promise that a Bill of Rights would be the first act of the new Congress.",
+      "A Bill of Rights would be created, but it would only apply to the federal government.",
+      "Each state would be allowed to create its own separate Bill of Rights."
+    ],
+    "reference": "A compromise was reached: the states would ratify the Constitution with the promise that the first act of the new Congress would be to pass a Bill of Rights."
+  },
+  {
+    "question": "Which state was the first to ratify the new U.S. Constitution?",
+    "answer": "Delaware",
+    "options": [
+      "Virginia",
+      "New York",
+      "Pennsylvania",
+      "Delaware"
+    ],
+    "reference": "Ratification: The new Constitution required ratification by 9 of the 13 states. Delaware was the first to ratify."
+  },
+  {
+    "question": "What is a 'Writ of Habeas Corpus'?",
+    "answer": "A legal action requiring a person under arrest to be brought before a judge to determine if their imprisonment is lawful.",
+    "options": [
+      "A warrant for a person's arrest.",
+      "A formal charge issued by a grand jury.",
+      "A legal action requiring a person under arrest to be brought before a judge to determine if their imprisonment is lawful.",
+      "A legislative act declaring a person guilty of a crime without a trial."
+    ],
+    "reference": "Writ of Habeas Corpus: A legal action requiring a person under arrest to be brought before a judge to determine if their imprisonment is lawful. It challenges the legality of detention, not guilt or innocence."
+  },
+  {
+    "question": "When can the Writ of Habeas Corpus be suspended?",
+    "answer": "Only during times of rebellion or invasion.",
+    "options": [
+      "Whenever Congress votes to do so.",
+      "At the discretion of the President.",
+      "It can never be suspended.",
+      "Only during times of rebellion or invasion."
+    ],
+    "reference": "It can only be suspended during times of rebellion or invasion (e.g., Lincoln during the Civil War)."
+  },
+  {
+    "question": "What is a 'Bill of Attainder'?",
+    "answer": "A legislative act that declares a person or group guilty of a crime and punishes them without a trial.",
+    "options": [
+      "A law that makes an act criminal after it was committed.",
+      "A court order to release someone from custody.",
+      "A tax bill passed by Congress.",
+      "A legislative act that declares a person or group guilty of a crime and punishes them without a trial."
+    ],
+    "reference": "Prohibition of Bills of Attainder: A legislative act cannot declare a person or group guilty of a crime and punish them without a trial (e.g., punishing an entire family for the treason of one member)."
+  },
+  {
+    "question": "Which branch of the U.S. government is established by Article II of the Constitution?",
+    "answer": "The Executive Branch (The President)",
+    "options": [
+      "The Legislative Branch (Congress)",
+      "The Judicial Branch (The Supreme Court)",
+      "The Executive Branch (The President)",
+      "The Administrative Branch"
+    ],
+    "reference": "2.2 Article II: The Executive Branch (The President)"
+  },
+  {
+    "question": "What power does the President have regarding legislation passed by Congress?",
+    "answer": "The power to veto legislation.",
+    "options": [
+      "The power to amend legislation.",
+      "The power to approve all legislation before it is voted on.",
+      "The power to veto legislation.",
+      "The power to suspend any law for up to 90 days."
+    ],
+    "reference": "Powers: ... Veto legislation passed by Congress (which can be overridden by a two-thirds vote in both houses)."
+  },
+  {
+    "question": "What court did Article III of the Constitution create?",
+    "answer": "Only the Supreme Court.",
+    "options": [
+      "The Supreme Court, Federal District Courts, and Circuit Courts of Appeals.",
+      "All federal and state courts.",
+      "Only the Supreme Court.",
+      "A system of military courts."
+    ],
+    "reference": "Structure: Article III created only the Supreme Court. All lower federal courts were created by an act of Congress (under Article I)."
+  },
+  {
+    "question": "What is 'Appellate Jurisdiction'?",
+    "answer": "The power of a court to review, amend, and overrule decisions of a lower court.",
+    "options": [
+      "The right of a court to hear a case for the first time.",
+      "The jurisdiction over all cases occurring within a specific geographic area.",
+      "The power of a court to review, amend, and overrule decisions of a lower court.",
+      "The authority to create new laws."
+    ],
+    "reference": "Appellate Jurisdiction: The power to review, amend, and overrule decisions of a lower court. This is the Supreme Court's primary function."
+  },
+  {
+    "question": "Which of the following is NOT one of the five freedoms guaranteed by the First Amendment?",
+    "answer": "The right to bear arms.",
+    "options": [
+      "Freedom of religion.",
+      "Freedom of speech.",
+      "The right to bear arms.",
+      "The right to peaceably assemble."
+    ],
+    "reference": "First Amendment: Guarantees freedom of religion, speech, the press, assembly, and the right to petition the government.",
+    "explanation": "The right to bear arms is a fundamental right, but it is protected by the Second Amendment, not the First."
+  },
+  {
+    "question": "Speech directed toward inciting or producing imminent lawless action is not protected by the First Amendment. This category of unprotected speech is known as what?",
+    "answer": "Incitement.",
+    "options": [
+      "Fighting Words.",
+      "Hate Speech.",
+      "Incitement.",
+      "Defamation."
+    ],
+    "reference": "Unprotected Speech: ... Incitement: Speech directed toward inciting or producing imminent lawless action, and that is likely to produce such action (Brandenburg v. Ohio).",
+    "explanation": "This standard, from *Brandenburg v. Ohio*, means that for speech to be illegal as incitement, it must be intended to and likely to cause immediate illegal activity."
+  },
+  {
+    "question": "What are 'Fighting Words' in the context of unprotected speech?",
+    "answer": "Words that by their very utterance inflict injury or tend to incite an immediate breach of the peace.",
+    "options": [
+      "Any speech that is offensive to a police officer.",
+      "Words that by their very utterance inflict injury or tend to incite an immediate breach of the peace.",
+      "Political speech that criticizes the government.",
+      "False statements that harm someone's reputation."
+    ],
+    "reference": "Fighting Words: Words that by their very utterance inflict injury or tend to incite an immediate breach of the peace. The standard is whether the words are likely to cause a violent response from a reasonable listener.",
+    "explanation": "This is a very high standard. The speech must be so inflammatory that it would provoke a reasonable person to immediately become violent."
+  },
+  {
+    "question": "According to the U.S. Supreme Court case *Duran v. City of Douglas*, what is the standard for a peace officer's reaction to offensive speech?",
+    "answer": "As agents of the government, officers lose the right to be personally offended by speech while on duty.",
+    "options": [
+      "Officers can arrest someone for any speech they find personally offensive.",
+      "Officers must ignore all verbal abuse, even if it constitutes 'fighting words'.",
+      "As agents of the government, officers lose the right to be personally offended by speech while on duty.",
+      "Officers can only react to speech if it is directed at them and not at a citizen."
+    ],
+    "reference": "Law Enforcement Considerations: As agents of the government, officers lose the right to be personally offended by speech while on duty (Duran v. City of Douglas).",
+    "explanation": "This ruling means an officer's enforcement action must be based on whether the speech is illegal (e.g., 'fighting words' to a *reasonable citizen*), not on the officer's own personal feelings or offense."
+  },
+  {
+    "question": "What is the three-part test used to determine if material is legally 'obscene' and therefore unprotected by the First Amendment?",
+    "answer": "The Miller test.",
+    "options": [
+      "The Terry test.",
+      "The Brandenburg test.",
+      "The Lemon test.",
+      "The Miller test."
+    ],
+    "reference": "Obscenity: Defined by the Miller test: (1) appeals to a prurient (lustful) interest by contemporary community standards, (2) is patently offensive in its description of sexual conduct defined by state law, and (3) as a whole, lacks serious literary, artistic, political, or scientific value."
+  },
+  {
+    "question": "Which amendment ensures that the rights listed in the Constitution are not exhaustive, and that other rights are retained by the people?",
+    "answer": "The Ninth Amendment.",
+    "options": [
+      "The Eighth Amendment.",
+      "The Ninth Amendment.",
+      "The Tenth Amendment.",
+      "The Fourteenth Amendment."
+    ],
+    "reference": "Ninth Amendment: States that the rights enumerated in the Constitution are not exhaustive; other rights are reserved to the people.",
+    "explanation": "This amendment acts as a constitutional 'safety net' to protect fundamental rights that are not explicitly written down in the Bill of Rights."
+  },
+  {
+    "question": "Which amendment establishes the principle of federalism by reserving powers not delegated to the federal government to the states or the people?",
+    "answer": "The Tenth Amendment.",
+    "options": [
+      "The Ninth Amendment.",
+      "The Tenth Amendment.",
+      "The Thirteenth Amendment.",
+      "The Fourteenth Amendment."
+    ],
+    "reference": "Tenth Amendment: Powers not delegated to the federal government are reserved to the states or the people.",
+    "explanation": "This amendment is the basis for states' rights, clarifying that the federal government only has the powers specifically granted to it by the Constitution."
+  },
+  {
+    "question": "Which amendment granted citizenship to all persons born or naturalized in the U.S. and guarantees equal protection under the law?",
+    "answer": "The Fourteenth Amendment.",
+    "options": [
+      "The Thirteenth Amendment.",
+      "The Fourteenth Amendment.",
+      "The Fifteenth Amendment.",
+      "The Fifth Amendment."
+    ],
+    "reference": "14th Amendment: Granted citizenship to all persons born or naturalized in the U.S. and guarantees equal protection under the law. It established how the country would move forward after slavery."
+  },
+  {
+    "question": "A person in a public park intentionally uses abusive language that by its very utterance tends to incite an immediate breach of the peace. What offense have they committed?",
+    "answer": "Disorderly Conduct (Class C Misdemeanor).",
+    "options": [
+      "Riot (Class B Misdemeanor).",
+      "Terroristic Threat (Class B Misdemeanor).",
+      "Disorderly Conduct (Class C Misdemeanor).",
+      "Interference with Public Duties (Class B Misdemeanor)."
+    ],
+    "reference": "4.1 Disorderly Conduct (PC § 42.01) Conduct: A person commits this Class C Misdemeanor if they intentionally or knowingly engage in various acts in a public place, including: Using abusive, indecent, profane, or vulgar language that by its very utterance tends to incite an immediate breach of the peace (fighting words)."
+  },
+  {
+    "question": "The offense of Disorderly Conduct is enhanced to a Class B Misdemeanor under what circumstance?",
+    "answer": "If the actor displays a firearm in a public place in a manner calculated to alarm.",
+    "options": [
+      "If the offense occurs at night.",
+      "If the actor is intoxicated.",
+      "If the actor makes unreasonable noise.",
+      "If the actor displays a firearm in a public place in a manner calculated to alarm."
+    ],
+    "reference": "Enhanced Offenses: The offense becomes a Class B Misdemeanor for: ... Displaying a firearm in a manner calculated to alarm."
+  },
+  {
+    "question": "What is the minimum number of people required for an assemblage to be considered a 'Riot' under the Texas Penal Code?",
+    "answer": "Seven or more.",
+    "options": [
+      "Three or more.",
+      "Five or more.",
+      "Seven or more.",
+      "Ten or more."
+    ],
+    "reference": "4.2 Riot (PC § 42.02) Definition: A 'riot' is the assemblage of seven or more persons resulting in conduct that creates an immediate danger to property or people..."
+  },
+  {
+    "question": "A person, without legal authority, intentionally obstructs a sidewalk, preventing others from passing. What offense has been committed?",
+    "answer": "Obstructing Highway or Other Passageway (Class B Misdemeanor).",
+    "options": [
+      "Disorderly Conduct (Class C Misdemeanor).",
+      "Riot (Class B Misdemeanor).",
+      "Criminal Trespass (Class B Misdemeanor).",
+      "Obstructing Highway or Other Passageway (Class B Misdemeanor)."
+    ],
+    "reference": "4.3 Obstructing Highway or Other Passageway (PC § 42.03) Conduct: A person commits this Class B Misdemeanor if, without legal authority, they intentionally, knowingly, or recklessly obstruct a public way (highway, sidewalk, etc.)..."
+  },
+  {
+    "question": "An individual is blocking a sidewalk as part of a political protest. Before an officer can make an arrest for Obstructing a Passageway, what must the officer do?",
+    "answer": "The actor must first be ordered to move or disperse.",
+    "options": [
+      "Verify the individual's identity.",
+      "Issue a written citation.",
+      "The actor must first be ordered to move or disperse.",
+      "Nothing, the arrest can be made immediately."
+    ],
+    "reference": "4.4 Defense When Conduct Consists of Speech (PC § 42.04) Crucial Rule: If conduct that would otherwise be a violation (like Unreasonable Noise or Obstructing Passageway) consists of speech, picketing, or other nonviolent expression... the actor must be ordered to move or disperse before an arrest can be made."
+  },
+  {
+    "question": "What is the primary purpose of the Texas Penal Code (PC)?",
+    "answer": "To define what conduct is illegal and establish penalties.",
+    "options": [
+      "To provide the rules for how the criminal justice system operates.",
+      "To outline the rights of the accused.",
+      "To define what conduct is illegal and establish penalties.",
+      "To establish the procedures for civil lawsuits."
+    ],
+    "reference": "Texas Penal Code (PC): Purpose: Defines what conduct is illegal for all Texans. ... Content: - Defines specific offenses (e.g., murder, theft). - Establishes penalties and punishment ranges."
+  },
+  {
+    "question": "What is the primary purpose of the Texas Code of Criminal Procedure (CCP)?",
+    "answer": "To serve as the 'rulebook' for how the criminal justice system operates.",
+    "options": [
+      "To define what specific actions constitute a crime.",
+      "To serve as the 'rulebook' for how the criminal justice system operates.",
+      "To establish punishments and penalty ranges for offenses.",
+      "To inform the general public of what conduct is illegal."
+    ],
+    "reference": "Texas Code of Criminal Procedure (CCP): Purpose: The 'rulebook' for how the criminal justice system operates. ... Content: - Rules for arrests, searches, and seizures. - Procedures for trials, evidence, and appeals. - Rights of the accused (e.g., right to bail)."
+  },
+  {
+    "question": "According to CCP Art. 2.12, which of the following individuals are classified as Texas peace officers?",
+    "answer": "Sheriffs, Constables, Texas Rangers, and Game Wardens.",
+    "options": [
+      "Federal Bureau of Investigation (FBI) agents.",
+      "District Attorneys and Judges.",
+      "School Marshals.",
+      "Sheriffs, Constables, Texas Rangers, and Game Wardens."
+    ],
+    "reference": "6.1 Who is a Peace Officer? (Art. 2.12) This article provides an extensive list of individuals classified as Texas peace officers. Key examples include: Sheriffs... Constables... Texas Rangers... Game Wardens...",
+    "explanation": "Article 2.12 provides a long, specific list of who is a peace officer in Texas. It's crucial to distinguish these state and local officers from federal officers or other officials who are not peace officers."
+  },
+  {
+    "question": "How many Railroad Peace Officers may be appointed by the Department of Public Safety (DPS)?",
+    "answer": "Up to 250.",
+    "options": [
+      "Up to 50.",
+      "Up to 100.",
+      "Up to 250.",
+      "There is no limit."
+    ],
+    "reference": "Railroad Peace Officers (Art. 2.121): Up to 250 appointed by DPS but employed by the railroad.",
+    "explanation": "While these officers have full police powers on railroad property, their numbers are capped by statute."
+  },
+  {
+    "question": "What is a key limitation on the authority of Railroad Peace Officers and Special Rangers of the Texas & Southwestern Cattle Raisers Association?",
+    "answer": "They may not issue traffic citations.",
+    "options": [
+      "They cannot make felony arrests.",
+      "They can only operate during daylight hours.",
+      "They may not issue traffic citations.",
+      "They must be accompanied by a local peace officer."
+    ],
+    "reference": "Railroad Peace Officers (Art. 2.121): ...may not issue traffic citations. ... Special Rangers of Texas & Southwestern Cattle Raisers Association (Art. 2.125): ...Cannot issue traffic citations.",
+    "explanation": "The authority of these special peace officers is tailored to their specific mission (protecting railroads or investigating livestock theft) and does not extend to general traffic enforcement."
+  },
+  {
+    "question": "Adjunct Police Officers appointed for a private university have police authority on the campus and in what additional area?",
+    "answer": "In areas adjacent to the campus, not to exceed a distance of one mile.",
+    "options": [
+      "Anywhere in the county.",
+      "Anywhere in the city.",
+      "In areas adjacent to the campus, not to exceed a distance of one mile.",
+      "They have no authority off campus."
+    ],
+    "reference": "Adjunct Police Officers (Art. 2.122): For private institutions of higher education in counties under 200,000... Have limited jurisdiction (campus and adjacent areas up to 1 mile).",
+    "explanation": "This allows university police to handle incidents that immediately spill over from campus property into the surrounding neighborhood without waiting for local police."
+  },
+  {
+    "question": "Under what circumstance does a peace officer from an adjoining state have police authority in Texas?",
+    "answer": "When they are transporting an inmate or assisting a Texas agency by request.",
+    "options": [
+      "Any time they cross the state line.",
+      "Only when they are in 'fresh pursuit' of a felon.",
+      "When they are on vacation in Texas.",
+      "When they are transporting an inmate or assisting a Texas agency by request."
+    ],
+    "reference": "Peace Officers from Adjoining States (Art. 2.124): Have authority in Texas when transporting an inmate or assisting a Texas agency by request."
+  },
+  {
+    "question": "Which of the following are explicitly listed as NOT being Texas peace officers?",
+    "answer": "Federal law enforcement officers (e.g., FBI, DEA).",
+    "options": [
+      "Investigators for the District Attorney's office.",
+      "TABC agents.",
+      "Federal law enforcement officers (e.g., FBI, DEA).",
+      "Arson investigators."
+    ],
+    "reference": "6.3 Who is NOT a Peace Officer? Federal law enforcement officers (e.g., FBI, DEA, ATF). They are Special Investigators.",
+    "explanation": "There is a critical legal distinction between a Texas 'peace officer' and a federal 'special investigator.' Their powers and immunities within the state are different."
+  },
+  {
+    "question": "What is a primary duty of every on-duty peace officer according to CCP Art. 2.13?",
+    "answer": "To preserve the peace within their jurisdiction.",
+    "options": [
+      "To issue a minimum number of citations per shift.",
+      "To focus only on felony-level crimes.",
+      "To patrol their assigned area continuously.",
+      "To preserve the peace within their jurisdiction."
+    ],
+    "reference": "6.4 Duties and Powers of Peace Officers (Art. 2.13). It is the duty of every on-duty peace officer to: Preserve the peace within their jurisdiction. This includes preventing and suppressing crime."
+  },
+  {
+    "question": "According to CCP Art. 2.13, when can an officer inquire about a victim's or witness's immigration status?",
+    "answer": "Only if it is necessary to investigate the offense or to provide information on federal visas.",
+    "options": [
+      "At any time during any interaction.",
+      "Only if the officer has a reasonable suspicion the person is undocumented.",
+      "Only if it is necessary to investigate the offense or to provide information on federal visas.",
+      "An officer is prohibited from ever asking about immigration status."
+    ],
+    "reference": "Immigration Status Inquiries: An officer may inquire about a victim's or witness's immigration status only if it is necessary to investigate the offense or to provide information on federal visas for cooperation with law enforcement."
+  },
+  {
+    "question": "Generally, what is the arrest authority of federal officers (Special Investigators) in Texas for state law violations?",
+    "answer": "They are limited to arresting for felony state offenses.",
+    "options": [
+      "They have the same arrest powers as Texas peace officers.",
+      "They can only arrest for federal offenses.",
+      "They can arrest for any state law violation, including misdemeanors.",
+      "They are limited to arresting for felony state offenses."
+    ],
+    "reference": "General Rule: Federal officers (e.g., FBI, Secret Service, ATF, IRS) are not Texas peace officers. In Texas, they are generally limited to arresting for felony state offenses."
+  },
+  {
+    "question": "Which federal officers have extended authority to enforce DWI/intoxication offenses in Texas?",
+    "answer": "Customs and Border Protection at the Mexican border.",
+    "options": [
+      "All FBI agents.",
+      "All ATF agents.",
+      "Customs and Border Protection at the Mexican border.",
+      "National Park Service officers."
+    ],
+    "reference": "Extended Powers: Certain federal officers have extended authority to enforce any state law due to their specific assignment: ... Customs and Border Protection at the Mexican border (for DWI/intoxication offenses)."
+  },
+  {
+    "question": "An officer who willingly refuses to execute a lawful warrant can be held in civil contempt of court and fined what amount?",
+    "answer": "$10 to $200.",
+    "options": [
+      "Up to $10.",
+      "$10 to $200.",
+      "$200 to $500.",
+      "There is no fine, only potential criminal charges."
+    ],
+    "reference": "6.6 Neglecting to Execute Process (Art. 2.16) An officer who willingly refuses or neglects to execute a legal process (like a warrant) can be held in civil contempt of court and fined $10 to $200."
+  },
+  {
+    "question": "According to Art. 2.17, what is a specific duty of the Sheriff as the conservator of the peace in their county?",
+    "answer": "To quell and suppress all assaults, batteries, riots, and unlawful assemblies.",
+    "options": [
+      "To personally investigate all homicides.",
+      "To oversee the operations of municipal police departments.",
+      "To collect all property taxes.",
+      "To quell and suppress all assaults, batteries, riots, and unlawful assemblies."
+    ],
+    "reference": "6.7 The Sheriff's Duties (Art. 2.17 & 2.18) The Sheriff is the conservator of the peace in their county. They have a specific duty to quell and suppress all assaults, batteries, riots, insurrections, and unlawful assemblies."
   }
 ],
         "Arrest & Frisk Tactics": [
   {
-    "question": "An officer has a 'hunch' or 'feeling of intuition' that a person might be involved in criminal activity, but has no specific facts to support this feeling. What level of proof does the officer have?",
-    "answer": "Mere Suspicion.",
-    "options": [
-      "Probable Cause.",
-      "Reasonable Suspicion.",
-      "Mere Suspicion.",
-      "Proof Beyond a Reasonable Doubt."
-    ],
-    "reference": "What is Mere Suspicion? Hunch / feeling of intuition... insufficient proof of any fact in a court of law.",
-    "explanation": "Mere suspicion is the lowest level of certainty and is not enough to justify a detention. It does, however, allow an officer to continue observing and to approach the individual for a consensual encounter."
-  },
-  {
-    "question": "What is the legal standard required for a peace officer to conduct a temporary detention (a 'Terry Stop')?",
-    "answer": "Reasonable Suspicion.",
-    "options": [
-      "A warrant signed by a magistrate.",
-      "Probable Cause.",
-      "A mere hunch or suspicion.",
-      "Reasonable Suspicion."
-    ],
-    "reference": "Temporary Detention: Holding a person for a limited time... You have REASONABLE SUSPICION that a person is connected with some suspicious activity...",
-    "explanation": "To temporarily detain someone, an officer must have specific, articulable facts that, when taken together, would lead a reasonable officer to believe that criminal activity is afoot."
-  },
-  {
-    "question": "What is the legal standard required for a peace officer to make an arrest or conduct a full search?",
-    "answer": "Probable Cause.",
-    "options": [
-      "Probable Cause.",
-      "Reasonable Suspicion.",
-      "Mere Suspicion.",
-      "Absolute certainty."
-    ],
-    "reference": "Probable Cause: The facts & circumstances within the officer’s knowledge, & of which they have reasonable trustworthy information, are sufficient in themselves to warrant a belief by a man of reasonable caution that a crime has been or is being committed.",
-    "explanation": "Probable Cause is a higher standard than reasonable suspicion and is the constitutional requirement for arrests and most searches."
-  },
-  {
-    "question": "According to the Frisking Tactics handout, what is the primary purpose of conducting a frisk?",
+    "question": "According to the handout, what is the primary purpose of conducting a frisk?",
     "answer": "Officer Safety related to Weapons.",
     "options": [
       "To discover illegal narcotics.",
@@ -2672,131 +3114,1167 @@
       "To identify the suspect through their wallet.",
       "Officer Safety related to Weapons."
     ],
-    "reference": "Justifying a Proper 'Frisk'. Purpose is Officer Safety related to Weapons",
-    "explanation": "A frisk (or pat-down) is strictly a protective search of a person's outer clothing to find weapons; it is not a search for general evidence."
+    "reference": "Justifying a Proper “Frisk”: Purpose is Officer Safety related to Weapons",
+    "explanation": "A frisk is strictly a protective measure, not a tool for fishing for evidence. It is a limited search of a person's outer clothing to find weapons that could harm the officer."
   },
   {
-    "question": "An officer tells a judge, 'I frisked the suspect for officer safety.' Why is this justification insufficient on its own?",
+    "question": "What is the legal standard required to justify a frisk or pat-down search?",
+    "answer": "Reasonable suspicion or fear that someone may be armed and/or dangerous.",
+    "options": [
+      "Probable cause that a crime was committed.",
+      "A simple hunch or intuition.",
+      "The person's refusal to answer questions.",
+      "Reasonable suspicion or fear that someone may be armed and/or dangerous."
+    ],
+    "reference": "When is a Frisk Search Justified? Weapons/Officer Safety: reasonable suspicion or fear that someone may be armed &/or dangerous",
+    "explanation": "An officer must be able to articulate specific facts that led them to believe the person could be armed. This is a lower standard than probable cause but higher than a mere hunch."
+  },
+  {
+    "question": "An officer justifies a frisk by stating it was for 'officer safety' and nothing more. Why is this considered a 'bad response'?",
     "answer": "The officer must be able to articulate the specific facts that caused them to fear for their safety.",
     "options": [
-      "It is a perfect justification and no more is needed.",
+      "It is a valid and complete justification on its own.",
       "The officer should have said 'public safety' instead of 'officer safety'.",
       "The officer must be able to articulate the specific facts that caused them to fear for their safety.",
-      "The officer must have a witness to corroborate their fear."
+      "The officer should have stated they were searching for contraband."
     ],
-    "reference": "Bad response: 'Officer safety' and nothing more. Good Answer: I was in fear for my safety because of the following facts...",
-    "explanation": "Courts require objective facts to justify a frisk, not just a subjective feeling. The officer must explain *why* they were in fear (e.g., suspect's furtive movements, bulges in clothing, nature of the suspected crime)."
+    "reference": "Bad response: “Officer safety” and nothing more. Good Answer: I was in fear for my safety because of the following facts",
+    "explanation": "Courts require an objective basis for a frisk. The officer must explain *why* they were in fear by pointing to specific observations, such as the time, location, suspect's behavior, or bulges in clothing."
+  },
+  {
+    "question": "Which of the following articulable facts would help justify a frisk, based on the 'Good Answer' example?",
+    "answer": "The car’s rear window was broken, and the officer feared it may have been stolen.",
+    "options": [
+      "The driver was polite and cooperative.",
+      "The stop occurred during a busy time of day.",
+      "The driver was wearing expensive clothing.",
+      "The car’s rear window was broken, and the officer feared it may have been stolen."
+    ],
+    "reference": "Good Answer: I was in fear for my safety because of the following facts... The car’s rear window was broken, and I feared it may have been stolen."
+  },
+  {
+    "question": "According to the 'Frisking Rules', what is the correct procedure if you have probable cause to arrest a person?",
+    "answer": "You should handcuff the person first, then conduct a full search, not a frisk.",
+    "options": [
+      "You should frisk the person, then handcuff them, then search them.",
+      "You should ask for consent to search before handcuffing.",
+      "You should handcuff the person first, then conduct a full search, not a frisk.",
+      "You should conduct a frisk instead of a full search to save time."
+    ],
+    "reference": "Frisking Rules. DO NOT use frisk tactics if they are under arrest. Handcuff 1st then do a FULL search",
+    "explanation": "This rule highlights the legal distinction. A 'frisk' is for weapons based on reasonable suspicion. A 'search incident to arrest' is for weapons and evidence and is justified by the lawful arrest itself."
+  },
+  {
+    "question": "For the greatest tactical advantage, a frisk should be performed from what position relative to the suspect?",
+    "answer": "From behind the suspect.",
+    "options": [
+      "Directly in front of the suspect.",
+      "From the suspect's dominant-hand side.",
+      "From the suspect's non-dominant side.",
+      "From behind the suspect."
+    ],
+    "reference": "Frisk FROM BEHIND YOUR SUSPECT: Standing or Kneeling",
+    "explanation": "Operating from behind the suspect minimizes their ability to launch a sudden attack, grab the officer's weapon, or turn the encounter into a physical struggle."
+  },
+  {
+    "question": "What does the handout state about frisking a suspect with their 'hands on the head'?",
+    "answer": "It is prohibited ('NO hands on the head frisking').",
+    "options": [
+      "It is the recommended procedure.",
+      "It is allowed for uncooperative suspects.",
+      "It is prohibited ('NO hands on the head frisking').",
+      "It should only be done by two officers."
+    ],
+    "reference": "NO hands on the head frisking",
+    "explanation": "This position can be unstable and may not provide the officer with adequate control over the suspect's hands compared to other, more secure positions."
+  },
+  {
+    "question": "What is the handout's recommendation regarding the 'hands on the wall' frisk search position?",
+    "answer": "It is NOT recommended.",
+    "options": [
+      "It is the primary recommended position.",
+      "It is NOT recommended.",
+      "It should be used in all high-risk situations.",
+      "It is only recommended for searching female suspects."
+    ],
+    "reference": "“Hands on the wall” frisk searches are NOT recommended",
+    "explanation": "Modern tactical training often discourages this position because it can give the suspect leverage to push off the wall, creating distance or launching an attack on the officer."
+  },
+  {
+    "question": "In what situation would a 'Prone Body Search' be most appropriate?",
+    "answer": "In a high-risk situation that would likely justify handcuffing before the search.",
+    "options": [
+      "For any routine pedestrian stop.",
+      "For searching a person who is cooperating fully.",
+      "For a search conducted inside a building.",
+      "In a high-risk situation that would likely justify handcuffing before the search."
+    ],
+    "reference": "Prone Body Search (for a high-risk situation which would likely to justify cuffing before a frisk): Face down; Arms extended outward; Legs spread",
+    "explanation": "The prone position offers maximum control over a high-risk or non-compliant individual, making it safer for the officer before or during a search."
+  },
+  {
+    "question": "What is the correct body position for a suspect during a Kneeling Body Search?",
+    "answer": "On their knees with their legs crossed.",
+    "options": [
+      "Kneeling with their hands on their head.",
+      "On their knees with their legs spread wide.",
+      "Kneeling on one knee only.",
+      "On their knees with their legs crossed."
+    ],
+    "reference": "Kneeling Body Search: On knees; Legs crossed",
+    "explanation": "Having the suspect cross their legs makes them less stable and less able to suddenly stand up or launch an attack from the kneeling position."
+  },
+  {
+    "question": "When controlling a suspect's hands from behind for a frisk, what is the 'Interlaced fingers' technique?",
+    "answer": "Having the suspect interlace loose fingers with their palms out.",
+    "options": [
+      "Having the suspect place their palms together in a 'praying' position.",
+      "Having the suspect interlace loose fingers with their palms out.",
+      "Grasping the suspect's wrists firmly.",
+      "Having the suspect place their palms down with fingers tightly interlaced."
+    ],
+    "reference": "2 Frisk Methods: Interlaced fingers: loose fingers and palms out",
+    "explanation": "This method of hand control allows the officer to feel subtle movements and maintain control while keeping the suspect slightly off-balance."
+  },
+  {
+    "question": "When controlling a suspect's hands, what is the 'Tightly interlaced fingers' technique?",
+    "answer": "Having the suspect interlace fingers with their palms down.",
+    "options": [
+      "Having the suspect make two fists.",
+      "Having the suspect interlace fingers with their palms out.",
+      "Having the suspect interlace fingers with their palms down.",
+      "Having the suspect place their hands flat against their back."
+    ],
+    "reference": "Tightly interlaced fingers with palms down. For un-flexible people, the palms may be facing toward you",
+    "explanation": "This technique provides a different type of control, especially useful for individuals with varying levels of flexibility, by locking the hands and wrists."
+  },
+  {
+    "question": "What is a key principle that applies to both the 'Interlaced' and 'Tightly Interlaced' frisk methods?",
+    "answer": "Keep the suspect off balance.",
+    "options": [
+      "Always apply handcuffs first.",
+      "Ensure the suspect is comfortable.",
+      "Keep the suspect off balance.",
+      "Search the front of the suspect first."
+    ],
+    "reference": "For Both Methods: Keep them off balance",
+    "explanation": "An off-balance subject is less capable of mounting effective resistance or a sudden attack, which is a key component of officer safety during any physical contact."
+  },
+  {
+    "question": "An officer is attempting to frisk a suspect who suddenly tenses up and tries to pull away. According to the handout, what are the two tactical options for the officer?",
+    "answer": "Take control and cuff, or disengage and choose a proper force option.",
+    "options": [
+      "Immediately deploy a taser or OC spray.",
+      "Take control and cuff, or disengage and choose a proper force option.",
+      "Give verbal commands and wait for backup.",
+      "Warn the suspect they will be arrested for resisting."
+    ],
+    "reference": "If You Feel Active Resistance: 1. Take control & cuff or 2.Disengage & choose proper force option",
+    "explanation": "This presents the core decision an officer must make when facing active resistance: either escalate control to safely end the confrontation (cuffing) or create distance to re-evaluate and possibly use a different tool or tactic."
+  },
+  {
+    "question": "When explaining a frisk to a citizen, what should an officer state is the purpose of the search?",
+    "answer": "For weapons and officer safety.",
+    "options": [
+      "To check for illegal drugs.",
+      "To find any evidence of a crime.",
+      "For weapons and officer safety.",
+      "To verify their identity."
+    ],
+    "reference": "How to explain it to them–A frisk is a search for weapons and officer safety",
+    "explanation": "Clearly and honestly stating the purpose of the frisk is for weapons and safety can de-escalate the situation and clarifies the legal justification for the pat-down."
+  },
+  {
+    "question": "What is the proper physical technique for conducting a frisk on a suspect's clothing?",
+    "answer": "An open hand pass over, feeling with the palm.",
+    "options": [
+      "A series of quick pats on the outer clothing.",
+      "Using only the fingertips to feel for objects.",
+      "Using a bladed hand for the entire search.",
+      "An open hand pass over, feeling with the palm."
+    ],
+    "reference": "OPEN HAND PASS OVER (feeling with the palm) of the OUTER clothing. NO PATTING.",
+    "explanation": "Using the palm provides more sensory feedback to detect hard objects that could be weapons, while 'patting' can be less effective and may be perceived as more aggressive."
+  },
+  {
+    "question": "According to the handout, when is it appropriate for an officer to use a 'bladed hand' during a frisk?",
+    "answer": "Only for sensitive areas.",
+    "options": [
+      "For searching the waistband.",
+      "For searching all pockets.",
+      "It should never be used.",
+      "Only for sensitive areas."
+    ],
+    "reference": "Bladed hand is only for sensitive areas",
+    "explanation": "Using a bladed hand (the edge of the hand) is a more precise technique used to search areas like the groin or under the arms while maintaining officer safety and being as unintrusive as possible."
+  },
+  {
+    "question": "A person intentionally uses force against a peace officer to obstruct the officer from conducting a lawful search. What offense has been committed?",
+    "answer": "Resisting Search (Class A Misdemeanor)",
+    "options": [
+      "Interference with Public Duties (Class B Misdemeanor)",
+      "Evading Arrest (Class A Misdemeanor)",
+      "Assault on a Public Servant (3rd Degree Felony)",
+      "Resisting Search (Class A Misdemeanor)"
+    ],
+    "reference": "38.03. RESISTING Arrest, Search, or Transportation. When one intentionally prevents /obstructs, by using force. Class A",
+    "explanation": "This offense is specific to the use of *force* against an officer to defeat an arrest, search, or transport. Merely pulling away might not be enough, but shoving or actively fighting would be."
+  },
+  {
+    "question": "A person, with criminal negligence, gets in the way of a peace officer who is trying to perform a duty, but does not use force. What offense has been committed?",
+    "answer": "Interference with Public Duties (Class B Misdemeanor)",
+    "options": [
+      "Resisting Arrest (Class A Misdemeanor)",
+      "Interference with Public Duties (Class B Misdemeanor)",
+      "Evading Arrest (Class A Misdemeanor)",
+      "Disorderly Conduct (Class C Misdemeanor)"
+    ],
+    "reference": "38.15 Interference with Duties. with criminal negligence interrupts, disrupts, impedes, or otherwise interferes, other than speech. Class B",
+    "explanation": "This charge applies when someone hinders an officer through their negligent actions, short of using physical force against the officer."
+  },
+  {
+    "question": "An officer attempts to lawfully detain a suspect for investigation, and the suspect intentionally runs away. What offense has been committed?",
+    "answer": "Evading Arrest or Detention (Class A Misdemeanor)",
+    "options": [
+      "Resisting Arrest (Class A Misdemeanor)",
+      "Interference with Public Duties (Class B Misdemeanor)",
+      "Evading Arrest or Detention (Class A Misdemeanor)",
+      "No offense has been committed."
+    ],
+    "reference": "38.04 Evading. Flees from arrest or detention efforts. Class A",
+    "explanation": "This offense is committed simply by the act of fleeing from a known peace officer who is lawfully trying to arrest or detain them."
+  },
+  {
+    "question": "What is the 'magic question' an officer should ask before searching anyone?",
+    "answer": "Before I search you, do you have any weapons or anything that can poke or cut me?",
+    "options": [
+      "Do you have any illegal items on you?",
+      "Have you ever been arrested before?",
+      "Before I search you, do you have any weapons or anything that can poke or cut me?",
+      "Do you consent to this search?"
+    ],
+    "reference": "The magic question before searching anyone. Before I search you, do you have any weapons or anything that can poke or cut me?",
+    "explanation": "This question is critical for officer safety. It protects the officer from sharp objects and, if the suspect lies, their statement can be used against them."
+  },
+  {
+    "question": "When conducting the actual frisk search, where should the search always start?",
+    "answer": "The back waistband.",
+    "options": [
+      "The front pockets.",
+      "The ankles and lower legs.",
+      "The collar and neck area.",
+      "The back waistband."
+    ],
+    "reference": "Conducting the Actual “Frisk” Search. Lift & PULL the clasped hands away from the WAIST. 1st search the BACK waistband.",
+    "explanation": "The waistband is the most common area for suspects to conceal weapons, making it the most critical area to clear first for officer safety."
+  },
+  {
+    "question": "What legal principle was established in the U.S. Supreme Court case *Minnesota v. Dickerson*?",
+    "answer": "An officer performing a frisk may not seize contraband unless the identity of that contraband is immediately apparent by touch.",
+    "options": [
+      "Officers must always have a warrant to search a person.",
+      "A frisk can be used to search for any type of evidence.",
+      "An officer performing a frisk may not seize contraband unless the identity of that contraband is immediately apparent by touch.",
+      "Officers must read Miranda rights before conducting a frisk."
+    ],
+    "reference": "Minnesota v Dickerson, 1993. A police officer performing a frisk search for weapons may NOT seize other contraband detected during the search UNLESS the identity of that contraband is IMMEDIATELY apparent.",
+    "explanation": "This is known as the 'Plain Feel' or 'Plain Touch' doctrine. An officer cannot manipulate an object to figure out what it is; its illegal nature must be obvious from the initial touch."
+  },
+  {
+    "question": "During a frisk, an officer feels a small, hard rock-like object in a suspect's pocket. The officer is unsure what it is. Based on *Minnesota v. Dickerson*, what should the officer do?",
+    "answer": "Stop manipulating the object once it is determined not to be a weapon.",
+    "options": [
+      "Squeeze and manipulate the object until they can identify it.",
+      "Remove the object to visually inspect it.",
+      "Arrest the suspect for possession of a controlled substance.",
+      "Stop manipulating the object once it is determined not to be a weapon."
+    ],
+    "reference": "NO manipulation of items under the clothing during the search UNLESS it could be some type of a weapon. Once you eliminate the possibility of something you feel being a weapon the manipulation of the item should stop.",
+    "explanation": "Under the 'Plain Feel' doctrine, once an officer concludes an object is not a weapon, the justification for the frisk ends for that object. Further manipulation would constitute an illegal search."
+  },
+  {
+    "question": "An officer is frisking a suspect and feels an undeclared weapon. What is one of the first tactical questions the officer should consider?",
+    "answer": "Is a cover unit present?",
+    "options": [
+      "What is the suspect's criminal history?",
+      "Is a cover unit present?",
+      "Is the encounter being recorded?",
+      "What time of day is it?"
+    ],
+    "reference": "What if you find an UN-declared weapon? • Is a cover unit present?",
+    "explanation": "The presence of a cover officer dramatically changes the tactical options available, making it safer to control the suspect and the weapon simultaneously."
+  },
+  {
+    "question": "During a frisk, an officer finds an undeclared pocket knife with a legal-length blade. According to the options presented in the handout, what is a reasonable course of action?",
+    "answer": "Remove the item and retain it for the remainder of the contact.",
+    "options": [
+      "Immediately arrest the suspect for possession of a prohibited weapon.",
+      "Ignore the knife as it is legal.",
+      "Remove the item and retain it for the remainder of the contact.",
+      "Immediately use a higher level of force."
+    ],
+    "reference": "o Pocket knife, screwdriver, box cutter, etc.? ▪ Perhaps remove it and retain it for the remainder of the contact?",
+    "explanation": "Even if legal, an undeclared potential weapon poses a threat. Temporarily securing the item for the duration of the stop is a reasonable safety measure."
+  },
+  {
+    "question": "An officer finds a firearm on a suspect during a frisk. What is the immediate tactical priority?",
+    "answer": "Safely control and handcuff the suspect, possibly with the help of a cover officer.",
+    "options": [
+      "Unload the firearm immediately.",
+      "Ask the suspect if they have a license for the firearm.",
+      "Leave the firearm in place and continue the search.",
+      "Safely control and handcuff the suspect, possibly with the help of a cover officer."
+    ],
+    "reference": "o Firearm? ▪ Handcuff or take to kneeling and then cuff? ▪ Handcuff with a cover officer’s help?",
+    "explanation": "When a firearm is found, the situation escalates significantly. The top priority becomes controlling the suspect to prevent them from accessing the weapon before dealing with the weapon itself."
+  },
+  {
+    "question": "When beginning the handcuffing process from a frisk position, what is the first action an officer should take after securing the suspect's hands?",
+    "answer": "Pull back the hands away from the waistband.",
+    "options": [
+      "Double-lock the cuffs.",
+      "Check the cuffs for tightness.",
+      "Pull back the hands away from the waistband.",
+      "Immediately move the suspect to a kneeling position."
+    ],
+    "reference": "Cuffing from the frisk position... • Pull back hands",
+    "explanation": "Pulling the hands back and away from the small of the back (a common hiding spot for weapons) is a critical safety step before applying the handcuffs."
+  },
+  {
+    "question": "What should an officer do with the suspect's sleeves before applying handcuffs?",
+    "answer": "Move any sleeves with the cuffing hand.",
+    "options": [
+      "Ignore the sleeves as they are not a threat.",
+      "Cut the sleeves off if they are too long.",
+      "Ask the suspect to roll up their own sleeves.",
+      "Move any sleeves with the cuffing hand."
+    ],
+    "reference": "• Move any SLEEVESwith the cuffing hand",
+    "explanation": "Clearing the wrists of any clothing ensures that the handcuffs can be applied properly and securely, preventing the suspect from slipping them off."
+  },
+  {
+    "question": "According to the handout, which handcuff should be applied first when cuffing from a frisk position?",
+    "answer": "The bottom cuff.",
+    "options": [
+      "The top cuff.",
+      "The cuff on the suspect's dominant hand.",
+      "The bottom cuff.",
+      "It does not matter which cuff is applied first."
+    ],
+    "reference": "• Cuff the same, bottom cuff first and then apply the second cuff",
+    "explanation": "Applying the bottom cuff first is a specific technique taught to maintain control and leverage during the handcuffing process."
+  },
+  {
+    "question": "An officer is trying to handcuff a suspect whose wrists are too far apart to apply the second cuff. What is the recommended technique?",
+    "answer": "Apply the first cuff, then 'peel off' the uncuffed hand into a wrist lock to move the hands together.",
+    "options": [
+      "Use two pairs of handcuffs.",
+      "Order the suspect to move their hands closer.",
+      "Apply more pressure until the hands can be brought together.",
+      "Apply the first cuff, then 'peel off' the uncuffed hand into a wrist lock to move the hands together."
+    ],
+    "reference": "• If the wrists are too far apart:– Apply the first cuff (bottom cuff)– “Peel off” the uncuffed hand into a wrist lock type grip– Move the hands together as you apply the 2ndcuff"
+  },
+  {
+    "question": "Which hand control technique involves the suspect having loose fingers with their palms out?",
+    "answer": "Interlaced.",
+    "options": [
+      "Tightly Interlaced.",
+      "Grasped Fingers.",
+      "Interlaced.",
+      "Palms Down."
+    ],
+    "reference": "What if the wrists are too far apart? 1. Interlaced: loose fingers, palms out"
+  },
+  {
+    "question": "Which hand control technique involves the suspect having their palms flat and straight?",
+    "answer": "Tightly Interlaced.",
+    "options": [
+      "Interlaced.",
+      "Tightly Interlaced.",
+      "Loose Fingers.",
+      "Palms Out."
+    ],
+    "reference": "2. Tightly Interlaced: palms flat & straight"
+  },
+  {
+    "question": "What is the core mission of the Texas Commission on Law Enforcement (TCOLE)?",
+    "answer": "To ensure the people of Texas are served by highly trained and ethical professionals.",
+    "options": [
+      "To lobby for new law enforcement legislation.",
+      "To manage the payroll for all Texas peace officers.",
+      "To ensure the people of Texas are served by highly trained and ethical professionals.",
+      "To provide legal defense for officers accused of misconduct."
+    ],
+    "reference": "The core mission of TCOLE is to ensure the people of Texas are served by highly trained and ethical professionals through rigorous screening, development, and monitoring of standards.",
+    "explanation": "TCOLE is the state's regulatory agency that sets the minimum standards for training and licensing for all peace officers, ensuring a baseline of quality and ethics."
+  },
+  {
+    "question": "An officer conducts a search based on a person's voluntary, intelligent, and knowing waiver of their Fourth Amendment rights. What is this legal justification called?",
+    "answer": "Consent",
+    "options": [
+      "Probable Cause",
+      "Reasonable Suspicion",
+      "Search Incident to Lawful Arrest",
+      "Consent"
+    ],
+    "reference": "Consent: A search may be conducted if a person gives voluntary, intelligent, and knowing consent. This means they are waiving their Fourth Amendment right to be free from unreasonable searches.",
+    "explanation": "A consent search is a powerful tool, but the consent must be freely given and not be the result of police coercion or duress."
+  },
+  {
+    "question": "What is the legal standard required for an officer to believe a crime has been committed and that a person possesses evidence of that crime?",
+    "answer": "Probable Cause",
+    "options": [
+      "Consent",
+      "Reasonable Suspicion",
+      "Probable Cause",
+      "A mere hunch"
+    ],
+    "reference": "Probable Cause: This is the standard required to believe a crime has been committed and that the person to be searched possesses evidence of that crime. Probable cause is a higher legal standard than reasonable suspicion...",
+    "explanation": "Probable Cause is the standard required for arrests and for obtaining search warrants. It's based on the totality of facts and circumstances."
+  },
+  {
+    "question": "When a person is lawfully placed under arrest, officers are permitted to conduct a full search of the person and the area within their immediate control. What is this exception to the warrant requirement called?",
+    "answer": "Search Incident to Lawful Arrest (SILA)",
+    "options": [
+      "Terry Frisk",
+      "Consent Search",
+      "Plain Feel Doctrine",
+      "Search Incident to Lawful Arrest (SILA)"
+    ],
+    "reference": "Search Incident to Lawful Arrest (SILA): When a person is lawfully placed under arrest, officers are permitted to conduct a full and thorough search of the arrestee's person and the area within their immediate control.",
+    "explanation": "SILA is justified by the need to find any weapons the arrestee could use against the officer and to prevent the destruction of evidence related to the crime of arrest."
   },
   {
     "question": "What is the key difference between a 'frisk' and a 'search'?",
-    "answer": "A frisk is a pat-down of outer clothing for weapons, while a search allows for a more intrusive examination for weapons or evidence.",
+    "answer": "A frisk is a limited pat-down of outer clothing for weapons only, while a search is a full intrusion for evidence or contraband.",
     "options": [
       "There is no difference; the terms are interchangeable.",
       "A frisk requires probable cause, while a search only requires reasonable suspicion.",
-      "A frisk is a pat-down of outer clothing for weapons, while a search allows for a more intrusive examination for weapons or evidence.",
-      "A frisk can only be performed by male officers, while a search can be performed by any officer."
+      "A frisk is a limited pat-down of outer clothing for weapons only, while a search is a full intrusion for evidence or contraband.",
+      "A frisk is for drugs, while a search is for weapons."
     ],
-    "reference": "Frisk: a “pat down” of the outer clothing of a person... It is a search for WEAPONS only. ... Frisks ARE NOT USED FOR ARRESTS: handcuff then search for arrests",
-    "explanation": "The scope of a frisk is limited to what is necessary for protection. A full search, typically done after an arrest, is more thorough and can be used to discover evidence of the crime."
+    "reference": "A frisk, or pat-down, is a limited pat-down of a person's outer clothing only. Its sole purpose is to discover weapons... It is explicitly not a search for drugs, contraband, or other evidence... If an officer conducting a frisk finds themselves going into a subject's pocket, they are no longer frisking; they are searching..."
   },
   {
-    "question": "An officer is conducting a lawful frisk and feels a hard, cylindrical object in the suspect's pocket that they immediately recognize as a crack pipe. What does the 'Plain Feel' Doctrine allow the officer to do?",
-    "answer": "Seize the crack pipe as contraband.",
+    "question": "What is the legal standard required for an officer to conduct a frisk (pat-down)?",
+    "answer": "Reasonable Suspicion (RS) that the person may be armed and presently dangerous.",
     "options": [
-      "Continue the frisk but ignore the pipe as it is not a weapon.",
-      "Ask the suspect for consent to remove the pipe.",
-      "Immediately arrest the suspect for possession of a weapon.",
-      "Seize the crack pipe as contraband."
+      "Probable Cause to arrest.",
+      "The person's consent.",
+      "Reasonable Suspicion (RS) that the person may be armed and presently dangerous.",
+      "A mere suspicion or hunch."
     ],
-    "reference": "This concept is not explicitly in the provided text but is a standard TCOLE topic directly related to frisks. The 'Plain Feel' or 'Plain Touch' doctrine allows seizure of contraband if its identity as contraband is 'immediately apparent' to the officer during a lawful pat-down."
+    "reference": "Justification for a Frisk: The legal standard required to conduct a frisk is Reasonable Suspicion (RS). This is a lower standard than probable cause. RS is the belief, based on specific and articulable facts, that a person may be armed and presently dangerous."
   },
   {
-    "question": "During a lawful temporary detention, is a person required to provide their name, address, or date of birth?",
-    "answer": "No, a person is not required to identify themselves during a temporary detention.",
+    "question": "An officer stops a person at 2:00 AM in a known high-crime area. The person matches the description of a suspect in a recent robbery. What has the officer established?",
+    "answer": "Reasonable Suspicion to detain and potentially frisk the person.",
     "options": [
-      "Yes, if the officer demands it.",
-      "No, a person is not required to identify themselves during a temporary detention.",
-      "Yes, but only if they are a suspect in a felony.",
-      "Only if the officer promises not to arrest them."
+      "No legal basis for a stop.",
+      "Probable Cause to make an arrest immediately.",
+      "Reasonable Suspicion to detain and potentially frisk the person.",
+      "Grounds for a consent search only."
     ],
-    "reference": "Failure to ID... A person being temporarily detained is NOT required to identify him or herself."
+    "reference": "Articulating Reasonable Suspicion: RS is not a 'hunch.' It is built upon the totality of the circumstances. These facts can include, but are not limited to : Time of day... Location... The nature of a suspected crime...",
+    "explanation": "The officer can combine these specific, articulable facts (time, location, nature of crime) to form reasonable suspicion, which justifies a temporary detention and a frisk for weapons."
   },
   {
-    "question": "A person has been lawfully arrested. When can they be charged with Failure to Identify?",
-    "answer": "If they intentionally refuse to give their name, address, or date of birth after being requested by an officer.",
+    "question": "The landmark U.S. Supreme Court case that established the legal framework for the 'stop-and-frisk' is:",
+    "answer": "Terry v. Ohio",
     "options": [
-      "They cannot be charged, as they have a right to remain silent.",
-      "If they intentionally refuse to give their name, address, or date of birth after being requested by an officer.",
-      "Only if they give a false name, not if they refuse to give one.",
-      "Only if they are arrested for a felony."
+      "Miranda v. Arizona",
+      "Tennessee v. Garner",
+      "Minnesota v. Dickerson",
+      "Terry v. Ohio"
     ],
-    "reference": "PC 38.02 Failure to Identify... A person lawfully arrested shall give their name, address, and date of birth."
+    "reference": "1.3 The Landmark Case: Terry v. Ohio and the 'Terry Frisk'. The entire legal framework for the modern stop-and-frisk is built upon a single, landmark U.S. Supreme Court case."
   },
   {
-    "question": "When cuffing a suspect from a frisk position, what does the handout say is the first mechanical step?",
-    "answer": "Apply the bottom cuff first.",
+    "question": "What were the two key rulings that came from Terry v. Ohio?",
+    "answer": "Police may briefly detain a person on reasonable suspicion of criminal activity (Terry Stop) and may frisk them for weapons if they have reasonable suspicion they are armed (Terry Frisk).",
     "options": [
-      "Bring the suspect's hands together.",
-      "Apply the top cuff first.",
-      "Apply the bottom cuff first.",
-      "Double-lock the cuffs."
+      "Police need a warrant for all stops and all frisks.",
+      "Police may detain and frisk anyone they believe looks suspicious.",
+      "Police may briefly detain a person on reasonable suspicion of criminal activity (Terry Stop) and may frisk them for weapons if they have reasonable suspicion they are armed (Terry Frisk).",
+      "Police can only frisk a person after they have been lawfully arrested."
     ],
-    "reference": "Cuffing from the frisk position... Cuff the same, bottom cuff first and then apply the second cuff"
+    "reference": "The Supreme Court's Ruling: ...The Court ruled that it is not a violation of the Fourth Amendment for police to briefly detain a person based on a reasonable suspicion that criminal activity is afoot (this became known as a 'Terry Stop'). Furthermore, if the officer has a reasonable suspicion that the person is armed and dangerous, they may conduct a limited pat-down... for weapons (a 'Terry Frisk')."
   },
   {
-    "question": "An officer is handcuffing a suspect whose wrists are too far apart to apply the cuffs in one motion. What is the recommended technique?",
-    "answer": "Apply the first cuff, 'peel off' the uncuffed hand into a wrist lock, and then move the hands together.",
+    "question": "What legal principle was established by the Supreme Court case *Minnesota v. Dickerson*?",
+    "answer": "The 'Plain Feel Doctrine'.",
     "options": [
-      "Use two pairs of handcuffs.",
-      "Apply more pressure until the hands can be brought together.",
-      "Apply the first cuff, 'peel off' the uncuffed hand into a wrist lock, and then move the hands together.",
-      "Forgo handcuffing and use a different restraint method."
+      "The Exclusionary Rule.",
+      "The right to a speedy trial.",
+      "The 'Plain Feel Doctrine'.",
+      "The standard of objective reasonableness."
     ],
-    "reference": "If the wrists are too far apart: Apply the first cuff (bottom cuff); 'Peel off' the uncuffed hand into a wrist lock type grip; Move the hands together as you apply the 2nd cuff"
+    "reference": "1.4 The 'Plain Feel' Doctrine: Minnesota v. Dickerson. While Terry established the right to frisk for weapons, a later case, Minnesota v. Dickerson, defined the limits of what an officer can seize during that frisk."
   },
   {
-    "question": "Under CCP Art. 18.16, who has the right to seize stolen property to prevent the consequences of theft?",
-    "answer": "Any citizen.",
+    "question": "Under the 'Plain Feel Doctrine', when can an officer seize non-weapon contraband during a lawful Terry frisk?",
+    "answer": "Only if the incriminating nature of the object is 'immediately apparent' to the officer by touch.",
     "options": [
-      "Only a peace officer.",
-      "Only the property owner.",
-      "Any citizen.",
-      "Only a licensed security guard."
+      "Any time they feel something suspicious.",
+      "If they manipulate the object and determine it is contraband.",
+      "Only if the suspect admits to possessing contraband.",
+      "Only if the incriminating nature of the object is 'immediately apparent' to the officer by touch."
     ],
-    "reference": "Article 18.16 of the Code of Criminal Procedure states that citizens have the right to prevent the consequences of theft by seizing stolen personal property and bringing it before a magistrate."
+    "reference": "The Supreme Court's Ruling: The Court held that contraband discovered during a lawful Terry frisk can be seized, but only if its incriminating nature is 'immediately apparent' to the officer through their sense of touch."
   },
   {
-    "question": "A peace officer observes a person commit a felony offense. According to the handout, what is the officer's authority to arrest?",
-    "answer": "The officer may arrest without a warrant.",
+    "question": "An officer conducts a lawful Terry frisk and feels a soft baggie in a suspect's pocket. The officer does not know what is inside. What is the officer legally allowed to do?",
+    "answer": "The officer cannot continue to investigate the baggie by squeezing or manipulating it.",
     "options": [
-      "The officer must first obtain a warrant.",
-      "The officer may only detain the person.",
-      "The officer may arrest without a warrant.",
-      "The officer must get a supervisor's approval before arresting."
+      "The officer can squeeze and manipulate the baggie to determine its contents.",
+      "The officer has probable cause to arrest based on feeling the baggie.",
+      "The officer cannot continue to investigate the baggie by squeezing or manipulating it.",
+      "The officer can remove the baggie to see what is inside."
     ],
-    "reference": "When a Peace Officer MAY arrest: ... 3. Offense within view/presence (for Peace Breach or Felony)"
+    "reference": "Practical Application: ...if the officer feels an unidentifiable lump or a soft baggie, they cannot continue to investigate it by squeezing, shaking, or otherwise manipulating it. To do so exceeds the scope of a Terry frisk and is an unconstitutional search."
   },
   {
-    "question": "An officer has probable cause to believe a person has committed an assault and that there is a danger of further bodily injury to the victim. Does the officer need a warrant to arrest?",
-    "answer": "No, the officer may arrest without a warrant.",
+    "question": "According to the comparative analysis table, what is the purpose of a search?",
+    "answer": "To find evidence of a crime or contraband.",
     "options": [
-      "Yes, a warrant is always required for an assault not seen by the officer.",
-      "No, the officer may arrest without a warrant.",
-      "The officer can only arrest if the victim agrees to press charges at that moment.",
-      "The officer must wait for the victim to get a protective order first."
+      "To find weapons only.",
+      "To ensure officer safety.",
+      "To verify a person's identity.",
+      "To find evidence of a crime or contraband."
     ],
-    "reference": "When a Peace Officer MAY arrest: ... 8. NON-Family violence assault & PC of further BI to the victim"
+    "reference": "Table 1: Frisk vs. Search - A Comparative Analysis. Search Purpose: To find evidence of a crime or contraband."
   },
   {
-    "question": "An officer has probable cause to believe a person has violated a protective order, but the violation did not happen in the officer's presence. What is the officer's arrest authority?",
-    "answer": "The officer may arrest without a warrant.",
+    "question": "What is the primary goal of subject positioning before a frisk or search?",
+    "answer": "To place the subject in a position of physical disadvantage.",
     "options": [
-      "The officer must arrest without a warrant.",
-      "The officer may only issue a citation.",
-      "The officer may arrest without a warrant.",
-      "The officer must obtain a warrant as the act was not in their presence."
+      "To make the subject as comfortable as possible.",
+      "To face the subject towards the patrol car's camera.",
+      "To place the subject in a position of physical disadvantage.",
+      "To ensure the search can be done as quickly as possible."
     ],
-    "reference": "When a Peace Officer MAY arrest: ... 11. Protective Orders with PC: shall arrest if in your presence; May arrest if not in your presence"
+    "reference": "2.1 Subject Positioning and Control for Tactical Advantage. The Goal: Position of Disadvantage: The objective is to off-balance the subject and minimize their ability to launch a sudden attack or effectively resist control efforts."
+  },
+  {
+    "question": "Why is the 'hands on top of your head' position considered tactically flawed for a close-contact frisk or handcuffing?",
+    "answer": "It leaves the officer vulnerable to elbow strikes and gives the subject a tactical advantage.",
+    "options": [
+      "It is uncomfortable for the subject.",
+      "It is difficult for the officer to reach the handcuffs.",
+      "It leaves the officer vulnerable to elbow strikes and gives the subject a tactical advantage.",
+      "It is not a legally recognized control position."
+    ],
+    "reference": "Critique of 'Hands on Head': ...it is dangerous up close. It offers the officer no mechanical advantage, leaves the officer vulnerable to powerful elbow strikes to the head and neck, and splits the officer's cognitive focus..."
+  },
+  {
+    "question": "What is the 'Touch Check' used for?",
+    "answer": "To gauge a subject's compliance before committing to a full grip.",
+    "options": [
+      "To begin the frisk itself.",
+      "To check for hidden weapons.",
+      "To see if the subject has a medical condition.",
+      "To gauge a subject's compliance before committing to a full grip."
+    ],
+    "reference": "The 'Touch Check': Before committing to a full grip, an officer can use a 'touch check' to gauge compliance. ... If the subject is going to fight, they will likely react to this first touch."
+  },
+  {
+    "question": "When frisking a subject wearing a heavy jacket, when is it legal for the officer to go inside the jacket?",
+    "answer": "Only after the officer feels something that they can articulate could reasonably be a weapon.",
+    "options": [
+      "At any time, because the jacket obstructs the frisk.",
+      "Only after the officer gets consent.",
+      "Only after the officer feels something that they can articulate could reasonably be a weapon.",
+      "It is never legal to go inside the jacket during a frisk."
+    ],
+    "reference": "Handling Bulky Clothing: When a subject is wearing a heavy jacket, the officer must press firmly to feel for objects. To legally go inside the jacket, the officer must first feel something that they can articulate could reasonably be a weapon."
+  },
+  {
+    "question": "During handcuffing, where should the cuffs be applied on the wrist?",
+    "answer": "In the 'handcuff groove' - the narrow area between the hand and the wrist bone.",
+    "options": [
+      "As high up on the forearm as possible.",
+      "Directly over the wrist bone.",
+      "In the 'handcuff groove' - the narrow area between the hand and the wrist bone.",
+      "Across the palm of the hand."
+    ],
+    "reference": "Application Technique: ... Apply the cuff to the 'handcuff groove' of the wrist—the narrow area between the hand and the wrist bone—with a single, quick, downward push."
+  },
+  {
+    "question": "Why must handcuffs be 'double locked' immediately after being checked for proper tightness?",
+    "answer": "To prevent the cuffs from tightening further and to make them harder to defeat.",
+    "options": [
+      "To make a clicking sound that signals the arrest is complete.",
+      "To ensure the keyholes are aligned correctly.",
+      "To prevent the cuffs from tightening further and to make them harder to defeat.",
+      "It is an optional step for officer convenience."
+    ],
+    "reference": "Double Locking: As soon as the cuffs are applied and checked for proper tightness... they must be double locked. This prevents the cuffs from tightening further and causing injury, and it also makes them significantly more difficult for a subject to pick or defeat."
+  },
+  {
+    "question": "A subject pulling their arm away or tensing their muscles to prevent being handcuffed is an example of what level of resistance?",
+    "answer": "Defensive Resistance.",
+    "options": [
+      "Passive Resistance.",
+      "Active Aggression.",
+      "Verbal Non-compliance.",
+      "Defensive Resistance."
+    ],
+    "reference": "Defensive Resistance: The subject is not trying to assault the officer but is actively using force to prevent being controlled or searched. This includes actions like pulling an arm away or tensing up muscles to prevent handcuffing."
+  },
+  {
+    "question": "An officer feels a firearm on a suspect during a frisk. What is the immediate, first priority?",
+    "answer": "To secure and handcuff the subject before retrieving the weapon.",
+    "options": [
+      "To immediately retrieve the firearm.",
+      "To disengage and draw their own weapon.",
+      "To secure and handcuff the subject before retrieving the weapon.",
+      "To ask the subject to hand over the firearm."
+    ],
+    "reference": "First Priority: Cuffs. The immediate response upon feeling a weapon should be to secure the subject: 'As soon as I feel that, cuff cuff'. The officer must handcuff the subject before attempting to retrieve the weapon."
+  },
+  {
+    "question": "After finding one weapon on a suspect and securing them, what must the officer do next?",
+    "answer": "Continue and complete the frisk to ensure there are no other weapons.",
+    "options": [
+      "Immediately transport the suspect to jail.",
+      "The search is over once one weapon is found.",
+      "Ask the suspect if they have any other weapons.",
+      "Continue and complete the frisk to ensure there are no other weapons."
+    ],
+    "reference": "Continue the Frisk: After the first weapon is found and the subject is secured, the officer must continue and complete the frisk to ensure there are no other weapons on the subject's person."
+  },
+  {
+    "question": "A person who uses force to intentionally obstruct a peace officer from effecting a lawful search commits what offense?",
+    "answer": "Resisting Search (Class A Misdemeanor)",
+    "options": [
+      "Interference with Public Duties (Class B Misdemeanor)",
+      "Evading Detention (Class A Misdemeanor)",
+      "Assault on a Public Servant (3rd Degree Felony)",
+      "Resisting Search (Class A Misdemeanor)"
+    ],
+    "reference": "3.1 Resisting Arrest, Search, or Transportation (TPC § 38.03)... 'A person commits an offense if he intentionally prevents or obstructs a person he knows is a peace officer...from effecting an arrest, search, or transportation...by using force...'"
+  },
+  {
+    "question": "A third party who, with criminal negligence, repeatedly gets in the way of an officer conducting a pat-down commits what offense?",
+    "answer": "Interference with Public Duties (Class B Misdemeanor)",
+    "options": [
+      "Resisting Search (Class A Misdemeanor)",
+      "Obstruction or Retaliation (3rd Degree Felony)",
+      "Interference with Public Duties (Class B Misdemeanor)",
+      "No offense, because they did not use force."
+    ],
+    "reference": "3.3 Interference with Public Duties (TPC § 38.15) 'A person commits an offense if the person with criminal negligence interrupts, disrupts, impedes, or otherwise interferes with...a peace officer while the peace officer is performing a duty...'"
+  },
+  {
+    "question": "What is the standard patrol vehicle position for a traffic stop?",
+    "answer": "Approximately 20 feet behind the violator's vehicle and offset about 3 feet to the left.",
+    "options": [
+      "Directly behind the violator's vehicle, bumper to bumper.",
+      "Approximately 50 feet behind and in the same lane.",
+      "Offset to the right of the violator's vehicle.",
+      "Approximately 20 feet behind the violator's vehicle and offset about 3 feet to the left."
+    ],
+    "reference": "Standard Left Offset: The patrol vehicle should be positioned approximately 20 feet behind the violator's vehicle and offset about 3 feet to the left."
+  },
+  {
+    "question": "Why should an officer avoid walking between their own headlights and the suspect's vehicle at night?",
+    "answer": "Because it will create a perfect silhouette of their body, making them an easy target.",
+    "options": [
+      "Because it can temporarily blind the driver.",
+      "Because it makes it difficult to see into the suspect vehicle.",
+      "Because it is a violation of traffic law.",
+      "Because it will create a perfect silhouette of their body, making them an easy target."
+    ],
+    "reference": "The officer must never walk between their own headlights and the suspect vehicle, as this will create a perfect silhouette of their body, negating the entire purpose of the wall of light."
+  },
+  {
+    "question": "Which approach to a stopped vehicle is considered tactically superior because it offers a better view, more safety from traffic, and the element of surprise?",
+    "answer": "The Passenger-Side Approach.",
+    "options": [
+      "The Driver-Side Approach.",
+      "The approach from directly behind.",
+      "The Passenger-Side Approach.",
+      "The approach from the front of the vehicle."
+    ],
+    "reference": "Passenger-Side Approach (Preferred): This approach is tactically superior for several reasons. It offers a much better view into the vehicle's interior, it places the officer further away from passing traffic, and it has the element of surprise..."
+  },
+  {
+    "question": "What is the second step in the standard 7-Step Violator Contact Method?",
+    "answer": "Statement of Violation Committed.",
+    "options": [
+      "Greeting and Identification of Police Agency.",
+      "Identification of Driver.",
+      "Statement of Action to be Taken.",
+      "Statement of Violation Committed."
+    ],
+    "reference": "Step 2: Statement of Violation Committed. The officer must clearly and concisely state the reason for the stop."
+  },
+  {
+    "question": "In the 7-Step Violator Contact Method, when does the officer take the enforcement action (e.g., write the citation)?",
+    "answer": "Step 5, after they have already stated the action to be taken in Step 4.",
+    "options": [
+      "Step 1, immediately upon contact.",
+      "Step 3, after identifying the driver.",
+      "Step 7, as the final action.",
+      "Step 5, after they have already stated the action to be taken in Step 4."
+    ],
+    "reference": "Step 4: Statement of Action to be Taken. The officer must inform the driver of the action they intend to take before taking it... Step 5: Take the Action. The officer takes the stated action."
+  },
+  {
+    "question": "According to the comparative analysis table, what is the primary purpose of a frisk (pat-down)?",
+    "answer": "Officer safety; to find weapons only.",
+    "options": [
+      "To find evidence of a crime or contraband.",
+      "To identify the individual.",
+      "To search for illegal narcotics.",
+      "Officer safety; to find weapons only."
+    ],
+    "reference": "Table 1: Frisk vs. Search - A Comparative Analysis. Purpose: Officer safety; to find weapons only.",
+    "explanation": "A frisk is strictly a protective measure. It is legally distinct from a search, which is an evidence-gathering tool."
+  },
+  {
+    "question": "What is the legal standard required to conduct a search?",
+    "answer": "Probable Cause, Consent, or Search Incident to Lawful Arrest.",
+    "options": [
+      "Reasonable Suspicion only.",
+      "Probable Cause, Consent, or Search Incident to Lawful Arrest.",
+      "A mere hunch or feeling of intuition.",
+      "An anonymous tip."
+    ],
+    "reference": "Table 1: Frisk vs. Search - A Comparative Analysis. Legal Standard [for a Search]: Probable Cause, Consent, or Search Incident to Lawful Arrest.",
+    "explanation": "Unlike a frisk, which only requires reasonable suspicion that a person is armed, a full search requires a higher legal justification like probable cause or a valid exception to the warrant requirement."
+  },
+  {
+    "question": "What is the difference in the scope of intrusion between a frisk and a search?",
+    "answer": "A frisk is limited to the outer clothing, while a search is a full intrusion into pockets and belongings.",
+    "options": [
+      "There is no difference in the scope.",
+      "A frisk is more intrusive than a search.",
+      "A frisk is limited to the outer clothing, while a search is a full intrusion into pockets and belongings.",
+      "A search is limited to the person's vehicle, while a frisk is of the person."
+    ],
+    "reference": "Table 1: Frisk vs. Search - A Comparative Analysis. Scope of Intrusion: [Frisk] Outer clothing only; a pat-down of the exterior. [Search] Full intrusion into pockets, clothing, shoes, and personal belongings."
+  },
+  {
+    "question": "Under the 'Plain Feel' doctrine, what can be seized during a frisk?",
+    "answer": "Weapons and contraband whose identity is 'immediately apparent' by plain feel.",
+    "options": [
+      "Any object the officer feels.",
+      "Only weapons.",
+      "Weapons and contraband whose identity is 'immediately apparent' by plain feel.",
+      "Nothing can be seized until after an arrest."
+    ],
+    "reference": "Table 1: Frisk vs. Search - A Comparative Analysis. What Can Be Seized: [Frisk] Weapons and contraband whose identity is 'immediately apparent' by plain feel."
+  },
+  {
+    "question": "What is the primary objective of subject positioning before conducting a frisk?",
+    "answer": "To off-balance the subject and minimize their ability to launch a sudden attack.",
+    "options": [
+      "To make the subject as comfortable as possible.",
+      "To ensure the best camera angle for the BWC.",
+      "To off-balance the subject and minimize their ability to launch a sudden attack.",
+      "To complete the search as quickly as possible."
+    ],
+    "reference": "The Goal: Position of Disadvantage: The objective is to off-balance the subject and minimize their ability to launch a sudden attack or effectively resist control efforts."
+  },
+  {
+    "question": "Why is the 'hands on top of your head' position considered tactically dangerous for an officer up close?",
+    "answer": "It leaves the officer vulnerable to powerful elbow strikes and splits the officer's focus.",
+    "options": [
+      "It is uncomfortable for the subject.",
+      "It requires too much physical effort from the officer.",
+      "It is illegal in the state of Texas.",
+      "It leaves the officer vulnerable to powerful elbow strikes and splits the officer's focus."
+    ],
+    "reference": "Critique of 'Hands on Head': ...it is dangerous up close. It offers the officer no mechanical advantage, leaves the officer vulnerable to powerful elbow strikes to the head and neck, and splits the officer's cognitive focus between holding the hands and conducting the frisk."
+  },
+  {
+    "question": "Which command is part of the 'Preferred Stance' to place a subject in a position of disadvantage?",
+    "answer": "'Put your hands behind your back, thumbs in the air'.",
+    "options": [
+      "'Place your hands on top of your head'.",
+      "'Put your hands behind your back, thumbs in the air'.",
+      "'Empty your pockets onto the ground'.",
+      "'Lean against the car with your hands on the hood'."
+    ],
+    "reference": "The Preferred Stance: Hands Behind the Back: A demonstrably superior method is to command the subject: 'Turn around, face that wall, take a wide platform stance, put your hands behind your back, thumbs in the air, shoulders back towards the sound of my voice'."
+  },
+  {
+    "question": "What is the tactical advantage of the 'Hands Behind the Back' stance?",
+    "answer": "It forces the suspect to make at least two distinct motions to counter, giving the officer a time advantage.",
+    "options": [
+      "It allows the officer to search faster.",
+      "It is more comfortable for the suspect.",
+      "It forces the suspect to make at least two distinct motions to counter, giving the officer a time advantage.",
+      "It eliminates the need for handcuffs."
+    ],
+    "reference": "To counter, the subject must first re-establish their balance and then launch an attack—a minimum of two distinct motions. This provides the officer a critical time advantage, aligning with the principle that 'action is always faster than reaction'."
+  },
+  {
+    "question": "What is a 'Touch Check'?",
+    "answer": "A quick, firm touch to the subject's upper back to gauge compliance before committing to a full grip.",
+    "options": [
+      "The start of the physical pat-down.",
+      "A quick check of the subject's pockets.",
+      "A quick, firm touch to the subject's upper back to gauge compliance before committing to a full grip.",
+      "A medical check to see if the subject is injured."
+    ],
+    "reference": "The 'Touch Check': Before committing to a full grip, an officer can use a 'touch check' to gauge compliance. This involves a quick, firm touch to the subject's upper back area (described as a 'T-Rex' touch)."
+  },
+  {
+    "question": "What is the proper hand technique for conducting a frisk?",
+    "answer": "Use an open, sliding hand with firm pressure.",
+    "options": [
+      "Use a light 'patting' motion.",
+      "Use only the fingertips for the entire search.",
+      "Use a closed fist to press against clothing.",
+      "Use an open, sliding hand with firm pressure."
+    ],
+    "reference": "Technique: Use an open, sliding hand with firm pressure. Do not use a light 'patting' motion, as this is ineffective."
+  },
+  {
+    "question": "An officer is frisking a suspect wearing a heavy jacket. To legally go inside the jacket, what must the officer do first?",
+    "answer": "Feel something that they can articulate could reasonably be a weapon.",
+    "options": [
+      "Ask the suspect for consent to go in the pocket.",
+      "Feel something that they can articulate could reasonably be a weapon.",
+      "The officer can go inside the jacket at any time because it's bulky.",
+      "Get a supervisor's approval."
+    ],
+    "reference": "Handling Bulky Clothing: When a subject is wearing a heavy jacket, the officer must press firmly to feel for objects. To legally go inside the jacket, the officer must first feel something that they can articulate could reasonably be a weapon."
+  },
+  {
+    "question": "When is a Kneeling Frisk position most appropriate?",
+    "answer": "In higher-risk encounters where more subject control is desired before the officer closes distance.",
+    "options": [
+      "For all routine traffic stops.",
+      "For searching female subjects.",
+      "In higher-risk encounters where more subject control is desired before the officer closes distance.",
+      "When the officer is shorter than the subject."
+    ],
+    "reference": "Kneeling Frisk: This position is used in higher-risk encounters where more subject control is desired before the officer closes the distance, such as when clearing a building and discovering an unexpected person inside."
+  },
+  {
+    "question": "Which handcuff from the officer's hand should always be applied first according to the 'speed cuffing' method?",
+    "answer": "The bottom cuff (the 'pinky cup').",
+    "options": [
+      "The top cuff.",
+      "It does not matter.",
+      "The cuff closest to the officer's thumb.",
+      "The bottom cuff (the 'pinky cup')."
+    ],
+    "reference": "The 'speed cuffing' method is preferred for its efficiency and safety. The bottom cuff in the officer's hand (the 'pinky cup') is always applied first."
+  },
+  {
+    "question": "What is the purpose of 'double locking' handcuffs?",
+    "answer": "It prevents the cuffs from tightening further and makes them significantly more difficult to pick.",
+    "options": [
+      "It creates a clicking sound to signal the arrest is complete.",
+      "It allows for easier removal by the officer.",
+      "It is an optional step for officer convenience.",
+      "It prevents the cuffs from tightening further and makes them significantly more difficult to pick."
+    ],
+    "reference": "Double Locking: ...they must be double locked. This prevents the cuffs from tightening further and causing injury, and it also makes them significantly more difficult for a subject to pick or defeat."
+  },
+  {
+    "question": "A protestor goes completely limp and refuses to move when an officer gives a lawful order. This is an example of what level of resistance?",
+    "answer": "Passive Resistance.",
+    "options": [
+      "Defensive Resistance.",
+      "Active Aggression.",
+      "Passive Resistance.",
+      "Verbal Non-compliance."
+    ],
+    "reference": "Levels of Resistance: Passive Resistance: Non-violent, non-cooperation, such as a protestor going limp."
+  },
+  {
+    "question": "A subject who pulls their arm away or tenses up their muscles to prevent being handcuffed is demonstrating what level of resistance?",
+    "answer": "Defensive Resistance.",
+    "options": [
+      "Passive Resistance.",
+      "Active Aggression.",
+      "Defensive Resistance.",
+      "Aggravated Resistance."
+    ],
+    "reference": "Defensive Resistance: The subject is not trying to assault the officer but is actively using force to prevent being controlled or searched. This includes actions like pulling an arm away or tensing up muscles to prevent handcuffing."
+  },
+  {
+    "question": "What is the lecturer's 'preferred' and 'recommended' course of action when a subject begins to actively resist a frisk?",
+    "answer": "Maintain physical control, take the subject to the ground, and prevent access to any potential weapon.",
+    "options": [
+      "Immediately disengage and draw a Taser.",
+      "Immediately disengage and draw a firearm.",
+      "Maintain physical control, take the subject to the ground, and prevent access to any potential weapon.",
+      "Attempt to de-escalate verbally while they are resisting."
+    ],
+    "reference": "Tactical Decision: Control vs. Disengage: Maintain Control (Preferred): The lecturer's recommended course of action is to maintain physical control, take the subject to the ground, and prevent them from accessing any potential weapon. This contains the threat."
+  },
+  {
+    "question": "What is an officer's first and immediate priority upon feeling a weapon during a frisk?",
+    "answer": "Secure the subject by handcuffing them.",
+    "options": [
+      "Immediately retrieve the weapon.",
+      "Disengage and create distance.",
+      "Verbally command the subject to hand over the weapon.",
+      "Secure the subject by handcuffing them."
+    ],
+    "reference": "First Priority: Cuffs. The immediate response upon feeling a weapon should be to secure the subject: 'As soon as I feel that, cuff cuff'. The officer must handcuff the subject before attempting to retrieve the weapon."
+  },
+  {
+    "question": "What is a recommended code phrase to alert a partner that a weapon has been found during a frisk?",
+    "answer": "'Don't move!'",
+    "options": [
+      "'I've got a gun!'",
+      "'He's armed!'",
+      "'Code Red!'",
+      "'Don't move!'"
+    ],
+    "reference": "Communicate with Partner: The officer who finds the weapon must alert their partner immediately. A simple, clear code phrase like 'Don't move!' is effective."
+  },
+  {
+    "question": "After finding a weapon and securing the suspect in handcuffs, what is the officer's final duty regarding the search?",
+    "answer": "Continue and complete the frisk to ensure there are no other weapons.",
+    "options": [
+      "The search is complete once one weapon is found.",
+      "Immediately transport the suspect.",
+      "Ask the suspect if they have any other weapons.",
+      "Continue and complete the frisk to ensure there are no other weapons."
+    ],
+    "reference": "Continue the Frisk: After the first weapon is found and the subject is secured, the officer must continue and complete the frisk to ensure there are no other weapons on the subject's person."
+  },
+  {
+    "question": "A person intentionally uses force against a peace officer to obstruct them from effecting a lawful search. What offense has been committed?",
+    "answer": "Resisting Search (Class A Misdemeanor)",
+    "options": [
+      "Interference with Public Duties (Class B Misdemeanor)",
+      "Evading Arrest (Class A Misdemeanor)",
+      "Assault on a Public Servant (3rd Degree Felony)",
+      "Resisting Search (Class A Misdemeanor)"
+    ],
+    "reference": "3.1 Resisting Arrest, Search, or Transportation (TPC § 38.03) Statutory Language: 'A person commits an offense if he intentionally prevents or obstructs a person he knows is a peace officer...from effecting an arrest, search, or transportation...by using force against the peace officer or another'.",
+    "explanation": "This offense is specific to the use of *force* against an officer to defeat an arrest, search, or transport. Merely pulling away or tensing up legally constitutes 'using force'."
+  },
+  {
+    "question": "What is the penalty for Resisting Arrest, Search, or Transportation if the actor uses a deadly weapon during the resistance?",
+    "answer": "A Felony of the Third Degree.",
+    "options": [
+      "A Class A Misdemeanor.",
+      "A State Jail Felony.",
+      "A Felony of the Second Degree.",
+      "A Felony of the Third Degree."
+    ],
+    "reference": "Penalty: This offense is a Class A Misdemeanor. It is enhanced to a Felony of the Third Degree if the actor uses a deadly weapon during the resistance.",
+    "explanation": "The use of a deadly weapon significantly elevates the danger and the severity of the crime, resulting in a felony enhancement."
+  },
+  {
+    "question": "What is the key distinction between the offenses of Resisting Arrest and Evading Arrest?",
+    "answer": "Resisting involves the use of force to obstruct, while evading involves flight to escape.",
+    "options": [
+      "Resisting is a felony, while evading is a misdemeanor.",
+      "Resisting involves the use of force to obstruct, while evading involves flight to escape.",
+      "Resisting applies to arrests, while evading applies to detentions.",
+      "There is no legal distinction; the charges are interchangeable."
+    ],
+    "reference": "Key Distinction: This offense is defined by the act of fleeing. While resisting involves the use of force to obstruct, evading involves flight to escape."
+  },
+  {
+    "question": "A person running away from a lawful detention on foot commits Evading Arrest or Detention. What is the base penalty for this offense?",
+    "answer": "A Class A Misdemeanor.",
+    "options": [
+      "A Class C Misdemeanor.",
+      "A Class B Misdemeanor.",
+      "A Class A Misdemeanor.",
+      "A State Jail Felony."
+    ],
+    "reference": "Penalty: The offense begins as a Class A Misdemeanor for fleeing on foot."
+  },
+  {
+    "question": "Under what circumstance is the offense of Evading Arrest or Detention enhanced to a State Jail Felony?",
+    "answer": "If the actor uses a vehicle or has a previous conviction for evading.",
+    "options": [
+      "If the actor flees for more than one mile.",
+      "If the evasion occurs at night.",
+      "If the actor uses a vehicle or has a previous conviction for evading.",
+      "If more than one officer is involved in the pursuit."
+    ],
+    "reference": "It is enhanced to a State Jail Felony if the actor uses a vehicle or has a previous conviction for evading."
+  },
+  {
+    "question": "A person who, with criminal negligence, gets in the way and impedes a peace officer performing a duty (without using force) commits what offense?",
+    "answer": "Interference with Public Duties (Class B Misdemeanor)",
+    "options": [
+      "Resisting Arrest (Class A Misdemeanor)",
+      "Obstruction or Retaliation (3rd Degree Felony)",
+      "Interference with Public Duties (Class B Misdemeanor)",
+      "Disorderly Conduct (Class C Misdemeanor)"
+    ],
+    "reference": "3.3 Interference with Public Duties (TPC § 38.15) Statutory Language: 'A person commits an offense if the person with criminal negligence interrupts, disrupts, impedes, or otherwise interferes with...a peace officer while the peace officer is performing a duty...'. Penalty: This offense is a Class B Misdemeanor."
+  },
+  {
+    "question": "What is a specific defense to the charge of Interference with Public Duties?",
+    "answer": "If the interference consisted only of speech.",
+    "options": [
+      "The person did not know the officer was performing a duty.",
+      "The officer was not in full uniform.",
+      "If the interference consisted only of speech.",
+      "The person was on private property."
+    ],
+    "reference": "'Speech Only' Defense: The statute provides a specific defense if the interference consisted only of speech. An individual merely yelling at or criticizing an officer is generally not sufficient for this charge."
+  },
+  {
+    "question": "According to the TCOLE framework, what is the default risk category for the vast majority of traffic stops?",
+    "answer": "Unknown Risk.",
+    "options": [
+      "Low Risk.",
+      "Medium Risk.",
+      "High Risk.",
+      "Unknown Risk."
+    ],
+    "reference": "Unknown Risk: This is the default category for the vast majority of traffic stops. The officer does not know the disposition of the occupants or the potential threats involved."
+  },
+  {
+    "question": "What is the 'Golden Rule' of pre-stop procedures?",
+    "answer": "Do everything (prep work, radio call, etc.) before activating the emergency lights.",
+    "options": [
+      "Always wait for backup before making a stop.",
+      "Always approach from the passenger side.",
+      "Do everything (prep work, radio call, etc.) before activating the emergency lights.",
+      "The officer's safety is the only priority."
+    ],
+    "reference": "The Golden Rule: Do Everything Before the Lights. All pre-stop administrative and preparatory tasks must be completed before activating the emergency lights."
+  },
+  {
+    "question": "Which of the following is NOT part of the 'Pre-Stop Checklist'?",
+    "answer": "Activating the emergency lights first to signal the violator.",
+    "options": [
+      "Observing a violation and developing a lawful reason for the stop.",
+      "Selecting a safe location for the stop.",
+      "Making a radio call to dispatch with location and plate information.",
+      "Activating the emergency lights first to signal the violator."
+    ],
+    "reference": "Pre-Stop Checklist: Observe Violation/Develop PC... Select a Safe Location... Make the Radio Call... Unbuckle Seatbelt... The Final Act: Hit the Lights."
+  },
+  {
+    "question": "What is the standard tactical positioning for a patrol vehicle during a traffic stop?",
+    "answer": "Approximately 20 feet behind the violator's vehicle and offset about 3 feet to the left.",
+    "options": [
+      "Directly behind the violator's vehicle, bumper to bumper.",
+      "Parallel to the violator's vehicle in the adjacent lane.",
+      "Approximately 20 feet behind the violator's vehicle and offset about 3 feet to the left.",
+      "At a 45-degree angle directly behind the violator's vehicle."
+    ],
+    "reference": "Standard Left Offset: The patrol vehicle should be positioned approximately 20 feet behind the violator's vehicle and offset about 3 feet to the left. This offset creates a protective 'safe lane' of space between the patrol car and passing traffic."
+  },
+  {
+    "question": "Which vehicle approach is considered tactically superior due to offering a better view of the car's interior and more safety from traffic?",
+    "answer": "Passenger-Side Approach.",
+    "options": [
+      "Driver-Side Approach.",
+      "Approach from the front.",
+      "Passenger-Side Approach.",
+      "Approach from directly behind."
+    ],
+    "reference": "Passenger-Side Approach (Preferred): This approach is tactically superior for several reasons. It offers a much better view into the vehicle's interior, it places the officer further away from passing traffic, and it has the element of surprise, as drivers rarely expect it."
+  },
+  {
+    "question": "What is the 'Wall of Light' tactic used for nighttime traffic stops?",
+    "answer": "Using the patrol car's takedown lights and spotlights to illuminate the suspect vehicle's interior and blind the occupants.",
+    "options": [
+      "Shining a flashlight in the driver's eyes.",
+      "Using the patrol car's takedown lights and spotlights to illuminate the suspect vehicle's interior and blind the occupants.",
+      "Turning all patrol car lights off for a stealth approach.",
+      "Using only red and blue flashing lights to disorient the driver."
+    ],
+    "reference": "Nighttime Tactics: The 'Wall of Light'. At night, the officer should use their vehicle's takedown lights and spotlights to create a 'wall of light' that illuminates the interior of the suspect vehicle, effectively blinding the occupants to the officer's approach."
+  },
+  {
+    "question": "If a driver stops in an unsafe location like a bridge, what should the officer do?",
+    "answer": "Use the PA system to direct the driver to a safer spot or 'take the lane' to create a buffer zone.",
+    "options": [
+      "Conduct the stop in the unsafe location to avoid conflict.",
+      "Immediately terminate the stop and let the driver go.",
+      "Use the PA system to direct the driver to a safer spot or 'take the lane' to create a buffer zone.",
+      "Pull in front of the vehicle to prevent it from moving."
+    ],
+    "reference": "If a violator stops in an unsafe location, the officer should use their PA system to direct them to move to a safer spot. If the driver is unable or unwilling to move... the officer should 'take the lane' by positioning their patrol vehicle to block the lane of traffic..."
+  },
+  {
+    "question": "What is the first step of the 7-Step Violator Contact Method?",
+    "answer": "Greeting and Identification of the Police Agency.",
+    "options": [
+      "Statement of Violation Committed.",
+      "Identification of Driver.",
+      "Statement of Action to be Taken.",
+      "Greeting and Identification of the Police Agency."
+    ],
+    "reference": "Step 1: Greeting and Identification of the Police Agency. The officer must begin the interaction by professionally greeting the driver and identifying themselves and their agency..."
+  },
+  {
+    "question": "What is the second step of the 7-Step Violator Contact Method?",
+    "answer": "Statement of Violation Committed.",
+    "options": [
+      "Greeting and Identification of the Police Agency.",
+      "Statement of Violation Committed.",
+      "Identification of Driver.",
+      "Statement of Action to be Taken."
+    ],
+    "reference": "Step 2: Statement of Violation Committed. The officer must clearly and concisely state the reason for the stop."
+  },
+  {
+    "question": "In the 7-Step Violator Contact Method, what is the third step?",
+    "answer": "Identification of Driver.",
+    "options": [
+      "Statement of Violation Committed.",
+      "Statement of Action to be Taken.",
+      "Identification of Driver.",
+      "Take the Action."
+    ],
+    "reference": "Step 3: Identification of Driver. The officer will request the driver's license and proof of financial responsibility (insurance)."
+  },
+  {
+    "question": "What is the fourth step of the 7-Step Violator Contact Method?",
+    "answer": "Statement of Action to be Taken.",
+    "options": [
+      "Take the Action.",
+      "Explain What the Violator Must Do.",
+      "Leave.",
+      "Statement of Action to be Taken."
+    ],
+    "reference": "Step 4: Statement of Action to be Taken. The officer must inform the driver of the action they intend to take before taking it..."
+  },
+  {
+    "question": "What is the fifth step of the 7-Step Violator Contact Method?",
+    "answer": "Take the Action.",
+    "options": [
+      "Statement of Action to be Taken.",
+      "Take the Action.",
+      "Explain What the Violator Must Do.",
+      "Leave."
+    ],
+    "reference": "Step 5: Take the Action. The officer takes the stated action. This typically involves returning to the patrol vehicle..."
+  },
+  {
+    "question": "After taking the enforcement action (Step 5), what is the sixth step of the 7-Step Violator Contact Method?",
+    "answer": "Explain What the Violator Must Do.",
+    "options": [
+      "Take the Action.",
+      "Leave.",
+      "Explain What the Violator Must Do.",
+      "Greeting and Identification."
+    ],
+    "reference": "Step 6: Explain What the Violator Must Do. Upon returning to the violator, the officer explains the citation and the options available to the driver..."
+  },
+  {
+    "question": "What is the final step of the 7-Step Violator Contact Method?",
+    "answer": "Leave.",
+    "options": [
+      "Take the Action.",
+      "Explain What the Violator Must Do.",
+      "Close.",
+      "Leave."
+    ],
+    "reference": "Step 7: Leave. The officer concludes the contact with a professional closing statement... and, if conditions warrant, may assist the driver in safely merging back into traffic."
   }
 ],
         "Police Mindset": [
