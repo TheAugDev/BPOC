@@ -48,27 +48,25 @@ async function loadExternalData() {
                 // Other files are objects with subcategories/units
                 allReviewData[key] = data;
             }
-            
-            console.log(`${filename} loaded successfully: ${key}`);
+              console.log(`${filename} loaded successfully: ${key}`);
             if (key === 'BPOC') {
-                console.log('BPOC weeks loaded:', Object.keys(data).length);
+                console.log('BPOC topics loaded:', Object.keys(data).length);
             } else if (key === 'tcole') {
                 console.log('TCOLE questions loaded:', data.length);
             } else {
                 console.log(`${key} categories loaded:`, Object.keys(data).length);
             }
         } catch (error) {
-            console.error(`Error loading ${filename}:`, error);
-            // Initialize with empty structure if loading fails
+            console.error(`Error loading ${filename}:`, error);            // Initialize with empty structure if loading fails
             if (key === 'BPOC' && !allReviewData.BPOC) {
                 allReviewData.BPOC = {};
-                // Initialize empty weeks for BPOC
-                for (let i = 1; i <= 21; i++) {
-                    if (!allReviewData.BPOC[`week${i}`]) {
-                        allReviewData.BPOC[`week${i}`] = [];
-                    }
-                }
-                console.log("BPOC initialized with empty weeks due to loading error.");
+                // Initialize with empty topics for BPOC (using the main topic names)
+                const mainTopics = ['Penal Code', 'Radio Communications', 'Civilian Interactions', 'Police Mindset', 'Fitness and Wellness', 'CCP and Constitution', 'Arrest & Frisk Tactics', 'Portable Radio RSM'];
+                mainTopics.forEach(topic => {
+                    const topicId = topic.toLowerCase().replace(/\s+/g, '-').replace(/&/g, 'and');
+                    allReviewData.BPOC[topicId] = {};
+                });
+                console.log("BPOC initialized with empty topics due to loading error.");
             } else if (key === 'tcole') {
                 allReviewData.tcole = [];
                 console.log("TCOLE initialized as empty array due to loading error.");
@@ -86,7 +84,7 @@ loadExternalData().then(() => {
     // You can now access allReviewData.BPOC with the loaded data
     console.log("All external data loaded successfully");
     console.log("Data summary:");
-    console.log("- BPOC weeks:", Object.keys(allReviewData.BPOC).length);
+    console.log("- BPOC topics:", Object.keys(allReviewData.BPOC).length);
     console.log("- TCOLE questions:", allReviewData.tcole.length);
     console.log("- General Orders units:", Object.keys(allReviewData.generalOrders).length);
     console.log("- Texas Constitutions articles:", Object.keys(allReviewData.texasConstitutions).length);

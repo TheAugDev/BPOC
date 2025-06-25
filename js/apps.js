@@ -126,28 +126,15 @@ const tpcaCriticalAreas = [
     { name: "Property and Evidence Management", id: "propertyAndEvidenceManagement" }
 ];
 
-const bpocWeeks = [
-    { name: "Week 1", id: "week1" },
-    { name: "Week 2", id: "week2" },
-    { name: "Week 3", id: "week3" },
-    { name: "Week 4", id: "week4" },
-    { name: "Week 5", id: "week5" },
-    { name: "Week 6", id: "week6" },
-    { name: "Week 7", id: "week7" },
-    { name: "Week 8", id: "week8" },
-    { name: "Week 9", id: "week9" },
-    { name: "Week 10", id: "week10" },
-    { name: "Week 11", id: "week11" },
-    { name: "Week 12", id: "week12" },
-    { name: "Week 13", id: "week13" },
-    { name: "Week 14", id: "week14" },
-    { name: "Week 15", id: "week15" },
-    { name: "Week 16", id: "week16" },
-    { name: "Week 17", id: "week17" },
-    { name: "Week 18", id: "week18" },
-    { name: "Week 19", id: "week19" },
-    { name: "Week 20", id: "week20" },
-    { name: "Week 21", id: "week21" }
+const bpocTopics = [
+    { name: "Penal Code", id: "Penal Code" },
+    { name: "Radio Communications", id: "Radio Communications" },
+    { name: "Civilian Interactions", id: "Civilian Interactions" },
+    { name: "Police Mindset", id: "Police Mindset" },
+    { name: "Fitness and Wellness", id: "Fitness and Wellness" },
+    { name: "CCP and Constitution", id: "CCP and Constitution" },
+    { name: "Arrest & Frisk Tactics", id: "Arrest & Frisk Tactics" },
+    { name: "Portable Radio RSM", id: "Portable Radio RSM" }
 ];
 
 const reviewTypes = [
@@ -156,7 +143,7 @@ const reviewTypes = [
     { id: 'texasConstitutions', name: 'Texas Constitutions', hasUnits: true, chapters: texasConstitutionArticles, questionLimit: 100 },
     { id: 'texasStatutes', name: 'Texas Statutes', hasUnits: true, chapters: texasStatuteCodes, questionLimit: 100 },
     { id: 'tpcaBestPractices', name: 'TPCA Best Practices', hasUnits: true, chapters: tpcaCriticalAreas, questionLimit: 100 },
-    { id: 'BPOC', name: 'BPOC Review', hasUnits: true, chapters: bpocWeeks, questionLimit: 100 }
+    { id: 'BPOC', name: 'BPOC Review', hasUnits: true, chapters: bpocTopics, questionLimit: 100 }
 ];
 
 // --- Initialization ---
@@ -318,7 +305,7 @@ function selectReviewType(reviewType) {
         } else if (reviewType.id === 'tpcaBestPractices') {
             modalTitle = currentMode === 'flashcards' ? 'Select Critical Area for Flashcards' : 'Select Critical Area';
         } else if (reviewType.id === 'BPOC') {
-            modalTitle = currentMode === 'flashcards' ? `Select Week for ${reviewType.name} Flashcards` : `Select Week for ${reviewType.name}`;
+            modalTitle = currentMode === 'flashcards' ? `Select Topic for ${reviewType.name} Flashcards` : `Select Topic for ${reviewType.name}`;
         } else if (currentMode === 'flashcards') { 
              modalTitle = `Select Unit for ${reviewType.name} Flashcards`;
         }
@@ -359,7 +346,7 @@ function renderChapterButtons(chapters, modalTitle = 'Select Unit') {
     } else if (currentReviewType.id === 'tpcaBestPractices') {
         allButtonText = 'All Critical Areas';
     } else if (currentReviewType.id === 'BPOC') {
-        allButtonText = 'All Weeks';
+        allButtonText = 'All Topics';
     }
     allButton.textContent = allButtonText;
 
@@ -381,8 +368,8 @@ function renderChapterButtons(chapters, modalTitle = 'Select Unit') {
         button.onclick = () => {
             unitSelectionModal.classList.add('hidden');
             if (currentReviewType.id === 'BPOC') {
-                handleBpocWeekSelection(currentReviewType.id, chapter.id);
-                // backTargetScreen will be set within handleBpocWeekSelection or renderSubcategorySelection
+                handleBpocTopicSelection(currentReviewType.id, chapter.id);
+                // backTargetScreen will be set within handleBpocTopicSelection or renderSubcategorySelection
             } else {
                 if (currentMode === 'quiz') {
                     startQuiz(currentReviewType.id, chapter.id);
@@ -397,85 +384,73 @@ function renderChapterButtons(chapters, modalTitle = 'Select Unit') {
     backTargetScreen = 'review-type-selection'; // If on chapter/unit selection, back goes to review type selection
 }
 
-async function handleBpocWeekSelection(reviewTypeId, weekId) {
-    currentUnitId = weekId; 
+async function handleBpocTopicSelection(reviewTypeId, topicId) {
+    currentUnitId = topicId; 
     let bpocData;
     try {
         // Ensure allReviewData is loaded, or fetch specifically if not.
-        // Assuming allReviewData.BPOC is populated by data.js
         if (!allReviewData.BPOC || Object.keys(allReviewData.BPOC).length === 0) {
             console.warn("allReviewData.BPOC not found or empty, attempting to fetch...");
             const response = await fetch(`data/BPOC.json`);
             if (!response.ok) throw new Error(`HTTP error! status: ${response.status} for BPOC.json`);
             const fetchedData = await response.json();
             
-            // Initialize allReviewData.BPOC if it doesn't exist
-            if (!allReviewData.BPOC) {
-                allReviewData.BPOC = {};
-            }
-            
-            // Populate the BPOC data
-            for (const weekKey in fetchedData) {
-                if (fetchedData.hasOwnProperty(weekKey)) {
-                    allReviewData.BPOC[weekKey] = fetchedData[weekKey];
-                }
-            }
-            console.log("BPOC data loaded successfully, weeks available:", Object.keys(allReviewData.BPOC));
+            // The new structure doesn't have weeks, topics are at root level
+            allReviewData.BPOC = fetchedData;
+            console.log("BPOC data loaded successfully, topics available:", Object.keys(allReviewData.BPOC));
         }
-        bpocData = allReviewData.BPOC; // Use the globally (or freshly) loaded data
+        bpocData = allReviewData.BPOC;
         if (!bpocData) throw new Error("BPOC data could not be loaded or is empty.");
 
     } catch (error) {
-        console.error("Error accessing or fetching BPOC data for subcategory check:", error);
-        alert(`Error loading data for ${weekId}. Please try again or check console.`);
+        console.error("Error accessing or fetching BPOC data:", error);
+        alert(`Error loading data for ${topicId}. Please try again or check console.`);
         showWelcomeScreen(); 
         return;
     }
 
-    console.log(`Checking week data for ${weekId}:`, bpocData[weekId]);
-    const weekData = bpocData[weekId];
-    if (typeof weekData === 'object' && weekData !== null && !Array.isArray(weekData)) {
-        console.log(`${weekId} has subcategories:`, Object.keys(weekData));
-        renderSubcategorySelection(reviewTypeId, weekId, Object.keys(weekData));
-        unitSelectionModal.classList.remove('hidden'); 
-        // backTargetScreen is set by renderSubcategorySelection
-    } else {
-        console.log(`${weekId} has no subcategories, starting directly:`, weekData);
+    console.log(`Checking topic data for ${topicId}:`, bpocData[topicId]);
+    const topicData = bpocData[topicId];
+    
+    // In the new structure, topics directly contain arrays of questions
+    if (Array.isArray(topicData) && topicData.length > 0) {
+        console.log(`${topicId} has ${topicData.length} questions`);
         if (currentMode === 'quiz') {
-            startQuiz(reviewTypeId, weekId); 
+            startQuiz(reviewTypeId, topicId); 
         } else {
-            startFlashcards(reviewTypeId, weekId); 
+            startFlashcards(reviewTypeId, topicId); 
         }
-        // backTargetScreen is set by startQuiz/startFlashcards
+    } else {
+        console.log(`${topicId} has no questions or is empty:`, topicData);
+        alert(`No questions available for ${topicId}`);
+        showWelcomeScreen();
     }
 }
 
-function renderSubcategorySelection(reviewTypeId, weekId, subcategoryNames) {
+function renderSubcategorySelection(reviewTypeId, topicId, subcategoryNames) {
     const modalHeader = unitSelectionModal.querySelector('h2');
-    const weekDisplayName = bpocWeeks.find(w => w.id === weekId)?.name || weekId;
+    const topicDisplayName = bpocTopics.find(t => t.id === topicId)?.name || topicId;
     const welcomeScreenEl = document.getElementById('welcome-screen');
 
     if (modalHeader) {
-        modalHeader.textContent = `Select Subcategory for ${weekDisplayName}`;
+        modalHeader.textContent = `Select Subcategory for ${topicDisplayName}`;
     }
     chapterButtonsDiv.innerHTML = ''; 
 
     // This function populates unitSelectionModal, so ensure it's visible and welcome is hidden
     if (unitSelectionModal) unitSelectionModal.classList.remove('hidden');
-    if (welcomeScreenEl) welcomeScreenEl.classList.add('hidden');
-
-    // Filter out empty subcategories by checking if they have questions
+    if (welcomeScreenEl) welcomeScreenEl.classList.add('hidden');    // Filter out empty subcategories by checking if they have questions
     const availableSubcategories = [];
-    const weekData = allReviewData.BPOC[weekId];
+    const topicData = allReviewData.BPOC[topicId];
     
     subcategoryNames.forEach(subcategoryName => {
-        const subcategoryData = weekData[subcategoryName];
+        const subcategoryData = topicData[subcategoryName];
         if (Array.isArray(subcategoryData) && subcategoryData.length > 0) {
             availableSubcategories.push(subcategoryName);
         }
     });
 
-    console.log(`Available subcategories for ${weekId}:`, availableSubcategories);
+    console.log(`Available subcategories for ${topicId}:`, availableSubcategories);
 
     if (availableSubcategories.length === 0) {
         // No subcategories have questions
@@ -484,16 +459,15 @@ function renderSubcategorySelection(reviewTypeId, weekId, subcategoryNames) {
         noDataMessage.innerHTML = `
             <svg class="w-12 h-12 text-yellow-500 mx-auto mb-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 9v2m0 4h.01m-6.938 4h13.856c1.54 0 2.502-1.667 1.732-2.5L13.732 4c-.77-.833-1.964-.833-2.732 0L4.082 16.5c-.77.833.192 2.5 1.732 2.5z"></path>
-            </svg>
-            <p class="text-lg text-yellow-700 font-medium">${weekDisplayName} - No Questions Available</p>
-            <p class="text-sm text-yellow-600 mt-2">This week doesn't have any questions loaded yet. Please check back later or contact your administrator.</p>
+            </svg>            <p class="text-lg text-yellow-700 font-medium">${topicDisplayName} - No Questions Available</p>
+            <p class="text-sm text-yellow-600 mt-2">This topic doesn't have any questions loaded yet. Please check back later or contact your administrator.</p>
         `;
         chapterButtonsDiv.appendChild(noDataMessage);
         backTargetScreen = 'unit-selection';
         return;
     }    // Show "All Available Subcategories" button only if there are multiple subcategories with content
     if (availableSubcategories.length > 1) {
-        const totalQuestions = availableSubcategories.reduce((sum, subcatName) => sum + weekData[subcatName].length, 0);        const allSubcategoriesButton = document.createElement('button');
+        const totalQuestions = availableSubcategories.reduce((sum, subcatName) => sum + topicData[subcatName].length, 0);        const allSubcategoriesButton = document.createElement('button');
         allSubcategoriesButton.className = 'w-full bg-green-600 text-white p-4 md:p-5 rounded-lg text-base md:text-lg font-semibold hover:bg-green-700 transition-colors shadow-sm mb-3 min-h-12 md:min-h-auto group subcategory-card subcategory-card-green';
         
         allSubcategoriesButton.innerHTML = `
@@ -503,7 +477,7 @@ function renderSubcategorySelection(reviewTypeId, weekId, subcategoryNames) {
                         All Available Subcategories
                     </div>
                     <div class="text-green-100 text-sm font-normal group-hover:text-green-50 transition-colors">
-                        ${weekDisplayName}
+                        ${topicDisplayName}
                     </div>
                 </div>                <div class="flex-shrink-0">
                     <span class="inline-flex items-center px-2.5 py-1 rounded-full text-xs font-medium bg-green-500 text-green-100 group-hover:bg-green-400 transition-colors question-count-badge">
@@ -515,17 +489,16 @@ function renderSubcategorySelection(reviewTypeId, weekId, subcategoryNames) {
         
         allSubcategoriesButton.onclick = () => {
             unitSelectionModal.classList.add('hidden');
-            if (currentMode === 'quiz') {
-                startQuiz(reviewTypeId, weekId, 'all_subcategories'); 
+            if (currentMode === 'quiz') {                startQuiz(reviewTypeId, topicId, 'all_subcategories'); 
             } else {
-                startFlashcards(reviewTypeId, weekId, 'all_subcategories');
+                startFlashcards(reviewTypeId, topicId, 'all_subcategories');
             }
             // backTargetScreen is set by startQuiz/startFlashcards
         };
         chapterButtonsDiv.appendChild(allSubcategoriesButton);
     }// Add buttons for available subcategories only
     availableSubcategories.forEach(subcategoryName => {
-        const questionCount = weekData[subcategoryName].length;        const button = document.createElement('button');
+        const questionCount = topicData[subcategoryName].length;        const button = document.createElement('button');
         button.className = 'w-full bg-blue-600 text-white p-4 md:p-5 rounded-lg text-base md:text-lg font-semibold hover:bg-blue-700 transition-colors shadow-sm min-h-12 md:min-h-auto group subcategory-card subcategory-card-blue';
         
         // Create a better structured layout for desktop
@@ -545,10 +518,9 @@ function renderSubcategorySelection(reviewTypeId, weekId, subcategoryNames) {
         
         button.onclick = () => {
             unitSelectionModal.classList.add('hidden');
-            if (currentMode === 'quiz') {
-                startQuiz(reviewTypeId, weekId, subcategoryName); 
+            if (currentMode === 'quiz') {                startQuiz(reviewTypeId, topicId, subcategoryName); 
             } else {
-                startFlashcards(reviewTypeId, weekId, subcategoryName);
+                startFlashcards(reviewTypeId, topicId, subcategoryName);
             }
             // backTargetScreen is set by startQuiz/startFlashcards
         };
@@ -566,7 +538,7 @@ function renderSubcategorySelection(reviewTypeId, weekId, subcategoryNames) {
     `;
     chapterButtonsDiv.appendChild(infoMessage);
 
-    backTargetScreen = 'unit-selection'; // If on subcategory selection, back goes to unit (week) selection
+    backTargetScreen = 'unit-selection'; // If on subcategory selection, back goes to topic selection
 }
 
 
@@ -677,7 +649,7 @@ function goBack() {
                 if (currentReviewType.id === 'texasConstitutions') modalTitle = 'Select Article';
                 else if (currentReviewType.id === 'texasStatutes') modalTitle = 'Select Statute Code';
                 else if (currentReviewType.id === 'tpcaBestPractices') modalTitle = 'Select Critical Area';
-                else if (currentReviewType.id === 'BPOC') modalTitle = `Select Week for ${currentReviewType.name}`;
+                else if (currentReviewType.id === 'BPOC') modalTitle = `Select Topic for ${currentReviewType.name}`;
                 else modalTitle = `Select Unit for ${currentReviewType.name}`;
                 renderChapterButtons(currentReviewType.chapters, modalTitle);
                 // unitSelectionModal.classList.remove('hidden'); // renderChapterButtons now handles this
@@ -716,7 +688,7 @@ function goBackToUnitSelection() {
         if (currentReviewType.id === 'texasConstitutions') modalTitle = 'Select Article';
         else if (currentReviewType.id === 'texasStatutes') modalTitle = 'Select Statute Code';
         else if (currentReviewType.id === 'tpcaBestPractices') modalTitle = 'Select Critical Area';
-        else if (currentReviewType.id === 'BPOC') modalTitle = `Select Week for ${currentReviewType.name}`;
+        else if (currentReviewType.id === 'BPOC') modalTitle = `Select Topic for ${currentReviewType.name}`;
         else modalTitle = `Select Unit for ${currentReviewType.name}`;
         renderChapterButtons(currentReviewType.chapters, modalTitle); // This will show modal and hide welcome
     } else {
@@ -729,12 +701,10 @@ async function startQuiz(reviewTypeId, unitId, subcategoryId = null) {
     mainHeader.classList.remove('hidden');
     document.getElementById('main-page-footer').classList.remove('hidden'); 
     currentUnitId = unitId; 
-    // currentReviewType should already be set when selectReviewType was called.
-
-    // Set backTargetScreen based on the screen this quiz is launched FROM
+    // currentReviewType should already be set when selectReviewType was called.    // Set backTargetScreen based on the screen this quiz is launched FROM
     if (subcategoryId) {
         backTargetScreen = 'subcategory-selection';
-    } else if (unitId) { // This includes 'all' or a specific unit/week
+    } else if (unitId) { // This includes 'all' or a specific unit/topic
         backTargetScreen = 'unit-selection';
     } else { // No unitId implies launched directly from review type (e.g., TCOLE)
         backTargetScreen = 'review-type-selection';
@@ -782,39 +752,38 @@ async function startQuiz(reviewTypeId, unitId, subcategoryId = null) {
         quizContainerDiv.classList.remove('hidden');
         displayQuestion();
         return; 
-    }
-
-    if (reviewTypeDetails.id === 'BPOC') {
+    }    if (reviewTypeDetails.id === 'BPOC') {
         if (unitId === 'all') { 
             currentChapter = { name: `Comprehensive BPOC Review`, id: "all" };
             quizName = currentChapter.name;
-            for (const weekKey in allReviewDataForType) {
-                const weekContent = allReviewDataForType[weekKey];
-                if (typeof weekContent === 'object' && !Array.isArray(weekContent)) {
-                    questionPool.push(...Object.values(weekContent).flat());
-                } else if (Array.isArray(weekContent)) {
-                    questionPool.push(...weekContent);
+            // In the new structure, all topics are at the root level
+            for (const topicKey in allReviewDataForType) {
+                const topicContent = allReviewDataForType[topicKey];
+                if (typeof topicContent === 'object' && !Array.isArray(topicContent)) {
+                    questionPool.push(...Object.values(topicContent).flat());
+                } else if (Array.isArray(topicContent)) {
+                    questionPool.push(...topicContent);
                 }
             }
         } else { 
             currentChapter = reviewTypeDetails.chapters.find(c => c.id === unitId); 
             if (!currentChapter) {
-                console.error(`BPOC chapter/week not found for id: ${unitId}`);
-                questionPool = [{ question: `Week ${unitId} not found.`, answer: "OK", options: ["OK"], reference: "N/A" }];
+                console.error(`BPOC topic not found for id: ${unitId}`);
+                questionPool = [{ question: `Topic ${unitId} not found.`, answer: "OK", options: ["OK"], reference: "N/A" }];
             } else {
                 quizName = `${reviewTypeDetails.name} - ${currentChapter.name}`;
-                const weekData = allReviewDataForType[unitId];                if (typeof weekData === 'object' && weekData !== null && !Array.isArray(weekData)) { 
+                const topicData = allReviewDataForType[unitId];                if (typeof topicData === 'object' && topicData !== null && !Array.isArray(topicData)) { 
                     if (subcategoryId === 'all_subcategories') {
                         // Filter out empty subcategories and flatten the rest
-                        const nonEmptySubcategories = Object.values(weekData).filter(subcat => Array.isArray(subcat) && subcat.length > 0);
+                        const nonEmptySubcategories = Object.values(topicData).filter(subcat => Array.isArray(subcat) && subcat.length > 0);
                         questionPool = nonEmptySubcategories.flat();
                         quizName += ` - All Available Subcategories`;
                         console.log(`Loaded ${questionPool.length} questions from ${nonEmptySubcategories.length} non-empty subcategories`);
                     } else if (subcategoryId) {
                         // Robust subcategory matching (case-insensitive, trimmed)
-                        const subcatKey = Object.keys(weekData).find(k => k.trim().toLowerCase() === subcategoryId.trim().toLowerCase());
-                        if (subcatKey && Array.isArray(weekData[subcatKey]) && weekData[subcatKey].length > 0) {
-                            questionPool = [...weekData[subcatKey]];
+                        const subcatKey = Object.keys(topicData).find(k => k.trim().toLowerCase() === subcategoryId.trim().toLowerCase());
+                        if (subcatKey && Array.isArray(topicData[subcatKey]) && topicData[subcatKey].length > 0) {
+                            questionPool = [...topicData[subcatKey]];
                             quizName += ` - ${subcatKey}`;
                         } else {
                             questionPool = [{ question: `No questions found for subcategory '${subcategoryId}' in ${currentChapter.name}.`, answer: "OK", options: ["OK"], reference: "N/A" }];
@@ -824,8 +793,8 @@ async function startQuiz(reviewTypeId, unitId, subcategoryId = null) {
                         questionPool = [{ question: `Error: Subcategory not selected for ${currentChapter.name}.`, answer: "OK", options: ["OK"], reference: "N/A" }];
                         quizName += ` - Error: No Subcategory`;
                     }
-                } else if (Array.isArray(weekData)) { 
-                    questionPool = [...weekData]; 
+                } else if (Array.isArray(topicData)) { 
+                    questionPool = [...topicData]; 
                 } else { 
                     questionPool = [{ question: `No questions found for ${currentChapter.name}.`, answer: "OK", options: ["OK"], reference: "N/A" }];
                 }
@@ -1331,12 +1300,10 @@ async function startFlashcards(reviewTypeId, unitId, subcategoryId = null) {
     mainHeader.classList.remove('hidden');
     document.getElementById('main-page-footer').classList.remove('hidden');
     currentUnitId = unitId;
-    // currentReviewType should already be set
-
-    // Set backTargetScreen based on the screen these flashcards are launched FROM
+    // currentReviewType should already be set    // Set backTargetScreen based on the screen these flashcards are launched FROM
     if (subcategoryId) {
         backTargetScreen = 'subcategory-selection';
-    } else if (unitId) { // This includes 'all' or a specific unit/week
+    } else if (unitId) { // This includes 'all' or a specific unit/topic
         backTargetScreen = 'unit-selection';
     } else { // No unitId implies launched directly from review type
         backTargetScreen = 'review-type-selection';
@@ -1369,46 +1336,46 @@ async function startFlashcards(reviewTypeId, unitId, subcategoryId = null) {
         questionPool = [{ question: `Error loading flashcards for ${reviewTypeDetails.name}. (${error.message})`, answer: "Please try again.", reference: "N/A" }];
     }
 
-    if (reviewTypeDetails.id === 'BPOC') {
-        if (unitId === 'all') {
+    if (reviewTypeDetails.id === 'BPOC') {        if (unitId === 'all') {
             currentChapter = { name: `Comprehensive BPOC Flashcards`, id: "all" };
             cardSetName = currentChapter.name;
-            for (const weekKey in allReviewDataForType) {
-                const weekContent = allReviewDataForType[weekKey];
-                if (typeof weekContent === 'object' && !Array.isArray(weekContent)) {
-                    questionPool.push(...Object.values(weekContent).flat());
-                } else if (Array.isArray(weekContent)) {
-                    questionPool.push(...weekContent);
+            // In the new structure, all topics are at the root level
+            for (const topicKey in allReviewDataForType) {
+                const topicContent = allReviewDataForType[topicKey];
+                if (typeof topicContent === 'object' && !Array.isArray(topicContent)) {
+                    questionPool.push(...Object.values(topicContent).flat());
+                } else if (Array.isArray(topicContent)) {
+                    questionPool.push(...topicContent);
                 }
             }
         } else { 
             currentChapter = reviewTypeDetails.chapters.find(c => c.id === unitId);
             if (!currentChapter) {
-                console.error(`BPOC chapter/week not found for id: ${unitId} in flashcards`);
-                questionPool = [{ question: `Week ${unitId} not found for flashcards.`, answer: "Error", reference: "N/A" }];
+                console.error(`BPOC topic not found for id: ${unitId} in flashcards`);
+                questionPool = [{ question: `Topic ${unitId} not found for flashcards.`, answer: "Error", reference: "N/A" }];
             } else {
                 cardSetName = `${reviewTypeDetails.name} - ${currentChapter.name}`;
-                const weekData = allReviewDataForType[unitId];                if (typeof weekData === 'object' && weekData !== null && !Array.isArray(weekData)) {
+                const topicData = allReviewDataForType[unitId];                if (typeof topicData === 'object' && topicData !== null && !Array.isArray(topicData)) {
                     if (subcategoryId === 'all_subcategories') {
                         // Filter out empty subcategories and flatten the rest
-                        const nonEmptySubcategories = Object.values(weekData).filter(subcat => Array.isArray(subcat) && subcat.length > 0);
+                        const nonEmptySubcategories = Object.values(topicData).filter(subcat => Array.isArray(subcat) && subcat.length > 0);
                         questionPool = nonEmptySubcategories.flat();
                         cardSetName += ` - All Available Subcategories`;
                         console.log(`Loaded ${questionPool.length} flashcards from ${nonEmptySubcategories.length} non-empty subcategories`);
-                    } else if (subcategoryId && weekData[subcategoryId]) {
-                        questionPool = [...weekData[subcategoryId]];
+                    } else if (subcategoryId && topicData[subcategoryId]) {
+                        questionPool = [...topicData[subcategoryId]];
                         cardSetName += ` - ${subcategoryId}`;
                     } else if (!subcategoryId) {
-                        console.warn(`BPOC week ${unitId} has subcategories, but none selected for flashcards. Loading all available from week.`);
-                        const nonEmptySubcategories = Object.values(weekData).filter(subcat => Array.isArray(subcat) && subcat.length > 0);
+                        console.warn(`BPOC topic ${unitId} has subcategories, but none selected for flashcards. Loading all available from topic.`);
+                        const nonEmptySubcategories = Object.values(topicData).filter(subcat => Array.isArray(subcat) && subcat.length > 0);
                         questionPool = nonEmptySubcategories.flat();
                         cardSetName += ` - All Available Subcategories (Default)`;
                     } else {
                         questionPool = [{ question: `Subcategory '${subcategoryId}' not found in ${currentChapter.name} for flashcards.`, answer: "Error", reference: "N/A" }];
                         cardSetName += ` - Subcategory Not Found`;
                     }
-                } else if (Array.isArray(weekData)) {
-                    questionPool = [...weekData];
+                } else if (Array.isArray(topicData)) {
+                    questionPool = [...topicData];
                 } else {
                     questionPool = [{ question: `No flashcards found for ${currentChapter.name}.`, answer: "Check later.", reference: "N/A" }];
                 }
@@ -1596,12 +1563,12 @@ function generateSupervisorPrintout() {
     // Get unit display name
     const reviewTypeDetails = reviewTypes.find(rt => rt.id === currentReviewType?.id);
     let unitDisplayName = 'All Units';
-    if (currentUnitId && currentUnitId !== 'all_subcategories' && currentUnitId !== 'all') {
-        if (reviewTypeDetails?.chapters) {
+    if (currentUnitId && currentUnitId !== 'all_subcategories' && currentUnitId !== 'all') {        if (reviewTypeDetails?.chapters) {
             const unit = reviewTypeDetails.chapters.find(c => c.id === currentUnitId);
             if (unit) unitDisplayName = unit.name;
-        } else if (currentUnitId.startsWith('week')) {
-            unitDisplayName = currentUnitId.replace('week', 'Week ');
+        } else {
+            // For cases where chapter info isn't available, use the unit ID directly
+            unitDisplayName = currentUnitId;
         }
     }
     
