@@ -4503,5 +4503,415 @@
     "reference": "Slowly and methodically search EACH zone. Pass over the clothing: NO PATTING"
   }
 ],
-        "Portable Radio RSM": []
+        "Portable Radio RSM": [],
+        "Firearms": [
+  {
+    "question": "Which court case is relevant to the use of warning shots?",
+    "answer": "Jones v. Wittenberg",
+    "options": [
+      "Tennessee v. Garner",
+      "Jones v. Wittenberg",
+      "Graham v. Connor",
+      "Miranda v. Arizona"
+    ],
+    "reference": "Scrambled: ensJo v iegreWnttb; Clue: Court case for the use of warning shots",
+    "explanation": "The case of *Jones v. Wittenberg* dealt with prison conditions, and subsequent interpretations have often included discussions around use of force policies, including the firing of warning shots, although it is not the primary use of force case like *Graham* or *Garner*."
+  },
+  {
+    "question": "What are the minimum requirements for an officer's annual handgun qualification?",
+    "answer": "50 rounds fired with a minimum score of 70%.",
+    "options": [
+      "30 rounds fired with a minimum score of 80%.",
+      "50 rounds fired with a minimum score of 70%.",
+      "100 rounds fired with any passing score.",
+      "A score of 70% with no minimum round count."
+    ],
+    "reference": "Scrambled: anndhgu lfiauiaciqtno; Clue: 50 rounds needed and a 70% minimum score every year",
+    "explanation": "TCOLE sets the statewide standards for firearms proficiency, which requires officers to qualify annually with their handgun by firing a 50-round course and achieving at least a 70% score."
+  },
+  {
+    "question": "How many rounds are required for an officer to qualify with an automatic rifle?",
+    "answer": "30 rounds.",
+    "options": [
+      "20 rounds.",
+      "30 rounds.",
+      "50 rounds.",
+      "100 rounds."
+    ],
+    "reference": "Scrambled: utmaoctia elfir; Clue: 30 rounds needed for qualification",
+    "explanation": "The qualification course for patrol rifles or automatic rifles is different from handguns and requires a minimum of 30 rounds to be fired."
+  },
+  {
+    "question": "What part of a firearm holds the spare ammunition?",
+    "answer": "Magazine",
+    "options": [
+      "Chamber",
+      "Cylinder",
+      "Magazine",
+      "Grip"
+    ],
+    "reference": "Scrambled: aemnizag; Clue: Holds the spare ammunition",
+    "explanation": "The magazine is the detachable container that holds cartridges under spring pressure, ready to be fed into the firearm's chamber."
+  },
+  {
+    "question": "When acquiring a proper sight picture, which part of the sights should always be in focus?",
+    "answer": "Front sight",
+    "options": [
+      "Rear sight",
+      "The target",
+      "Front sight",
+      "Both front and rear sights equally"
+    ],
+    "reference": "Scrambled: rofnt sgiht; Clue: Should always be in focus during the proper sight picture",
+    "explanation": "A fundamental principle of marksmanship is to focus sharply on the front sight. When this is done, the rear sight and the target will be slightly blurry, which allows for accurate aiming."
+  },
+  {
+    "question": "What should proper cover prevent?",
+    "answer": "Round penetration",
+    "options": [
+      "Being seen by the suspect.",
+      "Round penetration",
+      "The need to return fire.",
+      "Having to move."
+    ],
+    "reference": "Scrambled: odnur nptionaerte; Clue: Proper cover should prevent ________",
+    "explanation": "The key difference between cover and concealment is that cover (like a concrete wall or engine block) is designed to stop incoming rounds, while concealment (like a bush) only hides you."
+  },
+  {
+    "question": "What is the #1 rule of firearms safety?",
+    "answer": "Guns are always loaded.",
+    "options": [
+      "Keep your finger off the trigger until ready to shoot.",
+      "Never point the weapon at anything you are not willing to destroy.",
+      "Be sure of your target and what is beyond it.",
+      "Guns are always loaded."
+    ],
+    "reference": "Scrambled: usgn era lysaaw eldado; Clue: #1 firearms rule",
+    "explanation": "This fundamental rule, also known as 'Treat all guns as if they are loaded,' is the most important mindset for preventing negligent discharges and ensuring safety."
+  },
+  {
+    "question": "What is considered the #1 shooting fundamental?",
+    "answer": "Trigger control",
+    "options": [
+      "Stance",
+      "Grip",
+      "Sight alignment",
+      "Trigger control"
+    ],
+    "reference": "Scrambled: etrirgg crootnl; Clue: #1 shooting fundamental",
+    "explanation": "Proper trigger control—a smooth, steady press straight to the rear without disturbing the sight alignment—is the most critical mechanical skill for accurate shooting."
+  },
+  {
+    "question": "When lubricating a firearm, where should one drop of gun oil be placed?",
+    "answer": "In the wear areas of the gun.",
+    "options": [
+      "Inside the barrel.",
+      "On the grip.",
+      "In the wear areas of the gun.",
+      "On the magazine."
+    ],
+    "reference": "Scrambled: eraw aesra; Clue: Use one drop of gun oil in the ______ of the gun.",
+    "explanation": "Lubrication should be applied sparingly to the high-friction points, or 'wear areas' (like slide rails), to ensure smooth function without attracting excessive dirt and grime."
+  },
+  {
+    "question": "What action should be taken when a firearm runs out of ammunition during a critical incident?",
+    "answer": "Immediate action reload.",
+    "options": [
+      "Transition to a backup weapon.",
+      "Take cover and wait for backup.",
+      "Immediate action reload.",
+      "Perform a tactical reload."
+    ],
+    "reference": "Scrambled: emtdmiaei oniact deoarl; Clue: Should be done when the weapon runs out of rounds.",
+    "explanation": "An immediate action reload (also known as an emergency or speed reload) is the fastest way to get an empty weapon back into the fight."
+  },
+  {
+    "question": "Having the body square to the target, feet shoulder-width apart, and knees slightly bent are all elements of what?",
+    "answer": "A proper shooting stance.",
+    "options": [
+      "A proper draw sequence.",
+      "Proper trigger control.",
+      "A proper shooting stance.",
+      "A tactical reload."
+    ],
+    "reference": "Scrambled: opprre oohsnigt asenct; Clue: Body square to the target, feet shoulder width apart, and knees slightly bent are elements of a _________.",
+    "explanation": "A stable and athletic stance provides the foundation for managing recoil and maintaining sight alignment for accurate and rapid follow-up shots."
+  },
+  {
+    "question": "After drawing the firearm, what should an officer acquire as the gun is being extended toward the target?",
+    "answer": "Sight alignment and sight picture.",
+    "options": [
+      "A verbal command.",
+      "A firm grip.",
+      "Sight alignment and sight picture.",
+      "A target lock."
+    ],
+    "reference": "Scrambled: itgsh amnegntli; Clue: After the draw sequence a proper ____ & picture should be acquired as the gun is being extended toward a target",
+    "explanation": "Sight alignment (the relationship of the front and rear sights) and sight picture (the alignment of the sights on the target) must be established as the weapon is brought up to the eye line."
+  },
+  {
+    "question": "What is the purpose of 'scanning' after a shooting engagement?",
+    "answer": "To break tunnel vision and find other potential threats.",
+    "options": [
+      "To check if the suspect is down.",
+      "To count the number of rounds fired.",
+      "To break tunnel vision and find other potential threats.",
+      "To prepare for a reload."
+    ],
+    "reference": "Scrambled: aninncgs; Clue: Time for breaking tunnel vision and finding other threats",
+    "explanation": "Under stress, the body experiences perceptual narrowing (tunnel vision). Actively scanning the environment after a threat is neutralized is crucial for identifying other dangers."
+  },
+  {
+    "question": "According to the Penal Code, can an officer use deadly force to prevent a person from committing suicide?",
+    "answer": "No.",
+    "options": [
+      "Yes, if the person is armed.",
+      "Yes, if it is the only way to stop them.",
+      "No.",
+      "Only with a supervisor's authorization."
+    ],
+    "reference": "Scrambled: scueiid; Clue: Cannot use deadly force to prevent this from occurring.",
+    "explanation": "Texas Penal Code Sec. 9.34 justifies the use of force, but specifically NOT deadly force, to prevent someone from committing suicide."
+  },
+  {
+    "question": "The Supreme Court case of *Tennessee v. Garner* established the legal standard for what?",
+    "answer": "The use of deadly force against a fleeing felon.",
+    "options": [
+      "The use of warning shots.",
+      "The requirements for a search warrant.",
+      "The use of deadly force against a fleeing felon.",
+      "The right to an attorney during interrogation."
+    ],
+    "reference": "Scrambled: lefgeni lenfo; Clue: Tennessee v. Garner is the ________ case.",
+    "explanation": "This landmark case ruled that deadly force cannot be used to prevent the escape of all felony suspects, but only those who pose a significant threat of death or serious physical injury to the officer or others."
+  },
+  {
+    "question": "What is the definition of 'necessary force'?",
+    "answer": "The minimal amount of lawful aggression sufficient to achieve a legitimate law enforcement objective.",
+    "options": [
+      "The maximum amount of force allowed by law.",
+      "Any force that does not result in serious injury.",
+      "The minimal amount of lawful aggression sufficient to achieve a legitimate law enforcement objective.",
+      "The same amount of force used by the suspect."
+    ],
+    "reference": "Scrambled: scarneyse froce; Clue: Minimal amount of lawful aggression sufficient to achieve a legitimate law enforcement objective",
+    "explanation": "This concept is central to the 'objective reasonableness' standard. Officers must use only the amount of force needed to control the situation and no more."
+  },
+  {
+    "question": "Holding a handgun firmly with the web of the hand as high up on the handle as possible describes what fundamental?",
+    "answer": "Proper grip.",
+    "options": [
+      "Proper stance.",
+      "Proper grip.",
+      "Proper sight alignment.",
+      "Proper trigger control."
+    ],
+    "reference": "Scrambled: rorpep igrp; Clue: Holding the gun firmly with the web of the V formed by the thumb & index finger as high up on the handle",
+    "explanation": "A high, firm grip is essential for managing recoil, which allows for faster and more accurate follow-up shots."
+  },
+  {
+    "question": "What is the legal definition of 'deadly force'?",
+    "answer": "Force intended or known to be capable of causing death or serious bodily injury.",
+    "options": [
+      "Any use of a firearm.",
+      "Force that results in the death of a person.",
+      "Force intended or known to be capable of causing death or serious bodily injury.",
+      "Any force greater than weaponless defense techniques."
+    ],
+    "reference": "Scrambled: dyalde ecofr; Clue: Amount of force that is intended or known by the actor to cause, or in any manner of its use or intended use is capable of causing, death or serious bodily injury",
+    "explanation": "This is the definition found in Texas Penal Code Sec. 9.01. It focuses on the capability and intent of the force, not just the outcome."
+  },
+  {
+    "question": "What is the term for the duty of officers to prevent one another from using excessive force?",
+    "answer": "Affirmative",
+    "options": [
+      "Discretionary duty",
+      "Affirmative",
+      "Secondary duty",
+      "Moral duty"
+    ],
+    "reference": "Scrambled: ifmtvifarae; Clue: Duty for officers to prevent one from using excessive force",
+    "explanation": "This refers to the affirmative duty to intervene. It is not optional; officers have a legal and ethical obligation to stop another officer from using unreasonable force."
+  },
+  {
+    "question": "Which of the following court cases dealt with the use of 'warning shots'?",
+    "answer": "Jones v. Wittenberg University",
+    "options": [
+      "Jones v. Wittenberg University",
+      "Tennessee v. Garner",
+      "Garrity v. New Jersey",
+      "Terry v. Ohio"
+    ],
+    "reference": "19.1.1",
+    "explanation": "While *Tennessee v. Garner* is the landmark case for use of deadly force on fleeing felons, *Jones v. Wittenberg University* is a case often cited in training materials regarding specific use-of-force policies within an agency, including policies on warning shots."
+  },
+  {
+    "question": "What is the part of a revolver where cartridges are loaded?",
+    "answer": "Cylinder",
+    "options": [
+      "Cylinder",
+      "Breech",
+      "Magazine",
+      "Forearm"
+    ],
+    "reference": "19.2.2",
+    "explanation": "The cylinder is the rotating part of a revolver that contains multiple chambers, each holding one cartridge. It rotates to align a new cartridge with the barrel for each shot."
+  },
+  {
+    "question": "What is the part of a shotgun that is utilized to reload by sliding it back and forth?",
+    "answer": "Fore-end",
+    "options": [
+      "Cylinder",
+      "Breech",
+      "Magazine",
+      "Fore-end"
+    ],
+    "reference": "19.2.2",
+    "explanation": "The fore-end, also known as the pump or slide, is the part of a pump-action shotgun that the user manipulates to eject a spent shell and load a new one from the magazine tube."
+  },
+  {
+    "question": "What component of a semi-automatic weapon contains a spring and a follower and holds ammunition?",
+    "answer": "Magazine",
+    "options": [
+      "Cylinder",
+      "Breech",
+      "Magazine",
+      "Forearm"
+    ],
+    "reference": "19.2.2",
+    "explanation": "A magazine is a detachable or internal container that holds cartridges under spring pressure, feeding them into the chamber of a semi-automatic or automatic weapon."
+  },
+  {
+    "question": "What part of a shotgun protects the ammunition after it has been loaded into the magazine tube?",
+    "answer": "Fore-end",
+    "options": [
+      "Cylinder",
+      "Breech",
+      "Magazine",
+      "Fore-end"
+    ],
+    "reference": "19.2.2",
+    "explanation": "In a tube-fed shotgun, the fore-end (or slide) covers the loading port of the magazine tube once rounds have been inserted, protecting them from the elements and preventing them from falling out."
+  },
+  {
+    "question": "What are the minimum standards for the annual TCOLE handgun proficiency qualification?",
+    "answer": "A minimum passing percentage of 70% with a minimum firing of 50 rounds, including at least 5 rounds of duty ammunition.",
+    "options": [
+      "50% passing, 50 rounds, 5 duty rounds",
+      "60% passing, 100 rounds, 10 duty rounds",
+      "70% passing, 50 rounds, 5 duty rounds",
+      "80% passing, 150 rounds, 15 duty rounds"
+    ],
+    "reference": "19.3.2",
+    "explanation": "TCOLE sets these as the absolute minimum standards that every Texas peace officer must meet annually to maintain their firearms proficiency certification with a handgun."
+  },
+  {
+    "question": "The minimum standards for the annual shotgun proficiency course require firing a minimum of 5 rounds of duty ammunition at what range?",
+    "answer": "At least 15 yards.",
+    "options": [
+      "25 yards",
+      "10 yards",
+      "15 yards",
+      "50 yards"
+    ],
+    "reference": "19.3.2",
+    "explanation": "The 15-yard distance is the TCOLE minimum standard for shotgun qualification, testing an officer's ability to accurately handle the weapon at a common engagement distance."
+  },
+  {
+    "question": "For precision rifle qualification, an agency may allow a range less than 100 yards (but not less than 50 yards) only if the minimum passing percentage is raised to what?",
+    "answer": "90 percent.",
+    "options": [
+      "75 percent",
+      "80 percent",
+      "85 percent",
+      "90 percent."
+    ],
+    "reference": "19.3.2",
+    "explanation": "This rule allows agencies flexibility for range limitations but ensures a higher standard of accuracy is met if the qualification is conducted at a shorter, less challenging distance."
+  },
+  {
+    "question": "The annual proficiency course for patrol rifles requires firing a minimum of 30 rounds at a range of at least 50 yards. If an agency uses a shorter range (not less than 10 yards), what must the passing percentage be raised to?",
+    "answer": "90 percent.",
+    "options": [
+      "75 percent",
+      "80 percent",
+      "85 percent",
+      "90 percent."
+    ],
+    "reference": "19.3.2",
+    "explanation": "Similar to the precision rifle rule, this ensures that officers demonstrate a higher degree of marksmanship if they qualify at a closer, less difficult distance."
+  },
+  {
+    "question": "The proficiency course for fully automatic weapons requires a minimum of 30 rounds fired at ranges from seven to ten yards, including at least how many rounds fired in full automatic?",
+    "answer": "25",
+    "options": [
+      "10",
+      "15",
+      "20",
+      "25"
+    ],
+    "reference": "19.3.2",
+    "explanation": "The proficiency course is designed to test an officer's ability to control the weapon in both semi-automatic and full-automatic (burst) modes."
+  },
+  {
+    "question": "What is the minimum passing percentage for ALL firearm qualifications according to TCOLE standards?",
+    "answer": "70",
+    "options": [
+      "50",
+      "70",
+      "75",
+      "90"
+    ],
+    "reference": "19.3.2",
+    "explanation": "While individual agencies can set a higher standard, 70% is the state-mandated minimum passing score for all required firearm proficiency courses."
+  },
+  {
+    "question": "According to the Penal Code, when is a person justified in using force, but NOT deadly force?",
+    "answer": "To prevent another from committing suicide or inflicting serious bodily injury to himself.",
+    "options": [
+      "To protect property at nighttime.",
+      "To preserve another person's life in any emergency.",
+      "To prevent another from committing suicide or inflicting serious bodily injury to himself.",
+      "In response to verbal provocation."
+    ],
+    "reference": "20.1.1 (referencing Texas Penal Code Sec. 9.34)",
+    "explanation": "The law specifically justifies force to save a life but draws a line at using deadly force to prevent suicide, as the goal is preservation of life."
+  },
+  {
+    "question": "What is the definition of 'Cover' in a tactical context?",
+    "answer": "A protected area that provides security from an assailant’s firepower.",
+    "options": [
+      "Any object that hides a person from view.",
+      "A designated safe zone established by a supervisor.",
+      "A protected area that provides security from an assailant’s firepower.",
+      "The act of placing oneself behind a partner."
+    ],
+    "reference": "24.1.3",
+    "explanation": "This is a critical tactical distinction. Cover, such as a concrete wall or engine block, physically stops bullets. Concealment, like a bush, only hides you from sight."
+  },
+  {
+    "question": "What is the definition of 'Concealment'?",
+    "answer": "Any condition or object that hides a person from view but does not necessarily provide protection from firepower.",
+    "options": [
+      "A fortified position.",
+      "A ballistic shield.",
+      "Any condition or object that hides a person from view but does not necessarily provide protection from firepower.",
+      "The area behind a patrol vehicle's engine block."
+    ],
+    "reference": "24.1.3",
+    "explanation": "Using concealment (like darkness or a hedge) is a valid tactic, but officers must understand it will not stop bullets, unlike true cover."
+  },
+  {
+    "question": "An agency must comply with annual firearm proficiency requirements if it employs at least how many peace officers?",
+    "answer": "2",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "reference": "2.1.4",
+    "explanation": "This TCOLE rule ensures that virtually all law enforcement agencies in Texas, except for those with a single officer, are held to the same minimum proficiency standards."
+  }
+]
 }

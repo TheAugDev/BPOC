@@ -134,7 +134,8 @@ const bpocTopics = [
     { name: "Fitness and Wellness", id: "Fitness and Wellness" },
     { name: "CCP and Constitution", id: "CCP and Constitution" },
     { name: "Arrest & Frisk Tactics", id: "Arrest & Frisk Tactics" },
-    { name: "Portable Radio RSM", id: "Portable Radio RSM" }
+    { name: "Portable Radio RSM", id: "Portable Radio RSM" },
+    { name: "Firearms", id: "Firearms" }
 ];
 
 const reviewTypes = [
