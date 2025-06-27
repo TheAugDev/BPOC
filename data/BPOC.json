@@ -3101,6 +3101,292 @@
       "To quell and suppress all assaults, batteries, riots, and unlawful assemblies."
     ],
     "reference": "6.7 The Sheriff's Duties (Art. 2.17 & 2.18) The Sheriff is the conservator of the peace in their county. They have a specific duty to quell and suppress all assaults, batteries, riots, insurrections, and unlawful assemblies."
+  },
+  {
+    "question": "An officer, chasing a suspect who just committed an armed robbery, follows the suspect directly into a house without a warrant. Which specific type of exigent circumstance justifies this entry?",
+    "answer": "Hot Pursuit of a fleeing felon.",
+    "options": [
+      "Consent.",
+      "Preventing the destruction of evidence.",
+      "Hot Pursuit of a fleeing felon.",
+      "Community Caretaking."
+    ],
+    "reference": "Exigent Circumstances and Hot Pursuit. Police Officers do not have to delay in the course of an investigation... if they are in immediate or continuous pursuit after a 'serious offense.'",
+    "explanation": "Hot pursuit of a fleeing felon is a classic exigent circumstance, as the need to apprehend a dangerous suspect and prevent their escape outweighs the warrant requirement in that moment."
+  },
+  {
+    "question": "Officers respond to a call and hear sounds of a violent struggle and someone screaming for help inside a residence. They do not have a warrant. Their warrantless entry is justified under which exigency?",
+    "answer": "Protection of life or to provide emergency aid.",
+    "options": [
+      "Hot Pursuit.",
+      "Protection of life or to provide emergency aid.",
+      "Preventing the destruction of evidence.",
+      "Community Caretaking."
+    ],
+    "reference": "Exigent circumstances cases typically involve: protection of life (first aid; extracting children who appear in danger...); ... In order to enter a home on the basis of exigent circumstances, the officer must have a reasonable belief that there is an emergency that requires immediate action...",
+    "explanation": "The immediate need to prevent serious injury or death creates an exigency that allows officers to enter without a warrant, as there is no time to obtain one."
+  },
+  {
+    "question": "An officer has probable cause to believe a suspect is inside a house actively destroying narcotics evidence after becoming aware of the police presence. What specific exigency may justify a warrantless entry?",
+    "answer": "Preventing the imminent destruction of evidence.",
+    "options": [
+      "A search incident to arrest.",
+      "Hot Pursuit.",
+      "Community Caretaking.",
+      "Preventing the imminent destruction of evidence."
+    ],
+    "reference": "Exigent circumstances. Probable cause along with exigent circumstances may justify a search or entry without a warrant. ... Preventing the destruction of evidence or contraband.",
+    "explanation": "When officers have probable cause and reasonably believe evidence is about to be imminently destroyed, it can create an exigent circumstance justifying immediate, warrantless entry."
+  },
+  {
+    "question": "After lawfully entering a home due to exigent circumstances (e.g., to stop a violent assault), what is the scope of the officers' search authority?",
+    "answer": "They may conduct a protective sweep for other people who could pose a danger.",
+    "options": [
+      "They can search the entire house for any and all evidence.",
+      "Their search is limited to the person they were trying to help.",
+      "They can only seize evidence that is in plain view.",
+      "They may conduct a protective sweep for other people who could pose a danger."
+    ],
+    "reference": "Protective sweeps. Protective sweeps are limited to a cursory search of the premises to assure that they do not contain people who endanger the officers' safety.",
+    "explanation": "Once the initial emergency is controlled, the justification for the warrantless entry ends. Officers can't conduct a full search without a warrant or another exception, but they can perform a limited sweep to ensure no one else is hiding who could ambush them."
+  },
+  {
+    "question": "An officer lawfully stops a car for a traffic violation and sees a baggie of what appears to be cocaine on the passenger seat. Which exception allows the officer to seize the baggie without a warrant?",
+    "answer": "Plain View Doctrine.",
+    "options": [
+      "Search Incident to Arrest.",
+      "Community Caretaking.",
+      "Plain View Doctrine.",
+      "Exigent Circumstances."
+    ],
+    "reference": "PLAIN VIEW: ...the officer must obtain his view from a location where he has a right to be. ... 'IMMEDIATELY APPARENT' ITEM IN 'PLAIN VIEW' IS EVIDENCE OF CRIME.",
+    "explanation": "Under this doctrine, if an officer is lawfully in a position to view an item and its incriminating character is immediately apparent, they can seize it without a warrant."
+  },
+  {
+    "question": "An officer finds a person slumped over the wheel of a running car stopped in a traffic lane. The officer approaches to check on their welfare. This action is justified under which doctrine?",
+    "answer": "Community Caretaking.",
+    "options": [
+      "Plain View.",
+      "Hot Pursuit.",
+      "Community Caretaking.",
+      "Consent."
+    ],
+    "reference": "Community Caretaking Function. ...officers must be confronted with a situation where they feel a duty to act immediately to address what they perceive to be a potential harm for an individual or the community. ... Suspect passed out behind the wheel. Car in Drive. Can an Officer see if the suspect is OK... Yes.",
+    "explanation": "This exception recognizes that police perform duties beyond just law enforcement, including helping people who appear to be in distress or in need of aid."
+  },
+  {
+    "question": "Which of the following situations, by itself, allows a peace officer to make a warrantless arrest in Texas according to the provided handout?",
+    "answer": "The offense, classed as a felony or breach of the peace, is committed in the officer's presence or view.",
+    "options": [
+      "A citizen tells the officer that another person committed a misdemeanor earlier in the day.",
+      "The officer has a 'hunch' that a person is about to commit a crime.",
+      "The offense, classed as a felony or breach of the peace, is committed in the officer's presence or view.",
+      "The person refuses to provide their identification."
+    ],
+    "reference": "Offenses Within View: ...a peace officer or any other person, may, without a warrant, arrest an offender when the offense is committed in his presence or within his view, if the offense is one classed as a felony or as an offense against the public peace.",
+    "explanation": "CCP Art. 14.01 gives officers the clear authority to make a warrantless arrest for any offense they personally witness, removing the need to seek a magistrate's approval first."
+  },
+  {
+    "question": "A magistrate is present when a felony occurs and verbally orders a nearby peace officer to arrest the offender. Is the officer's warrantless arrest lawful?",
+    "answer": "Yes, an officer may arrest without a warrant on the verbal order of a magistrate for a felony committed in the magistrate's view.",
+    "options": [
+      "No, the magistrate's order must be in writing.",
+      "No, the officer must also personally witness the offense.",
+      "Yes, an officer may arrest without a warrant on the verbal order of a magistrate for a felony committed in the magistrate's view.",
+      "No, only a judge of a district court can order an arrest."
+    ],
+    "reference": "Offense Witnessed by Magistrate: A peace officer may arrest without warrant on the orders of a magistrate when the offense is committed in his presence or within view of the magistrate and a felony or an offense against the public peace.",
+    "explanation": "This statute grants a magistrate the authority to direct an immediate arrest for offenses they witness, empowering the officer to act on that order without a written warrant."
+  },
+  {
+    "question": "An officer has probable cause to believe a person has committed an assault resulting in bodily injury. What additional factor must be present for the officer to make a warrantless arrest if the assault was not seen by the officer?",
+    "answer": "The officer must have probable cause to believe there is a danger of further bodily injury to the victim.",
+    "options": [
+      "The victim must sign a complaint on the spot.",
+      "There must be an independent witness.",
+      "The suspect must confess to the assault.",
+      "The officer must have probable cause to believe there is a danger of further bodily injury to the victim."
+    ],
+    "reference": "Assault with Future Danger – Arrest: A peace officer may arrest without a warrant when the peace officer has probable cause to believe a person has committed an assault resulting in bodily injury and there is a danger of further bodily injury even if the offense is not committed in the presence of the officer."
+  },
+  {
+    "question": "An officer has probable cause to believe a person has committed an offense involving family violence. The offense did not occur in the officer's presence. What is the officer's arrest authority?",
+    "answer": "The officer may arrest without a warrant.",
+    "options": [
+      "The officer must get a warrant.",
+      "The officer may only issue a citation.",
+      "The officer may arrest without a warrant.",
+      "The officer must see physical injuries on the victim to make an arrest."
+    ],
+    "reference": "Family Violence and Interference Cases: A peace officer may also arrest without warrant when the peace officer has probable cause to believe a person has committed an offense involving family violence...",
+    "explanation": "Texas law gives officers the discretion ('may arrest') to make a warrantless arrest for family violence based on probable cause, even if they didn't witness it, due to the high risk of recurring violence."
+  },
+  {
+    "question": "An officer is told by a credible person that a man just committed a felony and is running to a nearby car to get away. What does the Code of Criminal Procedure authorize the officer to do?",
+    "answer": "Pursue and arrest the offender without a warrant.",
+    "options": [
+      "Follow the man and call for a warrant to be prepared.",
+      "Pursue and arrest the offender without a warrant.",
+      "Only detain the man if he can catch him before he reaches the car.",
+      "Note the information for a follow-up investigation."
+    ],
+    "reference": "Finally, when it is shown by satisfactory proof to a peace officer upon the representation of a credible person that a felony has been committed, and the offender is about to escape so there is no time to procure a warrant, a peace office may pursue and arrest without warrant.",
+    "explanation": "This is another exigent circumstance exception, often called the 'fleeing felon' exception, allowing immediate action when there is no time to get a warrant before a felon escapes."
+  },
+  {
+    "question": "What is the key difference in an officer's arrest authority for a violation of a protective order seen by the officer versus one not seen by the officer?",
+    "answer": "If seen, the officer SHALL arrest; if not seen but probable cause exists, the officer MAY arrest.",
+    "options": [
+      "There is no difference; the officer must always arrest.",
+      "The officer can only arrest if the violation is seen.",
+      "If seen, the officer SHALL arrest; if not seen but probable cause exists, the officer MAY arrest.",
+      "The officer may only arrest for a violation not seen if it involves a felony."
+    ],
+    "reference": "Violation of Protective Order on View – Mandatory Arrest: The peace officer shall, or has no choice but to, arrest a person who has committed a violation of a protective order when the offense is committed in the presence of the officer. ... A peace office may also arrest without a warrant when the peace officer has probable cause to believe the person has committed a violation of protective order. Again, even if the offense is not committed in the presence of the officer.",
+    "explanation": "Texas law makes arrest mandatory for protective order violations witnessed by an officer to provide maximum protection for victims. For unwitnessed violations, the officer retains discretion but still has the authority to act."
+  },
+  {
+    "question": "An officer is outside of his jurisdiction (e.g., in a neighboring city). He sees a person commit a felony. What is his arrest authority?",
+    "answer": "He may arrest without a warrant.",
+    "options": [
+      "He has no arrest authority outside his jurisdiction.",
+      "He may only detain the person until a local officer arrives.",
+      "He may arrest without a warrant.",
+      "He can only arrest if he is in 'hot pursuit'."
+    ],
+    "reference": "Limitation of Arrests without a Warrant. The Texas Code of Criminal Procedure states any Texas peace officer may arrest without a warrant outside of his jurisdiction a person who commits an offense in the officer's presence or view and the offense is a felony, a disorderly conduct or related offense... an intoxication offense, or a breach of the peace."
+  },
+  {
+    "question": "Officers respond to a loud party call and, as they approach the front door, they hear a person inside yell, 'Help, he's going to kill me!' and the sound of a struggle. Under which exigent circumstance are the officers justified in making a warrantless entry into the residence?",
+    "answer": "Preventing Serious injury & Providing Emergency Aid.",
+    "options": [
+      "Preventing the imminent destruction or loss of evidence.",
+      "Preventing imminent or immediate escape.",
+      "Hot pursuit of a serious offense.",
+      "Preventing Serious injury & Providing Emergency Aid."
+    ],
+    "reference": "Preventing Serious injury & Providing Emergency Aid",
+    "explanation": "The sounds of a violent struggle and a cry for help create a clear and immediate need to enter to protect life, which outweighs the warrant requirement in that moment."
+  },
+  {
+    "question": "Undercover officers are negotiating a narcotics purchase with a dealer inside an apartment. The dealer suddenly says, 'Something's not right, flush it all!' and runs towards the bathroom. What exigent circumstance would justify the officers forcing entry without a warrant?",
+    "answer": "To prevent the imminent destruction or loss of evidence.",
+    "options": [
+      "Hot pursuit of a serious offense.",
+      "To prevent the imminent destruction or loss of evidence.",
+      "Providing emergency aid.",
+      "Preventing an immediate escape."
+    ],
+    "reference": "Prevent the imminent destruction or loss of evidence",
+    "explanation": "When officers have probable cause and believe evidence is actively and immediately being destroyed, they may be justified in making a warrantless entry to preserve it."
+  },
+  {
+    "question": "An officer has probable cause to arrest a suspect for felony assault. As the officer approaches, the suspect sees the officer and bolts, running into his own open garage door and trying to shut it. The officer follows him inside and makes the arrest. Which exigency justifies this warrantless entry?",
+    "answer": "To prevent imminent or immediate escape.",
+    "options": [
+      "To provide emergency aid.",
+      "To prevent the destruction of evidence.",
+      "To prevent an assault against the officer.",
+      "To prevent imminent or immediate escape."
+    ],
+    "reference": "Prevent imminent or immediate escape",
+    "explanation": "When an officer has probable cause for a felony arrest and the suspect takes an overt action to escape, the officer may be justified in pursuing them into a private area to complete the arrest."
+  },
+  {
+    "question": "Officers are pursuing a vehicle driven by a suspect wanted for armed robbery. The suspect abandons the car and runs into a nearby apartment building. The officers follow him inside. What legal principle justifies their warrantless entry into the building?",
+    "answer": "'Hot/Fresh pursuit' of a serious offense.",
+    "options": [
+      "Community Caretaking.",
+      "Consent.",
+      "'Hot/Fresh pursuit' of a serious offense.",
+      "Inventory search."
+    ],
+    "reference": "“Hot/Fresh pursuit” of a serious offense",
+    "explanation": "This doctrine allows officers to continue a chase that began in a public place into a private area to prevent the escape of a suspect from a serious crime, as there is no time to get a warrant."
+  },
+  {
+    "question": "An officer observes a person commit a Class C misdemeanor (a non-serious offense) and the person runs inside their house. The officer pursues them inside without a warrant. What will the court require to justify this entry?",
+    "answer": "Proof of reasonableness or an additional exigent circumstance.",
+    "options": [
+      "The pursuit of any offense allows for warrantless entry.",
+      "The officer's testimony that they were in fear.",
+      "Proof of reasonableness or an additional exigent circumstance.",
+      "Nothing, the entry is automatically justified."
+    ],
+    "reference": "Hot pursuit of a non-serious offense with reasonableness or exigency",
+    "explanation": "Unlike for a felony, the courts are much stricter about warrantless entries for minor offenses. The officer would need to show some other emergency existed (like the person was destroying evidence or posed another immediate threat) to justify the entry."
+  },
+  {
+    "question": "Officers respond to a 911 call reporting a violent home invasion. As they approach, they hear screams and sounds of a struggle inside. What exigent circumstance justifies their immediate, warrantless entry into the home?",
+    "answer": "Preventing Serious injury & Providing Emergency Aid.",
+    "options": [
+      "Preventing the imminent destruction or loss of evidence.",
+      "Preventing imminent or immediate escape.",
+      "Hot pursuit of a serious offense.",
+      "Preventing Serious injury & Providing Emergency Aid."
+    ],
+    "reference": "Preventing Serious injury & Providing Emergency Aid",
+    "explanation": "The sounds of an ongoing violent crime and screams for help create an immediate and overriding need for officers to enter to protect life, which is a core exigent circumstance."
+  },
+  {
+    "question": "While conducting surveillance on a house for suspected drug trafficking, officers observe the suspects begin to frantically load boxes into a vehicle after a marked patrol car accidentally drives down the street. Which exigent circumstance might justify a warrantless entry?",
+    "answer": "To prevent the imminent destruction or loss of evidence.",
+    "options": [
+      "Hot pursuit of a serious offense.",
+      "To prevent the imminent destruction or loss of evidence.",
+      "Providing emergency aid.",
+      "Preventing an immediate escape."
+    ],
+    "reference": "Prevent the imminent destruction or loss of evidence",
+    "explanation": "If officers have probable cause and reasonably believe the suspects are now actively trying to destroy or remove evidence because they know police are aware, this can create an exigency."
+  },
+  {
+    "question": "An officer has probable cause to arrest a suspect for felony assault. When the officer identifies themself, the suspect immediately sprints towards the back door of their house. Which exigency justifies the officer pursuing the suspect into the home?",
+    "answer": "To prevent imminent or immediate escape.",
+    "options": [
+      "To provide emergency aid.",
+      "To prevent the destruction of evidence.",
+      "To prevent an assault against the officer.",
+      "To prevent imminent or immediate escape."
+    ],
+    "reference": "Prevent imminent or immediate escape",
+    "explanation": "When an officer has probable cause for an arrest (especially a felony) and the suspect takes an overt action to flee into a private area, the officer may be justified in pursuing them to complete the arrest."
+  },
+  {
+    "question": "Officers are in a foot chase with a suspect who just committed an armed robbery. The suspect runs into an open apartment belonging to a third party. What legal doctrine allows the officers to follow the suspect inside without a warrant?",
+    "answer": "'Hot/Fresh pursuit' of a serious offense.",
+    "options": [
+      "Community Caretaking.",
+      "Consent from the apartment manager.",
+      "'Hot/Fresh pursuit' of a serious offense.",
+      "Plain View."
+    ],
+    "reference": "“Hot/Fresh pursuit” of a serious offense",
+    "explanation": "This doctrine allows a continuous pursuit for a serious crime to cross the threshold of a private dwelling because the need to apprehend the dangerous fleeing felon outweighs the warrant requirement at that moment."
+  },
+  {
+    "question": "An officer observes a teenager spray-painting graffiti (a misdemeanor) on a wall. The teenager sees the officer and runs into their own house. Can the officer legally make a warrantless entry based on 'hot pursuit'?",
+    "answer": "No, not without showing some other exigent circumstance.",
+    "options": [
+      "Yes, hot pursuit applies to any offense.",
+      "Yes, because the teenager is a juvenile.",
+      "No, because graffiti is not a 'serious offense'.",
+      "No, not without showing some other exigent circumstance."
+    ],
+    "reference": "Hot pursuit of a non-serious offense with reasonableness or exigency",
+    "explanation": "Courts are very hesitant to allow warrantless entries into homes for minor offenses. For a non-serious crime, the officer would need to articulate an additional emergency (like the suspect posed a threat to someone inside or was destroying evidence) to justify the entry."
+  },
+  {
+    "question": "A person is actively being assaulted inside their home. Which exigency provides the strongest justification for a warrantless entry by police?",
+    "answer": "Preventing Serious injury & Providing Emergency Aid.",
+    "options": [
+      "Preventing escape.",
+      "Preventing Serious injury & Providing Emergency Aid.",
+      "Preventing destruction of evidence.",
+      "Hot pursuit."
+    ],
+    "reference": "Preventing Serious injury & Providing Emergency Aid",
+    "explanation": "This is a primary exigent circumstance where the immediate need to save a life or prevent grave harm is paramount over the warrant requirement."
   }
 ],
         "Arrest & Frisk Tactics": [
