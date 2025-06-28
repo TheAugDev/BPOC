@@ -1,4 +1,2382 @@
 {
+  "Unit Review": [
+  {
+    "question": "Which of the following court cases dealt with the use of 'warning shots'?",
+    "answer": "Jones v. Wittenberg University",
+    "options": [
+      "Jones v. Wittenberg University",
+      "Tennessee v. Garner",
+      "Garrity v. New Jersey",
+      "Terry v. Ohio"
+    ],
+    "reference": "Jones v. Wittenberg University, 534 F.2d 1203 (6th Cir. 1976)",
+    "explanation": "This federal appellate court case established important precedent regarding the reasonableness of warning shots and officer liability. The court held that firing warning shots can create unreasonable danger to bystanders and that officers must consider the totality of circumstances, including location and potential for harm, before discharging a firearm. Most law enforcement agencies now prohibit or severely restrict warning shots due to liability concerns stemming from this and similar cases."
+  },
+  {
+    "question": "The part of a revolver where cartridges are loaded is called the:",
+    "answer": "Cylinder",
+    "options": [
+      "Cylinder",
+      "Breech",
+      "Magazine",
+      "Forearm"
+    ],
+    "reference": "Quiz 4 for Unit 1 Review, Question #2",
+    "explanation": "The cylinder is the rotating part of a revolver that contains multiple chambers for cartridges."
+  },
+  {
+    "question": "The part of a shotgun that is used to reload by sliding it is called the:",
+    "answer": "Fore-end",
+    "options": [
+      "Cylinder",
+      "Breech",
+      "Magazine",
+      "Fore-end"
+    ],
+    "reference": "Quiz 4 for Unit 1 Review, Question #3",
+    "explanation": "The fore-end, or pump, is manipulated by the user to eject a spent shell and chamber a new round."
+  },
+  {
+    "question": "What component of a semi-automatic weapon holds ammunition and has a spring and a follower?",
+    "answer": "Magazine",
+    "options": [
+      "Cylinder",
+      "Breech",
+      "Magazine",
+      "Forearm"
+    ],
+    "reference": "Quiz 4 for Unit 1 Review, Question #4",
+    "explanation": "The magazine is a container that feeds cartridges into the chamber of a semi-automatic weapon."
+  },
+  {
+    "question": "What part of a shotgun protects ammunition after it has been loaded?",
+    "answer": "Breech",
+    "options": [
+      "Cylinder",
+      "Breech",
+      "Magazine",
+      "Forearm"
+    ],
+    "reference": "Quiz 4 for Unit 1 Review, Question #5",
+    "explanation": "The breech is the rear part of the barrel that seals the chamber once a round is loaded, protecting it."
+  },
+  {
+    "question": "What are the minimum standards for the annual handgun proficiency requirement?",
+    "answer": "70% passing, 50 rounds, 5 duty rounds",
+    "options": [
+      "50%, 50, 5",
+      "60%, 100, 10",
+      "70%, 50, 5",
+      "80%, 150, 15"
+    ],
+    "reference": "Texas Administrative Code Title 37, Part 7, Chapter 218, Rule §218.9(a)(1)",
+    "explanation": "TCOLE mandates that every Texas peace officer must annually fire a 50-round qualification course, including a minimum of 5 rounds of their actual duty ammunition, and achieve a minimum score of 70%. This ensures officers maintain proficiency with their issued weapon and duty ammunition. Agencies may set higher standards, but cannot go below these state minimums."
+  },
+  {
+    "question": "The minimum standards for the annual shotgun proficiency course require a minimum of ___ rounds of duty ammunition fired at a range of at least ___ yards.",
+    "answer": "5, 15",
+    "options": [
+      "5, 25",
+      "10, 15",
+      "5, 15",
+      "25, 25"
+    ],
+    "reference": "Texas Administrative Code Title 37, Part 7, Chapter 218, Rule §218.9(a)(2)",
+    "explanation": "The TCOLE shotgun qualification standard requires officers to fire a minimum of 5 rounds at a distance of at least 15 yards. This distance was chosen because it represents a typical engagement range for law enforcement shotgun use, balancing accuracy requirements with realistic tactical scenarios. The 15-yard minimum ensures officers can effectively use the shotgun at distances where its spread pattern and stopping power are most appropriate."
+  },
+  {
+    "question": "For precision rifle qualification, if an agency uses a range between 50 and 99 yards (instead of 100+), the minimum passing score is raised to what?",
+    "answer": "90 percent.",
+    "options": [
+      "75",
+      "80",
+      "85",
+      "90"
+    ],
+    "reference": "Quiz 4 for Unit 1 Review, Question #8 (also Texas Administrative Code, Rule §218.9)",
+    "explanation": "To compensate for the reduced difficulty of a shorter range, the accuracy requirement is increased to 90%."
+  },
+  {
+    "question": "For patrol rifle qualification, if an agency uses a range between 10 and 49 yards (instead of 50+), the minimum passing score is raised to what?",
+    "answer": "90 percent.",
+    "options": [
+      "75",
+      "80",
+      "85",
+      "90"
+    ],
+    "reference": "Quiz 4 for Unit 1 Review, Question #9 (also Texas Administrative Code, Rule §218.9)",
+    "explanation": "Similar to the precision rifle rule, qualifying at a shorter distance requires a higher standard of marksmanship."
+  },
+  {
+    "question": "The proficiency course for fully automatic weapons requires a minimum of ____ rounds, at ranges from seven to ____ yards, with at least ____ rounds fired in full automatic.",
+    "answer": "30, 10, 25",
+    "options": [
+      "30, 10, 25",
+      "50, 25, 30",
+      "25, 25, 15",
+      "50, 10, 30"
+    ],
+    "reference": "Quiz 4 for Unit 1 Review, Question #10 (also Texas Administrative Code, Rule §218.9)",
+    "explanation": "This course tests an officer's ability to control the weapon in both semi-auto and burst-fire modes at close range."
+  },
+  {
+    "question": "What is the minimum passing percentage for EACH firearm qualification?",
+    "answer": "70",
+    "options": [
+      "50",
+      "70",
+      "75",
+      "90"
+    ],
+    "reference": "Quiz 4 for Unit 1 Review, Question #11 (also Texas Administrative Code, Rule §218.9)",
+    "explanation": "While an individual agency can require a higher score, the absolute minimum passing score set by TCOLE is 70% for all weapon systems."
+  },
+  {
+    "question": "A person is justified in using force, but NOT deadly force, against another when they reasonably believe it is immediately necessary to do what?",
+    "answer": "Prevent the other from committing suicide.",
+    "options": [
+      "Protect their property at nighttime.",
+      "Preserve the other’s life in any emergency.",
+      "Prevent the other from committing suicide.",
+      "Respond to verbal provocation."
+    ],
+    "reference": "Texas Penal Code Sec. 9.34. PROTECTION OF LIFE OR HEALTH",
+    "explanation": "Under Texas Penal Code Section 9.34, a person is justified in using force, but not deadly force, against another when the actor reasonably believes the force is immediately necessary to prevent the other from committing suicide or inflicting serious bodily injury upon himself. The law recognizes the value of preserving life while limiting the level of force that can be used. Using deadly force to prevent suicide would contradict the fundamental goal of saving a life."
+  },
+  {
+    "question": "What is the tactical definition of 'Cover'?",
+    "answer": "A protected area that provides security from an assailant’s firepower.",
+    "options": [
+      "Any object that hides a person from view.",
+      "A designated safe zone established by a supervisor.",
+      "A protected area that provides security from an assailant’s firepower.",
+      "The act of placing oneself behind a partner."
+    ],
+    "reference": "Quiz 4 for Unit 1 Review, Question #13",
+    "explanation": "This is a critical tactical distinction. Cover, such as a concrete wall or engine block, physically stops bullets."
+  },
+  {
+    "question": "What is the tactical definition of 'Concealment'?",
+    "answer": "Any condition or object that hides a person from view but does not necessarily provide protection.",
+    "options": [
+      "A fortified position.",
+      "A ballistic shield.",
+      "Any condition or object that hides a person from view but does not necessarily provide protection.",
+      "The area behind a patrol vehicle's engine block."
+    ],
+    "reference": "Quiz 4 for Unit 1 Review, Question #14",
+    "explanation": "Concealment only prevents an assailant from seeing you; it does not stop incoming rounds. A bush is concealment; a brick wall is cover."
+  },
+  {
+    "question": "An agency must comply with annual firearm proficiency requirements if it employs at least how many peace officers?",
+    "answer": "1",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "5"
+    ],
+    "reference": "Quiz 4 for Unit 1 Review, Question #15 (note: answer key seems to conflict with other documents, but this is the likely intended answer for this specific quiz).",
+    "explanation": "This TCOLE rule ensures that every agency, even those with a single officer, must adhere to the state-mandated proficiency standards."
+  },
+  {
+    "question": "Which two answer options represent the components of the FITT guidelines for fitness training that incorporate the principle of Progressive Overload?",
+    "answer": "Intensity and time",
+    "options": [
+      "Frequency and intensity",
+      "Frequency and time",
+      "Intensity and time",
+      "Time and type"
+    ],
+    "reference": "Quiz 4 for Unit 1 Review, Question #2 (from a different version of the quiz)",
+    "explanation": "Progressive overload means making exercise more demanding. This is achieved by increasing how hard you work out (Intensity) and for how long you work out (Time)."
+  },
+  {
+    "question": "To whom should a peace officer NEVER make a referral?",
+    "answer": "Bail bondsman or a private attorney",
+    "options": [
+      "Bail bondsman or a private attorney",
+      "District Attorney or County Attorney",
+      "State Department of Health and Human Services",
+      "State Department of Mental Health and Mental Retardation"
+    ],
+    "reference": "Quiz 4 for Unit 1 Review, Question #3 (from a different version of the quiz)",
+    "explanation": "Referring to a specific private attorney or bondsman creates a conflict of interest and can lead to allegations of kickbacks or favoritism, resulting in civil liability for the officer."
+  },
+  {
+    "question": "Which of the following describes a key difference between traditional and community-based models of policing?",
+    "answer": "The community-based model is more pro-active.",
+    "options": [
+      "The community-based model is more simplified.",
+      "The community-based model is incident-driven.",
+      "The community-based model is based upon Calls For Service.",
+      "The community-based model is more pro-active."
+    ],
+    "reference": "Quiz 4 for Unit 1 Review, Question #4 (from a different version of the quiz)",
+    "explanation": "Traditional policing is reactive (responding to calls), while community policing is proactive, aiming to solve underlying problems and build relationships to prevent crime."
+  },
+  {
+    "question": "Which of the following represents an example of physical courage?",
+    "answer": "Confronting an armed and barricaded suspect",
+    "options": [
+      "Refusing to accept gratuities from any citizens",
+      "Abstaining from participating in any cover-ups",
+      "Confronting an armed and barricaded suspect",
+      "Avoiding racial/ethnic/gender humor"
+    ],
+    "reference": "Quiz 4 for Unit 1 Review, Question #5 (from a different version of the quiz)",
+    "explanation": "Confronting a direct physical threat is an act of physical courage, while the other options are examples of moral courage (doing the right thing despite social or internal pressure)."
+  },
+  {
+    "question": "The right to a trial by jury is included in which legal document?",
+    "answer": "Both the U.S. Constitution (6th Amendment) and the Texas Code of Criminal Procedure.",
+    "options": [
+      "U.S. Constitution only",
+      "Texas Code of Criminal Procedure only",
+      "Texas Penal Code only",
+      "Both the U.S. Constitution (6th Amendment) and the Texas Code of Criminal Procedure."
+    ],
+    "reference": "Quiz 4 for Unit 1 Review, Question #11 (from a different version of the quiz)",
+    "explanation": "Many rights guaranteed in the U.S. Constitution's Bill of Rights are also explicitly written into the Texas Code of Criminal Procedure."
+  },
+  {
+    "question": "Which Supreme Court case established the requirement for officers to inform a person in custody of their right to remain silent and right to an attorney before interrogation?",
+    "answer": "Miranda v. Arizona",
+    "options": [
+      "Jones v. Wittenberg",
+      "Tennessee v. Garner",
+      "Terry v. Ohio",
+      "Miranda v. Arizona"
+    ],
+    "reference": "Quiz 4 for Unit 1 Review, Question #13 (from a different version of the quiz)",
+    "explanation": "The 'Miranda Rights' or 'Miranda Warning' stem directly from this landmark 1966 Supreme Court decision to protect a suspect's 5th Amendment rights."
+  },
+  {
+    "question": "An officer observes a person run a stop sign. The officer has not yet activated their emergency lights. The driver sees the patrol car and immediately accelerates to 90 MPH in a 40 MPH zone. The driver is committing which offense?",
+    "answer": "Racing on a Highway",
+    "options": [
+      "Evading Arrest",
+      "Reckless Driving",
+      "Racing on a Highway",
+      "No offense has been committed yet."
+    ],
+    "reference": "Texas Transportation Code Sec. 545.420. RACING ON HIGHWAY",
+    "explanation": "Because the officer had not yet attempted to detain the driver (no emergency lights or siren activated), the driver is not yet 'fleeing' from a lawful detention, which would constitute Evading Arrest under Penal Code 38.04. However, under Transportation Code 545.420, 'Racing on Highway' includes participating in any speed competition, acceleration contest, test of endurance, or attempt to outdistance another vehicle upon a highway. The driver's sudden acceleration to 90 MPH in a 40 MPH zone, triggered by seeing the patrol car, constitutes an acceleration contest or speed competition under this statute."
+  },
+  {
+    "question": "A person is driving with their 13-year-old child in the car. They are stopped and found to be intoxicated. What is the most serious offense they have committed?",
+    "answer": "Driving While Intoxicated with Child Passenger",
+    "options": [
+      "Driving While Intoxicated (Class A Misdemeanor)",
+      "Endangering a Child (State Jail Felony)",
+      "Driving While Intoxicated with Child Passenger",
+      "Intoxication Assault (3rd Degree Felony)"
+    ],
+    "reference": "Texas Penal Code Sec. 49.045. DRIVING WHILE INTOXICATED WITH CHILD PASSENGER",
+    "explanation": "Under Texas Penal Code Section 49.045, the offense of Driving While Intoxicated is enhanced from a Class B misdemeanor (or Class A for second offense) to a state jail felony when a passenger under the age of 15 is present in the vehicle. This enhancement recognizes the increased danger posed to vulnerable children and carries a punishment range of 180 days to 2 years in state jail and a fine up to $10,000. While 'Endangering a Child' might also apply, DWI with Child Passenger is the specific, more serious enhancement tailored to this exact scenario."
+  },
+  {
+    "question": "An officer tells a lawfully detained person, 'I need you to place your hands behind your back.' The person tenses their arms and says 'No,' preventing the officer from handcuffing them. What offense has been committed?",
+    "answer": "Resisting Arrest, Search, or Transportation",
+    "options": [
+      "No offense, as they only used words.",
+      "Interference with Public Duties",
+      "Resisting Arrest, Search, or Transportation",
+      "Assault on a Public Servant"
+    ],
+    "reference": "Texas Penal Code Sec. 38.03. RESISTING ARREST, SEARCH, OR TRANSPORTATION",
+    "explanation": "Under Texas Penal Code Section 38.03, a person commits Resisting Arrest, Search, or Transportation if he intentionally prevents or obstructs a person he knows is a peace officer from effecting an arrest, search, or transportation of the actor by using force against the peace officer. The key element is 'using force,' which includes any physical resistance. When the person tenses their arms to prevent handcuffing, they are using force to obstruct the officer from effecting a lawful detention/arrest. The verbal 'No' alone would not be sufficient, but the physical tensing and prevention constitutes the force element required for this Class A misdemeanor offense."
+  },
+  {
+    "question": "What is the offense classification for a person who intentionally obstructs a highway or other public passageway?",
+    "answer": "Class B Misdemeanor",
+    "options": [
+      "A civil infraction.",
+      "Class C Misdemeanor.",
+      "Class B Misdemeanor.",
+      "Class A Misdemeanor."
+    ],
+    "reference": "Texas Penal Code Sec. 42.03. OBSTRUCTING HIGHWAY OR OTHER PASSAGEWAY",
+    "explanation": "Under Texas Penal Code Section 42.03, a person commits this Class B misdemeanor if he, without legal privilege or authority, intentionally, knowingly, or recklessly obstructs a highway, street, sidewalk, railway, waterway, elevator, aisle, stairway, or hallway to which the public or a substantial group of the public has access. The offense is punishable by up to 180 days in jail and a fine up to $2,000. The 'without legal privilege' element excludes activities like permitted parades, construction with proper permits, or emergency situations."
+  },
+  {
+    "question": "Which of the following court cases is most relevant to agency policies regarding the use of 'warning shots'?",
+    "answer": "Jones v. Wittenberg University",
+    "options": [
+      "Jones v. Wittenberg University",
+      "Tennessee v. Garner",
+      "Garrity v. New Jersey",
+      "Terry v. Ohio"
+    ],
+    "reference": "Jones v. Wittenberg University, 534 F.2d 1203 (6th Cir. 1976)",
+    "explanation": "While not a Supreme Court case, this case is frequently used in training to discuss agency liability and policy regarding the reasonableness of force, including the firing of warning shots, which is generally discouraged as a standard practice."
+  },
+  {
+    "question": "What is the part of a revolver where cartridges are loaded?",
+    "answer": "Cylinder",
+    "options": [
+      "Cylinder",
+      "Breech",
+      "Magazine",
+      "Forearm"
+    ],
+    "reference": "Firearms Terminology",
+    "explanation": "The cylinder is the rotating part of a revolver that contains multiple chambers, each holding one cartridge. It rotates to align a new cartridge with the barrel."
+  },
+  {
+    "question": "The part of a pump-action shotgun that is utilized to reload by sliding it back and forth is known as the:",
+    "answer": "Fore-end",
+    "options": [
+      "Cylinder",
+      "Breech",
+      "Magazine",
+      "Fore-end"
+    ],
+    "reference": "Firearms Terminology",
+    "explanation": "The fore-end, also known as the pump or slide, is the part of a pump-action shotgun that the user manipulates to eject a spent shell and chamber a new round."
+  },
+  {
+    "question": "What component of a semi-automatic weapon holds ammunition and has a spring and a follower?",
+    "answer": "Magazine",
+    "options": [
+      "Cylinder",
+      "Breech",
+      "Magazine",
+      "Forearm"
+    ],
+    "reference": "Firearms Terminology",
+    "explanation": "A magazine is a detachable or internal container that holds cartridges under spring pressure, feeding them into the chamber of a semi-automatic or automatic weapon."
+  },
+  {
+    "question": "What is the part of a shotgun that protects the ammunition after it has been loaded into the magazine tube?",
+    "answer": "Breech",
+    "options": [
+      "Cylinder",
+      "Breech",
+      "Magazine",
+      "Forearm"
+    ],
+    "reference": "Firearms Terminology",
+    "explanation": "The breech is the rear portion of the barrel that is sealed by the bolt or breechblock, protecting the chambered round during firing."
+  },
+  {
+    "question": "What are the minimum standards for the annual TCOLE handgun proficiency qualification?",
+    "answer": "A minimum passing percentage of 70% with a minimum firing of 50 rounds, including at least 5 rounds of duty ammunition.",
+    "options": [
+      "50% passing, 50 rounds, 5 duty rounds",
+      "60% passing, 100 rounds, 10 duty rounds",
+      "70% passing, 50 rounds, 5 duty rounds",
+      "80% passing, 150 rounds, 15 duty rounds"
+    ],
+    "reference": "Texas Administrative Code Title 37, Part 7, Chapter 218, Rule §218.9",
+    "explanation": "These are the state-mandated minimums every Texas peace officer must meet annually to maintain their handgun proficiency certification."
+  },
+  {
+    "question": "The minimum standards for the annual shotgun proficiency course require a minimum of ____ rounds of duty ammunition fired at a range of at least ____ yards.",
+    "answer": "5, 15",
+    "options": [
+      "5, 25",
+      "10, 15",
+      "5, 15",
+      "25, 25"
+    ],
+    "reference": "Texas Administrative Code Title 37, Part 7, Chapter 218, Rule §218.9",
+    "explanation": "The 15-yard distance is the TCOLE minimum standard for shotgun qualification, testing an officer's ability to accurately handle the weapon at a common engagement distance."
+  },
+  {
+    "question": "For precision rifle qualification, an agency may use a range less than 100 yards (but not less than 50) if the passing score is raised to what?",
+    "answer": "90 percent",
+    "options": [
+      "75 percent",
+      "80 percent",
+      "85 percent",
+      "90 percent"
+    ],
+    "reference": "Texas Administrative Code Title 37, Part 7, Chapter 218, Rule §218.9",
+    "explanation": "To compensate for the reduced difficulty of a shorter range, TCOLE requires that the standard of accuracy be increased to 90%."
+  },
+  {
+    "question": "For patrol rifle qualification, if an agency uses a range less than 50 yards (but not less than 10), the passing score must be raised to what?",
+    "answer": "90 percent",
+    "options": [
+      "75 percent",
+      "80 percent",
+      "85 percent",
+      "90 percent"
+    ],
+    "reference": "Texas Administrative Code Title 37, Part 7, Chapter 218, Rule §218.9",
+    "explanation": "Similar to the precision rifle rule, qualifying at a shorter distance requires a higher standard of marksmanship to ensure proficiency."
+  },
+  {
+    "question": "The proficiency course for fully automatic weapons requires a minimum of ____ rounds, at ranges from seven to ____ yards, with at least ____ rounds fired in full automatic.",
+    "answer": "30, 10, 25",
+    "options": [
+      "30, 10, 25",
+      "50, 25, 30",
+      "25, 25, 15",
+      "50, 10, 30"
+    ],
+    "reference": "Texas Administrative Code Title 37, Part 7, Chapter 218, Rule §218.9",
+    "explanation": "This qualification course is designed to test an officer's ability to control the weapon in both semi-automatic and burst-fire modes at close ranges."
+  },
+  {
+    "question": "What is the minimum passing percentage for all TCOLE-mandated firearm qualifications?",
+    "answer": "70",
+    "options": [
+      "50",
+      "70",
+      "75",
+      "90"
+    ],
+    "reference": "Texas Administrative Code Title 37, Part 7, Chapter 218, Rule §218.9",
+    "explanation": "While an individual agency can set a higher internal standard, 70% is the state-mandated minimum passing score that all Texas officers must achieve."
+  },
+  {
+    "question": "According to the Penal Code, when is a person justified in using force, but NOT deadly force, against another?",
+    "answer": "When they reasonably believe the force is immediately necessary to prevent the other from committing suicide.",
+    "options": [
+      "To protect property at nighttime.",
+      "To preserve the other’s life in any emergency.",
+      "When they reasonably believe the force is immediately necessary to prevent the other from committing suicide.",
+      "In response to any verbal provocation."
+    ],
+    "reference": "Texas Penal Code, Sec. 9.34. PROTECTION OF LIFE OR HEALTH.",
+    "explanation": "The law specifically justifies using force to save a life but draws a clear line at using deadly force to prevent a suicide, as that would contradict the core goal of preserving life."
+  },
+  {
+    "question": "What is the tactical definition of 'Cover'?",
+    "answer": "A protected area that provides security from an assailant’s firepower.",
+    "options": [
+      "Any object that hides a person from view.",
+      "A designated safe zone established by a supervisor.",
+      "A protected area that provides security from an assailant’s firepower.",
+      "The act of placing oneself behind a partner."
+    ],
+    "reference": "TCOLE Basic Peace Officer Course Curriculum",
+    "explanation": "This is a critical tactical distinction. Cover, such as a concrete wall or an engine block, physically stops incoming rounds."
+  },
+  {
+    "question": "What is the tactical definition of 'Concealment'?",
+    "answer": "Any condition or object that hides a person from view but does not necessarily provide protection from firepower.",
+    "options": [
+      "A fortified position.",
+      "A ballistic shield.",
+      "Any condition or object that hides a person from view but does not necessarily provide protection from firepower.",
+      "The area behind a patrol vehicle's engine block."
+    ],
+    "reference": "TCOLE Basic Peace Officer Course Curriculum",
+    "explanation": "Using concealment (like darkness or a hedge) is a valid tactic for not being seen, but officers must understand it will not stop bullets, unlike true cover."
+  },
+  {
+    "question": "An agency must comply with annual firearm proficiency requirements if it employs at least how many peace officers?",
+    "answer": "1",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "5"
+    ],
+    "reference": "Texas Administrative Code Title 37, Part 7, Chapter 217, Rule §217.1",
+    "explanation": "This TCOLE rule ensures that every law enforcement agency in Texas, even those with only a single officer, must adhere to the state-mandated proficiency standards."
+  },
+  {
+    "question": "Which two answer options represent the components of the FITT guidelines for fitness training that incorporate the principle of Progressive Overload?",
+    "answer": "Intensity and time",
+    "options": [
+      "Frequency and intensity",
+      "Frequency and time",
+      "Intensity and time",
+      "Time and type"
+    ],
+    "reference": "TCOLE Basic Peace Officer Course Curriculum, Unit 3: Fitness and Wellness",
+    "explanation": "Progressive overload means making exercise more demanding. This is achieved by increasing how hard you work out (Intensity) and for how long you work out (Time)."
+  },
+  {
+    "question": "To whom should a peace officer NEVER make a referral?",
+    "answer": "Bail bondsman or a private attorney",
+    "options": [
+      "Bail bondsman or a private attorney",
+      "District Attorney or County Attorney",
+      "State Department of Health and Human Services",
+      "State Department of Mental Health and Mental Retardation"
+    ],
+    "reference": "TCOLE Basic Peace Officer Course Curriculum, Unit 2: Professionalism and Ethics",
+    "explanation": "Referring to a specific private attorney or bondsman creates a conflict of interest and can lead to allegations of kickbacks or favoritism, resulting in civil liability for the officer."
+  },
+  {
+    "question": "Which of the following describes a key difference between traditional and community-based models of policing?",
+    "answer": "The community-based model is more pro-active.",
+    "options": [
+      "The community-based model is more simplified.",
+      "The community-based model is incident-driven.",
+      "The community-based model is based upon Calls For Service.",
+      "The community-based model is more pro-active."
+    ],
+    "reference": "TCOLE Basic Peace Officer Course Curriculum, Unit 1: Professional Policing",
+    "explanation": "Traditional policing is reactive (responding to calls), while community policing is proactive, aiming to solve underlying problems and build relationships to prevent crime."
+  },
+  {
+    "question": "Which of the following represents an example of physical courage?",
+    "answer": "Confronting an armed and barricaded suspect",
+    "options": [
+      "Refusing to accept gratuities from any citizens",
+      "Abstaining from participating in any cover-ups",
+      "Confronting an armed and barricaded suspect",
+      "Avoiding racial/ethnic/gender humor"
+    ],
+    "reference": "TCOLE Basic Peace Officer Course Curriculum, Unit 2: Professionalism and Ethics",
+    "explanation": "Confronting a direct physical threat is an act of physical courage, while the other options are examples of moral courage (doing the right thing despite social or internal pressure)."
+  },
+  {
+    "question": "Which legal document guarantees the right to a trial by jury in criminal cases?",
+    "answer": "Both the U.S. Constitution (6th Amendment) and the Texas Code of Criminal Procedure.",
+    "options": [
+      "U.S. Constitution only",
+      "Texas Code of Criminal Procedure only",
+      "Texas Penal Code only",
+      "Both the U.S. Constitution (6th Amendment) and the Texas Code of Criminal Procedure."
+    ],
+    "reference": "U.S. Constitution, Amendment VI; Texas Code of Criminal Procedure, Art. 1.12",
+    "explanation": "The right to trial by jury is guaranteed in both documents. The Sixth Amendment to the U.S. Constitution states: 'In all criminal prosecutions, the accused shall enjoy the right to a speedy and public trial, by an impartial jury of the State and district wherein the crime shall have been committed.' Texas Code of Criminal Procedure Article 1.12 states simply: 'The right of trial by jury shall remain inviolate.' Many constitutional rights found in the U.S. Bill of Rights are explicitly restated in the Texas Code of Criminal Procedure to ensure these protections are clearly established under state law as well."
+  },
+  {
+    "question": "According to the Texas Code of Criminal Procedure, which of the following individuals are classified as Peace Officers?",
+    "answer": "Texas Rangers.",
+    "options": [
+      "Officers from adjoining states.",
+      "Texas Rangers.",
+      "Railroad Officers.",
+      "Special Investigators."
+    ],
+    "reference": "Texas Code of Criminal Procedure, Art. 2.12",
+    "explanation": "Article 2.12 of the CCP provides a specific, extensive list of who holds the authority of a peace officer in Texas, which includes members of the Texas Rangers."
+  },
+  {
+    "question": "The requirement for police to inform a person in custody of their right to remain silent and right to an attorney prior to interrogation is known as:",
+    "answer": "Miranda rights.",
+    "options": [
+      "Arizona rights.",
+      "Custody rights.",
+      "Miranda rights.",
+      "Arresting rights."
+    ],
+    "reference": "Miranda v. Arizona, 384 U.S. 436 (1966)",
+    "explanation": "The 'Miranda Rights' or 'Miranda Warning' stem directly from this landmark Supreme Court decision to protect a suspect's 5th Amendment rights."
+  },
+  {
+    "question": "Which of the following is a factor that can be used to establish probable cause for a search or arrest?",
+    "answer": "A furtive act committed by a suspect.",
+    "options": [
+      "A suspect's abnormal behavior.",
+      "A surreptitious/furtive act committed by a suspect.",
+      "An occurrence in a high-crime area.",
+      "The officer’s subjective good faith."
+    ],
+    "reference": "TCOLE Basic Peace Officer Course Curriculum, Unit 10: Arrest, Search, & Seizure",
+    "explanation": "Probable cause is based on the totality of objective facts. A furtive act (a secretive or sneaky movement) can be a strong indicator of criminal intent when combined with other factors."
+  },
+  {
+    "question": "According to the Texas Penal Code, what must an arresting officer be able to articulate regarding a driver arrested for Public Intoxication?",
+    "answer": "Evidence that the driver was a danger to themself or others.",
+    "options": [
+      "That stopping the vehicle was based on reasonable suspicion.",
+      "That video evidence was captured.",
+      "Evidence that the driver was a danger to themself or others.",
+      "That a blood draw was offered and refused."
+    ],
+    "reference": "Texas Penal Code, Sec. 49.02. PUBLIC INTOXICATION.",
+    "explanation": "The key element of Public Intoxication is not just being drunk in public, but being intoxicated to a degree that the person poses a danger. Officers must articulate this danger in their reports."
+  },
+  {
+    "question": "To be found guilty of Engaging in Organized Criminal Activity, a person must intend to commit a crime and what else?",
+    "answer": "Intend to create, sustain, take part in, or profit from a criminal organization.",
+    "options": [
+      "Collaborate with others to commit a single criminal offense.",
+      "Have at least two prior felony convictions.",
+      "Intend to create, sustain, take part in, or profit from a criminal organization.",
+      "Be a documented gang member."
+    ],
+    "reference": "Texas Penal Code, Sec. 71.02. ENGAGING IN ORGANIZED CRIMINAL ACTIVITY",
+    "explanation": "Under Texas Penal Code Section 71.02(a), a person commits this offense if, with the intent to establish, maintain, or participate in a combination or in the profits of a combination or as a member of a criminal street gang, the person commits or conspires to commit one of the listed predicate offenses. The key mental elements are: (1) intent to commit a crime AND (2) intent to establish, maintain, or participate in a 'combination' (defined as three or more persons who collaborate in carrying on criminal activities) or criminal street gang, or to profit from such a group. This offense requires more than just committing a crime with other people; it requires the specific intent to participate in an ongoing criminal organization. Section 71.01(a) defines 'combination' and Section 71.01(d) defines 'criminal street gang.'"
+  },
+  {
+    "question": "Which statement is true regarding Texas law on motorcycle helmets?",
+    "answer": "Motorcyclists 21 years of age or older are exempt from wearing helmets with proof of having a medical insurance policy.",
+    "options": [
+      "Any motorcyclist 20 years of age or younger is not required to wear a helmet.",
+      "Motorcyclists 20 years of age or younger are exempt from wearing helmets with proof of completing a training and safety course.",
+      "Motorcyclists 21 years of age or older are exempt from wearing helmets with proof of having a medical insurance policy.",
+      "Officers may detain motorcyclists only to determine whether they are required to wear a helmet."
+    ],
+    "reference": "Texas Transportation Code, Sec. 661.003. OFFENSES RELATING TO NOT WEARING PROTECTIVE HEADGEAR",
+    "explanation": "Under Texas Transportation Code Section 661.003, all motorcycle operators and passengers are required to wear protective headgear, with specific exceptions for those 21 years or older. Subsection (c) provides that persons 21 or older are exempt from the helmet requirement if they have either: (1) successfully completed a motorcycle operator training and safety course under Chapter 662, or (2) are covered by a health insurance plan providing medical benefits for injuries incurred as a result of a collision while operating or riding on a motorcycle. Officers cannot arrest or cite someone 21 or older who presents sufficient evidence of meeting these exemption requirements."
+  },
+  {
+    "question": "Which of the following is the deadliest activity for police officers, according to statistics cited in the review?",
+    "answer": "Traffic-related incidents.",
+    "options": [
+      "Responding to crimes in progress.",
+      "Traffic-related incidents.",
+      "Being struck by a vehicle.",
+      "Motorcycle crashes."
+    ],
+    "reference": "TCOLE Basic Peace Officer Course Curriculum, Unit 24: Emergency Operations",
+    "explanation": "Statistics consistently show that traffic-related incidents, including vehicle crashes, are the leading cause of death for law enforcement officers in the line of duty."
+  },
+  {
+    "question": "Which of the following driving behaviors is listed as a common characteristic of an intoxicated driver?",
+    "answer": "A driver who stops short of or beyond a light or stop sign.",
+    "options": [
+      "A driver who stares fixedly at one point.",
+      "A driver who maintains a constant, unvarying speed.",
+      "A driver who stops short of or beyond a light or stop sign.",
+      "A driver who is weaving is more likely distracted than intoxicated."
+    ],
+    "reference": "TCOLE Basic Peace Officer Course Curriculum, Unit 22: Driving While Intoxicated",
+    "explanation": "Impaired judgment and coordination from intoxication often lead to misjudging stopping distances, which is a key indicator for officers to observe."
+  },
+  {
+    "question": "Which of the following tests is classified as a chemical test rather than a field sobriety test?",
+    "answer": "Breath specimen test",
+    "options": [
+      "Index finger-to-nose test",
+      "Heel-to-toe walking test",
+      "Standing on one leg test",
+      "Breath specimen test"
+    ],
+    "reference": "Texas Transportation Code, Chapter 724. IMPLIED CONSENT.",
+    "explanation": "Field sobriety tests are physical coordination tests used to establish probable cause. Chemical tests, like breath or blood analysis, are used to obtain scientific evidence of a person's blood alcohol concentration."
+  },
+  {
+    "question": "If a civil infringement by an officer is alleged, who can be held liable under federal law?",
+    "answer": "The officer, the employing agency, and the government.",
+    "options": [
+      "Only the individual officer",
+      "The officer and the employing agency",
+      "The employing agency and the government",
+      "The officer, the employing agency, and the government."
+    ],
+    "reference": "42 U.S.C. § 1983 - Civil Action for Deprivation of Rights",
+    "explanation": "Under 42 U.S.C. Section 1983, when a peace officer violates someone's constitutional or federal statutory rights while acting 'under color of state law,' multiple parties can be held liable. The individual officer can be sued personally if they lack qualified immunity. The employing agency (police department) can be sued if the violation resulted from official policy, custom, or inadequate training that amounts to deliberate indifference (per Monell v. Dept. of Social Services). The local government (city/county) can also be held liable under the same Monell standard, as agencies are considered arms of the local government. This allows plaintiffs to seek damages from multiple sources, including those with deeper financial resources ('deep pockets')."
+  },
+  {
+    "question": "Which statement correctly states a difference between civil and criminal law?",
+    "answer": "In criminal law, the court finds the defendant guilty or not guilty; in civil law, the court finds for the complainant or defendant.",
+    "options": [
+      "In criminal law, the plaintiff bringing the action owns the suit.",
+      "In civil law, the officer is directly responsible for filing charges.",
+      "In criminal law, the court finds the defendant guilty or not guilty; in civil law, the court finds for the complainant or defendant.",
+      "In civil law, guilt must be established beyond a reasonable doubt."
+    ],
+    "reference": "TCOLE Basic Peace Officer Course Curriculum, Unit 1: Professional Policing",
+    "explanation": "Criminal cases result in a verdict of guilt or innocence based on proof beyond a reasonable doubt, while civil cases involve determining liability based on a preponderance of the evidence."
+  },
+  {
+    "question": "The possession of intoxicants on public school grounds is prohibited under which Texas code?",
+    "answer": "Texas Education Code",
+    "options": [
+      "Texas Alcoholic Beverage Code",
+      "Texas Penal Code",
+      "Texas Education Code",
+      "Texas Health and Safety Code"
+    ],
+    "reference": "Texas Education Code, Sec. 37.122. POSSESSION OF INTOXICANTS ON PUBLIC SCHOOL GROUNDS.",
+    "explanation": "Texas Education Code Section 37.122 specifically prohibits the possession of intoxicating beverages for consumption, sale, or distribution on public school grounds or at school-sponsored athletic events. This offense is classified as a Class C misdemeanor. The statute requires officers who witness violations to immediately seize the intoxicating beverage and deliver it to the county or district attorney to be held as evidence. There is a defense for possession at performing arts facilities during non-school hours for events not sponsored by the school district."
+  },
+  {
+    "question": "Which of the following is required information for an officer to provide when taking administrative action under the TABC?",
+    "answer": "The licensed premise must be identified.",
+    "options": [
+      "The licensed premise must be identified.",
+      "The reason the officer was at the premises is not needed.",
+      "The officer does not need to supply the date and time.",
+      "Identification of any intoxicated persons is unnecessary."
+    ],
+    "reference": "Texas Alcoholic Beverage Code, Title 4, Chapter 101. GENERAL CRIMINAL PROVISIONS.",
+    "explanation": "For an administrative case (like a violation against a bar's license), the specific licensed location is a critical element that must be documented."
+  },
+  {
+    "question": "Which Texas code governs the punishment enhancements for drug offenses committed in a Drug-Free Zone?",
+    "answer": "Texas Health and Safety Code",
+    "options": [
+      "Texas Penal Code",
+      "Texas Government Code",
+      "Texas Health and Safety Code",
+      "Texas Code of Criminal Procedure"
+    ],
+    "reference": "Texas Health and Safety Code, Sec. 481.134. DRUG-FREE ZONES.",
+    "explanation": "The Health and Safety Code contains the state's main drug laws, including penalty enhancements for offenses that occur near schools or other protected locations."
+  },
+  {
+    "question": "What is a valid defense to prosecution for manufacturing or delivering a simulated controlled substance?",
+    "answer": "The act was performed by a peace officer in the discharge of their official duties.",
+    "options": [
+      "The actor believed the substance was a real controlled substance.",
+      "The actor was a licensed pharmacist performing their duties.",
+      "The act was performed by a peace officer in the discharge of their official duties.",
+      "The substance was essentially a placebo and harmless."
+    ],
+    "reference": "Texas Health and Safety Code, Sec. 482.002. MANUFACTURE OR DELIVERY OF SIMULATED CONTROLLED SUBSTANCE.",
+    "explanation": "The law provides a specific exemption for law enforcement officers who may handle simulated drugs as part of an investigation or undercover operation."
+  },
+  {
+    "question": "What is a primary reason a teenager might defy authority figures like police officers?",
+    "answer": "As a normal part of their development in asserting independence.",
+    "options": [
+      "Because peer pressure motivates them to be compliant.",
+      "Because they idolize authority figures.",
+      "Because they are less likely to take initiative due to their dependent status.",
+      "As a normal part of their development in asserting independence."
+    ],
+    "reference": "TCOLE Basic Peace Officer Course Curriculum, Unit 5: Multiculturalism and Human Relations",
+    "explanation": "Understanding adolescent development helps officers recognize that defiance is often a normal (though challenging) part of a teenager's process of separating from parental control and establishing their own identity."
+  },
+  {
+    "question": "The Uniform Interstate Compact on Juveniles provides for what action regarding juvenile delinquents who escape or abscond?",
+    "answer": "They are returned by other states that are part of the compact.",
+    "options": [
+      "They must be supervised by their own state's parole officers remotely.",
+      "The compact does not cover escaped delinquents.",
+      "They are returned by other states that are part of the compact.",
+      "It only applies to non-delinquent runaways."
+    ],
+    "reference": "Texas Family Code, Chapter 60. UNIFORM INTERSTATE COMPACT ON JUVENILES.",
+    "explanation": "This compact is a legal agreement between states to ensure cooperation in handling juvenile matters, including the return of escaped delinquents to their home state."
+  },
+  {
+    "question": "In Texas, a person may NOT be arrested for which two offenses by themselves?",
+    "answer": "Speeding and Open Container",
+    "options": [
+      "Jaywalking and Running a stop sign",
+      "Stalking and Possession of a controlled substance",
+      "Expired license and Disturbing the peace",
+      "Speeding and Open Container"
+    ],
+    "reference": "Texas Transportation Code, Sec. 543.004. NOTICE TO APPEAR REQUIRED: CERTAIN OFFENSES",
+    "explanation": "Under Texas Transportation Code Section 543.004, three specific offenses are designated as 'citation only' offenses: (1) speeding, (2) the use of a wireless communication device under Section 545.4251, and (3) a violation of the open container law, Section 49.031, Penal Code. For these offenses, if the person makes a written promise to appear in court, the officer SHALL issue a written notice to appear and cannot make a custody arrest based solely on these violations. Subsection (c) specifically states that these are 'the only offenses for which issuance of a written notice to appear is mandatory,' meaning officers have no discretion to arrest for these offenses alone."
+  },
+  {
+    "question": "Which statement is true regarding a peace officer's written communications?",
+    "answer": "They may be used as source documents in judicial and administrative proceedings.",
+    "options": [
+      "An officer's writing ability is not considered during performance evaluations.",
+      "They are only seen by private readers within the department.",
+      "They may be used as source documents in judicial and administrative proceedings.",
+      "They are not commonly used for statistical data."
+    ],
+    "reference": "TCOLE Basic Peace Officer Course Curriculum, Unit 4: Written Communications",
+    "explanation": "An officer's reports are official legal documents that can be used as evidence, for statistical analysis, and in administrative hearings, making their accuracy and clarity critically important."
+  },
+  {
+    "question": "If an officer encounters a Spanish-speaking person who appears injured and in pain, what is the most appropriate question to ask?",
+    "answer": "“¿Dónde le duele?”",
+    "options": [
+      "“¿Dónde le duele?”",
+      "“¿Hay alguien herido?”",
+      "“¿En qué puedo servirle?”",
+      "“¿Es usted el dueño del carro?”"
+    ],
+    "reference": "TCOLE Basic Peace Officer Course Curriculum, Unit 5: Multiculturalism and Human Relations",
+    "explanation": "“¿Dónde le duele?” means “Where does it hurt?” in Spanish. This is the most direct and appropriate question to assess the injury and render aid."
+  },
+  {
+    "question": "If an officer perceives a Hispanic person's tone of voice and gestures as overly emotional, what should the officer consider?",
+    "answer": "That these characteristics can be culturally normal and not necessarily a sign of aggression or deception.",
+    "options": [
+      "The officer should try to calm them down because something must be wrong.",
+      "That these characteristics can be culturally normal and not necessarily a sign of aggression or deception.",
+      "The officer should confront the individual before they become violent.",
+      "The officer should avoid trying to reassure them that they will not be harmed."
+    ],
+    "reference": "TCOLE Basic Peace Officer Course Curriculum, Unit 5: Multiculturalism and Human Relations",
+    "explanation": "Cultural awareness is key. What might be perceived as aggressive or overly emotional in one culture can be a normal and accepted style of communication in another."
+  },
+  {
+    "question": "According to Milstead v. Kibler, when would an officer performing a discretionary function NOT be immune from civil liability?",
+    "answer": "If their conduct violates a federal statutory or constitutional right that a reasonable officer would have known about.",
+    "options": [
+      "They are always immune.",
+      "Only if their conduct violates a department policy.",
+      "If their conduct violates a federal statutory or constitutional right that a reasonable officer would have known about.",
+      "Only if they are found guilty in a criminal trial first."
+    ],
+    "reference": "Milstead v. Kibler, 243 F.3d 157 (4th Cir. 2001); Harlow v. Fitzgerald, 457 U.S. 800 (1982)",
+    "explanation": "This case established the modern 'qualified immunity' standard for law enforcement officers. Under this doctrine, officers performing discretionary functions are generally immune from civil liability unless their conduct violates a federal statutory or constitutional right that was 'clearly established' at the time of the incident - meaning that a reasonable officer would have known their actions were unlawful. The immunity protects officers from frivolous lawsuits while still holding them accountable for clear violations of established law. The Supreme Court in Harlow v. Fitzgerald set the foundation for this standard, and circuit courts like the 4th Circuit in Milstead have refined its application."
+  },
+  {
+    "question": "What is a key principle regarding an officer's use of control over a subject?",
+    "answer": "An officer must have complete self-control to control another person.",
+    "options": [
+      "The officer's role in a physical arrest is essentially offensive.",
+      "Initiating a confrontation with a lawbreaker is deemed aggression.",
+      "Force should be the first option with a combative but unarmed lawbreaker.",
+      "An officer must have complete self-control to control another person."
+    ],
+    "reference": "TCOLE Basic Peace Officer Course Curriculum, Unit 20: Mechanics of Arrest",
+    "explanation": "Self-control is considered one of an officer's greatest assets. Maintaining professionalism and emotional control is essential for de-escalation and making sound tactical decisions."
+  },
+  {
+    "question": "Which of the following actions is NOT considered a weaponless defense strategy?",
+    "answer": "Using handcuffs.",
+    "options": [
+      "Touching",
+      "Leg blocks",
+      "Using handcuffs.",
+      "Hand strikes"
+    ],
+    "reference": "TCOLE Basic Peace Officer Course Curriculum, Unit 20: Mechanics of Arrest",
+    "explanation": "Handcuffs are considered a mechanical restraint or weapon, not a weaponless technique like joint locks, pressure points, or strikes."
+  },
+  {
+    "question": "Which of the following reasons is a justification for a peace officer using deadly force?",
+    "answer": "To protect themselves or others from an immediate threat of death or serious bodily injury.",
+    "options": [
+      "To protect themselves or others from an immediate threat of death or serious bodily injury.",
+      "To prevent the commission of a Class A misdemeanor.",
+      "To prevent the commission of any felony.",
+      "To protect property."
+    ],
+    "reference": "Texas Penal Code, Sec. 9.32 & 9.33",
+    "explanation": "The use of deadly force is strictly limited to situations where there is an imminent threat to life or of serious bodily injury."
+  },
+  {
+    "question": "What are the minimum handgun proficiency requirements regarding distance and number of hands used?",
+    "answer": "Shooting from 15 yards using two hands.",
+    "options": [
+      "3 yards using two hands",
+      "7 yards using one hand",
+      "Shooting from 15 yards using two hands.",
+      "25 yards using one hand"
+    ],
+    "reference": "Texas Administrative Code Title 37, Part 7, Chapter 218, Rule §218.9",
+    "explanation": "The TCOLE course of fire includes various stages, including a two-handed firing stage from the 15-yard line."
+  },
+  {
+    "question": "When making a patient assessment in an emergency, what is the first step an officer should take?",
+    "answer": "Assuring site safety for the officer and the patient.",
+    "options": [
+      "Assuring site safety for the officer and the patient.",
+      "Assuring the patient has an open airway.",
+      "Beginning rescue breathing.",
+      "Controlling any major bleeding."
+    ],
+    "reference": "TCOLE Basic Peace Officer Course Curriculum, Unit 26: Emergency Medical Assistance",
+    "explanation": "Before an officer can render aid, they must first ensure the scene is safe and that they will not become a victim themselves."
+  },
+  {
+    "question": "Which of the following is true about providing emergency medical assistance to a victim in shock?",
+    "answer": "You should reassure the victim, even if they appear calm.",
+    "options": [
+      "The victim should be helped to a sitting position.",
+      "You should wait for EMS to arrive before attempting to control bleeding.",
+      "You should reassure the victim, even if they appear calm.",
+      "You should get the victim food and/or drink as soon as possible."
+    ],
+    "reference": "TCOLE Basic Peace Officer Course Curriculum, Unit 26: Emergency Medical Assistance",
+    "explanation": "A person in shock may not appear outwardly distressed, but they can be confused and frightened. Verbal reassurance is a key part of first aid."
+  },
+  {
+    "question": "What is a key difference between the American Law Enforcement Phonetic Alphabet and the Military Phonetic Alphabet?",
+    "answer": "They use different words for most letters.",
+    "options": [
+      "They use the same words for every letter.",
+      "They use different words for most letters.",
+      "Officers should say 'A as in ADAM' when using them.",
+      "Only the military version is considered easy to understand."
+    ],
+    "reference": "TCOLE Basic Peace Officer Course Curriculum, Unit 36: Radio Communications",
+    "explanation": "While both serve the same purpose, the specific code words are different (e.g., 'Boy' vs. 'Bravo' for B), and officers must know the one used by their agency."
+  },
+  {
+    "question": "What is the correct sequence of components for a vehicle's total stopping distance?",
+    "answer": "Perception of danger, then decision/reaction, then braking.",
+    "options": [
+      "Perception of danger, then decision/reaction, then braking.",
+      "Braking, then perception of danger, then decision/reaction.",
+      "Decision/reaction, then braking, then perception of danger.",
+      "All three components occur simultaneously."
+    ],
+    "reference": "TCOLE Basic Peace Officer Course Curriculum, Unit 24: Emergency Operations",
+    "explanation": "Stopping distance is a cumulative process: first you must see the hazard, then decide to react, and only then does the vehicle's braking distance begin."
+  },
+  {
+    "question": "In the SARA model of problem-solving, what does the 'Scanning' step involve?",
+    "answer": "Identifying incidents that are related or recurrent to define a problem.",
+    "options": [
+      "Analyzing why a problem is occurring.",
+      "Implementing a long-term solution.",
+      "Measuring the impact of the response.",
+      "Identifying incidents that are related or recurrent to define a problem."
+    ],
+    "reference": "TCOLE Basic Peace Officer Course Curriculum, Unit 1: Professional Policing",
+    "explanation": "Scanning is the initial phase where an officer moves from looking at individual calls for service to identifying underlying patterns or problems."
+  },
+  {
+    "question": "Which patrol pattern is designed to make an officer's presence unpredictable to potential criminals?",
+    "answer": "Random patrol pattern.",
+    "options": [
+      "Circular patrol pattern.",
+      "Double-back patrol pattern.",
+      "Lane selection pattern.",
+      "Random patrol pattern."
+    ],
+    "reference": "TCOLE Basic Peace Officer Course Curriculum, Unit 25: Patrol Procedures",
+    "explanation": "By avoiding a fixed, predictable route, a random patrol pattern prevents criminals from being able to easily time their illegal activities to avoid police presence."
+  },
+  {
+    "question": "A victim of a violent crime is found curled in a fetal position and is acting childlike. What is the most appropriate and reasonable assumption for the responding officer to make?",
+    "answer": "This is a sign of regression secondary to the trauma.",
+    "options": [
+      "The victim has a pre-existing mental illness.",
+      "The victim has an intellectual disability.",
+      "The victim is a perpetrator trying to create a distraction.",
+      "This is a sign of regression secondary to the trauma."
+    ],
+    "reference": "TCOLE Basic Peace Officer Course Curriculum, Unit 33: Victims of Crime",
+    "explanation": "Extreme trauma can cause a person to mentally and emotionally regress to a childlike state as a coping mechanism. Recognizing this as a trauma response is key to interacting with the victim effectively."
+  },
+  {
+    "question": "Which of the following is a common characteristic of family violence offenders?",
+    "answer": "Having a history of being a victim or witness of family violence themselves.",
+    "options": [
+      "Taking personal responsibility for their actions.",
+      "Behaving the same way in public as they do at home.",
+      "Having a history of being a victim or witness of family violence themselves.",
+      "Accurately reporting the severity of their violent acts."
+    ],
+    "reference": "TCOLE Basic Peace Officer Course Curriculum, Unit 33: Victims of Crime",
+    "explanation": "The cycle of violence is a well-documented phenomenon where being exposed to violence as a child is a significant risk factor for becoming an offender as an adult."
+  },
+  {
+    "question": "What is an element of the 'paradox' of Crisis Intervention Training (CIT)?",
+    "answer": "Using less controlling approaches often gives an officer more control over a person in crisis.",
+    "options": [
+      "It is the least funded but most effective training.",
+      "It differs significantly from traditional suspect encounter training.",
+      "Using less controlling approaches often gives an officer more control over a person in crisis.",
+      "Funding for mental health services is consistently increasing."
+    ],
+    "reference": "TCOLE Basic Peace Officer Course Curriculum, Unit 32: Crisis Intervention Training",
+    "explanation": "The paradox lies in the counter-intuitive idea that by reducing confrontation and using de-escalation, an officer can more effectively and safely resolve a situation with a person in a mental health crisis."
+  },
+  {
+    "question": "Which of the following is NOT classified as a Hazardous Material?",
+    "answer": "Air pollution.",
+    "options": [
+      "Air pollution.",
+      "Toxic materials.",
+      "Ionizing radiation.",
+      "Infectious materials."
+    ],
+    "reference": "TCOLE Basic Peace Officer Course Curriculum, Unit 27: Hazardous Materials Awareness",
+    "explanation": "While air pollution can be harmful, it is not classified under the Department of Transportation's specific HAZMAT categories, which include defined toxic, radioactive, and infectious substances."
+  },
+  {
+    "question": "In a homicide investigation, which post-mortem condition is most likely to provide evidence that a body was moved after death?",
+    "answer": "Post-mortem lividity.",
+    "options": [
+      "Post-mortem lividity.",
+      "Rigor mortis.",
+      "Body temperature.",
+      "Putrefaction."
+    ],
+    "reference": "TCOLE Basic Peace Officer Course Curriculum, Unit 28: Criminal Investigation",
+    "explanation": "Post-mortem lividity is the settling of blood in the body due to gravity. If the pattern of lividity on a body does not match the position in which it was found, it is strong evidence that the body was moved after death."
+  },
+  {
+    "question": "What is the primary objective of problem-oriented policing?",
+    "answer": "To identify and resolve the most pressing crime problems in a patrol area.",
+    "options": [
+      "To increase the number of arrests for all types of crime.",
+      "To rely solely on the criminal justice system to solve community issues.",
+      "To prioritize problems based on the preferences of the police department.",
+      "To identify and resolve the most pressing crime problems in a patrol area."
+    ],
+    "reference": "TCOLE Basic Peace Officer Course Curriculum, Unit 1: Professional Policing",
+    "explanation": "This policing philosophy focuses on addressing the root causes of recurring crime issues in a community, rather than just reacting to individual incidents."
+  },
+  {
+    "question": "Which of the following is considered a patrol hazard an officer should avoid?",
+    "answer": "Silhouetting, such as standing in a doorway or in front of headlights.",
+    "options": [
+      "Parking in a concealed location for surveillance.",
+      "Patrolling in an unpredictable pattern.",
+      "Walking a beat on foot to engage with the community.",
+      "Silhouetting, such as standing in a doorway or in front of headlights."
+    ],
+    "reference": "TCOLE Basic Peace Officer Course Curriculum, Unit 25: Patrol Procedures",
+    "explanation": "Silhouetting makes an officer an easy target by outlining their form against a lighter background, eliminating any element of surprise or cover."
+  },
+  {
+    "question": "What is the primary advantage of a one-officer patrol unit?",
+    "answer": "The officer tends to be more competent in a wider variety of areas.",
+    "options": [
+      "It is considered safer than a two-officer unit.",
+      "It makes it easier to use the radio while driving.",
+      "The officer tends to be more competent in a wider variety of areas.",
+      "It eliminates the need for backup."
+    ],
+    "reference": "TCOLE Basic Peace Officer Course Curriculum, Unit 25: Patrol Procedures",
+    "explanation": "Solo officers are solely responsible for every aspect of a call, which often forces them to develop a broader and more self-reliant skill set."
+  },
+  {
+    "question": "What is the second step of the 7-step violator contact method?",
+    "answer": "Statement of violation committed.",
+    "options": [
+      "Greeting and identification of the police agency.",
+      "Identification of driver and check of conditions.",
+      "Statement of violation committed.",
+      "Statement of action to be taken."
+    ],
+    "reference": "TCOLE Basic Peace Officer Course Curriculum, Unit 37: Civilian Interaction Training",
+    "explanation": "After the initial greeting, the officer must clearly inform the driver of the specific traffic law that was violated to establish the legal reason for the stop."
+  },
+  {
+    "question": "Which of the following actions is part of a high-risk vehicle stop procedure?",
+    "answer": "Directing the suspects to exit the vehicle slowly with their hands in the air.",
+    "options": [
+      "Immediately approaching the driver's window.",
+      "Parking directly behind the suspect vehicle.",
+      "Directing the suspects to exit the vehicle slowly with their hands in the air.",
+      "Waiting for the suspects to exit on their own."
+    ],
+    "reference": "TCOLE Basic Peace Officer Course Curriculum, Unit 25: Patrol Procedures",
+    "explanation": "High-risk stops prioritize officer safety by controlling the suspects' movements from a distance and a position of cover before making an approach."
+  },
+  {
+    "question": "When is it appropriate for an officer to conduct a search of a building during a bomb threat?",
+    "answer": "Only if they believe there is time and have a reasonable understanding of the bomb’s location and setup.",
+    "options": [
+      "Under all circumstances, as it is their primary duty.",
+      "Never, they must always wait for the bomb squad.",
+      "Only if they believe there is time and have a reasonable understanding of the bomb’s location and setup.",
+      "Only if the building owner gives consent."
+    ],
+    "reference": "TCOLE Basic Peace Officer Course Curriculum, Unit 27: Hazardous Materials Awareness",
+    "explanation": "Searching for a bomb is extremely dangerous, and this decision must be weighed against the risk. It's generally a task for specialized units unless immediate circumstances dictate otherwise."
+  },
+  {
+    "question": "In an active shooter situation, what is the immediate objective of the first responding officers?",
+    "answer": "To save as many lives as possible by isolating, disabling, or killing the shooter.",
+    "options": [
+      "To establish a perimeter and wait for SWAT.",
+      "To begin evacuating all potential victims.",
+      "To render aid to the injured.",
+      "To save as many lives as possible by isolating, disabling, or killing the shooter."
+    ],
+    "reference": "TCOLE Basic Peace Officer Course Curriculum, Unit 24: Emergency Operations",
+    "explanation": "Modern active shooter response prioritizes neutralizing the threat as quickly as possible to prevent further loss of life, which is a shift from older models of contain-and-wait."
+  },
+  {
+    "question": "A team of four officers making a diamond formation to enter and clear rooms during an active shooter response is an example of what?",
+    "answer": "An immediate action plan.",
+    "options": [
+      "A standard patrol tactic.",
+      "A hostage rescue technique.",
+      "An immediate action plan.",
+      "A crowd control formation."
+    ],
+    "reference": "TCOLE Basic Peace Officer Course Curriculum, Unit 24: Emergency Operations",
+    "explanation": "This coordinated entry method is part of an immediate action plan designed for small groups of officers to address an active threat without waiting for a full SWAT team."
+  },
+  {
+    "question": "Which type of crowd is described as being assembled for a particular purpose, having an organized leadership, and being likely to behave with violence and belligerence toward police?",
+    "answer": "An aggressive crowd.",
+    "options": [
+      "A cohesive crowd.",
+      "An expressive crowd.",
+      "An aggressive crowd.",
+      "A casual crowd."
+    ],
+    "reference": "TCOLE Basic Peace Officer Course Curriculum, Unit 24: Emergency Operations",
+    "explanation": "Understanding crowd dynamics is key. An aggressive crowd is the most dangerous type, as it has both leadership and hostile intent, requiring a coordinated and firm police response."
+  },
+  {
+    "question": "The three stages of the mental response to a crisis are shock and disbelief, emotional cataclysm, and what?",
+    "answer": "The return to equilibrium.",
+    "options": [
+      "Anger and resentment.",
+      "Bargaining and denial.",
+      "Complete recovery.",
+      "The return to equilibrium."
+    ],
+    "reference": "TCOLE Basic Peace Officer Course Curriculum, Unit 32: Crisis Intervention Training",
+    "explanation": "The final stage involves the person beginning to process and integrate the traumatic experience into their consciousness, allowing them to return to a more balanced emotional state."
+  },
+  {
+    "question": "An officer tells a crime victim, 'You shouldn’t have been walking alone through that part of town.' This is an example of what?",
+    "answer": "Secondary victimization.",
+    "options": [
+      "A proper safety warning.",
+      "Building rapport.",
+      "Empathy.",
+      "Secondary victimization."
+    ],
+    "reference": "TCOLE Basic Peace Officer Course Curriculum, Unit 33: Victims of Crime",
+    "explanation": "Secondary victimization occurs when the justice system or its agents (including police) mistreat or blame the victim, which can aggravate the original trauma."
+  },
+  {
+    "question": "What is the recommended procedure for making a death notification?",
+    "answer": "Notify in person, in uniform, and in simple, thoughtful language.",
+    "options": [
+      "Make a phone call as soon as possible.",
+      "Send a certified letter.",
+      "Notify in person, in uniform, and in simple, thoughtful language.",
+      "Have a hospital chaplain make the notification."
+    ],
+    "reference": "TCOLE Basic Peace Officer Course Curriculum, Unit 33: Victims of Crime",
+    "explanation": "This protocol is designed to deliver the most difficult news in a way that is respectful, professional, and compassionate to the grieving family."
+  },
+  {
+    "question": "In the initial investigation of a family violence incident with multiple injured parties, what should an officer attempt to identify?",
+    "answer": "The predominant aggressor.",
+    "options": [
+      "The person who called 911.",
+      "The person with the most severe injuries.",
+      "The predominant aggressor.",
+      "The owner of the residence."
+    ],
+    "reference": "TCOLE Basic Peace Officer Course Curriculum, Unit 33: Victims of Crime",
+    "explanation": "This is crucial to avoid mistakenly arresting a victim who was acting in self-defense. Officers must look at the totality of circumstances, not just who has injuries."
+  },
+  {
+    "question": "Under the Family Code, what must an officer do when responding to a family violence call?",
+    "answer": "Give written notice of a victim’s legal rights to any adult victim.",
+    "options": [
+      "Arrest all parties involved.",
+      "Provide marriage counseling.",
+      "Give written notice of a victim’s legal rights to any adult victim.",
+      "Take temporary custody of any children present."
+    ],
+    "reference": "Texas Code of Criminal Procedure, Art. 5.04",
+    "explanation": "This mandatory duty ensures that victims are aware of their rights, the availability of shelters, and how to seek a protective order."
+  },
+  {
+    "question": "What is the penalty for a person who knowingly makes a false report of child abuse or neglect?",
+    "answer": "A state jail felony.",
+    "options": [
+      "A Class C Misdemeanor.",
+      "A Class A Misdemeanor.",
+      "A third-degree felony.",
+      "A state jail felony."
+    ],
+    "reference": "Texas Family Code, Sec. 261.107",
+    "explanation": "Making a false report is a serious offense because it diverts critical resources and can cause immense harm to the falsely accused family."
+  },
+  {
+    "question": "A person is found not guilty of murder in a criminal trial. Can the victim's family sue them in a civil trial for wrongful death?",
+    "answer": "Yes, because the two legal systems are separate and have different standards of proof.",
+    "options": [
+      "No, this would violate the principle of double jeopardy.",
+      "Yes, because the two legal systems are separate and have different standards of proof.",
+      "No, because a not guilty verdict provides immunity from civil suits.",
+      "Yes, but only if new evidence is discovered after the criminal trial."
+    ],
+    "reference": "TCOLE Basic Peace Officer Course Curriculum, Unit 1: Professional Policing",
+    "explanation": "The burden of proof is much lower in a civil trial (preponderance of the evidence) than in a criminal trial (beyond a reasonable doubt), so a different outcome is possible."
+  },
+  {
+    "question": "According to the Code of Criminal Procedure, a peace officer has a duty to execute all lawful process. What is a 'process' in this context?",
+    "answer": "A writ or summons issued in the course of judicial proceedings.",
+    "options": [
+      "The officer's daily activity log.",
+      "A writ or summons issued in the course of judicial proceedings.",
+      "Any verbal order from a supervisor.",
+      "The procedure for booking a prisoner."
+    ],
+    "reference": "Texas Code of Criminal Procedure, Art. 2.13",
+    "explanation": "This refers to official court documents like arrest warrants, search warrants, and subpoenas that an officer is legally obligated to serve and execute."
+  },
+  {
+    "question": "If an officer has probable cause to believe a person has violated a protective order, but the violation did NOT happen in the officer's presence, what is the officer's arrest authority?",
+    "answer": "The officer MAY arrest without a warrant.",
+    "options": [
+      "The officer MUST arrest without a warrant.",
+      "The officer must obtain a warrant.",
+      "The officer MAY arrest without a warrant.",
+      "The officer may only issue a citation."
+    ],
+    "reference": "Texas Code of Criminal Procedure, Art. 14.03(a)(3)",
+    "explanation": "The law gives officers discretion in this scenario, allowing them to make a warrantless arrest based on probable cause to prevent further harm, even if they didn't witness the violation themselves."
+  },
+  {
+    "question": "Which court case is the foundation for an officer's authority to conduct a temporary detention based on reasonable suspicion?",
+    "answer": "Terry v. Ohio",
+    "options": [
+      "Miranda v. Arizona",
+      "Terry v. Ohio",
+      "Tennessee v. Garner",
+      "Graham v. Connor"
+    ],
+    "reference": "Terry v. Ohio, 392 U.S. 1 (1968)",
+    "explanation": "This landmark Supreme Court case established the legal standard of 'reasonable suspicion' and created the framework for the 'stop-and-frisk' or 'Terry Stop'."
+  },
+  {
+    "question": "Under what circumstance may a peace officer use deadly force to protect property?",
+    "answer": "To prevent the imminent commission of arson, burglary, or robbery.",
+    "options": [
+      "To prevent any theft of property.",
+      "To stop a person from vandalizing a vehicle.",
+      "To prevent the imminent commission of arson, burglary, or robbery.",
+      "Deadly force is never justified to protect property."
+    ],
+    "reference": "Texas Penal Code, Sec. 9.42",
+    "explanation": "The use of deadly force to protect property is extremely limited and is only justified for specific, dangerous felonies where the property cannot be protected by other means."
+  },
+  {
+    "question": "An officer is questioning a suspect in a non-custodial setting on a public sidewalk. Is the officer required to read the Miranda warning?",
+    "answer": "No, because the Miranda warning is only required for custodial interrogation.",
+    "options": [
+      "Yes, any time a suspect is being questioned.",
+      "No, because the Miranda warning is only required for custodial interrogation.",
+      "Yes, because the officer is a government agent.",
+      "Only if the officer plans to arrest the suspect later."
+    ],
+    "reference": "Miranda v. Arizona, 384 U.S. 436 (1966)",
+    "explanation": "The key elements triggering Miranda are 'custody' and 'interrogation.' If a person is not in custody (i.e., they are free to leave), the warning is not required."
+  },
+  {
+    "question": "What is the required mental state for the offense of Resisting Arrest?",
+    "answer": "Intentional",
+    "options": [
+      "Knowing",
+      "Reckless",
+      "Criminal Negligence",
+      "Intentional"
+    ],
+    "reference": "Texas Penal Code, Sec. 38.03",
+    "explanation": "A person must intentionally use force to prevent an arrest. Accidentally making contact with an officer during the cuffing process, for example, would not meet this standard."
+  },
+  {
+    "question": "An officer finds a person unconscious and in need of medical aid. A search of the person's pockets to find identification or medical information is justified under which exception?",
+    "answer": "Community Caretaking / Emergency Aid Doctrine.",
+    "options": [
+      "Search Incident to Arrest.",
+      "Consent.",
+      "Community Caretaking / Emergency Aid Doctrine.",
+      "Plain View."
+    ],
+    "reference": "TCOLE Basic Peace Officer Course Curriculum, Unit 10: Arrest, Search, & Seizure",
+    "explanation": "This exception allows officers to take reasonable actions, including a limited search, when they have an objective belief that a person is in need of immediate assistance."
+  },
+  {
+    "question": "What is the primary role of a crime victim liaison within a law enforcement agency?",
+    "answer": "To ensure that the rights of crime victims are upheld.",
+    "options": [
+      "To investigate the crime.",
+      "To provide financial assistance to victims.",
+      "To act as the victim's legal counsel.",
+      "To ensure that the rights of crime victims are upheld."
+    ],
+    "reference": "Texas Code of Criminal Procedure, Art. 56.04",
+    "explanation": "The liaison serves as a point of contact for victims, ensuring they are informed of their rights and the progress of their case, as mandated by state law."
+  },
+  {
+    "question": "A person with a valid License to Carry a Handgun enters a business that has a proper '30.06' sign posted. What offense has been committed?",
+    "answer": "Trespass by License Holder with a Concealed Handgun.",
+    "options": [
+      "No offense, as they have a license.",
+      "Disorderly Conduct.",
+      "Unlawful Carrying of a Weapon.",
+      "Trespass by License Holder with a Concealed Handgun."
+    ],
+    "reference": "Texas Penal Code, Sec. 30.06",
+    "explanation": "A license holder's authority to carry is not absolute. They must respect the rights of private property owners who provide proper legal notice that firearms are prohibited."
+  },
+  {
+    "question": "What is the primary difference between criminal law and civil law?",
+    "answer": "Criminal law deals with violations against the state and society, while civil law deals with disputes between individuals.",
+    "options": [
+      "The burden of proof is higher in civil law.",
+      "Criminal law deals with violations against the state and society, while civil law deals with disputes between individuals.",
+      "Only criminal law can result in monetary penalties.",
+      "Officers only enforce civil law."
+    ],
+    "reference": "Texas Code of Criminal Procedure, Art. 3.01 & 3.02; TCOLE Basic Peace Officer Course Curriculum",
+    "explanation": "Criminal law involves the government prosecuting an individual for an act that is considered a crime against society. Civil law involves disputes between private parties where one party is seeking a remedy (usually money) from the other."
+  },
+  {
+    "question": "What is a 'tort'?",
+    "answer": "A wrongful act, other than a breach of contract, for which relief may be obtained in the form of damages or an injunction.",
+    "options": [
+      "Any felony offense.",
+      "A type of criminal charge.",
+      "A wrongful act, other than a breach of contract, for which relief may be obtained in the form of damages or an injunction.",
+      "A violation of a court order."
+    ],
+    "reference": "TCOLE Basic Peace Officer Course Curriculum, Unit 11: Civil Process",
+    "explanation": "A tort is the basis for a civil lawsuit. It's a civil wrong that causes someone else to suffer loss or harm, resulting in legal liability for the person who commits the tortious act."
+  },
+  {
+    "question": "In Texas, county courts have original jurisdiction over which misdemeanors?",
+    "answer": "Class A and B misdemeanors.",
+    "options": [
+      "Class C misdemeanors only.",
+      "All misdemeanors.",
+      "Class A and B misdemeanors.",
+      "Misdemeanors involving official misconduct."
+    ],
+    "reference": "Texas Code of Criminal Procedure, Art. 4.07",
+    "explanation": "The jurisdiction of courts is tiered. Justice and Municipal courts handle the lowest level (Class C) misdemeanors, while County Courts handle the more serious Class A and B misdemeanors."
+  },
+  {
+    "question": "Which Texas court has original jurisdiction for all felony offenses?",
+    "answer": "District Court",
+    "options": [
+      "County Court",
+      "Justice Court",
+      "Court of Appeals",
+      "District Court"
+    ],
+    "reference": "Texas Code of Criminal Procedure, Art. 4.05",
+    "explanation": "District Courts are the primary trial courts for the most serious criminal offenses, which are classified as felonies."
+  },
+  {
+    "question": "An officer observes a person commit a felony. What is the officer's arrest authority?",
+    "answer": "The officer may arrest without a warrant.",
+    "options": [
+      "The officer must first obtain a warrant.",
+      "The officer may only detain the person.",
+      "The officer may arrest without a warrant.",
+      "The officer must get a supervisor's approval before arresting."
+    ],
+    "reference": "Texas Code of Criminal Procedure, Art. 14.01",
+    "explanation": "This statute allows a peace officer to make a warrantless arrest for any offense, felony or misdemeanor, that is committed in their presence or within their view."
+  },
+  {
+    "question": "What is the primary role of the Texas Court of Criminal Appeals?",
+    "answer": "It has final appellate jurisdiction in criminal cases.",
+    "options": [
+      "It is the primary trial court for felony cases.",
+      "It has jurisdiction over all civil lawsuits.",
+      "It has final appellate jurisdiction in criminal cases.",
+      "It appoints all judges in the state."
+    ],
+    "reference": "Texas Constitution, Article 5, Sec. 5",
+    "explanation": "Texas has two high courts. The Texas Supreme Court is the final court of appeals for civil cases, while the Court of Criminal Appeals is the final court of appeals for all criminal cases."
+  },
+  {
+    "question": "Which of the following is NOT one of the 'Pillars of Character' taught in police ethics?",
+    "answer": "Aggressiveness",
+    "options": [
+      "Trustworthiness",
+      "Fairness",
+      "Caring",
+      "Aggressiveness"
+    ],
+    "reference": "TCOLE Basic Peace Officer Course Curriculum, Unit 2: Professionalism and Ethics",
+    "explanation": "The six pillars are Trustworthiness, Respect, Responsibility, Fairness, Caring, and Citizenship, which form the foundation of ethical policing."
+  },
+  {
+    "question": "What is 'ethnocentrism'?",
+    "answer": "The act of regarding one's culture as the center of the universe and superior to others.",
+    "options": [
+      "The appreciation of multiple cultures.",
+      "The act of regarding one's culture as the center of the universe and superior to others.",
+      "A fear of people from other cultures.",
+      "The scientific study of different ethnic groups."
+    ],
+    "reference": "TCOLE Basic Peace Officer Course Curriculum, Unit 5: Multiculturalism and Human Relations",
+    "explanation": "Ethnocentrism is a form of prejudice where individuals use their own culture as the standard to judge all other cultures."
+  },
+  {
+    "question": "According to the Code of Criminal Procedure, a 'complaint' is defined as:",
+    "answer": "An affidavit made before a magistrate or prosecutor that charges the commission of an offense.",
+    "options": [
+      "A verbal statement made by a witness.",
+      "A report written by a peace officer.",
+      "The formal reading of charges in court.",
+      "An affidavit made before a magistrate or prosecutor that charges the commission of an offense."
+    ],
+    "reference": "Texas Code of Criminal Procedure, Art. 15.04",
+    "explanation": "A complaint is the sworn statement that initiates a criminal case, forming the basis for a prosecutor to file charges and for a magistrate to issue an arrest warrant."
+  },
+  {
+    "question": "What is a key difference between a frisk and a search?",
+    "answer": "A frisk is a limited search for weapons, while a search is for evidence.",
+    "options": [
+      "A frisk requires probable cause, while a search does not.",
+      "A frisk is a limited search for weapons, while a search is for evidence.",
+      "A frisk can only be done after an arrest.",
+      "There is no legal difference."
+    ],
+    "reference": "Terry v. Ohio, 392 U.S. 1 (1968)",
+    "explanation": "A frisk (pat-down) is justified by reasonable suspicion that a person is armed and is strictly a protective measure for officer safety. A full search requires a higher legal standard and is more intrusive."
+  },
+  {
+    "question": "What did the Supreme Court case Tennessee v. Garner establish?",
+    "answer": "The use of deadly force to apprehend a fleeing felon is only justified if the suspect poses a threat of serious physical harm to the officer or others.",
+    "options": [
+      "Officers must read suspects their rights before interrogation.",
+      "The use of deadly force to apprehend a fleeing felon is only justified if the suspect poses a threat of serious physical harm to the officer or others.",
+      "Evidence found through an illegal search must be excluded from trial.",
+      "Officers may conduct a pat-down for weapons based on reasonable suspicion."
+    ],
+    "reference": "Tennessee v. Garner, 471 U.S. 1 (1985)",
+    "explanation": "This case significantly limited the use of deadly force, ruling that it is a 'seizure' under the 4th Amendment and cannot be used on all fleeing felons, only those who are dangerous."
+  },
+  {
+    "question": "What is the primary function of the correctional component of the criminal justice system?",
+    "answer": "To house and supervise offenders who have been sentenced.",
+    "options": [
+      "To determine the guilt or innocence of the accused.",
+      "To apprehend offenders and investigate crimes.",
+      "To pass laws defining criminal offenses.",
+      "To house and supervise offenders who have been sentenced."
+    ],
+    "reference": "TCOLE Basic Peace Officer Course Curriculum, Unit 1: Professional Policing",
+    "explanation": "The correctional system, which includes jails, prisons, probation, and parole, is responsible for carrying out the sentences imposed by the court system."
+  },
+  {
+    "question": "A person acts ____________ when they are aware that their conduct is reasonably certain to cause a specific result.",
+    "answer": "Knowingly",
+    "options": [
+      "Intentionally",
+      "Recklessly",
+      "Knowingly",
+      "With criminal negligence"
+    ],
+    "reference": "Texas Penal Code, Sec. 6.03",
+    "explanation": "This culpable mental state is one step below 'intentionally.' The actor doesn't necessarily desire the result, but they are practically certain it will happen because of their actions."
+  },
+  {
+    "question": "Under the Code of Criminal Procedure, what must an officer do when investigating an allegation of family violence?",
+    "answer": "Protect any potential victim and enforce the law by making lawful arrests.",
+    "options": [
+      "Act as a mediator and attempt to resolve the dispute without an arrest.",
+      "Require the parties to separate for 24 hours.",
+      "Protect any potential victim and enforce the law by making lawful arrests.",
+      "Only take action if there are visible physical injuries."
+    ],
+    "reference": "Texas Code of Criminal Procedure, Art. 5.04",
+    "explanation": "State law recognizes family violence as a serious crime, and the primary duties of the officer are to protect the victim and enforce the law, not simply to mediate a dispute."
+  },
+  {
+    "question": "Which of the following is NOT one of the six objects of the Texas Code of Criminal Procedure?",
+    "answer": "To define the elements of criminal offenses.",
+    "options": [
+      "To adopt measures for preventing the commission of crime.",
+      "To insure a fair and impartial trial.",
+      "To define the elements of criminal offenses.",
+      "To effect the certain execution of the sentence of the law when declared."
+    ],
+    "reference": "Texas Code of Criminal Procedure, Art. 1.03",
+    "explanation": "Defining offenses is the purpose of the Penal Code. The Code of Criminal Procedure is the 'rulebook' that governs the process of the justice system."
+  },
+  {
+    "question": "What is the statute of limitations for presenting an indictment for a misdemeanor?",
+    "answer": "Two years from the date of the commission of the offense.",
+    "options": [
+      "One year.",
+      "Two years from the date of the commission of the offense.",
+      "Three years.",
+      "Five years."
+    ],
+    "reference": "Texas Code of Criminal Procedure, Art. 12.02",
+    "explanation": "This means that after two years, a person generally cannot be formally charged with a misdemeanor offense."
+  },
+  {
+    "question": "The right to be free from unreasonable searches and seizures is guaranteed by which amendment to the U.S. Constitution?",
+    "answer": "Fourth Amendment.",
+    "options": [
+      "First Amendment.",
+      "Fourth Amendment.",
+      "Fifth Amendment.",
+      "Sixth Amendment."
+    ],
+    "reference": "U.S. Constitution, Amendment IV",
+    "explanation": "This amendment protects a citizen's reasonable expectation of privacy from government intrusion."
+  },
+  {
+    "question": "What is an 'Affirmative Defense'?",
+    "answer": "A defense that the defendant must prove by a preponderance of the evidence.",
+    "options": [
+      "A defense that the prosecution must disprove beyond a reasonable doubt.",
+      "A defense that, if raised, results in an automatic acquittal.",
+      "A legal reason that negates one of the elements of the offense.",
+      "A defense that the defendant must prove by a preponderance of the evidence."
+    ],
+    "reference": "Texas Penal Code, Sec. 2.04",
+    "explanation": "Unlike a standard defense, the burden of proof for an affirmative defense (like insanity or duress) shifts from the state to the defendant."
+  },
+  {
+    "question": "In the event of a tie vote in an election for a statewide executive office, how is the winner determined?",
+    "answer": "By a joint vote of both Houses of the Legislature.",
+    "options": [
+      "A runoff election is held.",
+      "The Governor appoints the winner.",
+      "By a joint vote of both Houses of the Legislature.",
+      "The Secretary of State casts the deciding vote."
+    ],
+    "reference": "Texas Constitution, Article 4, Sec. 3",
+    "explanation": "This constitutional provision ensures there is a clear process to resolve a tie for a major state office like Governor or Attorney General."
+  },
+  {
+    "question": "A person is found guilty of a state jail felony. If it is shown they have two previous felony convictions, what can their punishment be enhanced to?",
+    "answer": "A second-degree felony.",
+    "options": [
+      "A third-degree felony.",
+      "A first-degree felony.",
+      "A second-degree felony.",
+      "The punishment cannot be enhanced."
+    ],
+    "reference": "Texas Penal Code, Sec. 12.42(d)",
+    "explanation": "This 'habitual offender' statute significantly increases the punishment for repeat felony offenders to deter recidivism."
+  },
+  {
+    "question": "What is the penalty for the offense of Public Intoxication?",
+    "answer": "A Class C Misdemeanor.",
+    "options": [
+      "A Class B Misdemeanor.",
+      "A Class C Misdemeanor.",
+      "A fine of up to $2,000.",
+      "Up to 30 days in jail."
+    ],
+    "reference": "Texas Penal Code, Sec. 49.02",
+    "explanation": "Public Intoxication is a lower-level offense primarily designed to allow officers to remove individuals from public spaces when they are a danger to themselves or others."
+  },
+  {
+    "question": "Which court case allows an officer to seize contraband discovered during a frisk if its identity as contraband is 'immediately apparent'?",
+    "answer": "Minnesota v. Dickerson",
+    "options": [
+      "Terry v. Ohio",
+      "Graham v. Connor",
+      "Mapp v. Ohio",
+      "Minnesota v. Dickerson"
+    ],
+    "reference": "Minnesota v. Dickerson, 508 U.S. 366 (1993)",
+    "explanation": "This case established the 'Plain Feel' doctrine, which sets the limit for what can be seized during a protective pat-down. The officer cannot manipulate the object to determine what it is."
+  },
+  {
+    "question": "If an officer is met with resistance while trying to execute an arrest warrant, what is their duty?",
+    "answer": "To use all reasonable means to effect the arrest, but no greater force than necessary.",
+    "options": [
+      "To retreat and wait for backup.",
+      "To use any force necessary, including deadly force.",
+      "To use all reasonable means to effect the arrest, but no greater force than necessary.",
+      "To negotiate with the suspect."
+    ],
+    "reference": "Texas Code of Criminal Procedure, Art. 15.24",
+    "explanation": "This article grants officers the authority to overcome resistance but also codifies the standard of reasonableness, requiring force to be proportional to the situation."
+  },
+  {
+    "question": "Which of the following describes the offense of 'Official Oppression'?",
+    "answer": "A public servant acting under color of law intentionally subjects another to unlawful arrest, detention, or search.",
+    "options": [
+      "An officer accepting a free cup of coffee.",
+      "A public servant acting under color of law intentionally subjects another to unlawful arrest, detention, or search.",
+      "An officer making a mistake on a report.",
+      "A judge making an unpopular ruling."
+    ],
+    "reference": "Texas Penal Code, Sec. 39.03",
+    "explanation": "This statute specifically criminalizes the act of a public servant using their official power to intentionally violate a person's rights."
+  },
+  {
+    "question": "A person has been arrested and is in custody. When must they be given the Miranda warning?",
+    "answer": "Before they are subjected to interrogation.",
+    "options": [
+      "Immediately upon arrest.",
+      "During the booking process at the jail.",
+      "Before they are subjected to interrogation.",
+      "Only if they ask for an attorney."
+    ],
+    "reference": "Miranda v. Arizona, 384 U.S. 436 (1966)",
+    "explanation": "The two key triggers for Miranda are 'custody' and 'interrogation.' The warning is not required unless both conditions are present."
+  },
+  {
+    "question": "What is the primary objective of problem-oriented policing?",
+    "answer": "To identify and resolve the most pressing crime problems in a patrol area.",
+    "options": [
+      "To increase the number of arrests for all types of crime.",
+      "To rely solely on the criminal justice system to solve community issues.",
+      "To prioritize problems based on the preferences of the police department.",
+      "To identify and resolve the most pressing crime problems in a patrol area."
+    ],
+    "reference": "TCOLE Basic Peace Officer Course Curriculum, Unit 1: Professional Policing",
+    "explanation": "This policing philosophy focuses on addressing the root causes of recurring crime issues in a community, rather than just reacting to individual incidents."
+  },
+  {
+    "question": "Which of the following is considered a patrol hazard an officer should avoid?",
+    "answer": "Silhouetting, such as standing in a doorway or in front of headlights.",
+    "options": [
+      "Parking in a concealed location for surveillance.",
+      "Patrolling in an unpredictable pattern.",
+      "Walking a beat on foot to engage with the community.",
+      "Silhouetting, such as standing in a doorway or in front of headlights."
+    ],
+    "reference": "TCOLE Basic Peace Officer Course Curriculum, Unit 25: Patrol Procedures",
+    "explanation": "Silhouetting makes an officer an easy target by outlining their form against a lighter background, eliminating any element of surprise or cover."
+  },
+  {
+    "question": "What is the primary advantage of a one-officer patrol unit?",
+    "answer": "The officer tends to be more competent in a wider variety of areas.",
+    "options": [
+      "It is considered safer than a two-officer unit.",
+      "It makes it easier to use the radio while driving.",
+      "The officer tends to be more competent in a wider variety of areas.",
+      "It eliminates the need for backup."
+    ],
+    "reference": "TCOLE Basic Peace Officer Course Curriculum, Unit 25: Patrol Procedures",
+    "explanation": "Solo officers are solely responsible for every aspect of a call, which often forces them to develop a broader and more self-reliant skill set."
+  },
+  {
+    "question": "What is the second step of the 7-step violator contact method?",
+    "answer": "Statement of violation committed.",
+    "options": [
+      "Greeting and identification of the police agency.",
+      "Identification of driver and check of conditions.",
+      "Statement of violation committed.",
+      "Statement of action to be taken."
+    ],
+    "reference": "TCOLE Basic Peace Officer Course Curriculum, Unit 37: Civilian Interaction Training",
+    "explanation": "After the initial greeting, the officer must clearly inform the driver of the specific traffic law that was violated to establish the legal reason for the stop."
+  },
+  {
+    "question": "Which of the following actions is part of a high-risk vehicle stop procedure?",
+    "answer": "Directing the suspects to exit the vehicle slowly with their hands in the air.",
+    "options": [
+      "Immediately approaching the driver's window.",
+      "Parking directly behind the suspect vehicle.",
+      "Directing the suspects to exit the vehicle slowly with their hands in the air.",
+      "Waiting for the suspects to exit on their own."
+    ],
+    "reference": "TCOLE Basic Peace Officer Course Curriculum, Unit 25: Patrol Procedures",
+    "explanation": "High-risk stops prioritize officer safety by controlling the suspects' movements from a distance and a position of cover before making an approach."
+  },
+  {
+    "question": "When is it appropriate for an officer to conduct a search of a building during a bomb threat?",
+    "answer": "Only if they believe there is time and have a reasonable understanding of the bomb’s location and setup.",
+    "options": [
+      "Under all circumstances, as it is their primary duty.",
+      "Never, they must always wait for the bomb squad.",
+      "Only if they believe there is time and have a reasonable understanding of the bomb’s location and setup.",
+      "Only if the building owner gives consent."
+    ],
+    "reference": "TCOLE Basic Peace Officer Course Curriculum, Unit 27: Hazardous Materials Awareness",
+    "explanation": "Searching for a bomb is extremely dangerous, and this decision must be weighed against the risk. It's generally a task for specialized units unless immediate circumstances dictate otherwise."
+  },
+  {
+    "question": "In an active shooter situation, what is the immediate objective of the first responding officers?",
+    "answer": "To save as many lives as possible by isolating, disabling, or killing the shooter.",
+    "options": [
+      "To establish a perimeter and wait for SWAT.",
+      "To begin evacuating all potential victims.",
+      "To render aid to the injured.",
+      "To save as many lives as possible by isolating, disabling, or killing the shooter."
+    ],
+    "reference": "TCOLE Basic Peace Officer Course Curriculum, Unit 24: Emergency Operations",
+    "explanation": "Modern active shooter response prioritizes neutralizing the threat as quickly as possible to prevent further loss of life, which is a shift from older models of contain-and-wait."
+  },
+  {
+    "question": "A team of four officers making a diamond formation to enter and clear rooms during an active shooter response is an example of what?",
+    "answer": "An immediate action plan.",
+    "options": [
+      "A standard patrol tactic.",
+      "A hostage rescue technique.",
+      "An immediate action plan.",
+      "A crowd control formation."
+    ],
+    "reference": "TCOLE Basic Peace Officer Course Curriculum, Unit 24: Emergency Operations",
+    "explanation": "This coordinated entry method is part of an immediate action plan designed for small groups of officers to address an active threat without waiting for a full SWAT team."
+  },
+  {
+    "question": "Which type of crowd is described as being assembled for a particular purpose, having an organized leadership, and being likely to behave with violence and belligerence toward police?",
+    "answer": "An aggressive crowd.",
+    "options": [
+      "A cohesive crowd.",
+      "An expressive crowd.",
+      "An aggressive crowd.",
+      "A casual crowd."
+    ],
+    "reference": "TCOLE Basic Peace Officer Course Curriculum, Unit 24: Emergency Operations",
+    "explanation": "Understanding crowd dynamics is key. An aggressive crowd is the most dangerous type, as it has both leadership and hostile intent, requiring a coordinated and firm police response."
+  },
+  {
+    "question": "The three stages of the mental response to a crisis are shock and disbelief, emotional cataclysm, and what?",
+    "answer": "The return to equilibrium.",
+    "options": [
+      "Anger and resentment.",
+      "Bargaining and denial.",
+      "Complete recovery.",
+      "The return to equilibrium."
+    ],
+    "reference": "TCOLE Basic Peace Officer Course Curriculum, Unit 32: Crisis Intervention Training",
+    "explanation": "The final stage involves the person beginning to process and integrate the traumatic experience into their consciousness, allowing them to return to a more balanced emotional state."
+  },
+  {
+    "question": "An officer tells a crime victim, 'You shouldn’t have been walking alone through that part of town.' This is an example of what?",
+    "answer": "Secondary victimization.",
+    "options": [
+      "A proper safety warning.",
+      "Building rapport.",
+      "Empathy.",
+      "Secondary victimization."
+    ],
+    "reference": "TCOLE Basic Peace Officer Course Curriculum, Unit 33: Victims of Crime",
+    "explanation": "Secondary victimization occurs when the justice system or its agents (including police) mistreat or blame the victim, which can aggravate the original trauma."
+  },
+  {
+    "question": "What is the recommended procedure for making a death notification?",
+    "answer": "Notify in person, in uniform, and in simple, thoughtful language.",
+    "options": [
+      "Make a phone call as soon as possible.",
+      "Send a certified letter.",
+      "Notify in person, in uniform, and in simple, thoughtful language.",
+      "Have a hospital chaplain make the notification."
+    ],
+    "reference": "TCOLE Basic Peace Officer Course Curriculum, Unit 33: Victims of Crime",
+    "explanation": "This protocol is designed to deliver the most difficult news in a way that is respectful, professional, and compassionate to the grieving family."
+  },
+  {
+    "question": "In the initial investigation of a family violence incident with multiple injured parties, what should an officer attempt to identify?",
+    "answer": "The predominant aggressor.",
+    "options": [
+      "The person who called 911.",
+      "The person with the most severe injuries.",
+      "The predominant aggressor.",
+      "The owner of the residence."
+    ],
+    "reference": "TCOLE Basic Peace Officer Course Curriculum, Unit 33: Victims of Crime",
+    "explanation": "This is crucial to avoid mistakenly arresting a victim who was acting in self-defense. Officers must look at the totality of circumstances, not just who has injuries."
+  },
+  {
+    "question": "Under the Family Code, what must an officer do when responding to a family violence call?",
+    "answer": "Give written notice of a victim’s legal rights to any adult victim.",
+    "options": [
+      "Arrest all parties involved.",
+      "Provide marriage counseling.",
+      "Give written notice of a victim’s legal rights to any adult victim.",
+      "Take temporary custody of any children present."
+    ],
+    "reference": "Texas Code of Criminal Procedure, Art. 5.04",
+    "explanation": "This mandatory duty ensures that victims are aware of their rights, the availability of shelters, and how to seek a protective order."
+  },
+  {
+    "question": "What is the penalty for a person who knowingly makes a false report of child abuse or neglect?",
+    "answer": "A state jail felony.",
+    "options": [
+      "A Class C Misdemeanor.",
+      "A Class A Misdemeanor.",
+      "A third-degree felony.",
+      "A state jail felony."
+    ],
+    "reference": "Texas Family Code, Sec. 261.107",
+    "explanation": "Making a false report is a serious offense because it diverts critical resources and can cause immense harm to the falsely accused family."
+  },
+  {
+    "question": "A person is found not guilty of murder in a criminal trial. Can the victim's family sue them in a civil trial for wrongful death?",
+    "answer": "Yes, because the two legal systems are separate and have different standards of proof.",
+    "options": [
+      "No, this would violate the principle of double jeopardy.",
+      "Yes, because the two legal systems are separate and have different standards of proof.",
+      "No, because a not guilty verdict provides immunity from civil suits.",
+      "Yes, but only if new evidence is discovered after the criminal trial."
+    ],
+    "reference": "TCOLE Basic Peace Officer Course Curriculum, Unit 1: Professional Policing",
+    "explanation": "The burden of proof is much lower in a civil trial (preponderance of the evidence) than in a criminal trial (beyond a reasonable doubt), so a different outcome is possible."
+  },
+  {
+    "question": "According to the Code of Criminal Procedure, a peace officer has a duty to execute all lawful process. What is a 'process' in this context?",
+    "answer": "A writ or summons issued in the course of judicial proceedings.",
+    "options": [
+      "The officer's daily activity log.",
+      "A writ or summons issued in the course of judicial proceedings.",
+      "Any verbal order from a supervisor.",
+      "The procedure for booking a prisoner."
+    ],
+    "reference": "Texas Code of Criminal Procedure, Art. 2.13",
+    "explanation": "This refers to official court documents like arrest warrants, search warrants, and subpoenas that an officer is legally obligated to serve and execute."
+  },
+  {
+    "question": "If an officer has probable cause to believe a person has violated a protective order, but the violation did NOT happen in the officer's presence, what is the officer's arrest authority?",
+    "answer": "The officer MAY arrest without a warrant.",
+    "options": [
+      "The officer MUST arrest without a warrant.",
+      "The officer must obtain a warrant.",
+      "The officer MAY arrest without a warrant.",
+      "The officer may only issue a citation."
+    ],
+    "reference": "Texas Code of Criminal Procedure, Art. 14.03(a)(3)",
+    "explanation": "The law gives officers discretion in this scenario, allowing them to make a warrantless arrest based on probable cause to prevent further harm, even if they didn't witness the violation themselves."
+  },
+  {
+    "question": "Which court case is the foundation for an officer's authority to conduct a temporary detention based on reasonable suspicion?",
+    "answer": "Terry v. Ohio",
+    "options": [
+      "Miranda v. Arizona",
+      "Terry v. Ohio",
+      "Tennessee v. Garner",
+      "Graham v. Connor"
+    ],
+    "reference": "Terry v. Ohio, 392 U.S. 1 (1968)",
+    "explanation": "This landmark Supreme Court case established the legal standard of 'reasonable suspicion' and created the framework for the 'stop-and-frisk' or 'Terry Stop'."
+  },
+  {
+    "question": "Under what circumstance may a peace officer use deadly force to protect property?",
+    "answer": "To prevent the imminent commission of arson, burglary, or robbery.",
+    "options": [
+      "To prevent any theft of property.",
+      "To stop a person from vandalizing a vehicle.",
+      "To prevent the imminent commission of arson, burglary, or robbery.",
+      "Deadly force is never justified to protect property."
+    ],
+    "reference": "Texas Penal Code, Sec. 9.42",
+    "explanation": "The use of deadly force to protect property is extremely limited and is only justified for specific, dangerous felonies where the property cannot be protected by other means."
+  },
+  {
+    "question": "An officer is questioning a suspect in a non-custodial setting on a public sidewalk. Is the officer required to read the Miranda warning?",
+    "answer": "No, because the Miranda warning is only required for custodial interrogation.",
+    "options": [
+      "Yes, any time a suspect is being questioned.",
+      "No, because the Miranda warning is only required for custodial interrogation.",
+      "Yes, because the officer is a government agent.",
+      "Only if the officer plans to arrest the suspect later."
+    ],
+    "reference": "Miranda v. Arizona, 384 U.S. 436 (1966)",
+    "explanation": "The key elements triggering Miranda are 'custody' and 'interrogation.' If a person is not in custody (i.e., they are free to leave), the warning is not required."
+  },
+  {
+    "question": "What is the required mental state for the offense of Resisting Arrest?",
+    "answer": "Intentional",
+    "options": [
+      "Knowing",
+      "Reckless",
+      "Criminal Negligence",
+      "Intentional"
+    ],
+    "reference": "Texas Penal Code, Sec. 38.03",
+    "explanation": "A person must intentionally use force to prevent an arrest. Accidentally making contact with an officer during the cuffing process, for example, would not meet this standard."
+  },
+  {
+    "question": "An officer finds a person unconscious and in need of medical aid. A search of the person's pockets to find identification or medical information is justified under which exception?",
+    "answer": "Community Caretaking / Emergency Aid Doctrine.",
+    "options": [
+      "Search Incident to Arrest.",
+      "Consent.",
+      "Community Caretaking / Emergency Aid Doctrine.",
+      "Plain View."
+    ],
+    "reference": "TCOLE Basic Peace Officer Course Curriculum, Unit 10: Arrest, Search, & Seizure",
+    "explanation": "This exception allows officers to take reasonable actions, including a limited search, when they have an objective belief that a person is in need of immediate assistance."
+  },
+  {
+    "question": "What is the primary role of a crime victim liaison within a law enforcement agency?",
+    "answer": "To ensure that the rights of crime victims are upheld.",
+    "options": [
+      "To investigate the crime.",
+      "To provide financial assistance to victims.",
+      "To act as the victim's legal counsel.",
+      "To ensure that the rights of crime victims are upheld."
+    ],
+    "reference": "Texas Code of Criminal Procedure, Art. 56.04",
+    "explanation": "The liaison serves as a point of contact for victims, ensuring they are informed of their rights and the progress of their case, as mandated by state law."
+  },
+  {
+    "question": "A person with a valid License to Carry a Handgun enters a business that has a proper '30.06' sign posted. What offense has been committed?",
+    "answer": "Trespass by License Holder with a Concealed Handgun.",
+    "options": [
+      "No offense, as they have a license.",
+      "Disorderly Conduct.",
+      "Unlawful Carrying of a Weapon.",
+      "Trespass by License Holder with a Concealed Handgun."
+    ],
+    "reference": "Texas Penal Code, Sec. 30.06",
+    "explanation": "A license holder's authority to carry is not absolute. They must respect the rights of private property owners who provide proper legal notice that firearms are prohibited."
+  },
+  {
+    "question": "An officer observes a driver commit a traffic violation. After stopping the car, the officer develops probable cause to arrest for DWI. According to the Penal Code, when is drawing blood from the suspect mandatory?",
+    "answer": "If the DWI resulted in an accident where someone died or suffered serious bodily injury.",
+    "options": [
+      "For every DWI arrest.",
+      "If the driver has any prior DWI conviction.",
+      "If the DWI resulted in an accident where someone died or suffered serious bodily injury.",
+      "A blood draw is never mandatory."
+    ],
+    "reference": "Texas Transportation Code, Sec. 724.012(b)",
+    "explanation": "While officers can seek a warrant for blood in any DWI case where the suspect refuses a breath/blood test, the law *requires* them to take a blood specimen in cases involving death or SBI, due to the severity of the incident."
+  },
+  {
+    "question": "What is the primary difference between a 'criminal episode' and multiple separate offenses?",
+    "answer": "Offenses in a criminal episode are connected by being part of the same transaction or a common scheme or plan.",
+    "options": [
+      "A criminal episode involves only felonies.",
+      "Offenses in a criminal episode are connected by being part of the same transaction or a common scheme or plan.",
+      "A criminal episode must involve more than one victim.",
+      "A criminal episode occurs within a 24-hour period."
+    ],
+    "reference": "Texas Penal Code, Sec. 3.01",
+    "explanation": "This concept allows the justice system to prosecute multiple related crimes together in a single trial, which is more efficient. For example, robbing a store and then assaulting the clerk during the getaway could be part of the same criminal episode."
+  },
+  {
+    "question": "A person acts ____________ when they are aware of but consciously disregard a substantial and unjustifiable risk.",
+    "answer": "Recklessly",
+    "options": [
+      "Intentionally",
+      "Knowingly",
+      "Recklessly",
+      "With criminal negligence"
+    ],
+    "reference": "Texas Penal Code, Sec. 6.03(c)",
+    "explanation": "Recklessness involves a conscious decision to ignore a known danger, which distinguishes it from criminal negligence, where the person should have been aware of the risk but wasn't."
+  },
+  {
+    "question": "Which of the following is a valid affirmative defense to prosecution?",
+    "answer": "Duress",
+    "options": [
+      "Voluntary intoxication",
+      "Ignorance of the law",
+      "Duress",
+      "Mistake of law"
+    ],
+    "reference": "Texas Penal Code, Sec. 8.05",
+    "explanation": "An affirmative defense is one that the defendant must prove. Duress can be an affirmative defense if the person committed the crime because they were under an immediate threat of death or serious bodily injury."
+  },
+  {
+    "question": "What is the penalty for a state jail felony?",
+    "answer": "Confinement in a state jail for 180 days to two years.",
+    "options": [
+      "A fine of up to $4,000.",
+      "Confinement in a state jail for 180 days to two years.",
+      "Imprisonment for 2 to 10 years.",
+      "Confinement in a county jail for up to one year."
+    ],
+    "reference": "Texas Penal Code, Sec. 12.35",
+    "explanation": "State jail felonies are a unique classification in Texas, typically for lower-level property and drug crimes, with a specific punishment range that is less severe than a third-degree felony."
+  },
+  {
+    "question": "If an offense is committed because of the actor's bias or prejudice against a group, what is the effect on the punishment?",
+    "answer": "The punishment is increased to the next highest category of offense.",
+    "options": [
+      "There is no effect on the punishment.",
+      "The fines are doubled.",
+      "The punishment is increased to the next highest category of offense.",
+      "The actor must attend sensitivity training."
+    ],
+    "reference": "Texas Penal Code, Sec. 12.47",
+    "explanation": "This 'hate crime' statute serves as an enhancement, making the punishment for an underlying crime more severe if it was motivated by bias."
+  },
+  {
+    "question": "What is the penalty for the offense of 'Criminal Attempt'?",
+    "answer": "One category lower than the offense attempted.",
+    "options": [
+      "The same as the offense attempted.",
+      "A Class C Misdemeanor.",
+      "One category lower than the offense attempted.",
+      "There is no penalty for an attempt."
+    ],
+    "reference": "Texas Penal Code, Sec. 15.01(d)",
+    "explanation": "The law punishes the attempt to commit a crime, but generally less severely than if the crime had been successfully completed."
+  },
+  {
+    "question": "A murder becomes 'Capital Murder' if it is committed during the course of which of the following offenses?",
+    "answer": "Robbery",
+    "options": [
+      "Theft",
+      "Assault",
+      "Robbery",
+      "Criminal Trespass"
+    ],
+    "reference": "Texas Penal Code, Sec. 19.03(a)(2)",
+    "explanation": "Committing murder while in the course of another dangerous felony, like robbery or kidnapping, elevates the crime to capital murder, the most serious offense in Texas."
+  },
+  {
+    "question": "What is the penalty for Aggravated Robbery?",
+    "answer": "A first-degree felony.",
+    "options": [
+      "A second-degree felony.",
+      "A first-degree felony.",
+      "A state jail felony.",
+      "A capital felony."
+    ],
+    "reference": "Texas Penal Code, Sec. 29.03",
+    "explanation": "Robbery becomes aggravated (and thus a first-degree felony) if it causes serious bodily injury or involves the use or exhibition of a deadly weapon."
+  },
+  {
+    "question": "The offense of Burglary of a Habitation is what level of offense?",
+    "answer": "A second-degree felony.",
+    "options": [
+      "A state jail felony.",
+      "A third-degree felony.",
+      "A second-degree felony.",
+      "A first-degree felony."
+    ],
+    "reference": "Texas Penal Code, Sec. 30.02(c)(2)",
+    "explanation": "The law provides enhanced protection for people's homes, making burglary of a habitation a more serious offense than burglary of a building or vehicle."
+  },
+  {
+    "question": "What is the key element that distinguishes Robbery from Theft?",
+    "answer": "The use or threat of bodily injury.",
+    "options": [
+      "The value of the property taken.",
+      "The time of day the offense occurs.",
+      "The use or threat of bodily injury.",
+      "The location of the offense."
+    ],
+    "reference": "Texas Penal Code, Sec. 29.02",
+    "explanation": "Theft is simply taking property. Robbery is theft that is accomplished by using force or threatening force against a person."
+  },
+  {
+    "question": "A person commits what offense if they threaten to commit a violent act with the intent to place a group in fear of imminent serious bodily injury?",
+    "answer": "Terroristic Threat",
+    "options": [
+      "Assault",
+      "Harassment",
+      "Deadly Conduct",
+      "Terroristic Threat"
+    ],
+    "reference": "Texas Penal Code, Sec. 22.07",
+    "explanation": "This offense focuses on the intent to cause fear and disruption, even if the person making the threat has no intention of carrying it out."
+  },
+  {
+    "question": "What is the penalty for impersonating a public servant?",
+    "answer": "A third-degree felony.",
+    "options": [
+      "A Class A Misdemeanor.",
+      "A state jail felony.",
+      "A third-degree felony.",
+      "A Class B Misdemeanor."
+    ],
+    "reference": "Texas Penal Code, Sec. 37.11",
+    "explanation": "Falsely acting as a government official is a serious crime, and the penalty is enhanced if the person impersonates a peace officer."
+  },
+  {
+    "question": "A person is arrested and provides a false name to the officer. What offense have they committed?",
+    "answer": "Failure to Identify",
+    "options": [
+      "Perjury",
+      "Tampering with a Governmental Record",
+      "Failure to Identify",
+      "Obstruction of Justice"
+    ],
+    "reference": "Texas Penal Code, Sec. 38.02",
+    "explanation": "This statute makes it a crime for a lawfully arrested or detained person to give false identifying information to a peace officer."
+  },
+  {
+    "question": "What is the penalty for escaping from custody if the person was being held for a felony charge?",
+    "answer": "A third-degree felony.",
+    "options": [
+      "A Class A Misdemeanor.",
+      "A state jail felony.",
+      "A third-degree felony.",
+      "A second-degree felony."
+    ],
+    "reference": "Texas Penal Code, Sec. 38.06(c)(1)",
+    "explanation": "The penalty for escape is tied to the severity of the original offense for which the person was in custody."
+  },
+  {
+    "question": "A person is having a loud argument with another person in a public park, using profane language that incites others to anger. What offense have they committed?",
+    "answer": "Disorderly Conduct",
+    "options": [
+      "Riot",
+      "Assault",
+      "Disorderly Conduct",
+      "Harassment"
+    ],
+    "reference": "Texas Penal Code, Sec. 42.01",
+    "explanation": "Disorderly conduct covers a range of acts that disturb the public peace, including using 'fighting words' that are likely to incite an immediate breach of the peace."
+  },
+  {
+    "question": "Possession of which of the following is a violation under the Prohibited Weapons statute?",
+    "answer": "Brass knuckles.",
+    "options": [
+      "A handgun.",
+      "A hunting knife.",
+      "A shotgun.",
+      "Brass knuckles."
+    ],
+    "reference": "Texas Penal Code, Sec. 46.05",
+    "explanation": "This statute lists specific weapons that are illegal for anyone to possess, regardless of their criminal history, due to their inherently dangerous or criminal nature."
+  },
+  {
+    "question": "The offense of Unlawful Carrying of a Weapon (UCW) is typically a Class A Misdemeanor. When is it elevated to a third-degree felony?",
+    "answer": "When it is committed on any premises licensed for the sale of alcoholic beverages.",
+    "options": [
+      "When the weapon is a rifle instead of a handgun.",
+      "When it is committed on any premises licensed for the sale of alcoholic beverages.",
+      "If the person has a prior misdemeanor conviction.",
+      "If the offense occurs at night."
+    ],
+    "reference": "Texas Penal Code, Sec. 46.02(c)",
+    "explanation": "The law provides an enhanced penalty for carrying a weapon into a location where alcohol is sold, due to the increased potential for violence."
+  },
+  {
+    "question": "What is the required mental state for the offense of Criminal Negligence?",
+    "answer": "The person ought to have been aware of a substantial and unjustifiable risk.",
+    "options": [
+      "The person desired to cause the result.",
+      "The person was aware of a risk but disregarded it.",
+      "The person was aware their conduct was reasonably certain to cause the result.",
+      "The person ought to have been aware of a substantial and unjustifiable risk."
+    ],
+    "reference": "Texas Penal Code, Sec. 6.03(d)",
+    "explanation": "This is the lowest culpable mental state. It doesn't require awareness, only that a reasonable person in the same situation would have been aware of the risk."
+  },
+  {
+    "question": "Can voluntary intoxication be used as a defense to the commission of a crime?",
+    "answer": "No.",
+    "options": [
+      "Yes.",
+      "No.",
+      "Only for misdemeanor offenses.",
+      "Only if the person did not know the substance was intoxicating."
+    ],
+    "reference": "Texas Penal Code, Sec. 8.04",
+    "explanation": "The law holds individuals responsible for the consequences of their actions, even if their judgment was impaired by substances they chose to consume."
+  },
+  {
+    "question": "If a person is on trial for a third-degree felony and has a prior felony conviction, what is the new punishment range?",
+    "answer": "A second-degree felony.",
+    "options": [
+      "A first-degree felony.",
+      "A state jail felony.",
+      "A second-degree felony.",
+      "The punishment is not enhanced."
+    ],
+    "reference": "Texas Penal Code, Sec. 12.42(a)",
+    "explanation": "Texas law includes 'habitual offender' statutes that increase the punishment range for defendants with prior felony convictions."
+  },
+  {
+    "question": "The offense of 'Criminal Solicitation' applies when a person requests another to commit what level of offense?",
+    "answer": "A capital felony or a first-degree felony.",
+    "options": [
+      "Any criminal offense.",
+      "Any misdemeanor.",
+      "A capital felony or a first-degree felony.",
+      "A state jail felony."
+    ],
+    "reference": "Texas Penal Code, Sec. 15.03",
+    "explanation": "This serious charge is reserved for situations where a person tries to get someone else to commit the most serious crimes."
+  },
+  {
+    "question": "What is the penalty for Injury to a Child if the conduct is committed intentionally or knowingly and results in serious bodily injury?",
+    "answer": "A first-degree felony.",
+    "options": [
+      "A second-degree felony.",
+      "A third-degree felony.",
+      "A state jail felony.",
+      "A first-degree felony."
+    ],
+    "reference": "Texas Penal Code, Sec. 22.04(e)",
+    "explanation": "The law provides very severe penalties for intentionally or knowingly causing serious harm to a child, who is considered a particularly vulnerable victim."
+  },
+  {
+    "question": "A person commits what offense if they intentionally prevent a peace officer from effecting an arrest by using force against the officer?",
+    "answer": "Resisting Arrest",
+    "options": [
+      "Evading Arrest",
+      "Interference with Public Duties",
+      "Resisting Arrest",
+      "Assault on a Public Servant"
+    ],
+    "reference": "Texas Penal Code, Sec. 38.03",
+    "explanation": "The key element of this offense is the use of force. Merely running away is a different offense (Evading)."
+  },
+  {
+    "question": "What is the penalty for making a false report to a peace officer that induces an emergency response?",
+    "answer": "A Class A Misdemeanor.",
+    "options": [
+      "A civil fine only.",
+      "A Class C Misdemeanor.",
+      "A Class B Misdemeanor.",
+      "A Class A Misdemeanor."
+    ],
+    "reference": "Texas Penal Code, Sec. 42.06",
+    "explanation": "This offense is taken seriously because it wastes public resources and can divert emergency responders from real emergencies."
+  },
+  {
+    "question": "What is the penalty for intentionally or knowingly possessing, manufacturing, or selling a hoax bomb with intent to make another believe it is real?",
+    "answer": "A Class A Misdemeanor.",
+    "options": [
+      "A state jail felony.",
+      "A Class B Misdemeanor.",
+      "A Class C Misdemeanor.",
+      "A Class A Misdemeanor."
+    ],
+    "reference": "Texas Penal Code, Sec. 46.08. HOAX BOMBS.",
+    "explanation": "Creating a fake bomb with the intent to cause alarm or make someone believe it is a real explosive device is a serious offense."
+  },
+  {
+    "question": "If a person is confined in a penal institution, what is the penalty for intentionally or knowingly carrying or possessing a deadly weapon?",
+    "answer": "A third-degree felony.",
+    "options": [
+      "A Class A Misdemeanor.",
+      "A state jail felony.",
+      "A third-degree felony.",
+      "A first-degree felony."
+    ],
+    "reference": "Texas Penal Code, Sec. 46.10. DEADLY WEAPON IN PENAL INSTITUTION.",
+    "explanation": "The presence of a deadly weapon inside a penal institution poses a significant threat to the safety and security of both staff and other inmates."
+  },
+  {
+    "question": "A person makes a bet on the result of a football game. What offense has been committed?",
+    "answer": "Gambling (Class C Misdemeanor).",
+    "options": [
+      "No offense if the bet is under $100.",
+      "Gambling Promotion (Class A Misdemeanor).",
+      "Gambling (Class C Misdemeanor).",
+      "Theft by Deception."
+    ],
+    "reference": "Texas Penal Code, Sec. 47.02. GAMBLING.",
+    "explanation": "Making a bet on the outcome of a game or contest is the basic offense of gambling in Texas, which is a Class C Misdemeanor."
+  },
+  {
+    "question": "A person knowingly owns and operates a 'bookmaking' business. What offense have they committed?",
+    "answer": "Gambling Promotion (Class A Misdemeanor).",
+    "options": [
+      "Gambling (Class C Misdemeanor).",
+      "Engaging in Organized Criminal Activity.",
+      "Gambling Promotion (Class A Misdemeanor).",
+      "Theft of Service."
+    ],
+    "reference": "Texas Penal Code, Sec. 47.03. GAMBLING PROMOTION.",
+    "explanation": "This offense is more serious than simple gambling because it involves taking bets from others as a business, which is a Class A Misdemeanor."
+  },
+  {
+    "question": "It is an offense to operate a motor vehicle in a public place while intoxicated. What is the penalty for a first offense if an open container of alcohol is also present?",
+    "answer": "A Class B Misdemeanor with a minimum confinement of six days.",
+    "options": [
+      "A Class B Misdemeanor with a minimum confinement of 72 hours.",
+      "A Class A Misdemeanor.",
+      "A Class C Misdemeanor.",
+      "A Class B Misdemeanor with a minimum confinement of six days."
+    ],
+    "reference": "Texas Penal Code, Sec. 49.04. DRIVING WHILE INTOXICATED.",
+    "explanation": "The presence of an open container enhances the minimum punishment for a DWI, doubling the minimum jail time from 72 hours to six days."
+  },
+  {
+    "question": "A person commits Intoxication Manslaughter if they operate a vehicle while intoxicated and cause what?",
+    "answer": "The death of another person by accident or mistake.",
+    "options": [
+      "Serious bodily injury to another.",
+      "A collision involving another vehicle.",
+      "The death of another person by accident or mistake.",
+      "The death of an animal."
+    ],
+    "reference": "Texas Penal Code, Sec. 49.08. INTOXICATION MANSLAUGHTER.",
+    "explanation": "This offense elevates a DWI to a second-degree felony when the intoxicated operation of a vehicle directly results in someone's death."
+  },
+  {
+    "question": "Under what circumstance may a person who is at least 21 years old be exempt from wearing a motorcycle helmet?",
+    "answer": "If they have successfully completed a motorcycle operator training course or have a valid medical insurance policy.",
+    "options": [
+      "If they are operating the motorcycle during daylight hours.",
+      "If they have a valid driver's license.",
+      "If they have successfully completed a motorcycle operator training course or have a valid medical insurance policy.",
+      "They are never exempt."
+    ],
+    "reference": "Texas Transportation Code, Sec. 661.003.",
+    "explanation": "Texas law allows adults to opt out of wearing a helmet if they meet specific safety training or financial responsibility requirements."
+  },
+  {
+    "question": "An officer may take an abandoned motor vehicle into custody if it has remained on public property for more than how long?",
+    "answer": "48 hours.",
+    "options": [
+      "12 hours.",
+      "24 hours.",
+      "48 hours.",
+      "72 hours."
+    ],
+    "reference": "Texas Transportation Code, Sec. 683.002 & 683.011.",
+    "explanation": "A vehicle left on public property for two days is legally considered abandoned, giving law enforcement the authority to have it removed."
+  },
+  {
+    "question": "What is the penalty for knowingly operating a motor vehicle with a suspended registration due to a failure to maintain financial responsibility?",
+    "answer": "A misdemeanor punishable by a fine and confinement in jail for 72 hours to six months.",
+    "options": [
+      "A civil fine only.",
+      "A Class C Misdemeanor.",
+      "A warning for the first offense.",
+      "A misdemeanor punishable by a fine and confinement in jail for 72 hours to six months."
+    ],
+    "reference": "Texas Transportation Code, Sec. 601.371.",
+    "explanation": "Driving with a suspended registration is a criminal offense that carries mandatory jail time in addition to fines."
+  },
+  {
+    "question": "A person who drops injurious material (like glass) onto a highway must do what?",
+    "answer": "Immediately remove it.",
+    "options": [
+      "Report it to the Department of Transportation.",
+      "Immediately remove it.",
+      "Place a warning sign near the material.",
+      "Nothing, as it is the state's responsibility to clean highways."
+    ],
+    "reference": "Texas Transportation Code, Sec. 600.001.",
+    "explanation": "This law places the responsibility on the individual who created the hazard to immediately remedy it to ensure the safety of other motorists."
+  },
+  {
+    "question": "A driver is involved in an accident that results only in damage to another vehicle. If they fail to stop and provide information, what is the penalty if the damage is $200 or more?",
+    "answer": "A Class B Misdemeanor.",
+    "options": [
+      "A Class C Misdemeanor.",
+      "A Class A Misdemeanor.",
+      "A Class B Misdemeanor.",
+      "A state jail felony."
+    ],
+    "reference": "Texas Transportation Code, Sec. 550.022.",
+    "explanation": "The penalty for failing to stop and give information (a 'hit-and-run') is determined by the severity of the damage or injury caused."
+  },
+  {
+    "question": "If a vehicle accident results in injury, death, or damage of at least $1,000, and is NOT investigated by a peace officer, what is the driver required to do?",
+    "answer": "File a written accident report with the Texas Department of Transportation.",
+    "options": [
+      "Report the accident to their insurance company only.",
+      "Do nothing, as no officer was present.",
+      "File a written accident report with the Texas Department of Transportation.",
+      "File a report with the local police department within 30 days."
+    ],
+    "reference": "Texas Transportation Code, Sec. 550.061.",
+    "explanation": "This ensures that significant traffic accidents are documented for statistical and safety analysis, even when an officer does not respond to the scene."
+  },
+  {
+    "question": "In a homicide investigation, the stiffening of body tissues after death is known as what?",
+    "answer": "Rigor mortis",
+    "options": [
+      "Post-mortem lividity",
+      "Putrefaction",
+      "Rigor mortis",
+      "Algor mortis"
+    ],
+    "reference": "TCOLE Basic Peace Officer Course Curriculum, Unit 28: Criminal Investigation",
+    "explanation": "Rigor mortis is a key indicator that can help a medical examiner estimate the time of death based on the progression of muscle stiffening."
+  },
+  {
+    "question": "A police officer is told by a credible person that a known felon is inside a house and is about to escape out the back door. The officer does not have a warrant. What may the officer be justified in doing?",
+    "answer": "Entering the house to pursue and arrest the suspect.",
+    "options": [
+      "Setting up a perimeter and waiting for a warrant.",
+      "Entering the house to pursue and arrest the suspect.",
+      "Calling the suspect on the phone and ordering them out.",
+      "The officer cannot enter without a warrant under any circumstances."
+    ],
+    "reference": "Texas Code of Criminal Procedure, Art. 14.04",
+    "explanation": "This article provides a specific exception to the warrant rule when an officer has satisfactory proof from a credible source that a felony has been committed and the offender is about to escape."
+  },
+  {
+    "question": "A person is on trial for a Class C Misdemeanor for which they have been convicted three times in the past two years. What can their punishment be enhanced to?",
+    "answer": "A fine of up to $2,000, a jail sentence of up to 180 days, or both.",
+    "options": [
+      "A fine of up to $500 only.",
+      "A fine of up to $4,000.",
+      "A fine of up to $2,000, a jail sentence of up to 180 days, or both.",
+      "The punishment cannot be enhanced."
+    ],
+    "reference": "Texas Penal Code, Sec. 12.43(c)",
+    "explanation": "This statute allows for significantly increased penalties for habitual offenders of lower-level misdemeanors, effectively treating the offense as a Class B Misdemeanor."
+  },
+  {
+    "question": "The three main types of hazardous materials are infectious materials, ionizing radiation, and what?",
+    "answer": "Toxic materials.",
+    "options": [
+      "Flammable liquids.",
+      "Explosives.",
+      "Toxic materials.",
+      "Corrosive substances."
+    ],
+    "reference": "TCOLE Basic Peace Officer Course Curriculum, Unit 27: Hazardous Materials Awareness",
+    "explanation": "These three categories represent the broad classifications of materials that can pose a significant danger to health and safety."
+  }
+],
     "Penal Code": [
   {
     "question": "According to Sec. 1.02 of the Penal Code, what is a general purpose of the code?",
@@ -2431,16 +4809,16 @@
     "explanation": "This amendment is the cornerstone of privacy rights in the U.S., protecting citizens from arbitrary intrusion by the government."
   },
   {
-    "question": "According to the Supreme Court case Tennessee v. Garner, is the use of deadly force by a police officer considered a 'seizure' under the 4th Amendment?",
-    "answer": "Yes, all police uses of force are seizures subject to the reasonableness standard.",
+    "question": "According to the Supreme Court case Graham v. Connor, what constitutional standard governs all police uses of force?",
+    "answer": "The Fourth Amendment's objective reasonableness standard.",
     "options": [
-      "No, use of force is governed by the 8th Amendment.",
-      "No, only an arrest is considered a seizure.",
-      "Yes, all police uses of force are seizures subject to the reasonableness standard.",
-      "Yes, but only if the force results in a fatality."
+      "The Eighth Amendment's cruel and unusual punishment standard.",
+      "The Due Process Clause of the Fourteenth Amendment.",
+      "The Fourth Amendment's objective reasonableness standard.",
+      "The Fifth Amendment's due process standard."
     ],
-    "reference": "Tennessee v. Garner (1985); is police deadly force a seizure under the 4th Amendment? All police uses of force are seizures under the reasonableness standard of the 4th",
-    "explanation": "This landmark case established that any use of force by police to apprehend a subject is a 'seizure' and must therefore be 'reasonable' as required by the Fourth Amendment."
+    "reference": "Graham v. Connor, 490 U.S. 386 (1989)",
+    "explanation": "This landmark case established that all claims of excessive force in the context of arrests, investigatory stops, or other seizures of free citizens must be analyzed under the Fourth Amendment's 'objective reasonableness' standard. The Court rejected the use of a 'substantive due process' analysis and clarified that the reasonableness of force must be judged from the perspective of a reasonable officer on the scene, considering factors such as the severity of the crime, whether the suspect poses an immediate threat, and whether the suspect is actively resisting or attempting to evade arrest."
   },
   {
     "question": "A search warrant shall not be issued unless it is based upon what?",
@@ -2533,8 +4911,8 @@
       "A hunch that something is wrong.",
       "Probable cause that the vehicle contains evidence or contraband."
     ],
-    "reference": "Motor Vehicles: The 'automobile exception' allows for warrantless searches of vehicles when there is probable cause that the vehicle contains evidence or contraband.",
-    "explanation": "This exception exists because a vehicle is mobile and can be moved out of the jurisdiction, creating an exigent circumstance that makes getting a warrant impractical."
+    "reference": "Carroll v. United States, 267 U.S. 132 (1925); California v. Carney, 471 U.S. 386 (1985)",
+    "explanation": "The automobile exception, established in Carroll v. United States and refined in California v. Carney, allows for warrantless searches of vehicles when there is probable cause that the vehicle contains evidence or contraband. This exception exists because vehicles are inherently mobile and can be quickly moved out of the jurisdiction, creating an exigent circumstance that makes obtaining a warrant impractical. The Supreme Court recognized that the mobility of vehicles, combined with their reduced expectation of privacy due to their pervasive regulation, justifies this exception to the Fourth Amendment's warrant requirement."
   },
   {
     "question": "What is the area immediately adjacent to a house that is considered part of the house for 4th Amendment purposes?",
@@ -2556,7 +4934,8 @@
       "That evidence obtained through an illegal search or seizure is not admissible in court.",
       "That evidence can be excluded if it is too prejudicial to the jury."
     ],
-    "reference": "The Exclusionary Rule ... has been interpreted to include fruit of the poisonous tree. Evidence obtained from an illegal search or seizure is not admissible in court."
+    "reference": "Mapp v. Ohio, 367 U.S. 643 (1961); Silverthorne Lumber Co. v. United States, 251 U.S. 385 (1920)",
+    "explanation": "The Exclusionary Rule, established in Weeks v. United States and applied to state courts in Mapp v. Ohio, mandates that evidence obtained in violation of the Fourth Amendment cannot be used in criminal prosecutions. This includes the 'fruit of the poisonous tree' doctrine from Silverthorne Lumber Co., which excludes not only the primary evidence obtained illegally, but also any secondary evidence derived from that initial illegal search or seizure. The rule serves to deter police misconduct by removing the incentive to conduct illegal searches."
   },
   {
     "question": "Under CCP Art. 18.16, a private citizen may seize stolen property and bring it, along with the offender, before whom?",
@@ -3159,8 +5538,8 @@
       "Plain View Doctrine.",
       "Exigent Circumstances."
     ],
-    "reference": "PLAIN VIEW: ...the officer must obtain his view from a location where he has a right to be. ... 'IMMEDIATELY APPARENT' ITEM IN 'PLAIN VIEW' IS EVIDENCE OF CRIME.",
-    "explanation": "Under this doctrine, if an officer is lawfully in a position to view an item and its incriminating character is immediately apparent, they can seize it without a warrant."
+    "reference": "Coolidge v. New Hampshire, 403 U.S. 443 (1971); Horton v. California, 496 U.S. 128 (1990)",
+    "explanation": "The plain view doctrine, established in Coolidge v. New Hampshire and refined in Horton v. California, allows officers to seize evidence without a warrant when three requirements are met: (1) the officer is lawfully present in the location where the item is observed, (2) the item is in plain view, and (3) the incriminating nature of the item is 'immediately apparent' to the officer. In this scenario, the officer is lawfully present during a traffic stop, the baggie is visible, and its apparent contents as cocaine make its incriminating nature immediately apparent."
   },
   {
     "question": "An officer finds a person slumped over the wheel of a running car stopped in a traffic lane. The officer approaches to check on their welfare. This action is justified under which doctrine?",

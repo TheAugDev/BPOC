@@ -127,6 +127,7 @@ const tpcaCriticalAreas = [
 ];
 
 const bpocTopics = [
+    { name: "Unit Review", id: "Unit Review" },
     { name: "Penal Code", id: "Penal Code" },
     { name: "Radio Communications", id: "Radio Communications" },
     { name: "Civilian Interactions", id: "Civilian Interactions" },
@@ -929,6 +930,12 @@ function displayQuestion() {
 }
 
 function selectOption(button, selectedAnswer, correctAnswer, reference) {
+    // Debug logging for all answers
+    console.log('=== ANSWER VALIDATION DEBUG ===');
+    console.log('Selected answer:', `"${selectedAnswer}"`);
+    console.log('Correct answer:', `"${correctAnswer}"`);
+    console.log('Selected length:', selectedAnswer.length, 'Correct length:', correctAnswer.length);
+    
     // More robust comparison function
     function normalizeAnswer(str) {
         return str
@@ -950,9 +957,17 @@ function selectOption(button, selectedAnswer, correctAnswer, reference) {
         isCorrect = normalizedSelected === normalizedCorrect;
     }
     
-    // Debug logging for troubleshooting
+    // Debug logging for all comparisons
+    console.log('Selected (normalized):', `"${normalizedSelected}"`);
+    console.log('Correct (normalized):', `"${normalizedCorrect}"`);
+    console.log('Exact match result:', selectedAnswer.trim().toLowerCase() === correctAnswer.trim().toLowerCase());
+    console.log('Normalized match result:', normalizedSelected === normalizedCorrect);
+    console.log('Final isCorrect:', isCorrect);
+    console.log('=== END DEBUG ===');
+    
+    // Additional debug logging for troubleshooting
     if (!isCorrect) {
-        console.log('Answer comparison failed:');
+        console.log('ANSWER MARKED AS INCORRECT:');
         console.log('Selected:', `"${selectedAnswer}"`);
         console.log('Correct:', `"${correctAnswer}"`);
         console.log('Selected (normalized):', `"${normalizedSelected}"`);

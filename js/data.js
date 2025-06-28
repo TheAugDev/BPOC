@@ -61,7 +61,7 @@ async function loadExternalData() {
             if (key === 'BPOC' && !allReviewData.BPOC) {
                 allReviewData.BPOC = {};
                 // Initialize with empty topics for BPOC (using the main topic names)
-                const mainTopics = ['Penal Code', 'Radio Communications', 'Civilian Interactions', 'Police Mindset', 'Fitness and Wellness', 'CCP and Constitution', 'Arrest & Frisk Tactics', 'Portable Radio RSM', 'Firearms'];
+                const mainTopics = ['Unit Review', 'Penal Code', 'Radio Communications', 'Civilian Interactions', 'Police Mindset', 'Fitness and Wellness', 'CCP and Constitution', 'Arrest & Frisk Tactics', 'Portable Radio RSM', 'Firearms'];
                 mainTopics.forEach(topic => {
                     const topicId = topic.toLowerCase().replace(/\s+/g, '-').replace(/&/g, 'and');
                     allReviewData.BPOC[topicId] = {};
