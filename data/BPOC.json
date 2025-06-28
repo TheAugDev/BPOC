@@ -2375,6 +2375,1518 @@
     ],
     "reference": "TCOLE Basic Peace Officer Course Curriculum, Unit 27: Hazardous Materials Awareness",
     "explanation": "These three categories represent the broad classifications of materials that can pose a significant danger to health and safety."
+  },
+  {
+    "question": "Which of the following is an objective of the Texas Penal Code?",
+    "answer": "To insure the public safety via deterrent penalties, punishments, and rehabilitation.",
+    "options": [
+      "To exclude the offender from all hope of escape.",
+      "To guide & limit official discretion to prevent arbitrary or oppressive treatment.",
+      "To insure the public safety via deterrent penalties, punishments, and rehabilitation.",
+      "To ensure investigations bring all evidence to produce convictions or acquittals."
+    ],
+    "reference": "Texas Penal Code, Sec. 1.02. OBJECTIVES OF CODE.",
+    "explanation": "The Penal Code's primary public safety goals are to deter crime, rehabilitate offenders, and apply punishment to prevent future criminal behavior."
+  },
+  {
+    "question": "A threat to inflict bodily injury in the future on a person is a form of what?",
+    "answer": "Coercion",
+    "options": [
+      "Assault",
+      "Terroristic Threat",
+      "Coercion",
+      "Harassment"
+    ],
+    "reference": "Texas Penal Code, Sec. 1.07(a)(9).",
+    "explanation": "Coercion is defined as a threat, however communicated, with the intent to influence a person to act against their will. A threat of future bodily injury is a specific example."
+  },
+  {
+    "question": "Which of the following is NOT an 'Element of an Offense' that the prosecution must prove?",
+    "answer": "The negation of any defense.",
+    "options": [
+      "A forbidden conduct.",
+      "A required culpability.",
+      "Any required result.",
+      "The negation of any defense."
+    ],
+    "reference": "Texas Penal Code, Sec. 1.07(a)(22).",
+    "explanation": "The state must prove the forbidden conduct, mental state (culpability), and result, and it must negate any *exceptions* to the law. A 'defense' is a separate issue that the defendant may raise."
+  },
+  {
+    "question": "Which of the following locations is specifically included in the definition of a 'Public Place'?",
+    "answer": "The common areas of an apartment house.",
+    "options": [
+      "A private office within an office building.",
+      "A fenced residential backyard.",
+      "The common areas of an apartment house.",
+      "A hotel room."
+    ],
+    "reference": "Texas Penal Code, Sec. 1.07(a)(40).",
+    "explanation": "A 'public place' is legally defined as any place where the public or a substantial group has access, which includes common areas like lobbies, hallways, and parking lots of apartment buildings."
+  },
+  {
+    "question": "Under the Penal Code, which of the following individuals would be considered a 'Public Servant'?",
+    "answer": "An arbitrator authorized by law to hear a controversy.",
+    "options": [
+      "A celebrity's bodyguard.",
+      "A volunteer at a private charity.",
+      "An arbitrator authorized by law to hear a controversy.",
+      "A news reporter covering a trial."
+    ],
+    "reference": "Texas Penal Code, Sec. 1.07(a)(41).",
+    "explanation": "The definition of 'Public Servant' is broad, including not just government employees but also individuals performing a governmental function, like jurors, magistrates, and arbitrators."
+  },
+  {
+    "question": "A person is criminally responsible if, with intent to promote an offense, they solicit, encourage, or aid another person to commit that offense. This is known as what?",
+    "answer": "Being a Party to an Offense.",
+    "options": [
+      "Criminal Conspiracy.",
+      "Criminal Attempt.",
+      "Being a Party to an Offense.",
+      "Criminal Solicitation."
+    ],
+    "reference": "Texas Penal Code, Sec. 7.02. CRIMINAL RESPONSIBILITY FOR CONDUCT OF ANOTHER.",
+    "explanation": "This establishes complicity. A person doesn't have to be the one who physically commits the crime to be held criminally responsible for it if they intentionally helped."
+  },
+  {
+    "question": "What is the legal definition of 'Reasonable Belief'?",
+    "answer": "A belief that would be held by an ordinary and prudent man in the same circumstances.",
+    "options": [
+      "A belief based on a gut feeling or hunch.",
+      "A belief held by at least two people.",
+      "A belief that would be held by an ordinary and prudent man in the same circumstances.",
+      "A belief that is later proven to be correct."
+    ],
+    "reference": "Texas Penal Code, Sec. 1.07(a)(42).",
+    "explanation": "This is an objective standard. The law doesn't care what the specific officer believed, but what a hypothetical 'ordinary and prudent' person would have believed in that exact situation."
+  },
+  {
+    "question": "A threat to cause death or serious bodily injury by producing a weapon does not constitute the use of 'deadly force' if the actor's purpose is limited to what?",
+    "answer": "Creating an apprehension that deadly force will be used if necessary.",
+    "options": [
+      "Protecting property.",
+      "Creating an apprehension that deadly force will be used if necessary.",
+      "Escaping from an unlawful arrest.",
+      "Forcing compliance with a verbal command."
+    ],
+    "reference": "Texas Penal Code, Sec. 9.04. THREATS AS JUSTIFIABLE FORCE.",
+    "explanation": "The law distinguishes between the *threat* of deadly force and the *use* of deadly force. A threat intended only to make someone back down is justified under the same standards as using non-deadly force."
+  },
+  {
+    "question": "Can a person use ignorance of the law as a defense to prosecution after the law has taken effect?",
+    "answer": "No, it is not a defense.",
+    "options": [
+      "Yes, if the law is new.",
+      "No, it is not a defense.",
+      "Yes, if the person is not a citizen.",
+      "Only for misdemeanor offenses."
+    ],
+    "reference": "Texas Penal Code, Sec. 8.03. MISTAKE OF LAW.",
+    "explanation": "The legal principle 'ignorance of the law is no excuse' is codified here; citizens are presumed to know the law."
+  },
+  {
+    "question": "Consent from a property owner is NOT legally effective if it is given for what purpose?",
+    "answer": "Solely to detect the commission of an offense.",
+    "options": [
+      "To allow entry for a party.",
+      "To allow a person to perform repairs.",
+      "To allow an officer to conduct a search.",
+      "Solely to detect the commission of an offense."
+    ],
+    "reference": "Texas Penal Code, Sec. 1.07(a)(19).",
+    "explanation": "This prevents law enforcement from using deception to gain consent for entry, for example, by having an undercover officer get 'consent' from a homeowner just to set up a sting."
+  },
+  {
+    "question": "A 'Felony' is defined as an offense punishable by death or confinement in what type of facility?",
+    "answer": "A penitentiary.",
+    "options": [
+      "A county jail.",
+      "A state jail.",
+      "A city jail.",
+      "A penitentiary."
+    ],
+    "reference": "Texas Penal Code, Sec. 1.07(a)(23).",
+    "explanation": "The place of confinement distinguishes felonies from misdemeanors. Misdemeanors result in county jail time, while felonies result in confinement in a state jail or penitentiary (prison)."
+  },
+  {
+    "question": "The legal standard that requires each element of an offense to be proven before a person can be convicted is known as what?",
+    "answer": "Proof beyond a reasonable doubt.",
+    "options": [
+      "Preponderance of the evidence.",
+      "Proof beyond a reasonable doubt.",
+      "Shadow of a doubt.",
+      "Reasonable suspicion."
+    ],
+    "reference": "Texas Penal Code, Sec. 2.01. PROOF BEYOND A REASONABLE DOUBT.",
+    "explanation": "This is the highest standard of proof in the legal system, required by the Constitution to protect citizens from wrongful convictions."
+  },
+  {
+    "question": "Consent is not legally effective if it is given by a person who is known by the actor to be unable to make reasonable decisions due to youth, mental disease, or what?",
+    "answer": "Intoxication",
+    "options": [
+      "Duress",
+      "Intoxication",
+      "Coercion",
+      "Entrapment"
+    ],
+    "reference": "Texas Penal Code, Sec. 1.07(a)(19).",
+    "explanation": "For consent to be valid, the person giving it must be competent. If intoxication impairs their ability to make a rational decision, their consent is not legally effective."
+  },
+  {
+    "question": "Which term from the Penal Code is defined as: 'physical pain, illness, or any impairment of physical condition'?",
+    "answer": "Bodily Injury",
+    "options": [
+      "Harm",
+      "Act",
+      "Bodily Injury",
+      "Benefit"
+    ],
+    "reference": "Texas Penal Code, Sec. 1.07(a)(8).",
+    "explanation": "This is a broad definition. It's important to note that 'pain' itself, even without visible marks, constitutes bodily injury under the law."
+  },
+  {
+    "question": "Which term from the Penal Code is defined as: 'an act or omission and its accompanying mental state'?",
+    "answer": "Conduct",
+    "options": [
+      "Act",
+      "Conduct",
+      "Omission",
+      "Possession"
+    ],
+    "reference": "Texas Penal Code, Sec. 1.07(a)(10).",
+    "explanation": "In criminal law, 'conduct' is more than just the physical act; it includes the person's mental state (e.g., intentional, knowing) at the time of the act."
+  },
+  {
+    "question": "Which term from the Penal Code is defined as: 'a firearm or anything manifestly designed, made, or adapted for the purpose of inflicting death or serious bodily injury'?",
+    "answer": "Deadly weapon",
+    "options": [
+      "Benefit",
+      "Deadly weapon",
+      "Act",
+      "Harm"
+    ],
+    "reference": "Texas Penal Code, Sec. 1.07(a)(17).",
+    "explanation": "This definition is two-part: things that are always deadly weapons (like a gun) and things that *become* deadly weapons by their use (like a baseball bat used to strike someone's head)."
+  },
+  {
+    "question": "Which term from the Penal Code is defined as: 'disturbance of mental or physical capacity from the introduction of any substance into the body'?",
+    "answer": "Intoxication",
+    "options": [
+      "Bodily Injury",
+      "Harm",
+      "Intoxication",
+      "Benefit"
+    ],
+    "reference": "Texas Penal Code, Sec. 49.01(2).",
+    "explanation": "This is the legal definition used for all intoxication offenses, including DWI and Public Intoxication."
+  },
+  {
+    "question": "Which term from the Penal Code is defined as: 'actual care, custody, control, or management'?",
+    "answer": "Possession",
+    "options": [
+      "Omission",
+      "Possession",
+      "Conduct",
+      "Act"
+    ],
+    "reference": "Texas Penal Code, Sec. 1.07(a)(39).",
+    "explanation": "Possession doesn't require ownership. If a person has control over an item, even temporarily, they are legally in possession of it."
+  },
+  {
+    "question": "Which legal term means the 'burden of proof lies with the defense attorney to prove when he or she chooses to use it'?",
+    "answer": "Affirmative Defense",
+    "options": [
+      "Defense",
+      "Exception",
+      "Affirmative Defense",
+      "Mistake of Law"
+    ],
+    "reference": "Texas Penal Code, Sec. 2.04.",
+    "explanation": "In a regular defense, the state must disprove it. In an affirmative defense (like insanity or duress), the burden shifts, and the defense must prove it is more likely than not to be true."
+  },
+  {
+    "question": "Which term from the Penal Code is defined as: 'Anything reasonably regarded as loss, disadvantage, or injury'?",
+    "answer": "Harm",
+    "options": [
+      "Harm",
+      "Bodily Injury",
+      "Benefit",
+      "Omission"
+    ],
+    "reference": "Texas Penal Code, Sec. 1.07(a)(25).",
+    "explanation": "This is a broad legal term that can include physical, emotional, or financial injury."
+  },
+  {
+    "question": "Which term matches the definition: 'any type of administrative, executive, legislative, or judicial proceeding that may be conducted before a public servant'?",
+    "answer": "Official proceeding",
+    "options": [
+      "Possession",
+      "Benefit",
+      "Official proceeding",
+      "Conduct"
+    ],
+    "reference": "Texas Penal Code, Sec. 1.07(a)(34).",
+    "explanation": "This definition is important for offenses like Perjury or Tampering with a Witness, which specifically apply to official proceedings."
+  },
+  {
+    "question": "If an actor did not know their conduct was wrong as a result of a severe mental disease or defect, what can be used as a defense?",
+    "answer": "The affirmative defense of Insanity",
+    "options": [
+      "The defense of Mistake of Fact",
+      "The affirmative defense of Insanity",
+      "The defense of Duress",
+      "The exception of Intoxication"
+    ],
+    "reference": "Texas Penal Code, Sec. 8.01.",
+    "explanation": "Insanity is an affirmative defense where the defense must prove that the actor's mental state prevented them from understanding the wrongfulness of their actions."
+  },
+  {
+    "question": "Which culpable mental state describes a person's conscious objective or desire to engage in conduct or cause a result?",
+    "answer": "Intentional",
+    "options": [
+      "Knowing",
+      "Intentional",
+      "Reckless",
+      "Criminal negligence"
+    ],
+    "reference": "Texas Penal Code, Sec. 6.03(a).",
+    "explanation": "This is the highest level of culpability, requiring a specific desire to perform the act or achieve the outcome."
+  },
+  {
+    "question": "What affirmative defense can be used when an actor was compelled to commit an offense by the threat of imminent death or serious bodily injury?",
+    "answer": "Duress",
+    "options": [
+      "Entrapment",
+      "Mistake of Fact",
+      "Duress",
+      "Intoxication"
+    ],
+    "reference": "Texas Penal Code, Sec. 8.05.",
+    "explanation": "This defense acknowledges that a person cannot be held criminally liable if they were forced to commit a crime under an immediate threat of death or SBI."
+  },
+  {
+    "question": "A mistake of fact or law can be used as what in a prosecution?",
+    "answer": "A defense.",
+    "options": [
+      "An exception.",
+      "An affirmative defense.",
+      "A defense.",
+      "It cannot be used."
+    ],
+    "reference": "Texas Penal Code, Sec. 8.02 & 8.03.",
+    "explanation": "Unlike an affirmative defense, if the defense raises mistake of fact, the prosecution then has the burden to disprove it beyond a reasonable doubt."
+  },
+  {
+    "question": "What defense applies if an actor, through mistake, formed a reasonable belief about a matter of fact that negated the required culpability?",
+    "answer": "Mistake of Fact",
+    "options": [
+      "Mistake of Law",
+      "Duress",
+      "Entrapment",
+      "Mistake of Fact"
+    ],
+    "reference": "Texas Penal Code, Sec. 8.02.",
+    "explanation": "This defense can be used if, for example, a person reasonably believed an item was theirs when they took it, negating the 'intent to deprive' element of theft."
+  },
+  {
+    "question": "Conduct by a law enforcement agent that merely affords a person an opportunity to commit an offense does NOT constitute what?",
+    "answer": "Entrapment",
+    "options": [
+      "Duress",
+      "Mistake of Law",
+      "Entrapment",
+      "Coercion"
+    ],
+    "reference": "Texas Penal Code, Sec. 8.06.",
+    "explanation": "For entrapment to apply, the officer must have induced the person to commit the crime using persuasion or other means that would cause an ordinary person to offend. Simply providing the opportunity is not enough."
+  },
+  {
+    "question": "The burden of proof to negate an __________ to an offense rests with the prosecution.",
+    "answer": "Exception",
+    "options": [
+      "Exception",
+      "Affirmative Defense",
+      "Defense",
+      "Element"
+    ],
+    "reference": "Texas Penal Code, Sec. 2.02.",
+    "explanation": "If a law has a built-in exception (e.g., 'it is an offense to do X, unless Y is true'), the State must prove beyond a reasonable doubt that the exception (Y) does not apply."
+  },
+  {
+    "question": "Which term describes a person's conduct when they ought to be aware of a substantial and unjustifiable risk, and the failure to perceive it is a gross deviation from the standard of care?",
+    "answer": "Criminal negligence",
+    "options": [
+      "Reckless",
+      "Intentional",
+      "Knowing",
+      "Criminal negligence"
+    ],
+    "reference": "Texas Penal Code, Sec. 6.03(d).",
+    "explanation": "This is the lowest culpable mental state. It doesn't require awareness of the risk, only that a reasonable person would have been aware."
+  },
+  {
+    "question": "Which culpable mental state applies when a person is aware that their conduct is reasonably certain to cause a result?",
+    "answer": "Knowing",
+    "options": [
+      "Intentional",
+      "Knowing",
+      "Reckless",
+      "Criminal negligence"
+    ],
+    "reference": "Texas Penal Code, Sec. 6.03(b).",
+    "explanation": "This is different from 'intentional' because the person doesn't have to desire the result, only be aware that it's practically certain to happen."
+  },
+  {
+    "question": "Which term best describes an 'individual, corporation, or association'?",
+    "answer": "Person",
+    "options": [
+      "Individual",
+      "Public servant",
+      "Person",
+      "Actor"
+    ],
+    "reference": "Texas Penal Code, Sec. 1.07(a)(38).",
+    "explanation": "In the Penal Code, the term 'person' is broad and can apply not just to a human being but also to legal entities like corporations."
+  },
+  {
+    "question": "What is the legal term for a failure to act when there is a required legal duty to do so?",
+    "answer": "Omission",
+    "options": [
+      "Act",
+      "Conduct",
+      "Omission",
+      "Defense"
+    ],
+    "reference": "Texas Penal Code, Sec. 1.07(a)(34).",
+    "explanation": "A person can be held criminally liable not just for their actions, but also for their failure to act when the law requires them to (e.g., failure to report child abuse)."
+  },
+  {
+    "question": "Which term is defined as 'anything reasonably regarded as economic gain or advantage'?",
+    "answer": "Benefit",
+    "options": [
+      "Harm",
+      "Benefit",
+      "Person",
+      "Possession"
+    ],
+    "reference": "Texas Penal Code, Sec. 1.07(a)(6).",
+    "explanation": "This definition is important for offenses like Bribery or Theft, where the motive is often to obtain a 'benefit'."
+  },
+  {
+    "question": "Consent given by a person who is legally authorized to act for the owner is known as what?",
+    "answer": "Effective consent",
+    "options": [
+      "Implied consent",
+      "Actual consent",
+      "Effective consent",
+      "Informed consent"
+    ],
+    "reference": "Texas Penal Code, Sec. 1.07(a)(19).",
+    "explanation": "This is crucial for search and seizure law. For example, a spouse can often give effective consent to search a shared home, but a casual guest cannot."
+  },
+  {
+    "question": "Which term describes 'a human being who is alive, including an unborn child at every stage of gestation from fertilization until birth'?",
+    "answer": "Individual",
+    "options": [
+      "Person",
+      "Individual",
+      "Actor",
+      "Human"
+    ],
+    "reference": "Texas Penal Code, Sec. 1.07(a)(26).",
+    "explanation": "This specific definition is key to homicide statutes, as it defines who can be a victim of murder or manslaughter."
+  },
+  {
+    "question": "Does voluntary intoxication constitute a defense to the commission of a crime?",
+    "answer": "No",
+    "options": [
+      "Yes",
+      "No",
+      "Only for misdemeanor offenses.",
+      "Only if the person was unaware of the substance's effects."
+    ],
+    "reference": "Texas Penal Code, Sec. 8.04.",
+    "explanation": "The law generally holds that if you choose to become intoxicated, you are still responsible for the actions you commit while in that state."
+  },
+  {
+    "question": "Which term is defined as 'bodily movement, whether voluntary or involuntary, and includes speech'?",
+    "answer": "Act",
+    "options": [
+      "Conduct",
+      "Act",
+      "Omission",
+      "Harm"
+    ],
+    "reference": "Texas Penal Code, Sec. 1.07(a)(1).",
+    "explanation": "This definition is the foundational component of 'conduct.' An offense requires an 'act' or an 'omission'."
+  },
+  {
+    "question": "If a defendant raises a 'Defense' in court, what is the prosecution's responsibility?",
+    "answer": "The prosecution must then disprove its validity during the trial.",
+    "options": [
+      "The defense must prove its validity.",
+      "The prosecution must then disprove its validity during the trial.",
+      "The judge makes a ruling on it before trial.",
+      "The jury is not allowed to consider it."
+    ],
+    "reference": "Texas Penal Code, Sec. 2.03.",
+    "explanation": "For a standard defense (like self-defense), the defendant only needs to produce some evidence to support it. The burden then shifts back to the state to disprove that defense beyond a reasonable doubt."
+  },
+  {
+    "question": "After at least 40 hours of training, a recruit will be allotted ___ attempts to qualify with their handgun during the first qualification session, before any remedial training session.",
+    "options": [
+      "One",
+      "Two",
+      "Three",
+      "Five"
+    ],
+    "answer": "Three",
+    "reference": "1",
+    "explanation": "The source material specifies that a recruit is given three attempts to qualify with their handgun during the initial qualification session. [cite: 1]"
+  },
+  {
+    "question": "Patrol officers should refrain from using (not use) the word \"___\" during a violator/enforcement vehicle stop.",
+    "options": [
+      "You",
+      "I",
+      "Sir",
+      "Please"
+    ],
+    "answer": "I",
+    "reference": "2",
+    "explanation": "The training material advises officers to avoid using the word \"I\" during a traffic stop, as it can personalize the encounter unnecessarily. [cite: 2]"
+  },
+  {
+    "question": "What is step 2 of the 7 Step Professional Contact?",
+    "options": [
+      "Greeting and Identification of Agency",
+      "Statement of Violation Committed",
+      "Introduction of self and department",
+      "Take Action"
+    ],
+    "answer": "Introduction of self and department",
+    "reference": "3",
+    "explanation": "The second step in the 7-Step Professional Contact method is the 'Introduction of self and department'. [cite: 3]"
+  },
+  {
+    "question": "When running a person on the radio for warrants, what information should be given for #3 in the sequence: #1 Last Name, First Name; #2 Race, Sex; #3 ___?",
+    "options": [
+      "Social Security Number",
+      "Address",
+      "License Plate Number",
+      "Date of Birth"
+    ],
+    "answer": "Date of Birth",
+    "reference": "4",
+    "explanation": "For a standard warrant check on the radio, the third group of information required is the individual's date of birth. [cite: 4]"
+  },
+  {
+    "question": "The CYMBALS acronym is used for describing ___.",
+    "options": [
+      "Suspects",
+      "Vehicles",
+      "Crime Scenes",
+      "Stolen Property"
+    ],
+    "answer": "Vehicles",
+    "reference": "5",
+    "explanation": "CYMBALS is a mnemonic device used by law enforcement to remember the key details needed to describe a vehicle (Color, Year, Make, Body, And License, State). [cite: 5]"
+  },
+  {
+    "question": "In which step of the \"Seven-step Violator Contact Method\" is the violator required to identify himself by displaying a driver's license or other identification?",
+    "options": [
+      "Step 2: Introduction of self and department",
+      "Step 4: Statement of violation committed",
+      "Step 5: Take action",
+      "Step 7: Leave"
+    ],
+    "answer": "Step 4: Statement of violation committed",
+    "reference": "Not specified in the provided document.",
+    "explanation": "During Step 4, after the officer has stated the violation, they will then ask for the violator's identification to proceed with the appropriate action."
+  },
+  {
+    "question": "At which step of the 7 Step Professional Contact is typically the time for investigative questions needed in the contact?",
+    "options": [
+      "Step 3: State the reason for the contact",
+      "Step 5: Take action",
+      "Step 6: Justification",
+      "Step 7: Leave"
+    ],
+    "answer": "Step 5: Take action",
+    "reference": "6",
+    "explanation": "Step 5, 'Take action,' is the phase where an officer decides the course of action (e.g., citation, warning) and would ask any necessary investigative questions to help make that determination. [cite: 6]"
+  },
+  {
+    "question": "Wellness is defined as a continuum from optimal ___ to death.",
+    "options": [
+      "Fitness",
+      "Youth",
+      "Health and well-being",
+      "Homeostasis"
+    ],
+    "answer": "Health and well-being",
+    "reference": "7",
+    "explanation": "Wellness is described as a full spectrum, ranging from optimal health and well-being at one end to death at the other. [cite: 7]"
+  },
+  {
+    "question": "Physical fitness is the condition of the body that enables an individual to use his/her body in activities requiring strength, muscular endurance, cardiovascular endurance, flexibility, coordination, agility, power, balance, speed, and accuracy, without ___.",
+    "options": [
+      "Any rest",
+      "Stopping",
+      "Slowing down",
+      "Undue fatigue"
+    ],
+    "answer": "Undue fatigue",
+    "reference": "Not specified in the provided document.",
+    "explanation": "The definition of physical fitness emphasizes the ability to perform demanding physical tasks without experiencing excessive or unreasonable fatigue."
+  },
+  {
+    "question": "When exercising outside in the heat, how many 8-ounce glasses of water should be consumed each day?",
+    "options": [
+      "4 to 6",
+      "6 to 8",
+      "8 to 10",
+      "10 to 12"
+    ],
+    "answer": "8 to 10",
+    "reference": "Not specified in the provided document.",
+    "explanation": "To prevent dehydration when exercising in hot weather, the general recommendation is to consume 8 to 10 eight-ounce glasses of water daily."
+  },
+  {
+    "question": "What does the body use to build, maintain, and repair tissue?",
+    "options": [
+      "Carbohydrates",
+      "Fats",
+      "Vitamins",
+      "Protein"
+    ],
+    "answer": "Protein",
+    "reference": "8",
+    "explanation": "Protein is the essential macronutrient required for the biological processes of building, maintaining, and repairing body tissues. [cite: 8]"
+  },
+  {
+    "question": "An officer stops a vehicle on the right shoulder of a well-travelled freeway at 0030 hours on a Saturday. For the traffic stop the officer should:",
+    "options": [
+      "Turn their wheels to the right",
+      "Turn their wheels to the left",
+      "Keep their wheels straight",
+      "Park directly behind the vehicle"
+    ],
+    "answer": "Turn their wheels to the left",
+    "reference": "9",
+    "explanation": "For officer safety, the wheels of the patrol car should be turned to the left. [cite_start]This angles the engine block and vehicle frame to create a protective barrier against traffic coming from the rear. [cite: 9]"
+  },
+  {
+    "question": "Statistically, the most dangerous position on a traffic stop is ___.",
+    "options": [
+      "On the right side of the violator's vehicle",
+      "On the left side of the violator's vehicle",
+      "Directly behind the violator's vehicle",
+      "In the patrol car while waiting for backup"
+    ],
+    "answer": "On the left side of the violator's vehicle",
+    "reference": "10",
+    "explanation": "The left-side (driver's side) approach is considered the most dangerous position due to exposure to passing traffic. [cite: 10]"
+  },
+  {
+    "question": "A back up officer's role in a field contact with multiple subjects is to:",
+    "options": [
+      "Engage directly with the primary subject",
+      "Conduct all radio communications",
+      "Take a position of surveillance",
+      "Immediately search all subjects"
+    ],
+    "answer": "Take a position of surveillance",
+    "reference": "11",
+    "explanation": "The primary role of a backup officer is to ensure the safety of the primary officer by observing the scene and all subjects from a position of tactical advantage, which is a surveillance role. [cite: 11]"
+  },
+  {
+    "question": "'An individual, corporation or association' best describes:",
+    "options": [
+      "Actor",
+      "Owner",
+      "Person",
+      "Entity"
+    ],
+    "answer": "Person",
+    "reference": "Not specified in the provided document.",
+    "explanation": "In legal terms, particularly within a penal code, 'Person' is defined broadly to include not just individuals but also corporations and associations."
+  },
+  {
+    "question": "Which of the following is NOT included in the definition of 'possession'?",
+    "options": [
+      "Actual care",
+      "Custody",
+      "Mere presence in the vicinity of a thing",
+      "Control or management"
+    ],
+    "answer": "Mere presence in the vicinity of a thing",
+    "reference": "Not specified in the provided document.",
+    "explanation": "Legal possession requires demonstrating care, custody, control, or management of an item. Simply being physically near an object does not legally constitute possession."
+  },
+  {
+    "question": "Force that is intended by the actor and known to cause death or serious bodily injury is called ___ force.",
+    "options": [
+      "Excessive",
+      "Justified",
+      "Reasonable",
+      "Deadly"
+    ],
+    "answer": "Deadly",
+    "reference": "12",
+    "explanation": "This is the legal definition of deadly force, focusing on the intent and knowledge of the actor regarding the potential outcome. [cite: 12]"
+  },
+  {
+    "question": "___ means any contact between any part of the genitals of one person and the mouth or anus of another person; or the penetration of the genitals or the anus of another person with an object.",
+    "options": [
+      "Sexual Assault",
+      "Deviate sexual intercourse",
+      "Public Lewdness",
+      "Indecent Exposure"
+    ],
+    "answer": "Deviate sexual intercourse",
+    "reference": "13, 14",
+    "explanation": "The provided text is the specific legal definition for the offense of 'Deviate sexual intercourse'. [cite: 13, 14]"
+  },
+  {
+    "question": "'Act' means a bodily movement, whether voluntary or involuntary, and includes ___.",
+    "options": [
+      "Thoughts",
+      "Intentions",
+      "Omissions",
+      "Speech"
+    ],
+    "answer": "Speech",
+    "reference": "15",
+    "explanation": "The legal definition of an 'Act' under the penal code includes not only physical bodily movements but also speech. [cite: 15]"
+  },
+  {
+    "question": "Anything reasonably regarded as loss, disadvantage, or injury defines:",
+    "options": [
+      "Damage",
+      "Harm",
+      "Bodily Injury",
+      "Loss"
+    ],
+    "answer": "Harm",
+    "reference": "Not specified in the provided document.",
+    "explanation": "This is the definition of 'Harm' in a legal context, which is a broad term encompassing more than just physical injury."
+  },
+  {
+    "question": "According to the Penal Code what is NOT an element of an offense?",
+    "options": [
+      "The forbidden conduct",
+      "The required culpability",
+      "Consent of the victim",
+      "Any required result"
+    ],
+    "answer": "Consent of the victim",
+    "reference": "Not specified in the provided document.",
+    "explanation": "The core elements of a criminal offense are the conduct, the mental state (culpability), and the result. While lack of consent is a critical component of many specific crimes, it is not a required element for every single offense defined in the penal code."
+  },
+  {
+    "question": "According to Section 8.05 of the Penal Code, what general defense occurs when the actor engaged in the proscribed conduct because he was compelled to do so by threat of imminent death or serious bodily injury to himself or another?",
+    "options": [
+      "Necessity",
+      "Entrapment",
+      "Duress",
+      "Self-defense"
+    ],
+    "answer": "Duress",
+    "reference": "16",
+    "explanation": "The defense of 'Duress' applies when a person commits a crime because they were compelled by the threat of imminent death or serious bodily injury. [cite: 16]"
+  },
+  {
+    "question": "While in a public place and with verbally abusive language, a husband deeply offends his wife and others present in the area. The wife is crying and other ladies in the area complain that no one should be talked to that way. What would be the charge?",
+    "options": [
+      "Assault",
+      "Disorderly Conduct",
+      "Public Intoxication",
+      "Harassment"
+    ],
+    "answer": "Disorderly Conduct",
+    "reference": "17, 18, 19",
+    "explanation": "The use of abusive language in a public place which tends to incite an immediate breach of the peace is an offense under the statute for Disorderly Conduct. [cite: 17, 18, 19]"
+  },
+  {
+    "question": "Which of the following person(s) is in violation of Indecent Exposure law?",
+    "options": [
+      "A person who is nude in their own home with the curtains open.",
+      "A person who accidentally exposes themselves while changing.",
+      "A person wearing revealing clothing at a public beach.",
+      "A person in a public place who exposes their anus or any part of their genitals with intent to arouse or gratify the sexual desire of any person, and they are reckless about whether another is present who will be offended or alarmed by the act."
+    ],
+    "answer": "A person in a public place who exposes their anus or any part of their genitals with intent to arouse or gratify the sexual desire of any person, and they are reckless about whether another is present who will be offended or alarmed by the act.",
+    "reference": "Not specified in the provided document.",
+    "explanation": "This option provides the specific legal elements required to commit the offense of Indecent Exposure, including the location, the act, the intent, and the reckless disregard for others."
+  },
+  {
+    "question": "An officer observes a male and female having sex in a local park late at night. What offense has occurred?",
+    "options": [
+      "Indecent Exposure",
+      "Disorderly Conduct",
+      "Public Lewdness",
+      "Prostitution"
+    ],
+    "answer": "Public Lewdness",
+    "reference": "20, 21",
+    "explanation": "Knowingly engaging in an act of sexual intercourse in a public place or being reckless about whether another person is present who would be offended or alarmed constitutes the offense of Public Lewdness. [cite: 20, 21]"
+  },
+  {
+    "question": "Jim, a man in the front row of a crowded movie theater, as a prank, stands up and 'moons' everyone, which makes his anus visible. Several complain to management about him. What offense, if any, did Jim commit?",
+    "options": [
+      "Indecent Exposure",
+      "Public Lewdness",
+      "Disorderly Conduct",
+      "No offense"
+    ],
+    "answer": "Disorderly Conduct",
+    "reference": "22",
+    "explanation": "Jim's act of exposing his anus in a public place in a manner designed to be offensive to others constitutes Disorderly Conduct. [cite_start]It may not meet the specific 'sexual desire' intent required for Indecent Exposure. [cite: 22]"
+  },
+  {
+    "question": "A prison term of not more than 20 years or less than 2 years would be for a:",
+    "options": [
+      "1st Degree Felony",
+      "2nd Degree Felony",
+      "3rd Degree Felony",
+      "State Jail Felony"
+    ],
+    "answer": "2nd Degree Felony",
+    "reference": "23",
+    "explanation": "In the Texas Penal Code, the punishment range of 2 to 20 years in prison is designated for a 2nd Degree Felony. [cite: 23]"
+  },
+  {
+    "question": "Which culpable mental state refers to a person's conscious objective or desire to engage in a conduct or cause a result?",
+    "options": [
+      "Knowingly",
+      "Recklessly",
+      "Intentionally",
+      "Criminal Negligence"
+    ],
+    "answer": "Intentionally",
+    "reference": "24",
+    "explanation": "The mental state of 'Intentionally' is defined as having the conscious objective or desire to engage in the specific conduct or cause the specific result. [cite: 24]"
+  },
+  {
+    "question": "Which culpable mental state refers to a person's lack of awareness of a substantial and unjustifiable risk and the failure to perceive it constitutes a gross deviation from an ordinary standard of care?",
+    "options": [
+      "Intentionally",
+      "Knowingly",
+      "Recklessly",
+      "Criminal Negligence"
+    ],
+    "answer": "Criminal Negligence",
+    "reference": "25",
+     "explanation": "'Criminal Negligence' is the mental state in which a person ought to be aware of a substantial and unjustifiable risk but fails to perceive it, and this failure is a gross deviation from the norm. [cite: 25]"
+  },
+  {
+    "question": "What is the lowest level of mental culpability?",
+    "options": [
+      "Recklessness",
+      "Knowingly",
+      "Intentionally",
+      "Criminal Negligence"
+    ],
+    "answer": "Criminal Negligence",
+    "reference": "26",
+    "explanation": "The four culpable mental states are ranked by severity. From highest to lowest, they are: Intentionally, Knowingly, Recklessly, and Criminal Negligence. [cite_start]Therefore, Criminal Negligence is the lowest level. [cite: 26]"
+  },
+  {
+    "question": "One of the objectives of the Texas Penal Code is ___.",
+    "options": [
+      "to guarantee retribution for all victims",
+      "to establish a system of punishment only",
+      "to insure the public safety through the deterrent influence of the penalties hereinafter provided",
+      "to define civil liabilities"
+    ],
+    "answer": "to insure the public safety through the deterrent influence of the penalties hereinafter provided",
+    "reference": "Not specified in the provided document.",
+    "explanation": "A primary stated objective of the Texas Penal Code is to promote public safety by using penalties as a deterrent to criminal conduct."
+  },
+  {
+    "question": "B",
+    "options": [
+      "Bravo",
+      "Baker",
+      "Boy",
+      "Bill"
+    ],
+    "answer": "Boy",
+    "reference": "Not specified in the provided document.",
+    "explanation": "In the American Law Enforcement Phonetic Alphabet, 'Boy' is the standard word used for the letter B."
+  },
+  {
+    "question": "E",
+    "options": [
+      "Echo",
+      "Easy",
+      "Eagle",
+      "Edward"
+    ],
+    "answer": "Edward",
+    "reference": "Not specified in the provided document.",
+    "explanation": "In the American Law Enforcement Phonetic Alphabet, 'Edward' is the standard word used for the letter E."
+  },
+  {
+    "question": "H",
+    "options": [
+      "Hotel",
+      "Howard",
+      "Henry",
+      "Harry"
+    ],
+    "answer": "Henry",
+    "reference": "Not specified in the provided document.",
+    "explanation": "In the American Law Enforcement Phonetic Alphabet, 'Henry' is the standard word used for the letter H."
+  },
+  {
+    "question": "i",
+    "options": [
+      "India",
+      "Igloo",
+      "Item",
+      "Ida"
+    ],
+    "answer": "Ida",
+    "reference": "Not specified in the provided document.",
+    "explanation": "In the American Law Enforcement Phonetic Alphabet, 'Ida' is the standard word used for the letter I."
+  },
+  {
+    "question": "J",
+    "options": [
+      "Juliett",
+      "James",
+      "John",
+      "Jack"
+    ],
+    "answer": "John",
+    "reference": "Not specified in the provided document.",
+    "explanation": "In the American Law Enforcement Phonetic Alphabet, 'John' is the standard word used for the letter J."
+  },
+  {
+    "question": "V",
+    "options": [
+      "Violet",
+      "Vincent",
+      "Victor",
+      "Victory"
+    ],
+    "answer": "Victor",
+    "reference": "Not specified in the provided document.",
+    "explanation": "'Victor' is the standard word for the letter V in both law enforcement and international phonetic alphabets."
+  },
+  {
+    "question": "The military time for four fifteen in the afternoon is ___ hours.",
+    "options": [
+      "0415",
+      "415",
+      "1615",
+      "1415"
+    ],
+    "answer": "1615",
+    "reference": "27",
+    "explanation": "Military time operates on a 24-hour clock. To convert a p.m. time, add 12 to the hour. [cite_start]Therefore, 4:00 p.m. is 1600 hours, and 4:15 p.m. is 1615 hours. [cite: 27]"
+  },
+  {
+    "question": "According to CCP 8.01, whenever a peace officer meets with resistance in executing process, he ___ command as many citizens of his county he deems proper to overcome the resistance.",
+    "options": [
+      "shall",
+      "must",
+      "is required to",
+      "may"
+    ],
+    "answer": "may",
+    "reference": "1",
+    "explanation": "The Texas Code of Criminal Procedure (CCP) 8.01 states that a peace officer 'may' call on citizens for assistance, indicating that it is at the officer's discretion."
+  },
+  {
+    "question": "The court(s) having original jurisdiction of all official misconduct misdemeanor cases is the:",
+    "options": [
+      "District Court",
+      "County Court",
+      "Justice Court",
+      "Municipal Court"
+    ],
+    "answer": "District Court",
+    "reference": "2",
+    "explanation": "Due to the serious nature of the offense, the District Court has original jurisdiction over all cases of official misconduct, even if they are classified as misdemeanors."
+  },
+  {
+    "question": "Which of the following officials is authorized under the CCP to call any military company in a county to aid in overcoming resistance and if necessary, in seizing and arresting persons engaged in such resistance?",
+    "options": [
+      "District Attorney",
+      "County Judge",
+      "Sheriff",
+      "Mayor"
+    ],
+    "answer": "Sheriff",
+    "reference": "Not specified in the provided document.",
+    "explanation": "The Texas Code of Criminal Procedure grants the Sheriff the authority to call for aid from any military company within the county to help overcome resistance to the law."
+  },
+  {
+    "question": "___ means that cases are first referred to the court of jurisdiction.",
+    "options": [
+      "Appellate Jurisdiction",
+      "Original Jurisdiction",
+      "Exclusive Jurisdiction",
+      "Concurrent Jurisdiction"
+    ],
+    "answer": "Original Jurisdiction",
+    "reference": "3",
+    "explanation": "Original Jurisdiction is the legal authority of a court to hear a case for the first time."
+  },
+  {
+    "question": "A ___ is written order from a magistrate, directed to a peace officer or some other person specially named, commanding him to take the body of the person accused of an offense, to be dealt with according to law.",
+    "options": [
+      "summons",
+      "subpoena",
+      "capias",
+      "warrant of arrest"
+    ],
+    "answer": "warrant of arrest",
+    "reference": "4",
+    "explanation": "This is the specific definition of a warrant of arrest as provided by the Texas Code of Criminal Procedure."
+  },
+  {
+    "question": "County A and County B border each other. An offender is arrested for an offense in County A, but is magistrated and incarcerated in County B. The offender cannot be detained in a jail in County B for more than how many hours or day?",
+    "options": [
+      "24 hours",
+      "48 hours",
+      "72 hours",
+      "7 days"
+    ],
+    "answer": "72 hours",
+    "reference": "5",
+    "explanation": "According to the Texas Code of Criminal Procedure, if an arrested person is confined in a jail of an adjoining county, they cannot be held there for more than 72 hours."
+  },
+  {
+    "question": "The Fourth Amendment deals with which of the following:",
+    "options": [
+      "Freedom of speech",
+      "Right to bear arms",
+      "Searches and Seizures",
+      "Right to a speedy trial"
+    ],
+    "answer": "Searches and Seizures",
+    "reference": "6",
+    "explanation": "The Fourth Amendment to the U.S. Constitution protects people from unreasonable searches and seizures by the government."
+  },
+  {
+    "question": "Which of the following officials would NOT be classed as being a 'magistrate' under Texas Law?",
+    "options": [
+      "Justice of the Peace",
+      "Mayor of an incorporated city",
+      "District Attorney",
+      "County Judge"
+    ],
+    "answer": "District Attorney",
+    "reference": "Not specified in the provided document.",
+    "explanation": "The Texas Code of Criminal Procedure lists various judges and mayors as magistrates. A District Attorney is a prosecutor and an officer of the court, but not a magistrate."
+  },
+  {
+    "question": "According to the Code of Criminal Procedure, what is the term for a written order from a magistrate, directed to a peace officer, commanding them to take the body of the person accused of an offense, to be dealt with according to law?",
+    "options": [
+      "Search warrant",
+      "Arrest warrant",
+      "Summons",
+      "Capias"
+    ],
+    "answer": "Arrest warrant",
+    "reference": "7",
+    "explanation": "This is the definition of an arrest warrant under the Texas Code of Criminal Procedure."
+  },
+  {
+    "question": "Which of the following elements are in the Fourteenth Amendment to the U.S. Constitution?",
+    "options": [
+      "Right to bear arms and freedom of religion",
+      "Prohibition of cruel and unusual punishment",
+      "Due process and equal protection",
+      "Freedom of speech and press"
+    ],
+    "answer": "Due process and equal protection",
+    "reference": "8",
+    "explanation": "The Fourteenth Amendment contains the Due Process Clause and the Equal Protection Clause, which are fundamental to American civil rights."
+  },
+  {
+    "question": "A defendant may waive any right in any case except a:",
+    "options": [
+      "misdemeanor case",
+      "felony case",
+      "jury trial in any felony",
+      "capital felony where the state is seeking the death penalty"
+    ],
+    "answer": "capital felony where the state is seeking the death penalty",
+    "reference": "9",
+    "explanation": "Texas law states that a defendant cannot waive the right to a trial by jury in a capital felony case in which the government is seeking the death penalty."
+  },
+  {
+    "question": "The 10th Amendment provides which protection:",
+    "options": [
+      "Individual freedoms",
+      "States' Rights",
+      "Federal authority over states",
+      "Voting rights"
+    ],
+    "answer": "States' Rights",
+    "reference": "Not specified in the provided document.",
+    "explanation": "The Tenth Amendment reserves all powers not delegated to the federal government, nor prohibited to the states, to the states respectively, or to the people."
+  },
+  {
+    "question": "The reasonable force standard that limits the amount of force that can be used is covered by the ___ Amendment.",
+    "options": [
+      "First",
+      "Fourth",
+      "Fifth",
+      "Eighth"
+    ],
+    "answer": "Fourth",
+    "reference": "Not specified in the provided document.",
+    "explanation": "The standard for the use of force by law enforcement in the course of an arrest or other seizure is analyzed under the Fourth Amendment's 'objective reasonableness' standard."
+  },
+  {
+    "question": "An Officer executing an arrest warrant shall take the arrested person before a Magistrate ___",
+    "options": [
+      "within 24 hours",
+      "within 72 hours",
+      "at the officer's convenience",
+      "without unnecessary delay, but not later than 48 hours after the arrest"
+    ],
+    "answer": "without unnecessary delay, but not later than 48 hours after the arrest",
+    "reference": "11",
+    "explanation": "The Texas Code of Criminal Procedure requires an arrested person to be taken before a magistrate without unnecessary delay, establishing an outer limit of 48 hours."
+  },
+  {
+    "question": "According to TCOLE, there are 3 major components of the criminal justice system. Which of the following is NOT one of those components?",
+    "options": [
+      "Police",
+      "Courts",
+      "Correctional system",
+      "Pardon and paroles"
+    ],
+    "answer": "Pardon and paroles",
+    "reference": "12",
+    "explanation": "The Texas Commission on Law Enforcement (TCOLE) defines the three main components of the criminal justice system as police, courts, and corrections. Pardons and paroles are related processes but not considered one of the three core pillars."
+  },
+  {
+    "question": "When two individuals get into a fight in a public place, they both can be charged with ___",
+    "options": [
+      "Assault",
+      "Affray",
+      "Disorderly Conduct",
+      "Public Intoxication"
+    ],
+    "answer": "Disorderly Conduct",
+    "reference": "13",
+    "explanation": "Fighting with another person in a public place is an offense under the Texas Penal Code's definition of Disorderly Conduct."
+  },
+  {
+    "question": "Which of the following is listed as a peace officer in the CCP?",
+    "options": [
+      "FBI Agent",
+      "Private Investigator",
+      "Security Guard",
+      "Texas Ranger"
+    ],
+    "answer": "Texas Ranger",
+    "reference": "Not specified in the provided document.",
+    "explanation": "The Texas Code of Criminal Procedure, Article 2.12, explicitly lists Texas Rangers as peace officers."
+  },
+  {
+    "question": "Which one of the following courts has original jurisdiction for a class A and B misdemeanors?",
+    "options": [
+      "District Court",
+      "County Court",
+      "Justice Court",
+      "Municipal Court"
+    ],
+    "answer": "County Court",
+    "reference": "14",
+    "explanation": "In Texas, County Courts (specifically County Courts at Law) have original jurisdiction over Class A and Class B misdemeanor cases."
+  },
+  {
+    "question": "The Sixth Amendment to the U.S. Constitution ___",
+    "options": [
+      "protects against self-incrimination",
+      "guarantees the right to a speedy and public trial",
+      "guarantees freedom of speech",
+      "protects against unreasonable searches"
+    ],
+    "answer": "guarantees the right to a speedy and public trial",
+    "reference": "15",
+    "explanation": "The Sixth Amendment enumerates several rights of criminal defendants, including the right to a speedy and public trial, the right to a lawyer, and the right to confront witnesses."
+  },
+  {
+    "question": "States' rights are enumerated in which amendment that says that powers not specifically reserved to the federal government are reserved to the state government?",
+    "options": [
+      "Ninth Amendment",
+      "Tenth Amendment",
+      "Fourteenth Amendment",
+      "First Amendment"
+    ],
+    "answer": "Tenth Amendment",
+    "reference": "Not specified in the provided document.",
+    "explanation": "The Tenth Amendment is the section of the Bill of Rights that addresses the principle of federalism by reserving powers not delegated to the national government to the states and the people."
+  },
+  {
+    "question": "The highest Texas Court to hear appeals of civil cases is",
+    "options": [
+      "Texas Court of Criminal Appeals",
+      "U.S. Supreme Court",
+      "Texas Supreme Court",
+      "Court of Appeals"
+    ],
+    "answer": "Texas Supreme Court",
+    "reference": "16",
+    "explanation": "Texas has a bifurcated appellate court system. The Texas Supreme Court is the court of last resort for all civil cases."
+  },
+  {
+    "question": "The official charging document used by the District Attorney to charge most defendants with Class A and B misdemeanor actions is called a/an ___",
+    "options": [
+      "Indictment",
+      "Information",
+      "Complaint",
+      "Warrant"
+    ],
+    "answer": "Information",
+    "reference": "Not specified in the provided document.",
+    "explanation": "While a case may start with a complaint, the formal charging document filed by the prosecutor for a Class A or B misdemeanor is called an Information."
+  },
+  {
+    "question": "Who is NOT a peace officer?",
+    "options": [
+      "Sheriff",
+      "Constable",
+      "Special Agent of the FBI",
+      "Officer of the Texas Department of Public Safety"
+    ],
+    "answer": "Special Agent of the FBI",
+    "reference": "Not specified in the provided document.",
+    "explanation": "An FBI agent is a federal law enforcement officer but is not defined as a 'peace officer' under Article 2.12 of the Texas Code of Criminal Procedure, which lists state and local officers."
+  },
+  {
+    "question": "A person may not be compelled to be a witness against himself nor can a person be tried for the same criminal act twice. These rights are specified in the:",
+    "options": [
+      "Fourth Amendment",
+      "Fifth Amendment",
+      "Sixth Amendment",
+      "Eighth Amendment"
+    ],
+    "answer": "Fifth Amendment",
+    "reference": "17, 18",
+    "explanation": "The Fifth Amendment to the U.S. Constitution provides protection against self-incrimination (pleading the fifth) and double jeopardy (being tried twice for the same offense)."
+  },
+  {
+    "question": "The liability for Railroad Peace Officers' actions rest with ___",
+    "options": [
+      "the state of Texas",
+      "the officer individually",
+      "the railroad company",
+      "the county they are in"
+    ],
+    "answer": "the railroad company",
+    "reference": "Not specified in the provided document.",
+    "explanation": "Railroad peace officers are employed by a railroad company, which is civilly liable for the official acts of the officers it employs."
+  },
+  {
+    "question": "In Terry v. Ohio the fundamental doctrine that was provided was the:",
+    "options": [
+      "Exclusionary rule",
+      "Stop and frisk rule",
+      "Plain view doctrine",
+      "Probable cause rule"
+    ],
+    "answer": "Stop and frisk rule",
+    "reference": "20",
+    "explanation": "The landmark Supreme Court case Terry v. Ohio established the 'stop and frisk' doctrine, allowing officers to conduct a brief, investigatory stop (a 'stop') and a pat-down for weapons (a 'frisk') based on reasonable suspicion, which is a lower standard than probable cause."
+  },
+  {
+    "question": "According to the CCP, a peace officer may arrest, without a warrant, when a felony or breach of the peace has been committed in the presence or within view of a ___ and such person verbally orders the arrest of the offender.",
+    "options": [
+      "peace officer",
+      "citizen",
+      "prosecutor",
+      "magistrate"
+    ],
+    "answer": "magistrate",
+    "reference": "20, 23",
+    "explanation": "Per the Texas Code of Criminal Procedure (Art. 14.02), a peace officer may conduct a warrantless arrest for a felony or breach of the peace that occurs in the view of a magistrate, upon the verbal command of that magistrate."
+  },
+  {
+    "question": "For reasonable suspicion the judgement standard is that of a reasonable ___ given the same set of facts and circumstances.",
+    "options": [
+      "Person",
+      "Officer",
+      "Judge",
+      "Jurist"
+    ],
+    "answer": "Person",
+    "reference": "20",
+    "explanation": "The standard for evaluating reasonable suspicion is based on what a hypothetical 'reasonable person' would believe under the totality of the circumstances, not necessarily what a specific officer believed."
+  },
+  {
+    "question": "A/an ___ is a written statement filed and presented in behalf of the State by the district or county attorney, charging the defendant with an offense which may by law be so prosecuted.",
+    "options": [
+      "Complaint",
+      "Information",
+      "Indictment",
+      "Affidavit"
+    ],
+    "answer": "Information",
+    "reference": "20",
+    "explanation": "This is the legal definition of an 'Information.' It is the formal charging document filed by a prosecutor to initiate a misdemeanor case."
+  },
+  {
+    "question": "___ circumstances exist when there is not enough time to obtain a warrant and the officer has established probable cause.",
+    "options": [
+      "Investigative",
+      "Suspicious",
+      "Exigent",
+      "Custodial"
+    ],
+    "answer": "Exigent",
+    "reference": "20",
+    "explanation": "'Exigent circumstances' is the correct legal term for situations that are so urgent that an officer with probable cause must act immediately, without taking the time to secure a warrant. Examples include preventing the destruction of evidence or providing emergency aid."
+  },
+  {
+    "question": "The affidavit made before the magistrate or the district or court attorney charging the commission of an offense is called a/an ___",
+    "options": [
+      "complaint.",
+      "information.",
+      "indictment.",
+      "no-bill."
+    ],
+    "answer": "complaint.",
+    "reference": "20",
+    "explanation": "A 'complaint' is a sworn statement (affidavit) that alleges there is sufficient fact to believe an offense has been committed, and it serves as the basis for a charging document and arrest warrant."
+  },
+  {
+    "question": "Guarantees such as the right to a grand jury, double jeopardy protection, prohibition of self-incrimination, and a requirement that the system must follow due-process-of-law guidelines are found in the ___ Amendment.",
+    "options": [
+      "Fourth",
+      "Fifth",
+      "Sixth",
+      "Eighth"
+    ],
+    "answer": "Fifth",
+    "reference": "20",
+    "explanation": "The Fifth Amendment to the U.S. Constitution provides these fundamental protections for individuals accused of a crime."
+  },
+  {
+    "question": "Who may arrest an offender without a warrant for any offense committed within his presence or within his view?",
+    "options": [
+      "magistrate",
+      "peace officer",
+      "any citizen",
+      "any federal agent"
+    ],
+    "answer": "peace officer",
+    "reference": "20",
+    "explanation": "The Texas Code of Criminal Procedure (Art. 14.01) explicitly grants peace officers the authority to arrest an individual without a warrant for any offense, felony or misdemeanor, committed in their presence or view."
+  },
+  {
+    "question": "The Sixth Amendment to the U.S. Constitution guarantees all of the following EXCEPT the right to ___",
+    "options": [
+      "a speedy trial",
+      "Due process of law",
+      "counsel",
+      "confront witnesses"
+    ],
+    "answer": "Due process of law",
+    "reference": "20",
+    "explanation": "While the Sixth Amendment guarantees the rights to a speedy trial, legal counsel, and to confront witnesses, the broader guarantee of 'Due process of law' is found in the Fifth and Fourteenth Amendments."
+  },
+  {
+    "question": "When the defendant is arrested at night, the CCP 'specifically' requires that he be taken before a magistrate:",
+    "options": [
+      "Immediately",
+      "Within 8 hours",
+      "Without unnecessary delay",
+      "The next business day"
+    ],
+    "answer": "Without unnecessary delay",
+    "reference": "20, 23",
+    "explanation": "The Texas Code of Criminal Procedure requires that an arrested person be taken before a magistrate 'without unnecessary delay,' and sets an outer limit of 48 hours, regardless of whether the arrest occurred during the day or at night."
+  },
+  {
+    "question": "Officer Hutch calls the district attorney's office and asks when the felony arrest he made is going to trial. Asst. district attorney Starsky replies: 'I cannot proceed until I get a/an ___ from the Grand Jury.'",
+    "options": [
+      "Information",
+      "Complaint",
+      "No-bill",
+      "Indictment"
+    ],
+    "answer": "Indictment",
+    "reference": "23",
+    "explanation": "An 'Indictment' (also known as a 'true bill') is the formal charging document issued by a grand jury that is necessary to prosecute a felony case."
+  },
+  {
+    "question": "At least ___ is required for a legal temporary detention.",
+    "options": [
+      "Mere suspicion",
+      "Probable cause",
+      "Reasonable suspicion",
+      "A hunch"
+    ],
+    "answer": "Reasonable suspicion",
+    "reference": "23",
+    "explanation": "A temporary detention, or 'Terry stop,' is lawful when an officer has reasonable suspicion to believe that a person is involved in criminal activity. This standard is less than probable cause but more than a mere hunch."
+  },
+  {
+    "question": "Arrest warrants issued by a magistrate may be executed in any part of the state, except warrants issued by ___.",
+    "options": [
+      "District Judges",
+      "County Judges",
+      "Justices of the Peace",
+      "Mayors of Incorporated Cities"
+    ],
+    "answer": "Mayors of Incorporated Cities",
+    "reference": "23",
+    "explanation": "Generally, arrest warrants issued by mayors are only valid within the limits of their city, unless they are endorsed by a judge of a court of record or another magistrate in the county where the accused is found."
+  },
+  {
+    "question": "The purpose of the exclusionary rule is to:",
+    "options": [
+      "punish the defendant",
+      "ensure convictions",
+      "deter police misconduct",
+      "expedite the trial process"
+    ],
+    "answer": "deter police misconduct",
+    "reference": "23",
+    "explanation": "The primary purpose of the exclusionary rule is to deter law enforcement officers from conducting illegal searches and seizures by making any improperly obtained evidence inadmissible in court."
+  },
+  {
+    "question": "Who must meet the burden of proof of probable cause for searches and seizures without a warrant?",
+    "options": [
+      "the police",
+      "the defendant",
+      "the magistrate",
+      "the jury"
+    ],
+    "answer": "the police",
+    "reference": "23",
+    "explanation": "Warrantless searches are presumed to be unreasonable. Therefore, the burden of proof falls on the state (represented by the police and prosecution) to prove that the search was justified by probable cause and fell under a recognized exception to the warrant requirement."
+  },
+  {
+    "question": "Which court listed does NOT have jurisdiction in criminal actions?",
+    "options": [
+      "Justice Court",
+      "Municipal Court",
+      "County Court at Law",
+      "Texas Supreme Court"
+    ],
+    "answer": "Texas Supreme Court",
+    "reference": "23",
+    "explanation": "Texas has a bifurcated high court system. The Texas Supreme Court is the highest court for civil matters only and has no jurisdiction over criminal cases. The Texas Court of Criminal Appeals is the highest court for criminal cases."
+  },
+  {
+    "question": "___ is the security given by the accused that he will appear and answer before the proper court the accusation brought against him.",
+    "options": [
+      "Bail",
+      "Bond",
+      "Recognizance",
+      "Plea"
+    ],
+    "answer": "Bail",
+    "reference": "23",
+    "explanation": "This is the legal definition of 'Bail' as found in the Texas Code of Criminal Procedure. It is the security, often in the form of money, given to ensure the defendant's appearance in court."
+  },
+  {
+    "question": "When there are NOT suspicious circumstances, but it is shown by satisfactory proof to a peace officer, upon the representation of a credible person, that a ___ has been committed OUTSIDE the presence or view of the officer, and the offender is about to escape, such peace officer may, without warrant, pursue and arrest the accused.",
+    "options": [
+      "misdemeanor",
+      "breach of the peace",
+      "traffic offense",
+      "Felony"
+    ],
+    "answer": "Felony",
+    "reference": "23",
+    "explanation": "This scenario describes Article 14.04 of the Code of Criminal Procedure, which creates a specific exception to the warrant requirement, but it applies only when the offense is a felony."
+  },
+  {
+    "question": "Both search and arrest warrants must be based on:",
+    "options": [
+      "reasonable suspicion.",
+      "an anonymous tip.",
+      "an officer's hunch.",
+      "probable cause."
+    ],
+    "answer": "probable cause.",
+    "reference": "23",
+    "explanation": "The Fourth Amendment requires that all warrants, whether for an arrest or a search, must be supported by a sworn affidavit establishing probable cause."
+  },
+  {
+    "question": "An officer establishes probable cause and obtains a search warrant from a neutral magistrate. After serving the warrant and seizing the property an error is found in the search warrant that does not materially affect the probable cause of the warrant. Which of the following is true regarding the seized property under Texas Law?",
+    "options": [
+      "It is admissible under the 'good faith' exception.",
+      "It is not admissible under the Texas exclusionary rule.",
+      "It is only admissible in civil proceedings.",
+      "It must be returned immediately."
+    ],
+    "answer": "It is not admissible under the Texas exclusionary rule.",
+    "reference": "23",
+    "explanation": "Under the Texas Code of Criminal Procedure (Art. 38.23), evidence obtained in violation of the law is not admissible. Unlike the federal system, Texas has a very limited 'good faith' exception, and errors in a warrant often lead to the suppression of evidence."
+  },
+  {
+    "question": "According to the Code of Criminal Procedure, a peace officer may arrest, without a warrant, when a felony or breach of the peace has been committed in the presence or within view of a ___ and such person verbally orders the arrest of the offender.",
+    "options": [
+      "prosecutor",
+      "fellow peace officer",
+      "citizen",
+      "magistrate"
+    ],
+    "answer": "magistrate",
+    "reference": "23",
+    "explanation": "This question reiterates the principle in CCP Art. 14.02, which allows a peace officer to make a warrantless arrest for a felony or breach of the peace upon the verbal command of a magistrate who witnessed the offense."
+  },
+  {
+    "question": "According to the Code of Criminal Procedure, a ___ is an order issued by a judge directed to anyone having a person in their custody, commanding them to produce such person and show why they are in custody.",
+    "options": [
+      "Writ of Habeas Corpus",
+      "Writ of Mandamus",
+      "Writ of Sequestration",
+      "Writ of Attachment"
+    ],
+    "answer": "Writ of Habeas Corpus",
+    "reference": "23",
+    "explanation": "This is the definition of a 'Writ of Habeas Corpus,' a fundamental legal instrument used to challenge the legality of a person's detention or imprisonment."
+  },
+  {
+    "question": "Which of the following would constitute exigent circumstances?",
+    "options": [
+      "An officer smelling marijuana from a house while on patrol.",
+      "Hearing a person inside a residence yell 'Help me, he's going to kill me!'.",
+      "Having a hunch that a suspect is about to leave town.",
+      "A desire to search a house before the owner gets a lawyer."
+    ],
+    "answer": "Hearing a person inside a residence yell 'Help me, he's going to kill me!'.",
+    "reference": "23, 25",
+    "explanation": "Exigent circumstances are emergency situations requiring swift action. The sound of someone in immediate, life-threatening danger is a classic example of an exigent circumstance that would justify a warrantless entry into a residence to provide aid."
+  },
+  {
+    "question": "Reasonable grounds to suspect that a person has committed or is committing a crime or that a place contains specific items connected with a crime is the definition of ___",
+    "options": [
+      "Reasonable suspicion",
+      "A hunch",
+      "Probable cause",
+      "Proof beyond a reasonable doubt"
+    ],
+    "answer": "Probable cause",
+    "reference": "25",
+    "explanation": "This is a standard definition of 'Probable Cause,' the level of justification required for arrests and searches."
+  },
+  {
+    "question": "When the facts and circumstances known to the officer would warrant a prudent man believing that an offense has been committed is ___",
+    "options": [
+      "reasonable suspicion",
+      "an investigative detention",
+      "probable cause",
+      "due course of law"
+    ],
+    "answer": "probable cause",
+    "reference": "25",
+    "explanation": "This is the classic 'prudent man' or 'reasonable person' test used by courts to define and evaluate whether probable cause existed in a particular situation."
   }
 ],
     "Penal Code": [
