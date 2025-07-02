@@ -2965,7 +2965,7 @@
         "Park directly behind the vehicle"
       ],
       "answer": "Turn their wheels to the left",
-      "explanation": "For officer safety, the wheels of the patrol car should be turned to the left. [cite_start]This angles the engine block and vehicle frame to create a protective barrier against traffic coming from the rear."
+      "explanation": "For officer safety, the wheels of the patrol car should be turned to the left. This angles the engine block and vehicle frame to create a protective barrier against traffic coming from the rear."
     },
     {
       "question": "Statistically, the most dangerous position on a traffic stop is ___.",
@@ -3127,7 +3127,7 @@
         "No offense"
       ],
       "answer": "Disorderly Conduct",
-      "explanation": "Jim's act of exposing his anus in a public place in a manner designed to be offensive to others constitutes Disorderly Conduct. [cite_start]It may not meet the specific 'sexual desire' intent required for Indecent Exposure."
+      "explanation": "Jim's act of exposing his anus in a public place in a manner designed to be offensive to others constitutes Disorderly Conduct. It may not meet the specific 'sexual desire' intent required for Indecent Exposure."
     },
     {
       "question": "A prison term of not more than 20 years or less than 2 years would be for a:",
@@ -3171,7 +3171,7 @@
         "Criminal Negligence"
       ],
       "answer": "Criminal Negligence",
-      "explanation": "The four culpable mental states are ranked by severity. From highest to lowest, they are: Intentionally, Knowingly, Recklessly, and Criminal Negligence. [cite_start]Therefore, Criminal Negligence is the lowest level."
+      "explanation": "The four culpable mental states are ranked by severity. From highest to lowest, they are: Intentionally, Knowingly, Recklessly, and Criminal Negligence. Therefore, Criminal Negligence is the lowest level."
     },
     {
       "question": "One of the objectives of the Texas Penal Code is ___.",
@@ -3266,7 +3266,7 @@
         "1415"
       ],
       "answer": "1615",
-      "explanation": "Military time operates on a 24-hour clock. To convert a p.m. time, add 12 to the hour. [cite_start]Therefore, 4:00 p.m. is 1600 hours, and 4:15 p.m. is 1615 hours."
+      "explanation": "Military time operates on a 24-hour clock. To convert a p.m. time, add 12 to the hour. Therefore, 4:00 p.m. is 1600 hours, and 4:15 p.m. is 1615 hours."
     },
     {
       "question": "According to CCP 8.01, whenever a peace officer meets with resistance in executing process, he ___ command as many citizens of his county he deems proper to overcome the resistance.",
@@ -6734,6 +6734,210 @@
     "answer": "The right of one vehicle or pedestrian to proceed in a lawful manner in preference to another.",
     "reference": "SECTION 3.1 – CHAPTER 541 - DEFINITIONS",
     "explanation": "Section 541.401(8) defines right-of-way as the right of one to proceed 'in preference to another' when a potential collision exists."
+  },
+  {
+    "question": "According to section 542.001, where do the provisions of Subtitle C (including moving violations and equipment laws) generally apply?",
+    "options": [
+      "Only on interstates and state highways.",
+      "In any place the public has access, including private parking lots.",
+      "Only on highways, unless a specific provision states otherwise.",
+      "On all paved surfaces within the state."
+    ],
+    "answer": "Only on highways, unless a specific provision states otherwise.",
+    "reference": "SECTION 3.2 – CHAPTER 542 - GENERAL PROVISIONS",
+    "explanation": "Section 542.001 establishes the critical rule that 'Provisions of Subtitle C only apply to vehicles being operated on the highway unless the provision specifically applies to a different place.'"
+  },
+  {
+    "question": "In the 'Apply It' scenario, one truck backs into another in a private parking lot. Can the driver be cited for Backed Without Safety (TRC 545.415)?",
+    "options": [
+      "Yes, because an accident occurred.",
+      "Yes, because parking lots are open to the public.",
+      "No, because that moving violation only applies on a highway.",
+      "No, because the officer did not witness the violation."
+    ],
+    "answer": "No, because that moving violation only applies on a highway.",
+    "reference": "SECTION 3.2 – CHAPTER 542 - GENERAL PROVISIONS",
+    "explanation": "The text explains that because the crash occurred in a parking lot, which is not a 'publicly maintained way,' the rules of the road from Chapter 545 do not apply."
+  },
+  {
+    "question": "In the second 'Apply It' scenario, a crash occurs at a stop sign in a neighborhood where the roads are maintained by the HOA, not a public entity. Can the driver be cited for disregarding the stop sign?",
+    "options": [
+      "Yes, because it is a stop sign and the neighborhood is open to the public.",
+      "No, because the road is not 'publicly maintained' and therefore not a highway.",
+      "Only if the HOA has a specific agreement with local law enforcement.",
+      "Only if the crash resulted in injury."
+    ],
+    "answer": "No, because the road is not 'publicly maintained' and therefore not a highway.",
+    "reference": "SECTION 3.2 – CHAPTER 542 - GENERAL PROVISIONS",
+    "explanation": "The definition of 'highway' requires that it be 'publicly maintained.' Since the HOA maintains the road, it does not meet the definition, and the traffic laws in Subtitle C cannot be enforced."
+  },
+  {
+    "question": "Which of the following offenses is listed as an EXCEPTION to the 'vehicles on highways' rule, meaning it can be enforced in places like private parking lots?",
+    "options": [
+      "Speeding",
+      "Failure to Signal Lane Change",
+      "Failure to Stop and Render Aid (FSRA)",
+      "Failure to Drive in a Single Lane"
+    ],
+    "answer": "Failure to Stop and Render Aid (FSRA)",
+    "reference": "SECTION 3.2 – CHAPTER 542 - GENERAL PROVISIONS",
+    "explanation": "The text provides a list of exceptions that apply in places other than a highway. This list includes Reckless Driving, FSRA (both felony and misdemeanor), Duty Upon Striking Unattended Vehicle, and Failure to Maintain Financial Responsibility."
+  },
+  {
+    "question": "Are government-owned vehicles required to obey the rules of the road in the Transportation Code?",
+    "options": [
+      "No, they are completely exempt.",
+      "Yes, they must abide by the TRC just like other vehicles unless a specific exemption applies.",
+      "Only when their emergency lights are activated.",
+      "Only if they are operated by a non-government employee."
+    ],
+    "answer": "Yes, they must abide by the TRC just like other vehicles unless a specific exemption applies.",
+    "reference": "SECTION 3.2 – CHAPTER 542 - GENERAL PROVISIONS",
+    "explanation": "Section 542.002 states, 'Government vehicles must abide by the TRC just like other vehicles unless they have a specific exemption.'"
+  },
+  {
+    "question": "According to the text, does a person riding a horse on a roadway at night need to have specific lighting equipment on the animal?",
+    "options": [
+      "Yes, they must have a white light on the front and a red light on the rear.",
+      "Yes, they must have a slow-moving vehicle emblem.",
+      "No, the Transportation Code does not require a ridden animal to have additional equipment.",
+      "Only if they are riding in a business or residence district."
+    ],
+    "answer": "No, the Transportation Code does not require a ridden animal to have additional equipment.",
+    "reference": "SECTION 3.2 – CHAPTER 542 - GENERAL PROVISIONS",
+    "explanation": "The note for section 542.003 clarifies that while animal-drawn vehicles have equipment requirements, 'a ridden animal on the roadway is not required to have any additional equipment by the Transportation Code, even at night.'"
+  },
+  {
+    "question": "Does Subtitle C (Rules of the Road) apply to a road construction crew and their vehicles while they are actively engaged in work on the highway surface?",
+    "options": [
+      "Yes, they must obey all traffic laws at all times.",
+      "No, section 542.004 provides a broad exemption for them while engaged in work.",
+      "Only if they are driving in a lane with normal traffic flow.",
+      "Only the equipment laws in Chapter 547 apply to them."
+    ],
+    "answer": "No, section 542.004 provides a broad exemption for them while engaged in work.",
+    "reference": "SECTION 3.2 – CHAPTER 542 - GENERAL PROVISIONS",
+    "explanation": "Section 542.004 states that Subtitle C 'does not apply to a person, team, motor vehicle, or other equipment engaged in work on the highway surface' unless a provision is made specifically applicable."
+  },
+  {
+    "question": "A private business puts up its own stop signs in its parking lot. Can a police officer write a citation for disregarding these stop signs?",
+    "options": [
+      "Yes, if the parking lot is open to the public.",
+      "Yes, if the sign meets the standards in the traffic control manual.",
+      "No, law enforcement cannot enforce these private regulations.",
+      "Only if the business owner signs a complaint."
+    ],
+    "answer": "No, law enforcement cannot enforce these private regulations.",
+    "reference": "SECTION 3.2 – CHAPTER 542 - GENERAL PROVISIONS",
+    "explanation": "The note for section 542.005 clarifies this with an example: 'Law Enforcement cannot enforce such a stop sign (not on the “highway”).'"
+  },
+  {
+    "question": "Which of the following is NOT listed under section 542.202 as a power of a local authority?",
+    "options": [
+      "Regulate the speed of a vehicle in a public park.",
+      "Designate an intersection as a stop intersection.",
+      "Alter the elements of a state-level offense like DWI.",
+      "Regulate or prohibit a procession or assemblage on a highway."
+    ],
+    "answer": "Alter the elements of a state-level offense like DWI.",
+    "reference": "SECTION 3.2 – CHAPTER 542 - GENERAL PROVISIONS",
+    "explanation": "Section 542.201 states that local authorities can enact traffic ordinances but 'cannot contradict the TRC.' Altering the elements of a state law would be a contradiction."
+  },
+  {
+    "question": "What happens if a person attempts or conspires to commit an act that is an offense under Subtitle C?",
+    "options": [
+      "They are only given a warning.",
+      "They cannot be charged unless the act was completed.",
+      "They are guilty of the offense itself.",
+      "The penalty is half of the completed offense."
+    ],
+    "answer": "They are guilty of the offense itself.",
+    "reference": "SECTION 3.2 – CHAPTER 542 - GENERAL PROVISIONS",
+    "explanation": "Section 542.303, Inchoate Offenses, states, 'A person who attempts or conspires to commit an act declared to be an offense by Subtitle C is guilty of the offense.'"
+  },
+  {
+    "question": "What is the general penalty for a violation of a rule in Subtitle C if no other specific penalty is listed?",
+    "options": [
+      "A fine of exactly $100.",
+      "A fine not to exceed $500.",
+      "A Class C Misdemeanor with no fine.",
+      "A fine from $1 to $200."
+    ],
+    "answer": "A fine from $1 to $200.",
+    "reference": "SECTION 3.2 – CHAPTER 542 - GENERAL PROVISIONS",
+    "explanation": "Section 542.401 establishes the general penalty, stating it is 'a fine from $1 to $200' unless otherwise specified."
+  },
+  {
+    "question": "For a fine to be legally doubled for an offense in a construction zone, what must be stated on the face of the citation?",
+    "options": [
+      "The speed the driver was traveling.",
+      "That the zone was marked with signs.",
+      "That workers were present when the offense was committed.",
+      "The name of the construction company."
+    ],
+    "answer": "That workers were present when the offense was committed.",
+    "reference": "SECTION 3.2 – CHAPTER 542 - GENERAL PROVISIONS",
+    "explanation": "The text for section 542.404 notes, 'The notice to appear (citation) must state on its face that workers were present when the offense was committed.'"
+  },
+  {
+    "question": "According to section 542.404, the fine for which of the following offenses CANNOT be doubled if committed in a construction zone with workers present?",
+    "options": [
+      "Speeding",
+      "Failure to Signal Lane Change",
+      "Following Too Closely",
+      "Seatbelt Violation"
+    ],
+    "answer": "Seatbelt Violation",
+    "reference": "SECTION 3.2 – CHAPTER 542 - GENERAL PROVISIONS",
+    "explanation": "The text explicitly excludes several offenses from the fine-doubling provision, including '545.413 (seatbelt violations).'"
+  },
+  {
+    "question": "A driver fails to yield the right-of-way, causing a crash that results in another person suffering a broken arm (bodily injury). What is the potential fine range for this offense under section 542.4045?",
+    "options": [
+      "$1 - $200",
+      "$250 - $1,000",
+      "$500 - $2,000",
+      "$1,000 - $4,000"
+    ],
+    "answer": "$500 - $2,000",
+    "reference": "SECTION 3.2 – CHAPTER 542 - GENERAL PROVISIONS",
+    "explanation": "Section 542.4045 sets an increased fine range for right-of-way violations causing bodily injury: 'not less than $500 or more than $2,000.'"
+  },
+  {
+    "question": "A driver fails to yield right-of-way, causing a crash that results in 'serious bodily injury'. What is the potential fine range under 542.4045?",
+    "options": [
+      "$500 - $2,000",
+      "$1,000 - $4,000",
+      "$2,000 - $5,000",
+      "$4,000 - $10,000"
+    ],
+    "answer": "$1,000 - $4,000",
+    "reference": "SECTION 3.2 – CHAPTER 542 - GENERAL PROVISIONS",
+    "explanation": "For serious bodily injury, section 542.4045 specifies a fine 'of not less than $1,000 or more than $4,000.'"
+  },
+  {
+    "question": "Which of the following persons is a driver required to obey under section 542.501?",
+    "options": [
+      "A construction worker",
+      "A police officer, school crossing guard, or escort flagger",
+      "A funeral director in a procession",
+      "Any person wearing a reflective vest"
+    ],
+    "answer": "A police officer, school crossing guard, or escort flagger",
+    "reference": "SECTION 3.2 – CHAPTER 542 - GENERAL PROVISIONS",
+    "explanation": "The title and text of section 542.501 specifically list these three individuals whose lawful orders must be obeyed."
+  },
+  {
+    "question": "According to the DPS Legal Bulletin guidance cited in the text, what is the recommended use for the offense 'Failure to Obey a Lawful Order' under section 542.501?",
+    "options": [
+      "For any instance where a person does not comply with an officer's command.",
+      "It is specifically intended for the direction of traffic and should not be used for orders unrelated to traffic control.",
+      "It should only be used in emergency situations.",
+      "It can only be used if the person is also being arrested for another crime."
+    ],
+    "answer": "It is specifically intended for the direction of traffic and should not be used for orders unrelated to traffic control.",
+    "reference": "SECTION 3.2 – CHAPTER 542 - GENERAL PROVISIONS",
+    "explanation": "The text quotes a DPS Legal Bulletin which clarifies that '§ 542.501 is specifically intended to be used for the direction of traffic; reliance upon it for orders not related to traffic control is not recommended.'"
   }
   ],
   "Radio Communications": [
