@@ -4475,6 +4475,1222 @@
       "reference": "Texas Penal Code, Sec. 8.04. INTOXICATION. (a) Voluntary intoxication does not constitute a defense to the commission of a crime."
     }
   ],
+  "Transportation Code": [
+    {
+    "question": "What is the Texas Penal Code definition of 'Bodily Injury'?",
+    "options": [
+      "An injury that creates a substantial risk of death.",
+      "Physical pain, illness, or any impairment of physical condition.",
+      "Serious permanent disfigurement.",
+      "An injury requiring professional medical attention."
+    ],
+    "answer": "Physical pain, illness, or any impairment of physical condition.",
+    "reference": "SECTION 1.1 - TEXAS PENAL CODE",
+    "explanation": "The text explicitly defines 'Bodily Injury' as 'physical pain, illness, or any impairment of physical condition.'"
+  },
+  {
+    "question": "According to the example in the text, how is the offense of failing to move over for a stationary emergency vehicle enhanced if it results in 'bodily injury'?",
+    "options": [
+      "It is enhanced from a Class B Misdemeanor to a Class A Misdemeanor.",
+      "It is enhanced from a Class C Misdemeanor to a Class B Misdemeanor.",
+      "It is enhanced from a Misdemeanor to a State Jail Felony.",
+      "The fine is doubled but the class does not change."
+    ],
+    "answer": "It is enhanced from a Class C Misdemeanor to a Class B Misdemeanor.",
+    "reference": "SECTION 1.1 - TEXAS PENAL CODE",
+    "explanation": "The provided text uses this exact example, stating the offense becomes a Class B Misdemeanor if bodily injury occurs, which is an increase from the base offense of a Class C Misdemeanor."
+  },
+  {
+    "question": "Which of the following best defines 'Serious Bodily Injury' as per PC 1.07?",
+    "options": [
+      "Any physical pain or illness.",
+      "Bodily injury that creates a substantial risk of death, or causes death, serious permanent disfigurement, or protracted loss or impairment of the function of any bodily member or organ.",
+      "Any injury that results in a hospital stay of over 24 hours.",
+      "An impairment of physical condition that lasts more than one week."
+    ],
+    "answer": "Bodily injury that creates a substantial risk of death, or causes death, serious permanent disfigurement, or protracted loss or impairment of the function of any bodily member or organ.",
+    "reference": "SECTION 1.1 - TEXAS PENAL CODE",
+    "explanation": "This is the complete definition provided in the text for 'Serious Bodily Injury'."
+  },
+  {
+    "question": "According to the text, the offense of Failure to Stop and Render Aid following a crash becomes what level of offense if someone suffers 'serious bodily injury'?",
+    "options": [
+      "Third Degree Felony",
+      "State Jail Felony",
+      "Second Degree Felony",
+      "Class A Misdemeanor"
+    ],
+    "answer": "Second Degree Felony",
+    "reference": "SECTION 1.1 - TEXAS PENAL CODE",
+    "explanation": "The text provides this as a specific example of enhancement, stating that Failure to Stop and Render Aid becomes a Second Degree Felony if serious bodily injury occurs."
+  },
+  {
+    "question": "How does the Texas Penal Code define an 'Individual'?",
+    "options": [
+      "A human being who has been born and is alive.",
+      "A human being who is alive, including an unborn child at every stage of gestation from fertilization until birth.",
+      "Any person, corporation, or association.",
+      "Any human being capable of feeling pain."
+    ],
+    "answer": "A human being who is alive, including an unborn child at every stage of gestation from fertilization until birth.",
+    "reference": "SECTION 1.1 - TEXAS PENAL CODE",
+    "explanation": "This is the verbatim definition from the text, which is critical because it includes an unborn child."
+  },
+  {
+    "question": "Based on the example provided, why can an intoxicated driver be prosecuted for Intoxication Manslaughter for the death of an unborn baby?",
+    "options": [
+      "Because there is a separate statute specifically for fetal homicide.",
+      "Because the unborn child meets the legal definition of an 'individual'.",
+      "Only if the mother also dies in the crash.",
+      "Because intoxication offenses have a lower burden of proof."
+    ],
+    "answer": "Because the unborn child meets the legal definition of an 'individual'.",
+    "reference": "SECTION 1.1 - TEXAS PENAL CODE",
+    "explanation": "The text explains this is possible because the definition of 'individual' includes an unborn child, allowing conventional homicide charges like Intoxication Manslaughter to apply."
+  },
+  {
+    "question": "According to PC 1.07, which of the following best describes a 'Public Place'?",
+    "options": [
+      "Only government-owned property like streets and highways.",
+      "Any place visible from a public roadway.",
+      "Any place to which the public or a substantial group of the public has access.",
+      "Any area not considered a private residence."
+    ],
+    "answer": "Any place to which the public or a substantial group of the public has access.",
+    "reference": "SECTION 1.1 - TEXAS PENAL CODE",
+    "explanation": "This is the core definition of 'Public Place' provided in the text."
+  },
+  {
+    "question": "The text mentions several offenses that must occur in a 'public place' to be enforceable. Which of the following is listed as an example?",
+    "options": [
+      "Theft",
+      "Assault",
+      "Driving While Intoxicated",
+      "Murder"
+    ],
+    "answer": "Driving While Intoxicated",
+    "reference": "SECTION 1.1 - TEXAS PENAL CODE",
+    "explanation": "The text explicitly lists Driving While Intoxicated, DUI – Minor, and Reckless Driving as offenses that require the element of a 'public place'."
+  },
+  {
+    "question": "What is the specific definition of 'Death' as it applies to an unborn child in the Texas Penal Code?",
+    "options": [
+      "The cessation of a fetal heartbeat.",
+      "The same definition used for a person who has been born.",
+      "The failure to be born alive.",
+      "When the mother is declared deceased."
+    ],
+    "answer": "The failure to be born alive.",
+    "reference": "SECTION 1.1 - TEXAS PENAL CODE",
+    "explanation": "The text provides this precise definition to allow for accountability when an unborn child does not survive due to a criminal act."
+  },
+  {
+    "question": "What is the culpable mental state required for the offense of Manslaughter (PC 19.04)?",
+    "options": [
+      "Intentionally",
+      "Knowingly",
+      "Recklessly",
+      "With Criminal Negligence"
+    ],
+    "answer": "Recklessly",
+    "reference": "SECTION 1.1 - TEXAS PENAL CODE",
+    "explanation": "The text clearly states that the actions of the person who caused the death must meet the culpable mental state of 'recklessly' for a Manslaughter charge."
+  },
+  {
+    "question": "In the first 'Apply It' scenario regarding Manslaughter, why was the driver likely NOT guilty?",
+    "options": [
+      "Because the passenger was not wearing a seatbelt.",
+      "Because the driver was not intoxicated.",
+      "Because the driver's actions were not a 'gross deviation' from ordinary standards and he was not aware of a substantial risk.",
+      "Because the crash occurred on a wet roadway, which is considered an act of God."
+    ],
+    "answer": "Because the driver's actions were not a 'gross deviation' from ordinary standards and he was not aware of a substantial risk.",
+    "reference": "SECTION 1.1 - TEXAS PENAL CODE",
+    "explanation": "The discussion section for the scenario explains the answer is likely 'No' because the actions did not constitute a 'gross deviation' from ordinary care and the driver wasn't aware of the risk."
+  },
+  {
+    "question": "What is the culpable mental state required for the offense of Criminally Negligent Homicide (PC 19.05)?",
+    "options": [
+      "Intentionally",
+      "Knowingly",
+      "Recklessly",
+      "With Criminal Negligence"
+    ],
+    "answer": "With Criminal Negligence",
+    "reference": "SECTION 1.1 - TEXAS PENAL CODE",
+    "explanation": "The text states that for this offense, the actions must meet the culpable mental state of 'criminal negligence'."
+  },
+  {
+    "question": "In the second 'Apply It' scenario for Criminally Negligent Homicide, which combination of factors would likely elevate the driver's actions to criminal negligence?",
+    "options": [
+      "Running late for an appointment and driving in the rain.",
+      "Speeding, texting while driving, driving in the rain, and driving on tires with extremely poor tread.",
+      "Driving 10 MPH over the speed limit.",
+      "Having a passenger in the vehicle during a crash."
+    ],
+    "answer": "Speeding, texting while driving, driving in the rain, and driving on tires with extremely poor tread.",
+    "reference": "SECTION 1.1 - TEXAS PENAL CODE",
+    "explanation": "The discussion explains that the combination of all these elements (speeding, texting, rain, bad tires) posed a substantial and unjustifiable risk that the driver should have been aware of."
+  },
+  {
+    "question": "What is the primary difference between the culpable mental states for Manslaughter and Criminally Negligent Homicide?",
+    "options": [
+      "Manslaughter requires intent, while CNH requires recklessness.",
+      "Manslaughter involves being aware of a risk and disregarding it, while CNH involves a failure to perceive a risk one ought to have been aware of.",
+      "Manslaughter is a felony, while CNH is a misdemeanor.",
+      "There is no difference in the mental state, only in whether death occurred."
+    ],
+    "answer": "Manslaughter involves being aware of a risk and disregarding it, while CNH involves a failure to perceive a risk one ought to have been aware of.",
+    "reference": "SECTION 1.1 - TEXAS PENAL CODE",
+    "explanation": "The text explicitly contrasts the two: Manslaughter (Recklessly) is being aware and disregarding the risk, while CNH (with Criminal Negligence) is when one ought to be aware of the risk."
+  },
+  {
+    "question": "Which of the following are the correct elements for the offense of Intoxication Assault?",
+    "options": [
+      "Operating a motor vehicle, being intoxicated, and causing bodily injury.",
+      "Operating a motor vehicle in a public place, being intoxicated, and causing death.",
+      "Operating a motor vehicle in a public place, being intoxicated, and causing serious bodily injury.",
+      "Operating a motor vehicle, having any amount of alcohol in the system, and causing a crash."
+    ],
+    "answer": "Operating a motor vehicle in a public place, being intoxicated, and causing serious bodily injury.",
+    "reference": "SECTION 1.1 - TEXAS PENAL CODE",
+    "explanation": "The text lists these three specific elements required to file a charge of Intoxication Assault."
+  },
+  {
+    "question": "Which of the following are the correct elements for the offense of Intoxication Manslaughter?",
+    "options": [
+      "Operating a motor vehicle in a public place, being intoxicated, and causing death.",
+      "Operating a motor vehicle in a public place, being intoxicated, and causing serious bodily injury.",
+      "Operating a motor vehicle, having prior DWI convictions, and causing a fatal crash.",
+      "Operating a motor vehicle and causing death while having a BAC over 0.15."
+    ],
+    "answer": "Operating a motor vehicle in a public place, being intoxicated, and causing death.",
+    "reference": "SECTION 1.1 - TEXAS PENAL CODE",
+    "explanation": "The text lists these three specific elements required to file a charge of Intoxication Manslaughter."
+  },
+  {
+    "question": "Complete the following word association from the text: Manslaughter → Reckless → Death → ?",
+    "options": [
+      "State Jail Felony",
+      "3rd Degree Felony",
+      "2nd Degree Felony",
+      "1st Degree Felony"
+    ],
+    "answer": "2nd Degree Felony",
+    "reference": "SECTION 1.1 - TEXAS PENAL CODE",
+    "explanation": "The 'Word Association' section in the text links Manslaughter to a 2nd Degree Felony."
+  },
+  {
+    "question": "Complete the following word association from the text: Criminally Negligent Homicide → With Criminal Negligence → Death → ?",
+    "options": [
+      "State Jail Felony",
+      "3rd Degree Felony",
+      "2nd Degree Felony",
+      "Class A Misdemeanor"
+    ],
+    "answer": "State Jail Felony",
+    "reference": "SECTION 1.1 - TEXAS PENAL CODE",
+    "explanation": "The 'Word Association' section in the text links Criminally Negligent Homicide to a State Jail Felony."
+  },
+  {
+    "question": "Complete the following word association from the text: Intoxication Assault → Serious Bodily Injury Caused by Intoxication → ?",
+    "options": [
+      "State Jail Felony",
+      "3rd Degree Felony",
+      "2nd Degree Felony",
+      "1st Degree Felony"
+    ],
+    "answer": "3rd Degree Felony",
+    "reference": "SECTION 1.1 - TEXAS PENAL CODE",
+    "explanation": "The 'Word Association' section in the text links Intoxication Assault to a 3rd Degree Felony."
+  },
+  {
+    "question": "Complete the following word association from the text: Intoxication Manslaughter → Death Caused by Intoxication → ?",
+    "options": [
+      "State Jail Felony",
+      "3rd Degree Felony",
+      "2nd Degree Felony",
+      "1st Degree Felony"
+    ],
+    "answer": "2nd Degree Felony",
+    "reference": "SECTION 1.1 - TEXAS PENAL CODE",
+    "explanation": "The 'Word Association' section in the text links Intoxication Manslaughter to a 2nd Degree Felony."
+  },
+  {
+    "question": "According to section 472.021, which of the following actions constitutes the offense of Tampering with Warning Devices?",
+    "options": [
+      "Leaning on a barricade",
+      "Temporarily moving a flare pot to pass and then replacing it",
+      "Damaging, removing, or tampering with a barricade, sign, or flasher",
+      "Photographing a construction sign"
+    ],
+    "answer": "Damaging, removing, or tampering with a barricade, sign, or flasher",
+    "reference": "SECTION 1.2 – CHAPTER 472 - MISCELLANEOUS PROVISIONS",
+    "explanation": "The text states that it is an offense to 'tamper with, damage, or remove a barricade, flare pot, sign, flasher signal, or other device warning of construction, repair, or detour'."
+  },
+  {
+    "question": "What are the two conditions that must be met for a violation of Tampering with Warning Devices?",
+    "options": [
+      "The device must be new and the act must occur at night.",
+      "The device must warn of construction, repair, or detour; and it must have been placed by an official entity like the state or a contractor.",
+      "The device must be electronic and the person must have prior convictions.",
+      "The device must be on a state highway and the act must cause monetary damage."
+    ],
+    "answer": "The device must warn of construction, repair, or detour; and it must have been placed by an official entity like the state or a contractor.",
+    "reference": "SECTION 1.2 – CHAPTER 472 - MISCELLANEOUS PROVISIONS",
+    "explanation": "The 'Enforcement Notes' section lists two specific conditions: the purpose of the device (warning of construction, repair, or detour) and the entity that placed it (the state, a political subdivision, a contractor, or a public utility)."
+  },
+  {
+    "question": "What is the punishment range for the offense of Tampering with Warning Device?",
+    "options": [
+      "A fine up to $200",
+      "A fine between $25 and $1,000 and up to 2 years in county jail",
+      "Up to 180 days in county jail and a $2,000 fine",
+      "A fine only, not to exceed $500"
+    ],
+    "answer": "A fine between $25 and $1,000 and up to 2 years in county jail",
+    "reference": "SECTION 1.2 – CHAPTER 472 - MISCELLANEOUS PROVISIONS",
+    "explanation": "The text specifies that this offense is 'punishable by a fine between $25 and $1,000 and up to 2 years in county jail.'"
+  },
+  {
+    "question": "What two actions does section 472.022 make an offense?",
+    "options": [
+      "Speeding in a construction zone and making a U-turn.",
+      "Failing to use a turn signal and following too closely.",
+      "Disregarding a warning sign and driving around a barricade.",
+      "Parking on a highway shoulder and using a cell phone in a work zone."
+    ],
+    "answer": "Disregarding a warning sign and driving around a barricade.",
+    "reference": "SECTION 1.2 – CHAPTER 472 - MISCELLANEOUS PROVISIONS",
+    "explanation": "The first sentence of section 472.022 explicitly states, 'It is an offense to disregard a warning sign or drive around a barricade.'"
+  },
+  {
+    "question": "According to the legal definition in the text, what is a 'Barricade'?",
+    "options": [
+      "Any cone or barrel placed on a road.",
+      "An obstruction placed to prevent motor vehicle passage during construction, repair, or dangerous conditions.",
+      "A police vehicle with its emergency lights activated.",
+      "A sign that says 'Road Closed'."
+    ],
+    "answer": "An obstruction placed to prevent motor vehicle passage during construction, repair, or dangerous conditions.",
+    "reference": "SECTION 1.2 – CHAPTER 472 - MISCELLANEOUS PROVISIONS",
+    "explanation": "The text defines a barricade as an obstruction placed to 'prevent the passage of motor vehicles... during construction, repair, or dangerous conditions.'"
+  },
+  {
+    "question": "The legal definition of a 'Warning sign' is broad and includes signals, markings, and devices. What specific type of person does the definition also include?",
+    "options": [
+      "A construction foreman",
+      "A police officer directing traffic",
+      "A flagger",
+      "A tow truck operator"
+    ],
+    "answer": "A flagger",
+    "reference": "SECTION 1.2 – CHAPTER 472 - MISCELLANEOUS PROVISIONS",
+    "explanation": "The definition of 'Warning sign' explicitly states, 'The term includes a flagger deployed on a road, street, or highway... to direct traffic.'"
+  },
+  {
+    "question": "Under what specific circumstance can the fine for disregarding a warning sign in a construction zone be doubled?",
+    "options": [
+      "If the offense occurs at night.",
+      "If the driver is also speeding.",
+      "If the offense is committed while workers are present.",
+      "If the construction equipment is on the roadway."
+    ],
+    "answer": "If the offense is committed while workers are present.",
+    "reference": "SECTION 1.2 – CHAPTER 472 - MISCELLANEOUS PROVISIONS",
+    "explanation": "The text states, 'The fine for this offense can be doubled (to $400) if committed in a construction zone while workers are present.'"
+  },
+  {
+    "question": "How is the offense of Disregarding Warning Signs/Barricades enhanced if the barricade was placed due to water over the roadway?",
+    "options": [
+      "The fine is tripled.",
+      "It is enhanced to a Class B Misdemeanor.",
+      "It is enhanced to a State Jail Felony.",
+      "The driver's license is automatically suspended."
+    ],
+    "answer": "It is enhanced to a Class B Misdemeanor.",
+    "reference": "SECTION 1.2 – CHAPTER 472 - MISCELLANEOUS PROVISIONS",
+    "explanation": "The text clearly states, 'The offense is enhanced to a Class B Misdemeanor if the barricade has been placed due to water over the roadway.'"
+  },
+  {
+    "question": "Which of the following is one of the specific DPS Arrest Titles listed for violations of section 472.022?",
+    "options": [
+      "Speeding in Construction Zone",
+      "Failure to Obey Flagger",
+      "Disregard Warning Signs/Barricades Water Over Road",
+      "Illegal Entry into Work Zone"
+    ],
+    "answer": "Disregard Warning Signs/Barricades Water Over Road",
+    "reference": "SECTION 1.2 – CHAPTER 472 - MISCELLANEOUS PROVISIONS",
+    "explanation": "The text lists three specific DPS Arrest titles, one of which is 'Disregard Warning Signs/Barricades Water Over Road – Class B Misd.'"
+  },
+  {
+    "question": "Can a person who commits an offense under section 472.022 (Obeying Warning Signs and Barricades) receive deferred adjudication or take a defensive driving course to dismiss the charge?",
+    "options": [
+      "Yes, for a first offense only.",
+      "Yes, if no workers were present.",
+      "No, neither option is available for this offense.",
+      "Only if they have a commercial driver's license."
+    ],
+    "answer": "No, neither option is available for this offense.",
+    "reference": "SECTION 1.2 – CHAPTER 472 - MISCELLANEOUS PROVISIONS",
+    "explanation": "Section (f) explicitly states, 'Deferred adjudication and defensive driving do not apply to an offense under this section.'"
+  },
+  {
+    "question": "In the 'Apply It' scenario, if a driver travels 50 MPH past a yellow warning sign that says '40 MPH WHEN FLASHING' while the lights are flashing, what is the correct offense?",
+    "options": [
+      "Speeding Over Limit",
+      "Reckless Driving",
+      "Disregard Warning Sign",
+      "No offense, as the sign is only a suggestion."
+    ],
+    "answer": "Disregard Warning Sign",
+    "reference": "SECTION 1.2 – CHAPTER 472 - MISCELLANEOUS PROVISIONS",
+    "explanation": "The discussion explains that this sign is a warning sign, and 'Traveling above 40 MPH constitutes disregarding the warning sign.'"
+  },
+  {
+    "question": "Why would it be incorrect for an officer to charge a driver with 'Speeding Over Limit' for exceeding the speed on the yellow '40 MPH WHEN FLASHING' sign?",
+    "options": [
+      "Because the sign is yellow, not white.",
+      "Because the sign is a warning sign, not a regulatory speed limit sign.",
+      "Because the speed was only exceeded by 10 MPH.",
+      "Because the driver can only be charged with Reckless Driving."
+    ],
+    "answer": "Because the sign is a warning sign, not a regulatory speed limit sign.",
+    "reference": "SECTION 1.2 – CHAPTER 472 - MISCELLANEOUS PROVISIONS",
+    "explanation": "The 'Note' explicitly states that a motorist has not committed 'Speeding Over Limit' because the sign is not a regulatory speed limit sign."
+  },
+  {
+    "question": "Based on the text, what is the maximum fine if a driver disregards the '40 MPH WHEN FLASHING' warning sign while workers are present in the construction zone?",
+    "options": [
+      "$100",
+      "$200",
+      "$400",
+      "$1,000"
+    ],
+    "answer": "$400",
+    "reference": "SECTION 1.2 – CHAPTER 472 - MISCELLANEOUS PROVISIONS",
+    "explanation": "The text indicates the fine can be doubled if workers are present, and it gives the example of the doubled fine being $400."
+  },
+  {
+    "question": "Can a motorist be cited for 'Disregard Warning Sign' if they fail to stop for a flagger holding a Stop/Slow paddle?",
+    "options": [
+      "No, the correct charge would be Disregard Stop Sign.",
+      "No, a flagger is not a legally recognized traffic control device.",
+      "Yes, because a flagger meets the legal definition of a warning sign.",
+      "Yes, but only if the flagger is also a sworn peace officer."
+    ],
+    "answer": "Yes, because a flagger meets the legal definition of a warning sign.",
+    "reference": "SECTION 1.2 – CHAPTER 472 - MISCELLANEOUS PROVISIONS",
+    "explanation": "The discussion for this scenario clearly states, 'The motorist has committed the offense of Disregard Warning Sign because a flagger meets the definition of a warning sign in 472.022.'"
+  },
+  {
+    "question": "According to the discussion in the final 'Apply It' scenario, what offense should an officer NOT use when citing a motorist for failing to stop for a flagger?",
+    "options": [
+      "Disregard Warning Sign",
+      "Failure to Obey Lawful Order",
+      "Reckless Driving",
+      "Disregard Stop Sign"
+    ],
+    "answer": "Disregard Stop Sign",
+    "reference": "SECTION 1.2 – CHAPTER 472 - MISCELLANEOUS PROVISIONS",
+    "explanation": "The discussion explicitly instructs officers, 'Do not use Disregard Stop Sign if a motorist fails to stop for the flagger.'"
+  },
+  {
+    "question": "For vehicle registration purposes in Chapter 502, what is the definition of a 'Commercial Motor Vehicle'?",
+    "options": [
+      "Any vehicle with a gross weight over 26,001 pounds.",
+      "A motor vehicle designed or used primarily to transport property.",
+      "A vehicle used for hire to transport passengers.",
+      "Any vehicle displaying a company logo."
+    ],
+    "answer": "A motor vehicle designed or used primarily to transport property.",
+    "reference": "SECTION 1.3 – CHAPTER 502 - REGISTRATION OF VEHICLES",
+    "explanation": "The text specifies that for registration purposes under Chapter 502, a commercial motor vehicle is one 'designed or used primarily to transport property.'"
+  },
+  {
+    "question": "According to the text, a vehicle that meets the definition of a 'Power Sweeper' has what specific registration status?",
+    "options": [
+      "It receives a special 'Sweeper' license plate.",
+      "It may not be registered and can operate without a license plate.",
+      "It must be registered as a commercial motor vehicle.",
+      "It can only operate with a temporary 30-day permit."
+    ],
+    "answer": "It may not be registered and can operate without a license plate.",
+    "reference": "SECTION 1.3 – CHAPTER 502 - REGISTRATION OF VEHICLES",
+    "explanation": "The text states that TRC 502.143 specifies a power sweeper may not be registered, and therefore will operate on highways with no license plate or registration insignia."
+  },
+  {
+    "question": "Which of the following is NOT part of the legal definition of an 'Autocycle'?",
+    "options": [
+      "Designed to have not more than three wheels on the ground.",
+      "Equipped with seating that requires the operator to straddle the seat.",
+      "Equipped with seatbelts and a steering mechanism.",
+      "Manufactured and certified to comply with federal safety requirements for a motorcycle."
+    ],
+    "answer": "Equipped with seating that requires the operator to straddle the seat.",
+    "reference": "SECTION 1.3 – CHAPTER 502 - REGISTRATION OF VEHICLES",
+    "explanation": "The definition explicitly states that an autocycle is 'equipped with seating that does not require the operator to straddle or sit astride the seat.'"
+  },
+  {
+    "question": "For vehicle registration purposes, how should an autocycle be treated according to Texas law?",
+    "options": [
+      "Like a motorcycle",
+      "Like a car",
+      "Like an off-highway vehicle",
+      "As a unique vehicle class with its own registration rules"
+    ],
+    "answer": "Like a motorcycle",
+    "reference": "SECTION 1.3 – CHAPTER 502 - REGISTRATION OF VEHICLES",
+    "explanation": "The text states, 'For registration purposes, treat autocycles like motorcycles (only one plate is issued and the registration insignia is displayed on the plate).'"
+  },
+  {
+    "question": "For seatbelt usage purposes, how are autocycles treated?",
+    "options": [
+      "Like cars, requiring seatbelts to be worn.",
+      "Like motorcycles, not requiring seatbelts to be worn.",
+      "Like cars, but only for the operator, not passengers.",
+      "Seatbelt use is optional for all occupants."
+    ],
+    "answer": "Like motorcycles, not requiring seatbelts to be worn.",
+    "reference": "SECTION 1.3 – CHAPTER 502 - REGISTRATION OF VEHICLES",
+    "explanation": "The text clarifies that for seatbelt purposes, an autocycle is not included in the definition of 'passenger vehicle,' therefore seatbelts are not required to be used."
+  },
+  {
+    "question": "According to the general rule in section 502.040, how long does a person have to register a newly purchased vehicle or a vehicle brought into the state upon becoming a resident?",
+    "options": [
+      "10 days",
+      "30 days",
+      "60 days",
+      "Until the end of the current month"
+    ],
+    "answer": "30 days",
+    "reference": "SECTION 1.3 – CHAPTER 502 - REGISTRATION OF VEHICLES",
+    "explanation": "The text states, 'Upon purchasing a vehicle or becoming a resident of Texas, a person has 30 Days to register a motor vehicle, trailer, or semi-trailer.'"
+  },
+  {
+    "question": "Which of the following vehicles listed in the text CANNOT be registered for on-highway use by a private individual under most circumstances?",
+    "options": [
+      "Farm Truck",
+      "Autocycle",
+      "Off-Highway Vehicle (ATV)",
+      "Motorcycle"
+    ],
+    "answer": "Off-Highway Vehicle (ATV)",
+    "reference": "SECTION 1.3 – CHAPTER 502 - REGISTRATION OF VEHICLES",
+    "explanation": "The text includes a list of vehicles that cannot be registered, which includes 'Off-Highway Vehicles (ATVs, Recreational Off-Highway Vehicles, Utility Vehicles, and Sand Rails).'"
+  },
+  {
+    "question": "According to section 502.046, which type of vehicle is NOT required to show evidence of financial responsibility (insurance) in order to be registered?",
+    "options": [
+      "Motorcycles",
+      "Passenger cars",
+      "Trailers and semi-trailers",
+      "Commercial motor vehicles"
+    ],
+    "answer": "Trailers and semi-trailers",
+    "reference": "SECTION 1.3 – CHAPTER 502 - REGISTRATION OF VEHICLES",
+    "explanation": "The text explicitly states that showing proof of financial responsibility 'is not required for trailers and semi-trailers.'"
+  },
+  {
+    "question": "Where must a registration insignia be displayed on a standard passenger vehicle with a windshield?",
+    "options": [
+      "In the lower right corner of the windshield.",
+      "In the center of the windshield, below the rearview mirror.",
+      "In the lower left corner of the windshield.",
+      "On the rear license plate."
+    ],
+    "answer": "In the lower left corner of the windshield.",
+    "reference": "SECTION 1.3 – CHAPTER 502 - REGISTRATION OF VEHICLES",
+    "explanation": "The text specifies, 'This insignia must be displayed in the lower left corner of the windshield.'"
+  },
+  {
+    "question": "In the 'Apply It' scenario where a registration insignia is displayed on the right side of the windshield, is this a violation?",
+    "options": [
+      "No, as long as it is current and visible.",
+      "No, the location is at the driver's discretion.",
+      "Yes, the violation is Improperly Displayed Registration Insignia.",
+      "Yes, the violation is Fictitious Registration Insignia."
+    ],
+    "answer": "Yes, the violation is Improperly Displayed Registration Insignia.",
+    "reference": "SECTION 1.3 – CHAPTER 502 - REGISTRATION OF VEHICLES",
+    "explanation": "Displaying the insignia in the wrong location is a violation. The text indicates the proper DPS Arrest Title is 'Improperly Displayed Registration Insignia.'"
+  },
+  {
+    "question": "What is a requirement for a commercial vehicle operating under a 72 or 144 Hour Permit BEFORE it can operate on a highway?",
+    "options": [
+      "The driver must have a Commercial Driver License.",
+      "The vehicle must be empty of all cargo.",
+      "The vehicle must receive a state inspection.",
+      "The permit must be displayed in the front window."
+    ],
+    "answer": "The vehicle must receive a state inspection.",
+    "reference": "SECTION 1.3 – CHAPTER 502 - REGISTRATION OF VEHICLES",
+    "explanation": "Section 502.094(e) states, 'The vehicle must receive a state inspection prior to operating on a highway.'"
+  },
+  {
+    "question": "A One-Trip Permit is issued for what specific purpose?",
+    "options": [
+      "To allow a vehicle to be operated for any purpose for 24 hours.",
+      "To transport the vehicle only from one point to another.",
+      "To transport passengers on a single chartered trip.",
+      "To test drive a vehicle for up to 15 days."
+    ],
+    "answer": "To transport the vehicle only from one point to another.",
+    "reference": "SECTION 1.3 – CHAPTER 502 - REGISTRATION OF VEHICLES",
+    "explanation": "The text specifies a One-Trip Permit is 'Good for only one trip from point to point' and is 'Used to transport the vehicle only and may not be used to transport passengers or property.'"
+  },
+  {
+    "question": "Which type of temporary permit does NOT require the vehicle to have a state inspection?",
+    "options": [
+      "30 Day Permit",
+      "72 Hour Permit",
+      "144 Hour Permit",
+      "One-Trip Permit"
+    ],
+    "answer": "One-Trip Permit",
+    "reference": "SECTION 1.3 – CHAPTER 502 - REGISTRATION OF VEHICLES",
+    "explanation": "The text explicitly states, 'A one trip permit does not require a vehicle inspection (reference 548.052).'"
+  },
+  {
+    "question": "A 30 Day Permit has a weight restriction. What is that restriction?",
+    "options": [
+      "The vehicle's gross weight cannot exceed 10,000 pounds unless it is operated unladen.",
+      "The vehicle's gross weight cannot exceed 26,001 pounds under any circumstances.",
+      "The permit is only for vehicles under 8,000 pounds.",
+      "There is no weight restriction for a 30 Day Permit."
+    ],
+    "answer": "The vehicle's gross weight cannot exceed 10,000 pounds unless it is operated unladen.",
+    "reference": "SECTION 1.3 – CHAPTER 502 - REGISTRATION OF VEHICLES",
+    "explanation": "Section 502.095(d) states that a 30 Day Permit can only be issued to vehicles with a gross weight of not more than 10,000 pounds unless the vehicle is operated unladen (empty)."
+  },
+  {
+    "question": "Under section 502.144, when is a person allowed to operate an unregistered vehicle to cross a public highway?",
+    "options": [
+      "When going to the nearest gas station.",
+      "At any time, as long as the crossing is brief.",
+      "When the person owns the property on both sides of the road being crossed.",
+      "When the vehicle is a farm tractor."
+    ],
+    "answer": "When the person owns the property on both sides of the road being crossed.",
+    "reference": "SECTION 1.3 – CHAPTER 502 - REGISTRATION OF VEHICLES",
+    "explanation": "This section allows a property owner to cross the road in an unregistered vehicle specifically when that person owns the property on both sides of the road."
+  },
+  {
+    "question": "A farm trailer with a gross weight of 3,800 pounds is being used to haul farm equipment to the farm. Is a license plate or registration required?",
+    "options": [
+      "Yes, all trailers require registration.",
+      "Yes, it requires a Farm Trailer license plate but not full registration.",
+      "No, because its gross weight is 4,000 pounds or less.",
+      "No, as long as it has a slow-moving vehicle emblem."
+    ],
+    "answer": "No, because its gross weight is 4,000 pounds or less.",
+    "reference": "SECTION 1.3 – CHAPTER 502 - REGISTRATION OF VEHICLES",
+    "explanation": "The text states, 'Farm Trailers with a gross weight of 4,000 pounds or less – no license plate or registration required.'"
+  },
+  {
+    "question": "A farm trailer with a gross weight of 20,000 pounds is being used for agricultural purposes. What is its registration requirement?",
+    "options": [
+      "It requires a Farm Trailer license plate, but not full registration.",
+      "It requires normal trailer registration.",
+      "It requires no license plate or registration.",
+      "It requires a 'Machinery' distinguishing license plate."
+    ],
+    "answer": "It requires a Farm Trailer license plate, but not full registration.",
+    "reference": "SECTION 1.3 – CHAPTER 502 - REGISTRATION OF VEHICLES",
+    "explanation": "According to the text, trailers with a gross weight of 'more than 4,000 pounds but not more than 34,000 pounds – a Farm Trailer license plate is required, but full registration is not required.'"
+  },
+  {
+    "question": "Based on the 'Apply It' scenario for Farm Trailers, which activity would constitute a 'Farm Trailer License Violation'?",
+    "options": [
+      "Hauling corn to a processing plant.",
+      "A professional rodeo cowboy hauling rodeo gear.",
+      "Hauling lumber for building a new barn on the farm.",
+      "Hauling furniture because the farmer is moving to a new house."
+    ],
+    "answer": "Hauling furniture because the farmer is moving to a new house.",
+    "reference": "SECTION 1.3 – CHAPTER 502 - REGISTRATION OF VEHICLES",
+    "explanation": "Using the trailer to move personal household furniture is not an agricultural use, nor is it related to equine activities or livestock shows. The other options are listed as permissible uses for farm-plated vehicles."
+  },
+  {
+    "question": "According to section 502.407, when does the offense of 'Operation of Vehicle with Expired License Plate' legally begin?",
+    "options": [
+      "The instant the registration expires.",
+      "On the first calendar day after expiration.",
+      "After the 5th business day following the expiration date.",
+      "On the first day of the following month."
+    ],
+    "answer": "After the 5th business day following the expiration date.",
+    "reference": "SECTION 1.3 – CHAPTER 502 - REGISTRATION OF VEHICLES",
+    "explanation": "The text is very specific: 'This offense does not take place until AFTER the 5th business day after the registration insignia expires.'"
+  },
+  {
+    "question": "What is the primary restriction for a vehicle displaying 'Farm Truck' license plates?",
+    "options": [
+      "It cannot be driven at night.",
+      "It cannot be used for gainful employment outside of farming or ranching.",
+      "It cannot be driven more than 150 miles from the farm.",
+      "It cannot carry more than two passengers."
+    ],
+    "answer": "It cannot be used for gainful employment outside of farming or ranching.",
+    "reference": "SECTION 1.3 – CHAPTER 502 - REGISTRATION OF VEHICLES",
+    "explanation": "The text states, 'The primary restriction is that Farm Truck license plates cannot be used for gainful employment outside of farming or ranching.'"
+  },
+  {
+    "question": "Based on the 'Apply It' scenario for Farm Trucks, which of the following would be a 'Farm Truck License Violation'?",
+    "options": [
+      "The operator is on his way to church.",
+      "The operator is taking his child to the doctor.",
+      "The farmer is hauling yard equipment for his commercial mowing side job.",
+      "The truck is loaded with rodeo gear for a professional rodeo."
+    ],
+    "answer": "The farmer is hauling yard equipment for his commercial mowing side job.",
+    "reference": "SECTION 1.3 – CHAPTER 502 - REGISTRATION OF VEHICLES",
+    "explanation": "Using the truck for a side job (gainful employment outside of farming) is a violation. The other activities listed are permissible uses for a vehicle with farm truck plates."
+  },
+  {
+    "question": "A person attaches a registration insignia from their old car onto their new car. Which offense under 502.475 has been committed?",
+    "options": [
+      "Displaying a fictitious insignia.",
+      "Displaying an insignia assigned to a different motor vehicle.",
+      "Displaying an obscured insignia.",
+      "No offense, as long as the insignia is not expired."
+    ],
+    "answer": "Displaying an insignia assigned to a different motor vehicle.",
+    "reference": "SECTION 1.3 – CHAPTER 502 - REGISTRATION OF VEHICLES",
+    "explanation": "Section 502.475(1) makes it an offense to display on a motor vehicle a registration insignia that 'is assigned to a different motor vehicle.' This is a Class C Misdemeanor."
+  },
+  {
+    "question": "What is the penalty if a person knowingly alters or makes a registration insignia illegible?",
+    "options": [
+      "A written warning only",
+      "Class C Misdemeanor",
+      "Class B Misdemeanor",
+      "State Jail Felony"
+    ],
+    "answer": "Class B Misdemeanor",
+    "reference": "SECTION 1.3 – CHAPTER 502 - REGISTRATION OF VEHICLES",
+    "explanation": "The text specifies that if a person 'knowingly made illegible the letters, numbers, and other identification marks on the registration insignia,' the offense is a Class B Misdemeanor."
+  },
+  {
+    "question": "A person buys a vehicle from a private individual. The seller removes the license plates. What can the new owner obtain to legally drive the vehicle?",
+    "options": [
+      "A 30 Day Permit",
+      "A 72 Hour Permit",
+      "A Temporary Transit Permit, valid for 5 days.",
+      "A handwritten 'Tag Applied For' sign."
+    ],
+    "answer": "A Temporary Transit Permit, valid for 5 days.",
+    "reference": "SECTION 1.3 – CHAPTER 502 - REGISTRATION OF VEHICLES",
+    "explanation": "Section 502.492 allows a new owner to apply for a temporary transit permit that is valid for 5 days in this situation."
+  },
+  {
+    "question": "Which of the following is a key restriction on the use of a metal dealer license plate under section 503.061?",
+    "options": [
+      "The vehicle cannot be used for personal trips.",
+      "The vehicle must be a type that the dealer is licensed to sell.",
+      "The vehicle cannot be driven outside of the county where the dealership is located.",
+      "The vehicle cannot be driven at night."
+    ],
+    "answer": "The vehicle must be a type that the dealer is licensed to sell.",
+    "reference": "SECTION 1.4 – CHAPTER 503 - DEALER’S AND MANUFACTURER’S VEHICLE LICENSE PLATES",
+    "explanation": "The text lists several restrictions, including one from 503.061 which states, 'The vehicle must be of a type the dealer is licensed to sell.'"
+  },
+  {
+    "question": "A dealership owner is on a personal vacation road trip using a vehicle from their lot with a metal dealer license plate. Is this a violation?",
+    "options": [
+      "Yes, because personal use is not allowed.",
+      "Yes, because dealer plates can only be used for test drives.",
+      "No, this is a permissible use as long as other requirements like having a valid inspection are met.",
+      "No, as long as the trip does not cross state lines."
+    ],
+    "answer": "No, this is a permissible use as long as other requirements like having a valid inspection are met.",
+    "reference": "SECTION 1.4 – CHAPTER 503 - DEALER’S AND MANUFACTURER’S VEHICLE LICENSE PLATES",
+    "explanation": "The text's reminder and the 'Apply It' scenario confirm that vehicles displaying metal dealer license plates may be used for personal use."
+  },
+  {
+    "question": "Which of the following is NOT a permissible use for a dealer's temporary tag according to section 503.062?",
+    "options": [
+      "Vehicle demonstration to a prospective buyer.",
+      "Personal use by the dealership owner for a weekend trip.",
+      "A loaner vehicle for a customer whose car is being repaired.",
+      "Transit of the vehicle from the dealership to an auction."
+    ],
+    "answer": "Personal use by the dealership owner for a weekend trip.",
+    "reference": "SECTION 1.4 – CHAPTER 503 - DEALER’S AND MANUFACTURER’S VEHICLE LICENSE PLATES",
+    "explanation": "The text explicitly states that dealer temporary tags have very limited uses and, under section 503.068(a), 'may not be used for personal use.' This is a major difference from metal dealer plates."
+  },
+  {
+    "question": "What is the state inspection requirement for a vehicle displaying a dealer's temporary tag?",
+    "options": [
+      "The vehicle must have a valid inspection.",
+      "A state inspection is not required.",
+      "An inspection is only required if the vehicle is used as a loaner.",
+      "An inspection is only required if the vehicle is demonstrated to a buyer."
+    ],
+    "answer": "A state inspection is not required.",
+    "reference": "SECTION 1.4 – CHAPTER 503 - DEALER’S AND MANUFACTURER’S VEHICLE LICENSE PLATES",
+    "explanation": "The text clearly states, 'A state inspection is not required for vehicles displaying dealer temporary tags.'"
+  },
+  {
+    "question": "In the 'Apply It' scenario, a dealership loans a car with a dealer temporary tag to a customer whose vehicle is being serviced. Is the customer committing a violation?",
+    "options": [
+      "Yes, because temporary tags are for dealer use only.",
+      "Yes, because the customer is using it for personal transportation.",
+      "No, because providing a loaner vehicle during repairs is a specifically authorized use.",
+      "No, as long as the customer does not drive more than 50 miles."
+    ],
+    "answer": "No, because providing a loaner vehicle during repairs is a specifically authorized use.",
+    "reference": "SECTION 1.4 – CHAPTER 503 - DEALER’S AND MANUFACTURER’S VEHICLE LICENSE PLATES",
+    "explanation": "Section 503.062 lists 'Loaner vehicle to customer while customer’s vehicle is being repaired' as one of the few authorized uses for a dealer temporary tag."
+  },
+  {
+    "question": "According to section 503.063, what is the maximum validity period for a buyer's temporary tag issued by a dealer?",
+    "options": [
+      "30 days",
+      "45 days",
+      "60 days",
+      "90 days"
+    ],
+    "answer": "60 days",
+    "reference": "SECTION 1.4 – CHAPTER 503 - DEALER’S AND MANUFACTURER’S VEHICLE LICENSE PLATES",
+    "explanation": "The text states, 'Only one buyer's tag can be issued for a period of time no longer than 60 days.'"
+  },
+  {
+    "question": "What did the case law in *Pabst v. State* establish regarding the display of a buyer's temporary tag?",
+    "options": [
+      "That flapping in the wind is strictly prohibited.",
+      "That only the dealer is responsible for proper display.",
+      "That the driver is also responsible for proper display after leaving the dealership.",
+      "That a buyer's tag can be displayed in the front window."
+    ],
+    "answer": "That the driver is also responsible for proper display after leaving the dealership.",
+    "reference": "SECTION 1.4 – CHAPTER 503 - DEALER’S AND MANUFACTURER’S VEHICLE LICENSE PLATES",
+    "explanation": "The text cites *Pabst v. State* to show that the Court of Appeals ruled the requirement to properly display the tag 'also applies to the driver once the vehicle leaves the dealership.'"
+  },
+  {
+    "question": "What is the state inspection requirement for a vehicle operating with a buyer's temporary tag?",
+    "options": [
+      "A valid state inspection is required.",
+      "A state inspection is not required.",
+      "An inspection is required within 7 days of purchase.",
+      "An inspection is only required if the vehicle is more than two years old."
+    ],
+    "answer": "A valid state inspection is required.",
+    "reference": "SECTION 1.4 – CHAPTER 503 - DEALER’S AND MANUFACTURER’S VEHICLE LICENSE PLATES",
+    "explanation": "The text lists under 'Other requirements for Buyer’s Temporary Tags' that a 'Valid state inspection is required.'"
+  },
+  {
+    "question": "What is a key limitation on the use of metal dealer license plates according to section 503.068?",
+    "options": [
+      "They may not be used on Sundays.",
+      "They may not be used on a service or work vehicle.",
+      "They may not be used on vehicles with more than two axles.",
+      "They may not be used for trips longer than 100 miles."
+    ],
+    "answer": "They may not be used on a service or work vehicle.",
+    "reference": "SECTION 1.4 – CHAPTER 503 - DEALER’S AND MANUFACTURER’S VEHICLE LICENSE PLATES",
+    "explanation": "Section 503.068 specifies that a metal dealer plate 'may not be used on a service or work vehicle and may not be used on a commercial vehicle that is carrying a load.'"
+  },
+  {
+    "question": "According to section 503.070, what must a dealer do with an out-of-state license plate on a vehicle they purchase?",
+    "options": [
+      "Return it to the state of issuance within 30 days.",
+      "Keep it on the vehicle until it is sold to a new buyer.",
+      "Remove the plate within a reasonable time and not operate the vehicle with it displayed.",
+      "Surrender it to the Texas DMV."
+    ],
+    "answer": "Remove the plate within a reasonable time and not operate the vehicle with it displayed.",
+    "reference": "SECTION 1.4 – CHAPTER 503 - DEALER’S AND MANUFACTURER’S VEHICLE LICENSE PLATES",
+    "explanation": "The text states the dealer must 'remove the plate within a reasonable time and may not operate the vehicle on a public street or highway in this state while the vehicle displays an out-of-state license plate.'"
+  },
+  {
+    "question": "Under section 503.094, what is the penalty for a person who produces or reproduces a temporary tag to distribute to someone other than an authorized dealer or converter?",
+    "options": [
+      "Class C Misdemeanor",
+      "Class A Misdemeanor",
+      "State Jail Felony",
+      "3rd Degree Felony"
+    ],
+    "answer": "State Jail Felony",
+    "reference": "SECTION 1.4 – CHAPTER 503 - DEALER’S AND MANUFACTURER’S VEHICLE LICENSE PLATES",
+    "explanation": "Section 503.094(a) defines this specific offense as a State Jail Felony."
+  },
+  {
+    "question": "What is the penalty for a person who operates a vehicle that displays an unauthorized temporary tag?",
+    "options": [
+      "A written warning for the first offense.",
+      "Class C Misdemeanor",
+      "Class B Misdemeanor",
+      "Class A Misdemeanor"
+    ],
+    "answer": "Class C Misdemeanor",
+    "reference": "SECTION 1.4 – CHAPTER 503 - DEALER’S AND MANUFACTURER’S VEHICLE LICENSE PLATES",
+    "explanation": "Section 503.094(b) defines this specific offense as a Class C Misdemeanor."
+  },
+  {
+    "question": "In the final 'Apply It' scenario, the operator bought a tag on Facebook Marketplace from a dealership owner. What offense(s) has the operator committed?",
+    "options": [
+      "Only Unauthorized Purchase of a Temporary Tag.",
+      "Only Operating a Vehicle with an Unauthorized Tag.",
+      "Both Operating with an Unauthorized Tag and Unauthorized Purchase of a Tag.",
+      "Unauthorized Sale/Distribution of a Temporary Tag."
+    ],
+    "answer": "Both Operating with an Unauthorized Tag and Unauthorized Purchase of a Tag.",
+    "reference": "SECTION 1.4 – CHAPTER 503 - DEALER’S AND MANUFACTURER’S VEHICLE LICENSE PLATES",
+    "explanation": "The operator committed two offenses: 1) Operating a vehicle displaying an unauthorized temporary tag (503.094(b)), and 2) being a person other than a dealer who purchased a temporary tag (503.094(c)). Both are Class C Misdemeanors."
+  },
+  {
+    "question": "Which of the following is NOT a qualification or limitation for a vehicle to have 'Antique Auto' license plates?",
+    "options": [
+      "The vehicle is at least 25 years old.",
+      "The vehicle does not carry advertising.",
+      "The vehicle can be used for regular transportation to and from work.",
+      "The vehicle is used exclusively for exhibitions, parades, and other functions of public interest."
+    ],
+    "answer": "The vehicle can be used for regular transportation to and from work.",
+    "reference": "SECTION 1.5 – CHAPTER 504 - LICENSE PLATES",
+    "explanation": "The text explicitly states that a vehicle with antique plates 'is not used for regular transportation.'"
+  },
+  {
+    "question": "A person is driving their vehicle with antique plates to a mechanic for repairs. According to the text, is this a violation?",
+    "options": [
+      "Yes, this is considered regular transportation.",
+      "Yes, unless the mechanic is part of a car club.",
+      "No, because there is a specific defense to prosecution if the vehicle is being driven to or from a location for maintenance.",
+      "No, as long as the trip is less than 10 miles."
+    ],
+    "answer": "No, because there is a specific defense to prosecution if the vehicle is being driven to or from a location for maintenance.",
+    "reference": "SECTION 1.5 – CHAPTER 504 - LICENSE PLATES",
+    "explanation": "The text notes, 'There is a defense to prosecution if the vehicle is being driven to/from a location for maintenance purposes.'"
+  },
+  {
+    "question": "Which of the following vehicle types are exempt from both annual inspection and insurance requirements according to the text?",
+    "options": [
+      "Vehicles with 'Classic' license plates.",
+      "Vehicles with 'Antique' license plates.",
+      "Vehicles with 'Street Rod' license plates.",
+      "All vehicles over 25 years old."
+    ],
+    "answer": "Vehicles with 'Antique' license plates.",
+    "reference": "SECTION 1.5 – CHAPTER 504 - LICENSE PLATES",
+    "explanation": "The text references 601.052 and 548.052 to show that vehicles with 'Antique' license plates are exempt from insurance and do not require an annual inspection."
+  },
+  {
+    "question": "According to section 504.943, which is a display requirement for a vehicle issued TWO license plates?",
+    "options": [
+      "One plate on the front and one in the rear window.",
+      "The plates must be displayed in an upright horizontal position.",
+      "The plates must be at least 18 inches from the ground.",
+      "The front plate is optional if the vehicle was not manufactured with a front bracket."
+    ],
+    "answer": "The plates must be displayed in an upright horizontal position.",
+    "reference": "SECTION 1.5 – CHAPTER 504 - LICENSE PLATES",
+    "explanation": "The text lists several requirements for vehicles with two plates, including that they must be displayed 'In an upright horizontal position.'"
+  },
+  {
+    "question": "A trailer's license plate is mounted vertically on the fender. Is this a violation according to the text?",
+    "options": [
+      "Yes, because all license plates must be horizontal.",
+      "Yes, because the plate must be on the rear of the trailer, not the fender.",
+      "No, because there is no horizontal requirement for single-plate vehicles like trailers.",
+      "No, as long as the plate is illuminated at night."
+    ],
+    "answer": "No, because there is no horizontal requirement for single-plate vehicles like trailers.",
+    "reference": "SECTION 1.5 – CHAPTER 504 - LICENSE PLATES",
+    "explanation": "The text specifically notes for vehicles issued one plate (like a trailer), 'There is no requirement for the plate to be displayed in an upright horizontal position' and it only needs to be 'as close as practical' to the rear."
+  },
+  {
+    "question": "In the 'Apply It' scenario, the bottom of a boat trailer's license plate is 11 inches from the roadway. Is this a violation?",
+    "options": [
+      "No, because the 12-inch rule does not apply to trailers.",
+      "No, because the measurement is taken from the top of the plate.",
+      "Yes, because the plate must be not less than 12 inches from the ground, measuring from the bottom.",
+      "Yes, but only if the trailer is carrying a boat."
+    ],
+    "answer": "Yes, because the plate must be not less than 12 inches from the ground, measuring from the bottom.",
+    "reference": "SECTION 1.5 – CHAPTER 504 - LICENSE PLATES",
+    "explanation": "The display rules for both one-plate and two-plate vehicles require the plate to be 'Not less than 12” from the ground measuring from the bottom of the plates.'"
+  },
+  {
+    "question": "A person is driving a car that displays a license plate that was issued for their other vehicle. What is the most appropriate offense?",
+    "options": [
+      "Operate Vehicle without License Plates (504.943)",
+      "Display Wrong License Plate (504.945)",
+      "Display Fictitious License Plate (504.945)",
+      "No offense if the registration is current on both vehicles."
+    ],
+    "answer": "Display Wrong License Plate (504.945)",
+    "reference": "SECTION 1.5 – CHAPTER 504 - LICENSE PLATES",
+    "explanation": "The text specifies under section 504.945(a)(1) that 'Display Wrong License Plate' applies when 'a vehicle displays a license plate issued for a different motor vehicle.'"
+  },
+  {
+    "question": "What is the penalty for displaying a fictitious license plate?",
+    "options": [
+      "A written warning",
+      "Class C Misdemeanor",
+      "Class B Misdemeanor",
+      "State Jail Felony"
+    ],
+    "answer": "Class B Misdemeanor",
+    "reference": "SECTION 1.5 – CHAPTER 504 - LICENSE PLATES",
+    "explanation": "The text states that a violation of 504.945(a)(4), displaying a fictitious license plate, 'is a Class B Misdemeanor.'"
+  },
+  {
+    "question": "A license plate is covered in mud, making it unreadable. According to the note in the text, what is the most appropriate charge?",
+    "options": [
+      "Obscured License Plate (504.945)",
+      "Improperly Placed/Illegible/Unreadable License Plate (504.943)",
+      "Fictitious License Plate (504.945)",
+      "Altered License Plate (504.945)"
+    ],
+    "answer": "Improperly Placed/Illegible/Unreadable License Plate (504.943)",
+    "reference": "SECTION 1.5 – CHAPTER 504 - LICENSE PLATES",
+    "explanation": "The note explicitly states that the 'Obscured License Plate' charge should not be used for dirt or mutilation, and that a 'better fit for that situation is Improperly Placed/Illegible/Unreadable License Plate under 504.943.'"
+  },
+  {
+    "question": "When does an illuminated device, sticker, or emblem on a license plate become a violation under 504.945(a)(6)?",
+    "options": [
+      "As soon as any unauthorized item is attached.",
+      "Only if the item is blue or red.",
+      "Only if the item interferes with the readability of the license plate number or state name.",
+      "Only if the item is an electronic device."
+    ],
+    "answer": "Only if the item interferes with the readability of the license plate number or state name.",
+    "reference": "SECTION 1.5 – CHAPTER 504 - LICENSE PLATES",
+    "explanation": "The note for this section clarifies that the item 'is not a violation unless it interferes with the readability of the license plate number or state name.'"
+  },
+  {
+    "question": "Based on the case law cited, can a license plate bracket be considered a violation for obscuring a license plate?",
+    "options": [
+      "No, license plate brackets are always legal.",
+      "No, only plastic covers are illegal.",
+      "Yes, if the bracket obscures the plate in a manner described by the law, such as covering the state name.",
+      "Yes, all license plate brackets are illegal in Texas."
+    ],
+    "answer": "Yes, if the bracket obscures the plate in a manner described by the law, such as covering the state name.",
+    "reference": "SECTION 1.5 – CHAPTER 504 - LICENSE PLATES",
+    "explanation": "The text states that 'Numerous courts have held that this section can be applied to a license plate bracket as long as the bracket obscures the license plate in the manner described.'"
+  },
+  {
+    "question": "Which of the following items obstructing a license plate is listed as a specific exception, meaning it is NOT a violation?",
+    "options": [
+      "A decorative cover.",
+      "A tinted plastic shield.",
+      "A bicycle or motorcycle rack attached in a normal or customary manner.",
+      "A political bumper sticker."
+    ],
+    "answer": "A bicycle or motorcycle rack attached in a normal or customary manner.",
+    "reference": "SECTION 1.5 – CHAPTER 504 - LICENSE PLATES",
+    "explanation": "Section 504.945(c) lists several exceptions, including 'a bicycle or motorcycle rack that is attached to a vehicle in a normal or customary manner.'"
+  },
+  {
+    "question": "What is the key difference between a 'Fictitious License Plate' and a 'Deceptively Similar License Plate'?",
+    "options": [
+      "There is no difference; the terms are interchangeable.",
+      "A fictitious plate returns to a different vehicle or has no return, while a deceptively similar plate looks real but was not issued by the DMV.",
+      "A fictitious plate is made of cardboard, while a deceptively similar plate is made of metal.",
+      "A fictitious plate is a Class B Misdemeanor, while a deceptively similar plate is always a felony."
+    ],
+    "answer": "A fictitious plate returns to a different vehicle or has no return, while a deceptively similar plate looks real but was not issued by the DMV.",
+    "reference": "SECTION 1.5 – CHAPTER 504 - LICENSE PLATES",
+    "explanation": "The text distinguishes between the two, noting that for a fictitious plate the 'registration return comes back with no return or registered to a different vehicle,' whereas a deceptively similar plate is one a 'reasonable person would presume was issued by DMV' but was not."
+  },
+  {
+    "question": "In the 'Apply It' scenario where a vehicle has a normal rear plate but a European-style front plate, and the registration return shows 'LP PLATES-GENERAL ISSUE', is a violation being committed?",
+    "options": [
+      "No, because the rear plate is correct.",
+      "No, because European-style front plates are permitted for decoration.",
+      "Yes, because the vehicle was issued two plates, and the front one is wrong/fictitious.",
+      "Yes, because the vehicle has a 'Deceptively Similar' front plate."
+    ],
+    "answer": "Yes, because the vehicle was issued two plates, and the front one is wrong/fictitious.",
+    "reference": "SECTION 1.5 – CHAPTER 504 - LICENSE PLATES",
+    "explanation": "The registration return 'LP PLATES-GENERAL ISSUE' indicates two plates were issued. Since the front plate was not issued by the DMV, the driver is committing an offense for failing to display the correct front plate and/or displaying a wrong/fictitious plate."
+  },
+  {
+    "question": "What culpable mental state is required to commit the offense related to possessing or purchasing a 'license plate flipper'?",
+    "options": [
+      "Intentionally or Knowingly",
+      "Recklessly",
+      "With criminal negligence",
+      "Strict liability; no mental state is required."
+    ],
+    "answer": "With criminal negligence",
+    "reference": "SECTION 1.5 – CHAPTER 504 - LICENSE PLATES",
+    "explanation": "Section 504.9465 explicitly notes that the violation must be committed with 'criminal negligence.'"
+  },
+  {
+    "question": "What is the penalty for selling or distributing a license plate flipper?",
+    "options": [
+      "Class C Misdemeanor",
+      "Class B Misdemeanor",
+      "Class A Misdemeanor",
+      "State Jail Felony"
+    ],
+    "answer": "Class A Misdemeanor",
+    "reference": "SECTION 1.5 – CHAPTER 504 - LICENSE PLATES",
+    "explanation": "The text specifies that 'Selling or distributing a license plate flipper is a Class A Misdemeanor.'"
+  },
+  {
+    "question": "A person who drives around a barricade that has been placed because water is over the roadway commits a Class B Misdemeanor.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "reference": "TRC 472.022",
+    "explanation": "According to the text for section 472.022, 'The offense is enhanced to a Class B Misdemeanor if the barricade has been placed due to water over the roadway.'"
+  },
+  {
+    "question": "How many days does a new state resident have to register their vehicles in Texas?",
+    "options": [
+      "10 Days",
+      "30 Days",
+      "60 Days",
+      "90 Days"
+    ],
+    "answer": "30 Days",
+    "reference": "TRC 502.040",
+    "explanation": "According to the text for section 502.040, 'Upon purchasing a vehicle or becoming a resident of Texas, a person has 30 Days to register a motor vehicle.'"
+  },
+  {
+    "question": "DMV may register an off-highway vehicle owned by the state, a county, or a municipality, however a private individual is not permitted to register an off-highway vehicle.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "reference": "TRC 502.140",
+    "explanation": "The text for section 502.140 states, 'The state, county, or a municipality can register an off-highway vehicle for use on a public highway,' but 'An individual cannot register an off-highway vehicle for operation on a public highway.'"
+  },
+  {
+    "question": "A farm trailer with a gross weight of less than 4,000 pounds is not required to display a license plate.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "reference": "TRC 502.146",
+    "explanation": "The text for section 502.146 explicitly states, 'Farm Trailers with a gross weight of 4,000 pounds or less – no license plate or registration required.'"
+  },
+  {
+    "question": "A professional rodeo cowboy operating a pick-up and trailer bearing farm license plates on his way to the rodeo commits a violation because he is engaged in gainful employment.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False",
+    "reference": "TRC 502.146 & 502.433",
+    "explanation": "This is false. The text notes that participating in equine activities, including rodeo participation even with compensation, is a permissible use for both Farm Trailers and Farm Trucks."
+  },
+  {
+    "question": "An expired registration certificate does not become a violation of the law until after how long?",
+    "options": [
+      "The end of the expiration day",
+      "The 5th calendar day",
+      "The 5th business day",
+      "The 1st of the next month"
+    ],
+    "answer": "The 5th business day",
+    "reference": "TRC 502.407",
+    "explanation": "According to the text for section 502.407, 'This offense does not take place until AFTER the 5th business day after the registration insignia expires.'"
+  },
+  {
+    "question": "Where is a metal dealer license plate required to be displayed?",
+    "options": [
+      "In the front license plate area",
+      "In the rear license plate area",
+      "In the rear windshield",
+      "Anywhere as long as it is visible"
+    ],
+    "answer": "In the rear license plate area",
+    "reference": "TRC 503.061",
+    "explanation": "The text notes that per DMV Administrative Code rule 215.138, a metal dealer plate 'shall be attached to the rear license plate holder of a vehicle.'"
+  },
+  {
+    "question": "A dealer temporary tag may be used when a vehicle is being road tested by a prospective buyer.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "reference": "TRC 503.062",
+    "explanation": "According to the text for section 503.062, one of the limited, permissible uses for a dealer temporary tag is to 'Road test the vehicle.'"
+  },
+  {
+    "question": "A dealer temporary tag may be used when a dealer is loaning a vehicle to a person while the person’s own vehicle is being repaired.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "reference": "TRC 503.062",
+    "explanation": "According to the text for section 503.062, one of the authorized uses for a dealer temporary tag is as a 'Loaner vehicle to customer while customer’s vehicle is being repaired.'"
+  },
+  {
+    "question": "A buyer’s temporary tag is valid for a maximum of how many days?",
+    "options": [
+      "30 days",
+      "60 days",
+      "90 days",
+      "5 days"
+    ],
+    "answer": "60 days",
+    "reference": "TRC 503.063",
+    "explanation": "The text for section 503.063 states, 'Only one buyer's tag can be issued for a period of time no longer than 60 days.'"
+  },
+  {
+    "question": "A dealership may issue a second buyer’s temporary tag for a vehicle if the first tag expires before regular license plates are issued for a vehicle.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False",
+    "reference": "TRC 503.063",
+    "explanation": "The text for section 503.063 clearly states, 'Only one buyer's tag can be issued for a period of time,' and that the operator 'is committing a violation' if a second tag is issued."
+  },
+  {
+    "question": "Texas license plates may be displayed in the front windshield as long as they are visible and readable from the front of the vehicle.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False",
+    "reference": "TRC 504.943",
+    "explanation": "The text for section 504.943 specifies that a vehicle issued two plates must display them 'One at the exterior front and one at the exterior rear,' not in the windshield."
+  },
+  {
+    "question": "A trailer may display its license plate vertically as long as it is visible from the rear of the vehicle.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "reference": "TRC 504.943",
+    "explanation": "The text includes a specific note for single-plate vehicles like trailers: 'There is no requirement for the plate to be displayed in an upright horizontal position for these vehicles.'"
+  },
+  {
+    "question": "A person may buy license plates from a non-DMV vendor as long as the license plates display the correct state name and license plate number.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False",
+    "reference": "TRC 504.945 & 504.946",
+    "explanation": "This is false. A license plate not issued by the DMV is considered either fictitious or deceptively similar, and displaying it is an offense. All license plates must be issued by the department."
+  },
+  {
+    "question": "A person may display a deceptively similar license plate on the front of their vehicle as long as the DMV issued plate is properly displayed on the rear.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False",
+    "reference": "TRC 504.943 & 504.946",
+    "explanation": "This is false. If a vehicle is required to have two license plates, both must be the ones issued by the DMV. Displaying a non-issued plate on the front is a violation for failing to display the proper plate."
+  }
+  ],
   "Radio Communications": [
     {
       "question": "What is the primary goal of the Radio Communications unit as stated in the presentation?",
