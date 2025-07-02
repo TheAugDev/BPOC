@@ -6400,6 +6400,340 @@
     "answer": "All of the Above are exempt from CDL requirements",
     "reference": "TRC 522.004",
     "explanation": "Section 522.004 provides exemptions for all the situations listed: covered farm vehicles, RVs (for personal use), fire fighting vehicles, and vehicles operated intrastate and not in commerce. Therefore, all are exempt."
+  },
+  {
+    "question": "According to section 541.001, what is the definition of an 'Escort flagger'?",
+    "options": [
+      "Any person holding a flag on a construction site.",
+      "A trained person who operates an escort flag vehicle or directs traffic for permitted loads.",
+      "A police officer assigned to a funeral procession.",
+      "A volunteer who directs traffic at public events."
+    ],
+    "answer": "A trained person who operates an escort flag vehicle or directs traffic for permitted loads.",
+    "reference": "SECTION 3.1 – CHAPTER 541 - DEFINITIONS",
+    "explanation": "The text defines an 'Escort flagger' as a person who has completed TCOLE-approved training and, under a permit, operates an escort flag vehicle or directs traffic."
+  },
+  {
+    "question": "Who is considered the 'Owner' of a vehicle according to section 541.001?",
+    "options": [
+      "Only the person whose name is on the title document.",
+      "The bank or financial institution that holds the lien on the vehicle.",
+      "A person who has a property interest in or title to a vehicle, including the person entitled to use it subject to a security interest.",
+      "The person who is currently driving the vehicle."
+    ],
+    "answer": "A person who has a property interest in or title to a vehicle, including the person entitled to use it subject to a security interest.",
+    "reference": "SECTION 3.1 – CHAPTER 541 - DEFINITIONS",
+    "explanation": "This is the definition provided in 541.001(2). The text's example clarifies that the person making payments is considered the owner, not the bank that is the lienholder."
+  },
+  {
+    "question": "What is a 'School Crossing Guard' defined as?",
+    "options": [
+      "Any parent volunteering at a school crosswalk.",
+      "Any person designated by a school principal to direct traffic.",
+      "A responsible person at least 18 years of age designated by a local authority to direct traffic in a school crossing zone.",
+      "A sworn peace officer assigned to a school zone."
+    ],
+    "answer": "A responsible person at least 18 years of age designated by a local authority to direct traffic in a school crossing zone.",
+    "reference": "SECTION 3.1 – CHAPTER 541 - DEFINITIONS",
+    "explanation": "Section 541.001(5) provides this specific definition, including the minimum age and the requirement that they be designated by a local authority."
+  },
+  {
+    "question": "In Subtitle C, what does the term 'Department' mean unless otherwise stated?",
+    "options": [
+      "The Texas Department of Transportation (TxDOT)",
+      "The Texas Department of Motor Vehicles (DMV)",
+      "The Department of Public Safety (DPS)",
+      "The local county sheriff's department"
+    ],
+    "answer": "The Department of Public Safety (DPS)",
+    "reference": "SECTION 3.1 – CHAPTER 541 - DEFINITIONS",
+    "explanation": "Section 541.002(1) states that for all of Subtitle C, 'Department' means the Department of Public Safety unless stated otherwise."
+  },
+  {
+    "question": "Which of the following best defines a 'Business District'?",
+    "options": [
+      "Any area with a posted speed limit of 30 MPH or less.",
+      "An area where buildings used for business occupy at least 300 feet of frontage along a 600-foot segment of highway.",
+      "Any street that has more commercial buildings than residences.",
+      "A section of highway designated by a city ordinance as a commercial zone."
+    ],
+    "answer": "An area where buildings used for business occupy at least 300 feet of frontage along a 600-foot segment of highway.",
+    "reference": "SECTION 3.1 – CHAPTER 541 - DEFINITIONS",
+    "explanation": "This is the specific definition provided in section 541.102(1) for a Business District, requiring measurement of frontage along the highway."
+  },
+  {
+    "question": "What is the definition of a 'Metropolitan Area'?",
+    "options": [
+      "Any city with a population over 50,000.",
+      "An area containing a city with at least 100,000 people, including adjacent municipalities and urban districts.",
+      "The combined area of two or more adjacent cities.",
+      "Any county with a total population over 250,000."
+    ],
+    "answer": "An area containing a city with at least 100,000 people, including adjacent municipalities and urban districts.",
+    "reference": "SECTION 3.1 – CHAPTER 541 - DEFINITIONS",
+    "explanation": "Section 541.101 provides this specific definition, which includes the 100,000 population threshold for the central municipality."
+  },
+  {
+    "question": "What is the general definition of a 'Vehicle' under section 541.201?",
+    "options": [
+      "A self-propelled device.",
+      "A device with four or more wheels.",
+      "A device that can be used to transport or draw persons or property on a highway.",
+      "Any device that requires registration with the state."
+    ],
+    "answer": "A device that can be used to transport or draw persons or property on a highway.",
+    "reference": "SECTION 3.1 – CHAPTER 541 - DEFINITIONS",
+    "explanation": "Section 541.201(23) provides this broad definition and notes that it excludes devices on stationary rails and manufactured housing."
+  },
+  {
+    "question": "A vehicle is designed to transport 10 passengers, including the operator. How is this vehicle classified?",
+    "options": [
+      "Bus",
+      "Van",
+      "Passenger Car",
+      "Truck"
+    ],
+    "answer": "Passenger Car",
+    "reference": "SECTION 3.1 – CHAPTER 541 - DEFINITIONS",
+    "explanation": "The definition of a 'Passenger Car' in section 541.201(12) includes vehicles 'designed to accommodate 10 or fewer passengers, including the operator.' A 'Bus' must accommodate *more than* 10 passengers."
+  },
+  {
+    "question": "What is the key difference between a 'School Bus' and a 'Multifunction School Activity Bus'?",
+    "options": [
+      "A School Bus carries more passengers.",
+      "A Multifunction School Activity Bus cannot be the same color as a school bus and is not used for routes to/from school.",
+      "A School Bus requires a CDL, while a Multifunction School Activity Bus does not.",
+      "There is no legal difference between them."
+    ],
+    "answer": "A Multifunction School Activity Bus cannot be the same color as a school bus and is not used for routes to/from school.",
+    "reference": "SECTION 3.1 – CHAPTER 541 - DEFINITIONS",
+    "explanation": "The text distinguishes the Multifunction School Activity Bus by noting it cannot be the same color as a school bus and does not transport students on regular routes, only for other school-related trips."
+  },
+  {
+    "question": "What is the primary difference between a 'Road Tractor' and a 'Truck Tractor'?",
+    "options": [
+      "A Road Tractor is for farms, while a Truck Tractor is for highways.",
+      "A Road Tractor only pulls a vehicle, while a Truck Tractor is constructed to also carry part of the towed vehicle's weight.",
+      "A Road Tractor has two axles, while a Truck Tractor has three or more.",
+      "There is no difference; the terms are legally interchangeable."
+    ],
+    "answer": "A Road Tractor only pulls a vehicle, while a Truck Tractor is constructed to also carry part of the towed vehicle's weight.",
+    "reference": "SECTION 3.1 – CHAPTER 541 - DEFINITIONS",
+    "explanation": "The text and diagrams for sections 541.201(14) and (22) clearly distinguish between a Road Tractor (pulling only) and a Truck Tractor (pulling AND supporting weight)."
+  },
+  {
+    "question": "A pickup truck has a manufacturer's rated carrying capacity of 2,000 pounds. How is it classified?",
+    "options": [
+      "Truck",
+      "Light Truck",
+      "Passenger Car",
+      "Commercial Motor Vehicle"
+    ],
+    "answer": "Light Truck",
+    "reference": "SECTION 3.1 – CHAPTER 541 - DEFINITIONS",
+    "explanation": "Section 541.201(7) defines a 'Light Truck' as a truck with a 'manufacturer's rated carrying capacity of 2,000 pounds or less.'"
+  },
+  {
+    "question": "What is the key difference in construction between a 'Trailer' and a 'Semitrailer'?",
+    "options": [
+      "A trailer has two wheels, while a semitrailer has four or more.",
+      "A trailer carries property, while a semitrailer carries people.",
+      "A trailer is constructed so no part of its weight rests on the towing vehicle, while a semitrailer is constructed so part of its weight rests on the towing vehicle.",
+      "A trailer is fully enclosed, while a semitrailer is open."
+    ],
+    "answer": "A trailer is constructed so no part of its weight rests on the towing vehicle, while a semitrailer is constructed so part of its weight rests on the towing vehicle.",
+    "reference": "SECTION 3.1 – CHAPTER 541 - DEFINITIONS",
+    "explanation": "The definitions for 'Trailer' (541.201(20)) and 'Semitrailer' (541.201(17)) are explicitly based on whether or not the towed vehicle's weight and load rests on the towing motor vehicle."
+  },
+  {
+    "question": "Which of the following is included in the definition of an 'Authorized Emergency Vehicle'?",
+    "options": [
+      "A tow truck with flashing amber lights.",
+      "A private vehicle of a volunteer firefighter when responding to a fire alarm.",
+      "A construction vehicle with a flashing yellow light.",
+      "Any vehicle with a siren."
+    ],
+    "answer": "A private vehicle of a volunteer firefighter when responding to a fire alarm.",
+    "reference": "SECTION 3.1 – CHAPTER 541 - DEFINITIONS",
+    "explanation": "Section 541.201(1) provides a long list of vehicles that qualify as authorized emergency vehicles, which includes '(G) a private vehicle of a volunteer firefighter or a certified emergency medical services employee when responding to a fire alarm or medical emergency.'"
+  },
+  {
+    "question": "Which of the following is NOT a required element for a vehicle to be defined as a 'Moped'?",
+    "options": [
+      "Cannot produce more than five-brake horsepower.",
+      "Cannot attain a speed of more than 30 miles per hour in one mile.",
+      "Must have fully operable pedals.",
+      "Has a piston displacement of 50 cubic centimeters or less."
+    ],
+    "answer": "Must have fully operable pedals.",
+    "reference": "SECTION 3.1 – CHAPTER 541 - DEFINITIONS",
+    "explanation": "The definition for 'Moped' in section 541.201(8) lists several requirements, but having operable pedals is a requirement for an 'Electric Bicycle', not a moped."
+  },
+    {
+    "question": "Which of the following best describes a 'Pole Trailer'?",
+    "options": [
+      "A trailer used by a utility company.",
+      "A trailer designed to transport long or irregularly shaped loads like logs or pipes.",
+      "A trailer with a single axle in the center.",
+      "A trailer that attaches to the towing vehicle with a ball hitch."
+    ],
+    "answer": "A trailer designed to transport long or irregularly shaped loads like logs or pipes.",
+    "reference": "SECTION 3.1 – CHAPTER 541 - DEFINITIONS",
+    "explanation": "The definition in 541.201(13) describes it as being 'ordinarily used to transport a long or irregularly shaped loads generally capable of sustaining themselves as beams between the supporting connections.'"
+  },
+  {
+    "question": "According to the note, is it generally illegal to operate a vehicle with a metal tire in contact with the highway?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": "Yes",
+    "reference": "SECTION 3.1 – CHAPTER 541 - DEFINITIONS",
+    "explanation": "The note for section 541.203(2) references 547.612, stating 'it is generally illegal to operate a vehicle with a metal tire in contact with the highway'."
+  },
+  {
+    "question": "What is the maximum speed limit for a vehicle with solid rubber tires?",
+    "options": [
+      "10 MPH",
+      "20 MPH",
+      "30 MPH",
+      "There is no special speed limit."
+    ],
+    "answer": "10 MPH",
+    "reference": "SECTION 3.1 – CHAPTER 541 - DEFINITIONS",
+    "explanation": "The text for section 541.203(4) provides a reference to 545.361, which sets the 'maximum speed of 10 MPH for vehicle with solid rubber tires.'"
+  },
+  {
+    "question": "What does the legal definition of 'Traffic' include?",
+    "options": [
+      "Only motor vehicles.",
+      "Only vehicles and pedestrians.",
+      "Pedestrians, ridden or herded animals, and conveyances, including vehicles and streetcars.",
+      "Any movement of persons or property on a highway."
+    ],
+    "answer": "Pedestrians, ridden or herded animals, and conveyances, including vehicles and streetcars.",
+    "reference": "SECTION 3.1 – CHAPTER 541 - DEFINITIONS",
+    "explanation": "Section 541.301 provides this specific, broad definition of what constitutes 'Traffic' when using a highway for travel."
+  },
+  {
+    "question": "What is the key difference between a 'Roadway' and a 'Highway or Street'?",
+    "options": [
+      "A highway is paved, while a roadway is not.",
+      "A roadway is only in a city, while a highway is in a rural area.",
+      "A highway includes the entire publicly maintained area boundary to boundary (including shoulders and ditches), while the roadway is only the portion ordinarily used for vehicular travel.",
+      "There is no difference; the terms are interchangeable."
+    ],
+    "answer": "A highway includes the entire publicly maintained area boundary to boundary (including shoulders and ditches), while the roadway is only the portion ordinarily used for vehicular travel.",
+    "reference": "SECTION 3.1 – CHAPTER 541 - DEFINITIONS",
+    "explanation": "The definitions for 'Highway or Street' (541.302(5)) and 'Roadway' (541.302(11)) show this distinction. The roadway is the main travel portion, while the highway encompasses the entire right-of-way."
+  },
+  {
+    "question": "According to the text, a crosswalk can be marked or unmarked. What constitutes an 'unmarked' crosswalk?",
+    "options": [
+      "Any place a pedestrian decides to cross a street.",
+      "The 10 feet of roadway on either side of a stop sign.",
+      "The portion of a roadway at an intersection that is within the connections of the lateral lines of the sidewalks on opposite sides of the highway.",
+      "An unmarked crosswalk does not legally exist."
+    ],
+    "answer": "The portion of a roadway at an intersection that is within the connections of the lateral lines of the sidewalks on opposite sides of the highway.",
+    "reference": "SECTION 3.1 – CHAPTER 541 - DEFINITIONS",
+    "explanation": "This specific language from section 541.302(2) defines where an unmarked crosswalk legally exists at an intersection."
+  },
+  {
+    "question": "What is the legal definition of a 'Freeway'?",
+    "options": [
+      "Any highway with a speed limit over 60 MPH.",
+      "Any multi-lane highway.",
+      "A divided, controlled-access highway for through traffic.",
+      "A highway maintained by the state, not a local authority."
+    ],
+    "answer": "A divided, controlled-access highway for through traffic.",
+    "reference": "SECTION 3.1 – CHAPTER 541 - DEFINITIONS",
+    "explanation": "Section 541.302(3) provides this specific definition for 'Freeway'."
+  },
+  {
+    "question": "Under what circumstance does an intersection with a divided highway count as two separate intersections?",
+    "options": [
+      "If the median separating the roadways is at least 30 feet wide.",
+      "If the median has a physical barrier.",
+      "If the highway has a speed limit of 55 MPH or more.",
+      "It always counts as one continuous intersection."
+    ],
+    "answer": "If the median separating the roadways is at least 30 feet wide.",
+    "reference": "SECTION 3.1 – CHAPTER 541 - DEFINITIONS",
+    "explanation": "Section 541.303(c) provides the specific rule: 'if the intersection includes a divided highway with roadways at least 30 feet apart... then each roadway of the divided highway will be considered to be its own intersection.'"
+  },
+  {
+    "question": "What three elements must a device have to be considered an 'Official Traffic-Control Device'?",
+    "options": [
+      "It must be electronic, have flashing lights, and be approved by the federal government.",
+      "It must be consistent with the subtitle, be placed by a public body or officer having jurisdiction, and be used to regulate, warn, or guide traffic.",
+      "It must be red, yellow, or green; be at an intersection; and be visible from 100 feet.",
+      "It must be a permanent sign, be made of metal, and have reflective lettering."
+    ],
+    "answer": "It must be consistent with the subtitle, be placed by a public body or officer having jurisdiction, and be used to regulate, warn, or guide traffic.",
+    "reference": "SECTION 3.1 – CHAPTER 541 - DEFINITIONS",
+    "explanation": "Section 541.304(1) lists these three specific requirements for a device to be considered 'official.'"
+  },
+  {
+    "question": "What is the legal definition of 'Daytime'?",
+    "options": [
+      "From sunrise to sunset.",
+      "From 1 hour before sunrise to 1 hour after sunset.",
+      "From ½ hour before sunrise to ½ hour after sunset.",
+      "From 6:00 AM to 6:00 PM."
+    ],
+    "answer": "From ½ hour before sunrise to ½ hour after sunset.",
+    "reference": "SECTION 3.1 – CHAPTER 541 - DEFINITIONS",
+    "explanation": "Section 541.401(1) provides this exact definition for 'Daytime'."
+  },
+  {
+    "question": "What is the difference between 'Park or Parking' and 'Stand or Standing'?",
+    "options": [
+      "Parking is for more than 5 minutes, while standing is for less.",
+      "Parking involves turning off the vehicle, while standing does not.",
+      "The definition of 'Parking' has an exception for loading/unloading merchandise or passengers, while 'Standing' only has an exception for receiving/discharging passengers.",
+      "There is no legal difference between the terms."
+    ],
+    "answer": "The definition of 'Parking' has an exception for loading/unloading merchandise or passengers, while 'Standing' only has an exception for receiving/discharging passengers.",
+    "reference": "SECTION 3.1 – CHAPTER 541 - DEFINITIONS",
+    "explanation": "The definitions in section 541.401 show this subtle but important distinction. 'Parking' has a broader exception (loading/unloading merchandise OR passengers) than 'Standing' (only receiving/discharging passengers)."
+  },
+  {
+    "question": "In the 'Apply It' scenario, a driver pulls up to a 'No Standing' sign and helps an elderly woman out of the car. Has the driver committed a violation?",
+    "options": [
+      "Yes, because the vehicle was halted in a prohibited zone.",
+      "Yes, because the driver exited the vehicle.",
+      "No, because the definition of 'Standing' does not include temporarily halting to receive or discharge passengers.",
+      "No, because helping an elderly person is a legal exception."
+    ],
+    "answer": "No, because the definition of 'Standing' does not include temporarily halting to receive or discharge passengers.",
+    "reference": "SECTION 3.1 – CHAPTER 541 - DEFINITIONS",
+    "explanation": "The definition of 'Stand or Standing' in section 541.401(9) has an exception: 'If vehicle is halted temporarily to receive/discharge passengers, it is not considered to be standing.'"
+  },
+  {
+    "question": "In the final 'Apply It' scenario, a blue vehicle is stopped in the inside lane of traffic because the cars ahead of it are stopped. Is the driver committing a violation for stopping where prohibited?",
+    "options": [
+      "Yes, because a vehicle may never stop in a lane of traffic.",
+      "Yes, because they are outside a business or residence district.",
+      "No, because the definition of 'Stopping' (when prohibited) does not apply when avoiding conflict with other traffic.",
+      "No, as long as their hazard lights are activated."
+    ],
+    "answer": "No, because the definition of 'Stopping' (when prohibited) does not apply when avoiding conflict with other traffic.",
+    "reference": "SECTION 3.1 – CHAPTER 541 - DEFINITIONS",
+    "explanation": "The text for section 541.401(10) explains that when stopping is prohibited, it does not apply to a vehicle that is halting to 'avoid conflict with other traffic.'"
+  },
+  {
+    "question": "What is the definition of 'Right-of-Way'?",
+    "options": [
+      "The absolute right to proceed without slowing or stopping.",
+      "The right of one vehicle or pedestrian to proceed in a lawful manner in preference to another.",
+      "The rule that the vehicle on the right always proceeds first.",
+      "The physical lane of traffic to which a vehicle is assigned."
+    ],
+    "answer": "The right of one vehicle or pedestrian to proceed in a lawful manner in preference to another.",
+    "reference": "SECTION 3.1 – CHAPTER 541 - DEFINITIONS",
+    "explanation": "Section 541.401(8) defines right-of-way as the right of one to proceed 'in preference to another' when a potential collision exists."
   }
   ],
   "Radio Communications": [
