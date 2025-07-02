@@ -5689,6 +5689,717 @@
     "answer": "False",
     "reference": "TRC 504.943 & 504.946",
     "explanation": "This is false. If a vehicle is required to have two license plates, both must be the ones issued by the DMV. Displaying a non-issued plate on the front is a violation for failing to display the proper plate."
+  },
+  {
+    "question": "According to the text, what is the legal definition of 'License' under Chapter 521?",
+    "options": [
+      "The physical plastic card issued by the department.",
+      "An authorization to operate a commercial vehicle only.",
+      "The privilege of a person to operate a motor vehicle, which applies even if a person does not hold a physical card.",
+      "A temporary permit issued by a court."
+    ],
+    "answer": "The privilege of a person to operate a motor vehicle, which applies even if a person does not hold a physical card.",
+    "reference": "SECTION 2.1 – CHAPTER 521 - DRIVER’S LICENSES AND CERTIFICATES",
+    "explanation": "The text for section 521.001 emphasizes that a 'License' is the 'privilege of a person to operate a motor vehicle regardless of whether the person holds a driver's license.'"
+  },
+  {
+    "question": "Which of the following persons is EXEMPT from the Texas driver's license requirement under section 521.027?",
+    "options": [
+      "A non-resident student attending college in Texas.",
+      "A person operating a farm tractor on a highway.",
+      "A person who only drives within their own city limits.",
+      "A person operating an electric bicycle."
+    ],
+    "answer": "A person operating a farm tractor on a highway.",
+    "reference": "SECTION 2.1 – CHAPTER 521 - DRIVER’S LICENSES AND CERTIFICATES",
+    "explanation": "Section 521.027 lists several exemptions, including 'A person operating a road machine, farm tractor, or implement of husbandry that is not a commercial motor vehicle.'"
+  },
+  {
+    "question": "In the 'Apply It' scenario, is the operator of a Segway who does not have a driver's license committing a violation for 'No Driver License'?",
+    "options": [
+      "Yes, because a Segway is a vehicle operated on a highway.",
+      "Yes, but only if they are operating it at night.",
+      "No, because an electric personal assistive mobility device (Segway) is excluded from the definition of a motor vehicle.",
+      "No, because a license is only required for vehicles that can exceed 20 MPH."
+    ],
+    "answer": "No, because an electric personal assistive mobility device (Segway) is excluded from the definition of a motor vehicle.",
+    "reference": "SECTION 2.1 – CHAPTER 521 - DRIVER’S LICENSES AND CERTIFICATES",
+    "explanation": "The definition of 'Motor Vehicle' from section 541.201, which is applied here, explicitly states 'The term does not include... an electric personal assistive mobility device (Segway).'"
+  },
+  {
+    "question": "A person is stopped for a traffic violation and fails to present their driver's license on demand. Their license is current and valid. What is the most appropriate initial offense?",
+    "options": [
+      "Driving While License Invalid",
+      "No Driver License",
+      "Fail to Display Driver License",
+      "No offense, they can mail it in later."
+    ],
+    "answer": "Fail to Display Driver License",
+    "reference": "SECTION 2.1 – CHAPTER 521 - DRIVER’S LICENSES AND CERTIFICATES",
+    "explanation": "Section 521.025 requires a person to display their license on demand. The text states, 'Failure to display the license as required is the offense of Fail to Display Driver License.'"
+  },
+  {
+    "question": "A judge may dismiss an expired driver license charge if the license is renewed within what timeframe?",
+    "options": [
+      "10 business days",
+      "20 working days or before the first court appearance",
+      "30 calendar days",
+      "This charge cannot be dismissed"
+    ],
+    "answer": "20 working days or before the first court appearance",
+    "reference": "SECTION 2.1 – CHAPTER 521 - DRIVER’S LICENSES AND CERTIFICATES",
+    "explanation": "The text for section 521.026 states a judge MAY dismiss the charge if the license is renewed 'within 20 working days/before the first court appearance.'"
+  },
+  {
+    "question": "A new resident to Texas has a valid driver's license from their previous state. How long do they have to obtain a Texas driver's license?",
+    "options": [
+      "30 days",
+      "60 days",
+      "90 days",
+      "6 months"
+    ],
+    "answer": "90 days",
+    "reference": "SECTION 2.1 – CHAPTER 521 - DRIVER’S LICENSES AND CERTIFICATES",
+    "explanation": "The text for section 521.029 states, 'New residents have 90 days to obtain a Texas license as long as they are 16 years of age or older and have in the person's possession a driver's license issued by their previous state of residence.'"
+  },
+  {
+    "question": "A person moves to a new address within Texas. How long do they have to notify the Department of their change of address?",
+    "options": [
+      "10 days",
+      "30 days",
+      "90 days",
+      "Until their next license renewal."
+    ],
+    "answer": "30 days",
+    "reference": "SECTION 2.1 – CHAPTER 521 - DRIVER’S LICENSES AND CERTIFICATES",
+    "explanation": "The text for section 521.054 states, 'A person who moves to a new address or changes their name must notify the Department to update their license within 30 days.'"
+  },
+  {
+    "question": "What is the minimum class of license required to operate a single vehicle with a Gross Vehicle Weight Rating (GVWR) of 26,001 pounds or more?",
+    "options": [
+      "Class A",
+      "Class B",
+      "Class C",
+      "Class M"
+    ],
+    "answer": "Class B",
+    "reference": "SECTION 2.1 – CHAPTER 521 - DRIVER’S LICENSES AND CERTIFICATES",
+    "explanation": "According to section 521.082, a Class B license is required to drive a 'Single vehicle with a GVWR of 26,001 pounds or more.'"
+  },
+  {
+    "question": "A Class A license is required to operate a combination of vehicles when the GCWR is 26,001 lbs. or more AND what other condition is met?",
+    "options": [
+      "The power unit has a GVWR of 26,001 lbs. or more.",
+      "The towed unit is carrying hazardous materials.",
+      "The towed unit has a GVWR in excess of 10,000 pounds.",
+      "The combination has three or more axles."
+    ],
+    "answer": "The towed unit has a GVWR in excess of 10,000 pounds.",
+    "reference": "SECTION 2.1 – CHAPTER 521 - DRIVER’S LICENSES AND CERTIFICATES",
+    "explanation": "The text for section 521.081 states a Class A is required for a combination with a GCWR of 26,001 lbs. or more 'provided the GVWR of the vehicle(s) in tow is in excess of 10,000 pounds.'"
+  },
+  {
+    "question": "In the 'Apply It' scenario, a truck with a GVWR of 16,000 lbs is towing a non-farm trailer with a GVWR of 11,000 lbs. The GCWR is 27,000 lbs. What class of license is required?",
+    "options": [
+      "Class C",
+      "Class B",
+      "Class A",
+      "CDL Class A"
+    ],
+    "answer": "Class A",
+    "reference": "SECTION 2.1 – CHAPTER 521 - DRIVER’S LICENSES AND CERTIFICATES",
+    "explanation": "A Class A license is required because it is a combination vehicle with a GCWR over 26,000 lbs (27,000) AND the towed unit's GVWR is over 10,000 lbs (11,000)."
+  },
+  {
+    "question": "In the 'Apply It' scenario, a truck with a GVWR of 28,000 lbs is towing a non-farm trailer with a GVWR of 10,000 lbs. The GCWR is 38,000 lbs. What class of license is required?",
+    "options": [
+      "Class C",
+      "Class B",
+      "Class A",
+      "CDL Class B"
+    ],
+    "answer": "Class B",
+    "reference": "SECTION 2.1 – CHAPTER 521 - DRIVER’S LICENSES AND CERTIFICATES",
+    "explanation": "A Class A is not required because the towed unit's GVWR does not exceed 10,000 lbs. Therefore, you determine the license class based on the power unit alone. Since the truck's GVWR is over 26,001 lbs (28,000), a Class B is required."
+  },
+    {
+    "question": "What class of license is required to operate a bus with a seating capacity of 25 passengers?",
+    "options": [
+      "Class C",
+      "Class B",
+      "Class A",
+      "Class P"
+    ],
+    "answer": "Class B",
+    "reference": "SECTION 2.1 – CHAPTER 521 - DRIVER’S LICENSES AND CERTIFICATES",
+    "explanation": "The text for section 521.082 states a Class B license is required for 'A bus with a seating capacity of 24 passengers or more including the driver.'"
+  },
+  {
+    "question": "A person holds a valid Class A license. According to the text, which vehicle are they NOT authorized to operate without an additional license class?",
+    "options": [
+      "A Class B truck",
+      "A Class C passenger car",
+      "A motorcycle",
+      "Any vehicle they own"
+    ],
+    "answer": "A motorcycle",
+    "reference": "SECTION 2.1 – CHAPTER 521 - DRIVER’S LICENSES AND CERTIFICATES",
+    "explanation": "The text for section 521.085 states a person with a higher class of license can drive vehicles in lower classes 'EXCEPT motorcycles. You will always have to have a class M license for most motorcycles.'"
+  },
+  {
+    "question": "A new state resident must prove they have registered their vehicles in Texas before they can obtain a Texas driver's license.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "reference": "SECTION 2.1 – CHAPTER 521 - DRIVER’S LICENSES AND CERTIFICATES",
+    "explanation": "The text for section 521.144 states, 'New residents must show that they’ve already registered their vehicles in Texas prior to obtaining a Texas license.'"
+  },
+  {
+    "question": "According to the text, is it a violation for a person to physically possess both a valid Texas Driver's License and a valid Texas ID Card at the same time?",
+    "options": [
+      "Yes, it is a Class C Misdemeanor.",
+      "Yes, it is a Class A Misdemeanor under 521.451.",
+      "No, it is not a violation for an officer to find both, although DPS requires one to be surrendered when issuing the other.",
+      "Only if one of the cards is expired."
+    ],
+    "answer": "No, it is not a violation for an officer to find both, although DPS requires one to be surrendered when issuing the other.",
+    "reference": "SECTION 2.1 – CHAPTER 521 - DRIVER’S LICENSES AND CERTIFICATES",
+    "explanation": "The text for section 521.183 clarifies, 'It is NOT a violation of Texas law to possess both at the same time (i.e. an officer notices both in a person’s wallet while on a traffic stop).'"
+  },
+  {
+    "question": "What is the minimum age a person can be to obtain any kind of driver's license (including a Hardship License) in Texas?",
+    "options": [
+      "14",
+      "15",
+      "16",
+      "18"
+    ],
+    "answer": "15",
+    "reference": "SECTION 2.1 – CHAPTER 521 - DRIVER’S LICENSES AND CERTIFICATES",
+    "explanation": "Section 521.201 states the department may not issue a license to a person under 15. The Learner and Hardship license sections confirm that 15 is the minimum age to obtain these restricted licenses."
+  },
+  {
+    "question": "Which of the following is NOT listed as a reason to be granted a Hardship License?",
+    "options": [
+      "The failure to issue the license will result in an unusual economic hardship for the family.",
+      "The license is needed for transportation to and from extracurricular school sports.",
+      "The license is necessary because of the illness of a member of the applicant's family.",
+      "The license is necessary to participate in a vocational education program."
+    ],
+    "answer": "The license is needed for transportation to and from extracurricular school sports.",
+    "reference": "SECTION 2.1 – CHAPTER 521 - DRIVER’S LICENSES AND CERTIFICATES",
+    "explanation": "Section 521.223 lists three specific qualifying conditions: economic hardship, family illness, or a vocational program. Transportation for regular extracurricular activities is not listed."
+  },
+  {
+    "question": "A 16-year-old has a Restricted Class M License. What is the maximum engine displacement of a motorcycle they are allowed to operate?",
+    "options": [
+      "125 CCs",
+      "250 CCs",
+      "500 CCs",
+      "There is no displacement restriction"
+    ],
+    "answer": "250 CCs",
+    "reference": "SECTION 2.1 – CHAPTER 521 - DRIVER’S LICENSES AND CERTIFICATES",
+    "explanation": "The text for section 521.224 specifies that this license 'allows the operation of a motorcycle with a displacement of 250 CCs or less.'"
+  },
+  {
+    "question": "A person with a Learner License is driving. What is the primary requirement for the person supervising them?",
+    "options": [
+      "They must be a parent or legal guardian.",
+      "They must be at least 18 years old.",
+      "They must be a licensed operator at least 21 years of age, have at least one year of driving experience, and be in the front seat.",
+      "They must be a certified driving instructor."
+    ],
+    "answer": "They must be a licensed operator at least 21 years of age, have at least one year of driving experience, and be in the front seat.",
+    "reference": "SECTION 2.1 – CHAPTER 521 - DRIVER’S LICENSES AND CERTIFICATES",
+    "explanation": "The text for section 521.222(d) establishes the requirement for 'a licensed operator at least 21 years of age to be in the front seat monitoring... This person must have at least 1 year of driving experience.'"
+  },
+  {
+    "question": "A person's driver's license has been suspended. To obtain an occupational license, they must first convince a judge that they have what?",
+    "options": [
+      "A clean driving record for the past year.",
+      "An 'essential need' to drive.",
+      "Completed a defensive driving course.",
+      "Paid all outstanding court fees."
+    ],
+    "answer": "An 'essential need' to drive.",
+    "reference": "SECTION 2.1 – CHAPTER 521 - DRIVER’S LICENSES AND CERTIFICATES",
+    "explanation": "The text explains that the process begins with a petition where the person must set forth their 'essential need' to drive for work, school, or essential household duties."
+  },
+  {
+    "question": "In the 'Apply It' scenario, a driver's license is suspended, but they have a certified court order for an occupational license that was issued 23 days ago. Are they committing a violation?",
+    "options": [
+      "Yes, because the court order is not a valid license.",
+      "Yes, because they must also have the plastic occupational license card.",
+      "No, because the court order serves as the occupational license for the first 45 days.",
+      "No, as long as they are driving directly to the DPS office."
+    ],
+    "answer": "No, because the court order serves as the occupational license for the first 45 days.",
+    "reference": "SECTION 2.1 – CHAPTER 521 - DRIVER’S LICENSES AND CERTIFICATES",
+    "explanation": "Section 521.248(d) states, 'The order serves as the occupational license for 45 days once it is granted.' Since it has only been 23 days, the order is valid."
+  },
+  {
+    "question": "It is a Class B Misdemeanor to violate a restriction on an occupational license or to fail to have the certified court order in your possession while driving.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "reference": "SECTION 2.1 – CHAPTER 521 - DRIVER’S LICENSES AND CERTIFICATES",
+    "explanation": "The text for section 521.253 states that either offense (violating a restriction or failing to have the court order) is a Class B Misdemeanor."
+  },
+  {
+    "question": "What is the standard expiration period for a normal Texas Driver's License for a person under the age of 85?",
+    "options": [
+      "4 years",
+      "6 years",
+      "8 years",
+      "10 years"
+    ],
+    "answer": "8 years",
+    "reference": "SECTION 2.1 – CHAPTER 521 - DRIVER’S LICENSES AND CERTIFICATES",
+    "explanation": "The text for section 521.271 states the expiration for a 'Normal Driver’s License – on the person’s birthday after 8 years.'"
+  },
+  {
+    "question": "A 'habitual violator' whose license will be automatically suspended is a person who has how many moving violation convictions?",
+    "options": [
+      "3 or more in 12 months, or 5 or more in 24 months",
+      "4 or more in 12 months, or 7 or more in 24 months",
+      "5 or more in 12 months, or 8 or more in 24 months",
+      "Any 2 major violations in a 36-month period"
+    ],
+    "answer": "4 or more in 12 months, or 7 or more in 24 months",
+    "reference": "SECTION 2.1 – CHAPTER 521 - DRIVER’S LICENSES AND CERTIFICATES",
+    "explanation": "The text for section 521.292 defines a habitual violator as 'a person who has 4 or more convictions in 12 months or 7 or more convictions in 24 months.'"
+  },
+  {
+    "question": "A person convicted for Racing on a Public Highway (545.420) will have their driver's license automatically suspended for how long?",
+    "options": [
+      "90 days",
+      "180 days",
+      "One year",
+      "Two years"
+    ],
+    "answer": "One year",
+    "reference": "SECTION 2.1 – CHAPTER 521 - DRIVER’S LICENSES AND CERTIFICATES",
+    "explanation": "The text for section 521.350 states, 'A person’s Texas driver’s license will be automatically suspended for one year... upon conviction for Racing.'"
+  },
+  {
+    "question": "A person uses their friend's driver's license as their own during a traffic stop. What is the level of this offense under 521.451?",
+    "options": [
+      "Class C Misdemeanor",
+      "Class B Misdemeanor",
+      "Class A Misdemeanor",
+      "State Jail Felony"
+    ],
+    "answer": "Class A Misdemeanor",
+    "reference": "SECTION 2.1 – CHAPTER 521 - DRIVER’S LICENSES AND CERTIFICATES",
+    "explanation": "Section 521.451 lists several violations that are Class A Misdemeanors, including to 'display or represent as the person's own a DL or ID card not issued to the person.'"
+  },
+  {
+    "question": "A 19-year-old possesses a fake out-of-state license with the intent to misrepresent their age to buy alcohol. According to the text, what is the most appropriate charge?",
+    "options": [
+      "No offense, because it is not a Texas license.",
+      "Fictitious License (Class A Misdemeanor) under 521.451",
+      "Fictitious License or Certificate (Class C Misdemeanor) under 521.453",
+      "An offense under the Alcoholic Beverage Code."
+    ],
+    "answer": "Fictitious License or Certificate (Class C Misdemeanor) under 521.453",
+    "reference": "SECTION 2.1 – CHAPTER 521 - DRIVER’S LICENSES AND CERTIFICATES",
+    "explanation": "Section 521.453 creates a specific Class C offense for a person under 21 who possesses a deceptively similar license to misrepresent their age. The note clarifies this is more appropriate than the Class A offense if the intent is only to misrepresent age."
+  },
+  {
+    "question": "Can a person who has never been issued a Texas driver's license be charged with Driving While License Invalid (DWLI)?",
+    "options": [
+      "No, they must be charged with No Driver License.",
+      "No, DWLI only applies to people with a physical license card.",
+      "Yes, if their privilege to obtain a license has been suspended or revoked.",
+      "Yes, but only if they are a resident of another state."
+    ],
+    "answer": "Yes, if their privilege to obtain a license has been suspended or revoked.",
+    "reference": "SECTION 2.1 – CHAPTER 521 - DRIVER’S LICENSES AND CERTIFICATES",
+    "explanation": "Yes. The text explains that because 'license' means the 'privilege' to drive, 'A person who has never had a Texas driver license can still have their privilege/authority to drive denied or revoked and can be charged with DWLI.'"
+  },
+  {
+    "question": "In the final 'Apply It' scenario, a driver's license is suspended, they have no previous convictions or alcohol suspensions, but they also do not have car insurance. What is the level of the DWLI offense?",
+    "options": [
+      "Class C Misdemeanor",
+      "Class B Misdemeanor",
+      "Class A Misdemeanor",
+      "No offense, as insurance is a separate violation."
+    ],
+    "answer": "Class B Misdemeanor",
+    "reference": "SECTION 2.1 – CHAPTER 521 - DRIVER’S LICENSES AND CERTIFICATES",
+    "explanation": "The text for section 521.457 states that a DWLI is enhanced to a Class B Misdemeanor if 'The person is operating without insurance/proof of financial responsibility.'"
+  },
+  {
+    "question": "In the final 'Apply It' scenario, a driver with a suspended license and no insurance causes a crash that results in the other driver's death, but the crash was not their fault (they were rear-ended). What level of offense did they commit?",
+    "options": [
+      "No offense, as they did not cause the crash.",
+      "Class C Misdemeanor DWLI",
+      "Class B Misdemeanor DWLI",
+      "Class A Misdemeanor DWLI"
+    ],
+    "answer": "Class B Misdemeanor DWLI",
+    "reference": "SECTION 2.1 – CHAPTER 521 - DRIVER’S LICENSES AND CERTIFICATES",
+    "explanation": "The offense is a Class B DWLI due to the lack of insurance. It is not a Class A DWLI because that enhancement requires that the person *caused* the crash resulting in SBI or death. Since they did not cause the crash, that element is not met."
+  },
+  {
+    "question": "A person is required to hold a Commercial Driver's License (CDL) only if what two criteria are met?",
+    "options": [
+      "The vehicle is used for business, and the driver is paid.",
+      "The vehicle has a GVWR over 10,000 lbs, and it crosses state lines.",
+      "The vehicle meets the definition of a Commercial Motor Vehicle (CMV), and the driver is not exempt.",
+      "The vehicle has air brakes, and it is used to transport property."
+    ],
+    "answer": "The vehicle meets the definition of a Commercial Motor Vehicle (CMV), and the driver is not exempt.",
+    "reference": "SECTION 2.2 – CHAPTER 522 - COMMERCIAL DRIVER’S LICENSES",
+    "explanation": "The text explicitly states that a person is required to hold a CDL if both criteria are present: '1) The vehicle being operated meets the definition of a Commercial Motor Vehicle in Chapter 522; and 2) The person must not be exempt from CDL requirements by TRC 522.004.'"
+  },
+  {
+    "question": "Under the definition provided from 49 C.F.R. Section 383.5, which of the following is considered a Group A (Combination Vehicle) CMV?",
+    "options": [
+      "A single vehicle with a GVWR of 26,001 pounds or more.",
+      "A vehicle designed to transport 16 or more passengers.",
+      "A combination vehicle with a GCWR of 26,001 pounds or more, inclusive of a towed unit with a GVWR of more than 10,000 pounds.",
+      "Any vehicle transporting hazardous materials."
+    ],
+    "answer": "A combination vehicle with a GCWR of 26,001 pounds or more, inclusive of a towed unit with a GVWR of more than 10,000 pounds.",
+    "reference": "SECTION 2.2 – CHAPTER 522 - COMMERCIAL DRIVER’S LICENSES",
+    "explanation": "This is the specific definition for a Group A CMV provided in the text."
+  },
+  {
+    "question": "Which of the following drivers is specifically listed as being EXEMPT from CDL requirements under section 522.004?",
+    "options": [
+      "A person driving a delivery truck for a private company.",
+      "A person driving a shuttle bus for a hotel.",
+      "A person driving a Recreational Vehicle (RV) for personal use.",
+      "A person driving a dump truck for a construction company."
+    ],
+    "answer": "A person driving a Recreational Vehicle (RV) for personal use.",
+    "reference": "SECTION 2.2 – CHAPTER 522 - COMMERCIAL DRIVER’S LICENSES",
+    "explanation": "Section 522.004 lists several exemptions, including '(4) Recreational Vehicles (RVs) – defined as a motor vehicle primarily designed as temporary living quarters for recreational camping or travel use.'"
+  },
+  {
+    "question": "In the 'Apply It' scenario, a truck (GVWR 14,000 lbs) is towing a travel trailer (GVWR 20,000 lbs). The driver is required to hold what class of license?",
+    "options": [
+      "A Class A CDL",
+      "A Non-CDL Class A license",
+      "A Non-CDL Class B license",
+      "A Non-CDL Class C license"
+    ],
+    "answer": "A Non-CDL Class A license",
+    "reference": "SECTION 2.2 – CHAPTER 522 - COMMERCIAL DRIVER’S LICENSES",
+    "explanation": "Although the combination's weight meets the definition of a CMV, the driver is exempt from CDL requirements because they are operating a Recreational Vehicle. However, they must still hold the proper non-CDL class license. Since the combination GCWR is over 26,001 lbs and the towed unit is over 10,000 lbs, a Non-CDL Class A is required."
+  },
+  {
+    "question": "In the 'Apply It' scenario, the operator of a fire truck with a GVWR of 60,000 pounds holds a Non-CDL Class B license. Did the operator commit a violation by not having a CDL?",
+    "options": [
+      "Yes, because the vehicle's weight requires a CDL.",
+      "Yes, because all emergency vehicle operators need a CDL.",
+      "No, because operators of fire fighting or emergency vehicles are exempt from CDL requirements.",
+      "No, because the driver holds the correct CDL class license."
+    ],
+    "answer": "No, because operators of fire fighting or emergency vehicles are exempt from CDL requirements.",
+    "reference": "SECTION 2.2 – CHAPTER 522 - COMMERCIAL DRIVER’S LICENSES",
+    "explanation": "Section 522.004 lists an exemption for 'Fire Fighting or Emergency Vehicles'. The driver is exempt from needing a CDL but must still hold the appropriate non-CDL license class, which in this case is a Class B."
+  },
+  {
+    "question": "A person operating a commercial motor vehicle must hold a valid CDL. According to section 522.011, what is the maximum fine for a first offense?",
+    "options": [
+      "$200",
+      "$500",
+      "$1,000",
+      "$2,000"
+    ],
+    "answer": "$500",
+    "reference": "SECTION 2.2 – CHAPTER 522 - COMMERCIAL DRIVER’S LICENSES",
+    "explanation": "The text for section 522.011 states, 'This offense carries a fine not to exceed $500.'"
+  },
+  {
+    "question": "What is the minimum passenger capacity for a vehicle to be considered a Class B CDL vehicle, if not based on weight?",
+    "options": [
+      "16 passengers",
+      "23 passengers",
+      "24 passengers",
+      "30 passengers"
+    ],
+    "answer": "24 passengers",
+    "reference": "SECTION 2.2 – CHAPTER 522 - COMMERCIAL DRIVER’S LICENSES",
+    "explanation": "The classification for a Class B CDL includes 'A vehicle with a passenger capacity of 24 or more (including driver).'"
+  },
+  {
+    "question": "A Class C CDL is required for a vehicle that does not meet the weight requirements for Class A or B, but is designed to transport how many people?",
+    "options": [
+      "1-15 people",
+      "16-23 people",
+      "24 or more people",
+      "Any number of people if used for hire"
+    ],
+    "answer": "16-23 people",
+    "reference": "SECTION 2.2 – CHAPTER 522 - COMMERCIAL DRIVER’S LICENSES",
+    "explanation": "The definition for a Class C CDL includes a vehicle with a 'passenger capacity of 16-23 people' or a vehicle hauling hazmat."
+  },
+  {
+    "question": "In the 'Apply It' scenario, a truck with a GVWR of 36,000 lbs is towing a trailer with a GVWR of 54,000 lbs. What class of license is required?",
+    "options": [
+      "Non-CDL Class A",
+      "Class C CDL",
+      "Class B CDL",
+      "Class A CDL"
+    ],
+    "answer": "Class A CDL",
+    "reference": "SECTION 2.2 – CHAPTER 522 - COMMERCIAL DRIVER’S LICENSES",
+    "explanation": "This combination is a CMV because the GCWR is over 26,001 lbs and the towed unit's GVWR is over 10,000 lbs. Therefore, a Class A CDL is required."
+  },
+  {
+    "question": "In the 'Apply It' scenario, a single vehicle has a GVWR of 26,001 lbs. Is this a commercial motor vehicle, and what license is required?",
+    "options": [
+      "No, it is not a CMV.",
+      "Yes, it is a CMV requiring a Class A CDL.",
+      "Yes, it is a CMV requiring a Class B CDL.",
+      "Yes, it is a CMV requiring a Class C CDL."
+    ],
+    "answer": "Yes, it is a CMV requiring a Class B CDL.",
+    "reference": "SECTION 2.2 – CHAPTER 522 - COMMERCIAL DRIVER’S LICENSES",
+    "explanation": "A single vehicle with a GVWR of 26,001 lbs or more meets the definition of a Group B CMV. Therefore, a Class B CDL is required."
+  },
+  {
+    "question": "In the 'Apply It' scenario, a bus designed to transport 18 passengers is being operated. Is this a commercial motor vehicle, and what license is required?",
+    "options": [
+      "No, it is not a CMV.",
+      "Yes, it is a CMV requiring a Class B CDL.",
+      "Yes, it is a CMV requiring a Class C CDL with a P endorsement.",
+      "Yes, it is a CMV requiring a Class C CDL with an S endorsement."
+    ],
+    "answer": "Yes, it is a CMV requiring a Class C CDL with a P endorsement.",
+    "reference": "SECTION 2.2 – CHAPTER 522 - COMMERCIAL DRIVER’S LICENSES",
+    "explanation": "A vehicle designed to transport 16-23 passengers is a Group C CMV. It requires a Class C CDL with a Passenger (P) endorsement."
+  },
+  {
+    "question": "Which endorsement is required for a driver operating a commercial motor vehicle hauling double or triple trailers?",
+    "options": [
+      "H endorsement",
+      "T endorsement",
+      "P endorsement",
+      "X endorsement"
+    ],
+    "answer": "T endorsement",
+    "reference": "SECTION 2.2 – CHAPTER 522 - COMMERCIAL DRIVER’S LICENSES",
+    "explanation": "The text for section 522.042 lists the endorsements, including 'Double or Triple Trailer – T endorsement.'"
+  },
+  {
+    "question": "According to section 522.101, a person may not drive a commercial motor vehicle with what amount of alcohol in their system?",
+    "options": [
+      "A blood alcohol concentration of 0.08 or more.",
+      "A blood alcohol concentration of 0.04 or more.",
+      "Any measurable or detectable amount of alcohol.",
+      "This rule only applies if the person is under 21."
+    ],
+    "answer": "Any measurable or detectable amount of alcohol.",
+    "reference": "SECTION 2.2 – CHAPTER 522 - COMMERCIAL DRIVER’S LICENSES",
+    "explanation": "The text states, 'A person may not drive a commercial motor vehicle with any measurable or detectable amount of alcohol in the person’s system.'"
+  },
+  {
+    "question": "What is the immediate consequence for a CMV driver who violates the 'no alcohol in system' rule?",
+    "options": [
+      "They are arrested for DWI.",
+      "Their CDL is suspended for one year.",
+      "They shall be placed out of service for 24 hours.",
+      "They receive a written warning."
+    ],
+    "answer": "They shall be placed out of service for 24 hours.",
+    "reference": "SECTION 2.2 – CHAPTER 522 - COMMERCIAL DRIVER’S LICENSES",
+    "explanation": "The text clearly states, 'If a driver violates this section, they shall be placed out of service for 24 hours.'"
+  },
+  {
+    "question": "Which of the following is NOT exempt from the driver license requirement?",
+    "options": [
+      "Operator of a farm tractor",
+      "Operator of a moped",
+      "Operator of a road machine",
+      "Operator of a military vehicle in the scope of military service"
+    ],
+    "answer": "Operator of a moped",
+    "reference": "TRC 521.027",
+    "explanation": "Section 521.027 lists specific exemptions from the driver license requirement, including operators of farm tractors, road machines, and military vehicles in the scope of service. Mopeds are not listed as exempt and require a Class M license."
+  },
+  {
+    "question": "Unless specifically excepted, a person must hold a driver license to operate a motor vehicle in any public place in the state of Texas.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False",
+    "reference": "TRC 521.021",
+    "explanation": "This is false. Section 521.021 specifies that a license is required to operate a motor vehicle 'on a highway'. While many highways are public places, not all public places (like some parking lots) are considered highways."
+  },
+  {
+    "question": "When a person moves to Texas from a different state, how many days do they have to obtain a Texas driver’s license?",
+    "options": [
+      "30 days",
+      "60 days",
+      "90 days",
+      "180 days"
+    ],
+    "answer": "90 days",
+    "reference": "TRC 521.029",
+    "explanation": "According to the text for section 521.029, new residents have 90 days to obtain a Texas driver's license."
+  },
+  {
+    "question": "When a person moves to a new residence in Texas, how many days do they have to update the address information on their driver’s license?",
+    "options": [
+      "10 days",
+      "30 days",
+      "60 days",
+      "90 days"
+    ],
+    "answer": "30 days",
+    "reference": "TRC 521.054",
+    "explanation": "According to the text for section 521.054, a person has 30 days to notify the Department of a change of address."
+  },
+  {
+    "question": "What is the minimum age to obtain a Texas driver’s license (including a learner or hardship license)?",
+    "options": [
+      "14",
+      "15",
+      "16",
+      "17"
+    ],
+    "answer": "15",
+    "reference": "TRC 521.201",
+    "explanation": "Section 521.201 states the department may not issue a license to a person under 15 years of age. Learner and hardship licenses are available starting at age 15."
+  },
+  {
+    "question": "What class of license is required to operate the following vehicle: A pickup with a GVWR of 14,000 pounds towing a travel trailer with a GVWR of 15,000 pounds.",
+    "options": [
+      "Class C Non-CDL",
+      "Class B Non-CDL",
+      "Class A Non-CDL",
+      "Class A CDL"
+    ],
+    "answer": "Class A Non-CDL",
+    "reference": "TRC 521.081 & 522.004",
+    "explanation": "The vehicle is a Recreational Vehicle, which is exempt from CDL requirements. For non-CDL classification, the combination GCWR is 29,000 lbs (over 26,001) and the towed unit's GVWR is 15,000 lbs (over 10,000), which requires a Class A Non-CDL."
+  },
+  {
+    "question": "What class of license is required to operate the following vehicle: A truck tractor in commerce with a GVWR of 54,000 pounds towing a trailer with a GVWR of 10,000 pounds.",
+    "options": [
+      "Class A CDL",
+      "Class B CDL",
+      "Class C CDL",
+      "Class A Non-CDL"
+    ],
+    "answer": "Class B CDL",
+    "reference": "TRC 522.041",
+    "explanation": "Since the vehicle is in commerce, CDL rules apply. To be a Class A CDL, the towed unit must be *more than* 10,000 lbs. Since it is exactly 10,000 lbs, you classify based on the power unit alone. A single unit with a GVWR of 26,001 lbs or more (54,000 lbs) requires a Class B CDL."
+  },
+  {
+    "question": "What class of license is required to operate the following vehicle: A bus transporting passengers for hire with a passenger capacity of 26 people, including the driver.",
+    "options": [
+      "Class A CDL",
+      "Class B CDL",
+      "Class C CDL",
+      "Class B Non-CDL"
+    ],
+    "answer": "Class B CDL",
+    "reference": "TRC 522.041",
+    "explanation": "A vehicle designed to transport 24 or more passengers (including the driver) falls under the classification for a Class B license. Since it is transporting passengers for hire, it is in commerce, thus requiring a Class B CDL."
+  },
+  {
+    "question": "There are two circumstances where a person holding an occupational license can be charged with a Class B Misdemeanor. Which of the following is one of them?",
+    "options": [
+      "Failing to renew the occupational license on time.",
+      "Driving outside the hours specified in the court order.",
+      "Receiving a speeding ticket while driving.",
+      "Failing to notify the court of a change of address."
+    ],
+    "answer": "Driving outside the hours specified in the court order.",
+    "reference": "TRC 521.253",
+    "explanation": "Section 521.253 makes it a Class B Misdemeanor to either violate a specific restriction (like time of day) listed in the court order or to fail to have the certified court order in possession while driving."
+  },
+  {
+    "question": "A habitual violator is defined as receiving ____ or more convictions in ____ consecutive months, or ____ or more convictions in ____ months.",
+    "options": [
+      "3, 12, 5, 24",
+      "4, 12, 7, 24",
+      "5, 12, 10, 24",
+      "4, 24, 7, 12"
+    ],
+    "answer": "4, 12, 7, 24",
+    "reference": "TRC 521.292",
+    "explanation": "The text for section 521.292 defines a habitual violator as 'a person who has 4 or more convictions in 12 months or 7 or more convictions in 24 months.'"
+  },
+  {
+    "question": "What happens if a person meets the definition of a habitual violator?",
+    "options": [
+      "They are issued a letter of reprimand.",
+      "They must pay an annual surcharge on their license.",
+      "Their driver license is suspended.",
+      "Their vehicle is impounded."
+    ],
+    "answer": "Their driver license is suspended.",
+    "reference": "TRC 521.292",
+    "explanation": "Section 521.292 is titled 'Department’s Determination for License Suspension' and lists being a habitual violator as a reason for automatic suspension."
+  },
+  {
+    "question": "A person with a suspended driver license causes a traffic crash which results in serious bodily injury to another. At the time of the crash, the person does not have insurance on their vehicle. The person may be charged with DWLI as a:",
+    "options": [
+      "Class C Misdemeanor",
+      "Class B Misdemeanor",
+      "Class A Misdemeanor",
+      "State Jail Felony"
+    ],
+    "answer": "Class A Misdemeanor",
+    "reference": "TRC 521.457",
+    "explanation": "According to section 521.457, the offense of DWLI is enhanced to a Class A Misdemeanor when the person's license is invalid, they are not maintaining financial responsibility, AND they cause a crash resulting in SBI or death."
+  },
+  {
+    "question": "A person driving with a suspended driver’s license who does not have insurance or any other type of financial responsibility for their vehicle commits a:",
+    "options": [
+      "Class C Misdemeanor",
+      "Class B Misdemeanor",
+      "Class A Misdemeanor",
+      "State Jail Felony"
+    ],
+    "answer": "Class B Misdemeanor",
+    "reference": "TRC 521.457",
+    "explanation": "Section 521.457 enhances a standard Class C DWLI to a Class B Misdemeanor if 'The person is operating without insurance/proof of financial responsibility.'"
+  },
+  {
+    "question": "A CDL holder operating their personal vehicle may be placed out of service for if they have detectable alcohol in their system while driving.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False",
+    "reference": "TRC 522.101",
+    "explanation": "This is false. Section 522.101 specifies that the 'any detectable alcohol' rule applies when a person drives a *commercial motor vehicle*. It does not apply when they are operating their personal, non-commercial vehicle."
+  },
+  {
+    "question": "A person operating a commercial motor vehicle with detectable alcohol in their system shall be placed out of service for 48 hours.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False",
+    "reference": "TRC 522.101",
+    "explanation": "This is false. According to section 522.101, the driver shall be placed out of service for 24 hours, not 48."
+  },
+  {
+    "question": "Which of the following is not exempt from the requirement to hold a commercial driver’s license?",
+    "options": [
+      "A person operating a covered farm vehicle",
+      "A person operating a large RV with a GVWR of 30,000 pounds",
+      "A firefighter operating a fire engine with a GVWR of 60,000 pounds",
+      "A person operating a full sized 18-wheeler intrastate and not for compensation",
+      "All of the Above are exempt from CDL requirements"
+    ],
+    "answer": "All of the Above are exempt from CDL requirements",
+    "reference": "TRC 522.004",
+    "explanation": "Section 522.004 provides exemptions for all the situations listed: covered farm vehicles, RVs (for personal use), fire fighting vehicles, and vehicles operated intrastate and not in commerce. Therefore, all are exempt."
   }
   ],
   "Radio Communications": [
