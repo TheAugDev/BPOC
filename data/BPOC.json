@@ -6938,6 +6938,789 @@
     "answer": "It is specifically intended for the direction of traffic and should not be used for orders unrelated to traffic control.",
     "reference": "SECTION 3.2 – CHAPTER 542 - GENERAL PROVISIONS",
     "explanation": "The text quotes a DPS Legal Bulletin which clarifies that '§ 542.501 is specifically intended to be used for the direction of traffic; reliance upon it for orders not related to traffic control is not recommended.'"
+  },
+  {
+    "question": "What authority does section 543.001 grant to any peace officer?",
+    "options": [
+      "To issue warnings for any traffic violation.",
+      "To arrest without a warrant a person found committing a violation of this subtitle.",
+      "To conduct vehicle inspections during any traffic stop.",
+      "To set up roadblocks to check for licenses."
+    ],
+    "answer": "To arrest without a warrant a person found committing a violation of this subtitle.",
+    "reference": "SECTION 3.3 – CHAPTER 543 - ARREST AND PROSECUTION OF VIOLATORS",
+    "explanation": "The text for section 543.001 explicitly states, 'Any peace officer may arrest without warrant a person found committing a violation of this subtitle.'"
+  },
+  {
+    "question": "According to the text for section 543.001, what does the term 'arrest' mean in the context of the Transportation Code?",
+    "options": [
+      "It only means a full custody arrest where a person is handcuffed and taken to jail.",
+      "It can mean either making a full custody arrest OR conducting a traffic stop.",
+      "It only refers to the act of an officer writing a citation.",
+      "It is the legal justification for searching a vehicle during any traffic stop."
+    ],
+    "answer": "It can mean either making a full custody arrest OR conducting a traffic stop.",
+    "reference": "SECTION 3.3 – CHAPTER 543 - ARREST AND PROSECUTION OF VIOLATORS",
+    "explanation": "The text's note for 543.001 clarifies this dual meaning: 'As far as Chapter 543 is concerned, when an officer conducts a traffic stop they are “arresting” that person.'"
+  },
+  {
+    "question": "An officer conducts a traffic stop for speeding and issues a citation. According to the text, can the officer conduct a full 'search incident to arrest' of the vehicle?",
+    "options": [
+      "Yes, because a traffic stop is considered an 'arrest' under Chapter 543.",
+      "No, because a 'search incident to arrest' only applies if a full custody arrest is made.",
+      "Yes, but only if the officer gets verbal consent first.",
+      "No, because a search warrant is always required."
+    ],
+    "answer": "No, because a 'search incident to arrest' only applies if a full custody arrest is made.",
+    "reference": "SECTION 3.3 – CHAPTER 543 - ARREST AND PROSECUTION OF VIOLATORS",
+    "explanation": "The text provides an important clarification for section 543.001: 'officers should not conduct a “search incident to arrest” unless they actually make a custody arrest (i.e. handcuffs and taking someone to jail).'"
+  },
+  {
+    "question": "Under section 543.002, which of the following offenses requires the officer to immediately take the arrested person before a magistrate?",
+    "options": [
+      "Speeding in a school zone",
+      "Failure to stop in the event of a collision causing damage to property",
+      "Driving While License Invalid",
+      "Reckless Driving"
+    ],
+    "answer": "Failure to stop in the event of a collision causing damage to property",
+    "reference": "SECTION 3.3 – CHAPTER 543 - ARREST AND PROSECUTION OF VIOLATORS",
+    "explanation": "Section 543.002 lists two situations requiring an immediate appearance, one of which is when 'the person is arrested for failure to stop in the event of a collision causing damage to property.'"
+  },
+  {
+    "question": "If a person arrested for a traffic violation demands an immediate appearance before a magistrate, what must the officer do?",
+    "options": [
+      "The officer can refuse the demand and issue a citation.",
+      "The officer must immediately take the person before a magistrate.",
+      "The officer must call a supervisor to the scene.",
+      "The officer must hold the person until a court opens."
+    ],
+    "answer": "The officer must immediately take the person before a magistrate.",
+    "reference": "SECTION 3.3 – CHAPTER 543 - ARREST AND PROSECUTION OF VIOLATORS",
+    "explanation": "Section 543.002 requires an officer to take a person before a magistrate if 'the person demands an immediate appearance or refuses to make a written notice to appear.'"
+  },
+  {
+    "question": "What three pieces of information must an officer designate on a notice to appear (citation)?",
+    "options": [
+      "The weather, road conditions, and traffic density.",
+      "The vehicle's make, model, and year.",
+      "The time and place to appear, the offense charged, and the driver's information.",
+      "The officer's name, badge number, and patrol unit number."
+    ],
+    "answer": "The time and place to appear, the offense charged, and the driver's information.",
+    "reference": "SECTION 3.3 – CHAPTER 543 - ARREST AND PROSECUTION OF VIOLATORS",
+    "explanation": "The text for section 543.003 states the officer must designate 'the time and place, the offense charged, and the driver’s information on the notice to appear.'"
+  },
+  {
+    "question": "According to section 543.004, for which of the following offenses shall an officer issue a written notice to appear instead of making a custody arrest (if the violator signs)?",
+    "options": [
+      "Reckless Driving",
+      "Failure to Maintain Financial Responsibility",
+      "Open Container (PC 49.031)",
+      "Driving While License Invalid"
+    ],
+    "answer": "Open Container (PC 49.031)",
+    "reference": "SECTION 3.3 – CHAPTER 543 - ARREST AND PROSECUTION OF VIOLATORS",
+    "explanation": "The text lists three mandatory citation offenses: Speeding, Use of a Wireless Communication Device, and Open Container."
+  },
+  {
+    "question": "The mandatory 'cite and release' rule for speeding, cell phone use, and open container does not apply if what condition is met?",
+    "options": [
+      "If the violation occurs at night.",
+      "If the violator is from a state not part of the Nonresident Violator Compact (NRVC).",
+      "If the driver has a prior conviction for the same offense.",
+      "If the violation occurs in a school zone."
+    ],
+    "answer": "If the violator is from a state not part of the Nonresident Violator Compact (NRVC).",
+    "reference": "SECTION 3.3 – CHAPTER 543 - ARREST AND PROSECUTION OF VIOLATORS",
+    "explanation": "The text for section 543.004 includes the provision that the mandatory citation rule 'Does not apply to non-NRVC states.'"
+  },
+  {
+    "question": "What must an officer do after a violator signs the promise to appear on a citation?",
+    "options": [
+      "Follow the violator for a short distance.",
+      "Promptly release the violator.",
+      "Hold the violator for 10 minutes to ensure the signature is valid.",
+      "Escort the violator to the county line."
+    ],
+    "answer": "Promptly release the violator.",
+    "reference": "SECTION 3.3 – CHAPTER 543 - ARREST AND PROSECUTION OF VIOLATORS",
+    "explanation": "Section 543.005 states, 'Once the violator signs the promise to appear, the officer shall promptly release the violator.'"
+  },
+  {
+    "question": "The notice to appear (citation) must give the violator at least how many days to contact the court?",
+    "options": [
+      "5 days",
+      "7 days",
+      "10 days",
+      "14 days"
+    ],
+    "answer": "10 days",
+    "reference": "SECTION 3.3 – CHAPTER 543 - ARREST AND PROSECUTION OF VIOLATORS",
+    "explanation": "Section 543.006 specifies, 'The notice to appear must give the violator at least 10 days to contact the court.'"
+  },
+  {
+    "question": "What specific information must be included on a citation issued to a person operating a commercial motor vehicle or holding a CDL?",
+    "options": [
+      "The vehicle's gross weight rating.",
+      "Language warning of potential license disqualification for serious traffic violations.",
+      "The name of the motor carrier the driver works for.",
+      "A notice that the fine will be doubled."
+    ],
+    "answer": "Language warning of potential license disqualification for serious traffic violations.",
+    "reference": "SECTION 3.3 – CHAPTER 543 - ARREST AND PROSECUTION OF VIOLATORS",
+    "explanation": "Section 543.007 requires 'Certain language must be included... This language warns of disqualification for a certain number of serious traffic violations.'"
+  },
+  {
+    "question": "What is the consequence if a peace officer violates the provisions of Sections 543.003-543.007 regarding the notice to appear process?",
+    "options": [
+      "The citation is automatically dismissed.",
+      "The officer receives a written reprimand.",
+      "It is considered misconduct in office and the officer is subject to removal.",
+      "The officer must pay a fine to the court."
+    ],
+    "answer": "It is considered misconduct in office and the officer is subject to removal.",
+    "reference": "SECTION 3.3 – CHAPTER 543 - ARREST AND PROSECUTION OF VIOLATORS",
+    "explanation": "Section 543.008 explicitly states that a violation by an officer 'is misconduct in office and the officer is subject to removal from the officer's position.'"
+  },
+  {
+    "question": "According to section 543.009, which of the following is a permissible way for a violator to comply with their promise to appear?",
+    "options": [
+      "Sending a friend to court in their place.",
+      "Calling the officer who issued the citation.",
+      "Having a lawyer appear in their place.",
+      "Ignoring the citation, as it is not a court order."
+    ],
+    "answer": "Having a lawyer appear in their place.",
+    "reference": "SECTION 3.3 – CHAPTER 543 - ARREST AND PROSECUTION OF VIOLATORS",
+    "explanation": "Section 543.009 'allows a violator to comply with their promise to appear by having a lawyer appear in their place.'"
+  },
+  {
+    "question": "What is the legal consequence for a person who 'willfully violates a written promise to appear'?",
+    "options": [
+      "Their driver's license is automatically suspended.",
+      "A warrant is immediately issued for their arrest.",
+      "They are committing a misdemeanor.",
+      "The original fine is automatically doubled."
+    ],
+    "answer": "They are committing a misdemeanor.",
+    "reference": "SECTION 3.3 – CHAPTER 543 - ARREST AND PROSECUTION OF VIOLATORS",
+    "explanation": "Section 543.009 specifies, 'If a person willfully violates a written promise to appear they are committing a misdemeanor.'"
+  },
+  {
+    "question": "A citation for the offense of speeding MUST specify what two pieces of information?",
+    "options": [
+      "The time of day and the weather conditions.",
+      "The make of the vehicle and the officer's badge number.",
+      "The maximum or minimum speed limit applicable, and the speed at which the defendant is alleged to have driven.",
+      "The location of the violation and the date of the required court appearance."
+    ],
+    "answer": "The maximum or minimum speed limit applicable, and the speed at which the defendant is alleged to have driven.",
+    "reference": "SECTION 3.3 – CHAPTER 543 - ARREST AND PROSECUTION OF VIOLATORS",
+    "explanation": "Section 543.010 is very specific, stating the citation must specify '1) the maximum or minimum speed limit applicable; and 2) the speed at which the defendant is alleged to have driven.'"
+  },
+  {
+    "question": "What is the name of the uniform traffic control manual that TXDOT is directed to adopt under section 544.001?",
+    "options": [
+      "The Federal Highway Signage Guide",
+      "The Texas Manual on Uniform Traffic Control Devices (TMUTCD)",
+      "The State Traffic Engineering Handbook",
+      "The Subtitle C Rules and Regulations Manual"
+    ],
+    "answer": "The Texas Manual on Uniform Traffic Control Devices (TMUTCD)",
+    "reference": "SECTION 3.4 – CHAPTER 544 - TRAFFIC SIGNS, SIGNALS, AND MARKINGS",
+    "explanation": "The text for section 544.001 explicitly states that TXDOT is directed to adopt the 'Texas Manual on Uniform Traffic Control Devices.'"
+  },
+  {
+    "question": "According to the reference to 541.304, which of the following is NOT part of the definition of an 'official traffic-control device'?",
+    "options": [
+      "It must be consistent with this subtitle.",
+      "It must be placed or erected by a public body or officer having jurisdiction.",
+      "It must be used to regulate, warn, or guide traffic.",
+      "It must be electronic or illuminated."
+    ],
+    "answer": "It must be electronic or illuminated.",
+    "reference": "SECTION 3.4 – CHAPTER 544 - TRAFFIC SIGNS, SIGNALS, AND MARKINGS",
+    "explanation": "The definition provided lists three criteria: consistency with the subtitle, placement by a proper authority, and use for regulating/warning/guiding traffic. There is no requirement for it to be electronic."
+  },
+  {
+    "question": "For an official traffic control device to be enforceable, it must be in a proper position and what other condition must be met?",
+    "options": [
+      "It must be newly installed within the last 5 years.",
+      "It must be sufficiently legible to an ordinarily observant person.",
+      "It must be illuminated at all times.",
+      "It must be accompanied by a written ordinance."
+    ],
+    "answer": "It must be sufficiently legible to an ordinarily observant person.",
+    "reference": "SECTION 3.4 – CHAPTER 544 - TRAFFIC SIGNS, SIGNALS, AND MARKINGS",
+    "explanation": "Section 544.004 states, 'If a traffic control device is not in proper position and sufficiently legible to an ordinarily observant person it cannot be enforced.'"
+  },
+  {
+    "question": "In the 'Apply It' scenario, a driver makes a U-turn where a 'No U-Turn' sign (R3-4) is posted. Has the driver disregarded a regulatory official traffic control device?",
+    "options": [
+      "No, because U-turns are not specifically prohibited in the Transportation Code.",
+      "No, because the sign is only a warning, not a regulation.",
+      "Yes, because the TMUTCD describes the sign as a regulatory Movement Prohibition sign.",
+      "Only if the U-turn was made in an unsafe manner."
+    ],
+    "answer": "Yes, because the TMUTCD describes the sign as a regulatory Movement Prohibition sign.",
+    "reference": "SECTION 3.4 – CHAPTER 544 - TRAFFIC SIGNS, SIGNALS, AND MARKINGS",
+    "explanation": "The discussion explains that since the TMUTCD classifies this as a regulatory sign that shall be installed to prohibit the movement, disregarding it is a violation of 544.004."
+  },
+  {
+    "question": "Which of the following actions constitutes an offense under section 544.005, Interference with a Traffic Control Device?",
+    "options": [
+      "Taking a picture of a stop sign.",
+      "Reporting a malfunctioning traffic light.",
+      "Altering, injuring, knocking down, or removing an official traffic-control device.",
+      "Briefly leaning against a traffic signal pole."
+    ],
+    "answer": "Altering, injuring, knocking down, or removing an official traffic-control device.",
+    "reference": "SECTION 3.4 – CHAPTER 544 - TRAFFIC SIGNS, SIGNALS, AND MARKINGS",
+    "explanation": "Section 544.005 makes it an offense to 'alter, injure, knock down, or remove an official traffic-control device or a railroad sign or signal.'"
+  },
+  {
+    "question": "Under section 544.006, it is a violation to place an unauthorized sign on a highway if it does what?",
+    "options": [
+      "Advertises a local business.",
+      "Is smaller than a standard regulatory sign.",
+      "Imitates or resembles an official traffic control device or attempts to direct traffic.",
+      "Is made of wood instead of metal."
+    ],
+    "answer": "Imitates or resembles an official traffic control device or attempts to direct traffic.",
+    "reference": "SECTION 3.4 – CHAPTER 544 - TRAFFIC SIGNS, SIGNALS, AND MARKINGS",
+    "explanation": "Section 544.006 makes it a violation to place a sign 'that imitates or resembles an official traffic control device or railroad sign or signal or that attempts to direct the movement of traffic.'"
+  },
+  {
+    "question": "Under section 544.006, it is a violation to maintain a flashing light or flashing electric sign within what distance of an intersection without a permit?",
+    "options": [
+      "500 feet",
+      "1,000 feet",
+      "One-quarter mile",
+      "One-half mile"
+    ],
+    "answer": "1,000 feet",
+    "reference": "SECTION 3.4 – CHAPTER 544 - TRAFFIC SIGNS, SIGNALS, AND MARKINGS",
+    "explanation": "Section 544.006 states it is a violation 'to maintain a flashing light or flashing electric sign within 1,000 feet of an intersection except under a permit...'"
+  },
+  {
+    "question": "When facing a circular green signal, what must a driver do before proceeding through an intersection?",
+    "options": [
+      "Come to a complete stop first.",
+      "Honk their horn to alert cross-traffic.",
+      "Yield the right-of-way to other vehicles and pedestrians lawfully in the intersection or crosswalk.",
+      "Proceed immediately without yielding as they have the absolute right-of-way."
+    ],
+    "answer": "Yield the right-of-way to other vehicles and pedestrians lawfully in the intersection or crosswalk.",
+    "reference": "SECTION 3.4 – CHAPTER 544 - TRAFFIC SIGNS, SIGNALS, AND MARKINGS",
+    "explanation": "Section 544.007(b) specifies that a vehicle facing a green signal may proceed 'after yielding ROW to other vehicles and pedestrians lawfully in the intersection or adjacent crosswalk.'"
+  },
+  {
+    "question": "When approaching a steady red traffic signal where a clearly marked stop line is present, where must a driver stop?",
+    "options": [
+      "At the stop line.",
+      "Before the crosswalk, even if it's behind the stop line.",
+      "At the point with the best visibility.",
+      "At a point even with the signal post."
+    ],
+    "answer": "At the stop line.",
+    "reference": "SECTION 3.4 – CHAPTER 544 - TRAFFIC SIGNS, SIGNALS, AND MARKINGS",
+    "explanation": "Section 544.007(d) specifies the stop must be made at 'a clearly marked stop line' if one is present."
+  },
+  {
+    "question": "Under what specific circumstance may a driver turn LEFT after stopping for a steady red signal?",
+    "options": [
+      "At any intersection after yielding to traffic.",
+      "Only between sunrise and sunset.",
+      "If both the street they are on and the street they are turning onto are one-way roadways.",
+      "Never, a left turn on red is always illegal in Texas."
+    ],
+    "answer": "If both the street they are on and the street they are turning onto are one-way roadways.",
+    "reference": "SECTION 3.4 – CHAPTER 544 - TRAFFIC SIGNS, SIGNALS, AND MARKINGS",
+    "explanation": "The text for section 544.007(d) provides this specific exception: 'A vehicle may also turn left after stopping if both roadways are one way roadways.'"
+  },
+  {
+    "question": "What does a steady yellow signal indicate to a driver?",
+    "options": [
+      "That they should speed up to clear the intersection.",
+      "That they have 5 seconds before the light turns red.",
+      "A warning that the authorized movement is being terminated and a red signal is about to be given.",
+      "That they should stop immediately, even if in the middle of the intersection."
+    ],
+    "answer": "A warning that the authorized movement is being terminated and a red signal is about to be given.",
+    "reference": "SECTION 3.4 – CHAPTER 544 - TRAFFIC SIGNS, SIGNALS, AND MARKINGS",
+    "explanation": "Section 544.007(e) defines the steady yellow signal as a warning that the green signal 'is being terminated or a red signal is to be given.'"
+  },
+  {
+    "question": "If a traffic control signal at a location OTHER than an intersection is displaying a red light and there is no stop line, where must the stop be made?",
+    "options": [
+      "15 feet before the signal.",
+      "At the signal.",
+      "At a point where the driver can see best.",
+      "No stop is required if not at an intersection."
+    ],
+    "answer": "At the signal.",
+    "reference": "SECTION 3.4 – CHAPTER 544 - TRAFFIC SIGNS, SIGNALS, AND MARKINGS",
+    "explanation": "Section 544.007(g) states that if a signal is at a place other than an intersection and no stop line is provided, 'the stop for a red signal is required to be made at the signal.'"
+  },
+  {
+    "question": "If a traffic control signal at an intersection is not working (e.g., due to a power outage), how must drivers treat the intersection?",
+    "options": [
+      "They should proceed with caution without stopping.",
+      "The first vehicle to arrive has the right-of-way.",
+      "They are required to treat the signal as if it were a stop sign.",
+      "They should treat it as an uncontrolled intersection and yield to traffic on the right."
+    ],
+    "answer": "They are required to treat the signal as if it were a stop sign.",
+    "reference": "SECTION 3.4 – CHAPTER 544 - TRAFFIC SIGNS, SIGNALS, AND MARKINGS",
+    "explanation": "Section 544.007(i) states that if a signal is not displaying an indication, 'traffic is required to treat the signal as if it were a stop sign.'"
+  },
+  {
+    "question": "What action should a driver take when approaching a flashing yellow signal?",
+    "options": [
+      "Stop completely before proceeding.",
+      "Yield to all cross traffic.",
+      "Maintain speed and proceed through the intersection.",
+      "Proceed with caution."
+    ],
+    "answer": "Proceed with caution.",
+    "reference": "SECTION 3.4 – CHAPTER 544 - TRAFFIC SIGNS, SIGNALS, AND MARKINGS",
+    "explanation": "Section 544.008 specifies that 'Vehicles approaching a flashing yellow signal should proceed with caution.'"
+  },
+  {
+    "question": "What does a lane-direction-control signal displaying a steady red 'X' indicate?",
+    "options": [
+      "The lane is about to close, proceed with caution.",
+      "The lane is closed, and it is illegal to travel or merge into it.",
+      "The lane is for emergency vehicles only.",
+      "The lane's direction is about to be reversed."
+    ],
+    "answer": "The lane is closed, and it is illegal to travel or merge into it.",
+    "reference": "SECTION 3.4 – CHAPTER 544 - TRAFFIC SIGNS, SIGNALS, AND MARKINGS",
+    "explanation": "Section 544.009 states, 'It is Illegal to travel in or merge into a lane with a red signal displayed in a lane-direction-control signal.'"
+  },
+  {
+    "question": "If an intersection has a stop sign but no stop line or crosswalk, where must a driver stop?",
+    "options": [
+      "15 feet before the stop sign.",
+      "Directly even with the stop sign post.",
+      "At a place nearest the intersecting roadway where the driver can see approaching traffic.",
+      "The driver does not have to stop if no line or crosswalk is present."
+    ],
+    "answer": "At a place nearest the intersecting roadway where the driver can see approaching traffic.",
+    "reference": "SECTION 3.4 – CHAPTER 544 - TRAFFIC SIGNS, SIGNALS, AND MARKINGS",
+    "explanation": "Section 544.010 lists the three required stopping points in order of precedence. If neither a stop line nor crosswalk is present, the stop must be made 'At a place nearest the intersecting roadway the driver can see.'"
+  },
+  {
+    "question": "According to the TMUTCD clarification, when has a violation for failing to stop at a stop line occurred?",
+    "options": [
+      "When the vehicle's front tires touch the stop line.",
+      "When any part of the vehicle stops beyond the clearly marked stop line.",
+      "Only when the entire vehicle passes the stop line before stopping.",
+      "When the driver fails to stop for at least 3 seconds."
+    ],
+    "answer": "When any part of the vehicle stops beyond the clearly marked stop line.",
+    "reference": "SECTION 3.4 – CHAPTER 544 - TRAFFIC SIGNS, SIGNALS, AND MARKINGS",
+    "explanation": "The text clarifies from the TMUTCD that 'A violation for failing to stop at the designated point occurs when a vehicle stops with any part of the vehicle beyond a clearly marked stop line.'"
+  },
+  {
+    "question": "What is the specific wording required by section 544.011 for signs directing slower traffic out of the farthest left lane?",
+    "options": [
+      "Slower Traffic Keep Right",
+      "Keep Right Except to Pass",
+      "Left Lane for Passing Only",
+      "Trucks Use Right Lane"
+    ],
+    "answer": "Left Lane for Passing Only",
+    "reference": "SECTION 3.4 – CHAPTER 544 - TRAFFIC SIGNS, SIGNALS, AND MARKINGS",
+    "explanation": "Section 544.011 specifies that 'These signs should read “Left Lane for Passing Only”'."
+  },
+  {
+    "question": "According to the case law *Abney v. State*, why might a traffic stop for a 'Left Lane for Passing Only' violation be invalid?",
+    "options": [
+      "If the driver was only in the left lane for less than one mile.",
+      "If the officer did not establish how frequently signs were placed and if the violator passed one within a reasonable proximity.",
+      "If the driver was traveling at the posted speed limit.",
+      "If there was no other traffic on the roadway to pass."
+    ],
+    "answer": "If the officer did not establish how frequently signs were placed and if the violator passed one within a reasonable proximity.",
+    "reference": "SECTION 3.4 – CHAPTER 544 - TRAFFIC SIGNS, SIGNALS, AND MARKINGS",
+    "explanation": "The summary of *Abney v. State* held that it was 'important to establish how frequently signs were placed and whether or not the violator drove past a sign within a reasonable proximity to where an officer is alleging a violation.'"
+  },
+  {
+    "question": "A person “steering” a vehicle being towed with a tow chain is the operator of that vehicle.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "reference": "TRC 541.001",
+    "explanation": "True. The definition of 'Operator' is a person who drives or has 'physical control' of a vehicle. A person steering a towed vehicle has physical control."
+  },
+  {
+    "question": "Which of the following is NOT an authorized emergency vehicle for the purposes of the Transportation Code?",
+    "options": [
+      "A police vehicle on routine patrol.",
+      "A tissue bank vehicle making an emergency delivery to the hospital.",
+      "A private vehicle of a volunteer firefighter returning from a fire.",
+      "A private ambulance parked at Denny’s while the paramedics are eating."
+    ],
+    "answer": "A private vehicle of a volunteer firefighter returning from a fire.",
+    "reference": "TRC 541.201",
+    "explanation": "The definition for an AEV includes the private vehicle of a volunteer firefighter only when 'responding to a fire alarm or medical emergency,' not when returning from one. While the ambulance is an AEV, it is not operating as one while parked, but the vehicle itself does not lose its status; the firefighter's vehicle only gains the status when responding."
+  },
+  {
+    "question": "A physician responding to an emergency in his personal vehicle would be considered to be operating an authorized emergency vehicle.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False",
+    "reference": "TRC 541.201",
+    "explanation": "False. The detailed list of what constitutes an 'Authorized Emergency Vehicle' in section 541.201 does not include a private vehicle of a physician, even if responding to an emergency."
+  },
+  {
+    "question": "A bus is a motor vehicle designed to transport how many people?",
+    "options": [
+      "10 or fewer passengers",
+      "More than 10 passengers",
+      "15 or more passengers",
+      "More than 23 passengers"
+    ],
+    "answer": "More than 10 passengers",
+    "reference": "TRC 541.201",
+    "explanation": "The definition of a 'Bus' includes a motor vehicle 'designed to accommodate more than 10 passengers, including the operator.'"
+  },
+  {
+    "question": "When a charter bus company is hired by a school to take school children on a field trip, that bus is considered to be a school bus.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False",
+    "reference": "TRC 541.201",
+    "explanation": "False. The definition of 'School Bus' is specific to vehicles 'manufactured in compliance with the federal motor vehicle safety standards for school buses.' A standard charter bus, even when used for a school trip, does not meet this definition."
+  },
+  {
+    "question": "A 'light truck' means a truck with a manufacturer’s rated carrying capacity of _________ pounds or less.",
+    "options": [
+      "1,000",
+      "2,000",
+      "5,000",
+      "10,000"
+    ],
+    "answer": "2,000",
+    "reference": "TRC 541.201",
+    "explanation": "The definition of a 'Light Truck' in section 541.201(7) is a truck 'that has a manufacturer's rated carrying capacity of 2,000 pounds or less.'"
+  },
+  {
+    "question": "A bucket loader operated on the highway meets the definition of what type of vehicle?",
+    "options": [
+      "Road Tractor",
+      "Implement of Husbandry",
+      "Special Mobile Equipment",
+      "Commercial Motor Vehicle"
+    ],
+    "answer": "Special Mobile Equipment",
+    "reference": "TRC 541.201",
+    "explanation": "A bucket loader fits the definition of 'Special Mobile Equipment' as it is 'a vehicle that is not designed or used primarily to transport persons or property and that is only incidentally operated on a highway.'"
+  },
+  {
+    "question": "What are the two distinct features of a motorcycle according to its definition?",
+    "options": [
+      "A straddle seat and two tandem wheels.",
+      "An engine over 50cc and a manual transmission.",
+      "A rider's saddle and not more than three wheels on the ground.",
+      "A handlebar steering mechanism and a headlight."
+    ],
+    "answer": "A rider's saddle and not more than three wheels on the ground.",
+    "reference": "TRC 541.201",
+    "explanation": "The definition in section 541.201(9) specifies a motorcycle is 'equipped with a rider's saddle and designed to have when propelled not more than three wheels on the ground.'"
+  },
+  {
+    "question": "A vehicle designed to be drawn by a motor vehicle to transport persons or property and constructed so that no part of the vehicle’s weight and load rests on the motor vehicle is the definition of a:",
+    "options": [
+      "Trailer",
+      "Semitrailer",
+      "Pole trailer",
+      "House Trailer"
+    ],
+    "answer": "Trailer",
+    "reference": "TRC 541.201",
+    "explanation": "This is the specific definition of a 'Trailer' from section 541.201(20), distinguishing it from a semitrailer where part of the weight does rest on the towing vehicle."
+  },
+  {
+    "question": "A/an __________________________________ is a vehicle that is designed and adapted for use as a farm implement, machinery, or tool for tilling the soil.",
+    "options": [
+      "Farm Tractor",
+      "Road Tractor",
+      "Implement of Husbandry",
+      "Special Mobile Equipment"
+    ],
+    "answer": "Implement of Husbandry",
+    "reference": "TRC 541.201",
+    "explanation": "This is part of the definition of an 'Implement of Husbandry' found in section 541.201(6)."
+  },
+  {
+    "question": "Which of the following is NOT considered “traffic”?",
+    "options": [
+      "A person riding a donkey",
+      "A person operating a motorized mobility device",
+      "A person walking on the sidewalk",
+      "Goats being herded by a goat herder",
+      "A wild deer"
+    ],
+    "answer": "A wild deer",
+    "reference": "TRC 541.301",
+    "explanation": "The definition of 'Traffic' includes pedestrians, ridden or herded animals, and conveyances. A wild deer is not being ridden, herded, or used for travel and therefore is not considered traffic."
+  },
+  {
+    "question": "The junction of a private drive with a highway does not constitute an intersection.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "reference": "TRC 541.303",
+    "explanation": "True. The definition of 'Intersection' specifies the junction of two highways and 'does not include the junction of a highway with a private drive or alley.'"
+  },
+  {
+    "question": "In order to be considered an “Official Traffic Control Device”, the device must be placed by:",
+    "options": [
+      "A police officer",
+      "A TXDOT employee",
+      "A public body or officer having jurisdiction",
+      "The owner of a parking lot"
+    ],
+    "answer": "A public body or officer having jurisdiction",
+    "reference": "TRC 541.304",
+    "explanation": "The definition of an 'Official Traffic-Control Device' requires that it be 'placed or erected by a public body or officer having jurisdiction.'"
+  },
+  {
+    "question": "What is the term for the portion of a highway, other than the berm or shoulder, that is improved, designed, or ordinarily used for vehicular travel?",
+    "options": [
+      "Roadway",
+      "Highway",
+      "Laned Roadway",
+      "Freeway Main Lane"
+    ],
+    "answer": "Roadway",
+    "reference": "TRC 541.302",
+    "explanation": "This is the specific definition of 'Roadway' from section 541.302(11)."
+  },
+  {
+    "question": "What is the term for the portion of a highway that is adjacent to the roadway and designed or ordinarily used for parking?",
+    "options": [
+      "Berm",
+      "Sidewalk",
+      "Improved Shoulder",
+      "Shoulder"
+    ],
+    "answer": "Shoulder",
+    "reference": "TRC 541.302",
+    "explanation": "This is the specific definition of 'Shoulder' from section 541.302(15)."
+  },
+  {
+    "question": "What is the term for the entire width between the boundary lines of a publicly maintained way, any part of which is open to the public for vehicular travel?",
+    "options": [
+      "Roadway",
+      "Highway or Street",
+      "Right-of-Way",
+      "Freeway"
+    ],
+    "answer": "Highway or Street",
+    "reference": "TRC 541.302",
+    "explanation": "This is the specific definition of 'Highway or Street' from section 541.302(5), which includes the entire right-of-way, not just the travel lanes."
+  },
+  {
+    "question": "When does 'Daytime' end?",
+    "options": [
+      "At sunset",
+      "½ hour after sunset",
+      "1 hour after sunset",
+      "When streetlights turn on"
+    ],
+    "answer": "½ hour after sunset",
+    "reference": "TRC 541.401",
+    "explanation": "The definition of 'Daytime' is from ½ hour before sunrise to ½ hour after sunset."
+  },
+  {
+    "question": "When does 'Nighttime' end?",
+    "options": [
+      "At sunrise",
+      "½ hour before sunrise",
+      "1 hour before sunrise",
+      "At 6:00 AM"
+    ],
+    "answer": "½ hour before sunrise",
+    "reference": "TRC 541.401",
+    "explanation": "The definition of 'Nighttime' is from ½ hour after sunset to ½ hour before sunrise."
+  },
+  {
+    "question": "A vehicle does not meet the definition of 'stand' if it halts temporarily to receive or discharge passengers.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "reference": "TRC 541.401",
+    "explanation": "True. The definition of 'Stand or Standing' includes a specific exception: 'If vehicle is halted temporarily to receive/discharge passengers, it is not considered to be standing.'"
+  },
+  {
+    "question": "A vehicle only meets the definition of 'park' if the transmission is placed in the park position.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False",
+    "reference": "TRC 541.401",
+    "explanation": "False. The definition of 'Park or Parking' is to 'stand an occupied or unoccupied vehicle.' It does not mention the position of the transmission."
+  },
+  {
+    "question": "A provision of this subtitle (Subtitle C) relating to the operation of a vehicle applies only to the operation of a vehicle on a highway unless the provision specifically applies to a different place.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "reference": "TRC 542.001",
+    "explanation": "True. This is the general applicability rule established in section 542.001."
+  },
+  {
+    "question": "Unless otherwise specified, what is the level of offense for a violation of Subtitle C in the Transportation Code?",
+    "options": [
+      "Civil Infraction",
+      "Misdemeanor",
+      "State Jail Felony",
+      "It is not an offense."
+    ],
+    "answer": "Misdemeanor",
+    "reference": "TRC 542.301",
+    "explanation": "Section 542.301 states that unless otherwise specified, 'the offense is a misdemeanor.'"
+  },
+  {
+    "question": "Unless otherwise specified, what is the fine for an offense of Subtitle C in the Transportation Code?",
+    "options": [
+      "$1 to $200",
+      "Exactly $200",
+      "$25 to $500",
+      "Up to $1,000"
+    ],
+    "answer": "$1 to $200",
+    "reference": "TRC 542.401",
+    "explanation": "Section 542.401 sets the general penalty as 'a fine from $1 to $200.'"
+  },
+  {
+    "question": "It is a violation to willfully fail or refuse to comply with a lawful order or direction of which of the following?",
+    "options": [
+      "A police officer",
+      "A trained school crossing guard at a school crosswalk",
+      "An escort flagger directing traffic according to a permit",
+      "All of the Above"
+    ],
+    "answer": "All of the Above",
+    "reference": "TRC 542.501",
+    "explanation": "Section 542.501 explicitly requires obedience to the lawful orders of police officers, school crossing guards, and escort flaggers."
+  },
+  {
+    "question": "Any peace officer is authorized to arrest, without a warrant, any person found committing a violation of Subtitle C, Texas Transportation Code.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "reference": "TRC 543.001",
+    "explanation": "True. Section 543.001 provides this specific authority to any peace officer."
+  },
+  {
+    "question": "Which of the following is one of the three offenses where an officer is REQUIRED to issue a notice to appear instead of making a custody arrest?",
+    "options": [
+      "Reckless Driving",
+      "Use of Wireless Communication Device",
+      "Failure to Maintain Financial Responsibility",
+      "Driving While License Invalid"
+    ],
+    "answer": "Use of Wireless Communication Device",
+    "reference": "TRC 543.004",
+    "explanation": "Section 543.004 lists three mandatory 'cite and release' offenses: Speeding, Use of Wireless Communication Device, and Open Container."
+  },
+  {
+    "question": "On a citation, an officer must list a court date exactly 10 days after the date of the violation.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False",
+    "reference": "TRC 543.006",
+    "explanation": "False. Section 543.006 requires the officer to give the violator 'at least 10 days' to contact the court, not exactly 10 days."
+  },
+  {
+    "question": "A peace officer who violates the provisions of Chapter 543.003-543.007 regarding notice to appear procedures commits what?",
+    "options": [
+      "Misconduct and is subject to removal from the officer’s position",
+      "Misconduct and is subject to a written reprimand",
+      "Misconduct and is subject to civil liability",
+      "Does not commit misconduct unless the officer acted knowingly or intentionally"
+    ],
+    "answer": "Misconduct and is subject to removal from the officer’s position",
+    "reference": "TRC 543.008",
+    "explanation": "Section 543.008 states that a violation 'is misconduct in office and the officer is subject to removal from the officer's position.'"
+  },
+  {
+    "question": "To find information on a traffic control device not described in the Texas Transportation Code, what resource should an officer utilize?",
+    "options": [
+      "Administrative Code",
+      "Case Law",
+      "Texas Manual on Uniform Traffic Control Devices",
+      "A search engine"
+    ],
+    "answer": "Texas Manual on Uniform Traffic Control Devices",
+    "reference": "TRC 544.001",
+    "explanation": "Section 544.001 establishes the Texas Manual on Uniform Traffic Control Devices (TMUTCD) as the standard for this purpose."
+  },
+  {
+    "question": "Enforcement action may be taken against an operator for failing to stop even when the stop sign is not in proper position and sufficiently legible to an ordinarily observant person.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False",
+    "reference": "TRC 544.004",
+    "explanation": "False. Section 544.004 states that if a device 'is not in proper position and sufficiently legible to an ordinarily observant person it cannot be enforced.'"
+  },
+  {
+    "question": "An operator of a vehicle facing a traffic control signal that does not display an indication in any of the signal heads shall:",
+    "options": [
+      "Stop as if there is a stop sign",
+      "Slow down and yield as if there is a yield sign",
+      "Proceed with caution as if there is a flashing yellow signal",
+      "Continue without stopping because the device is not working"
+    ],
+    "answer": "Stop as if there is a stop sign",
+    "reference": "TRC 544.007",
+    "explanation": "Section 544.007(i) requires that an inoperative signal be treated as if it were a stop sign."
+  },
+  {
+    "question": "A flashing red traffic light and a stop sign require the same obedience.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "reference": "TRC 544.008",
+    "explanation": "True. Section 544.008 requires a vehicle facing a flashing red signal to stop and then proceed 'subject to the rules of right-of-way applicable to stopping at a stop sign.'"
+  },
+  {
+    "question": "Which of the following is one of the three required stopping points for a stop sign?",
+    "options": [
+      "Directly even with the stop sign post.",
+      "10 feet before the intersecting roadway.",
+      "At a clearly marked stop line.",
+      "Wherever the driver feels it is safest."
+    ],
+    "answer": "At a clearly marked stop line.",
+    "reference": "TRC 544.010",
+    "explanation": "Section 544.010 lists the three required stopping points in order of precedence: 1) At a clearly marked stop line, 2) Before the crosswalk, or 3) At the point nearest the intersection with a view of traffic."
   }
   ],
   "Radio Communications": [
