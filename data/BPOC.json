@@ -7721,6 +7721,2116 @@
     "answer": "At a clearly marked stop line.",
     "reference": "TRC 544.010",
     "explanation": "Section 544.010 lists the three required stopping points in order of precedence: 1) At a clearly marked stop line, 2) Before the crosswalk, or 3) At the point nearest the intersection with a view of traffic."
+  },
+  {
+    "question": "According to the definition in section 545.001, what does the term 'Pass or Passing' include?",
+    "options": [
+      "Only the successful maneuver of overtaking and returning to the lane.",
+      "The attempt to overtake and proceed past another vehicle, even if the pass is not completed.",
+      "Only when a vehicle uses a lane of opposing traffic.",
+      "Following another vehicle closely before moving into another lane."
+    ],
+    "answer": "The attempt to overtake and proceed past another vehicle, even if the pass is not completed.",
+    "reference": "SECTION 4.1 – CHAPTER 545 - OPERATION AND MOVEMENT OF VEHICLES",
+    "explanation": "The definition explicitly states, 'The term also means to attempt that maneuver even if the pass is not completed.'"
+  },
+  {
+    "question": "For the purposes of Chapter 545, what other type of vehicle does the term 'School Bus' also refer to?",
+    "options": [
+      "A charter bus",
+      "A church bus",
+      "A multifunction school activity bus",
+      "Any bus painted yellow"
+    ],
+    "answer": "A multifunction school activity bus",
+    "reference": "SECTION 4.1 – CHAPTER 545 - OPERATION AND MOVEMENT OF VEHICLES",
+    "explanation": "Section 545.001(3) clarifies that 'when used in the context of Chapter 545, “School Bus” also means a multifunction school activity bus.'"
+  },
+  {
+    "question": "Which of the following is NOT one of the listed exceptions to the general rule of driving on the right side of the roadway?",
+    "options": [
+      "When passing another vehicle.",
+      "When driving slower than the posted speed limit.",
+      "When safely going around an obstruction.",
+      "When traveling on a one-way roadway."
+    ],
+    "answer": "When driving slower than the posted speed limit.",
+    "reference": "SECTION 4.1 – CHAPTER 545 - OPERATION AND MOVEMENT OF VEHICLES",
+    "explanation": "Section 545.051 lists four specific exceptions to the rule. Driving slower than the speed limit is not one of them; in fact, slower traffic is generally required to keep to the right."
+  },
+  {
+    "question": "Under what condition must an operator comply with the 'Slower Vehicle Fail to Keep Right' rule?",
+    "options": [
+      "At all times when driving below the speed limit.",
+      "Only when a 'Slower Traffic Keep Right' sign is posted.",
+      "Only when there is other traffic on the highway traveling faster.",
+      "Only on highways with three or more lanes."
+    ],
+    "answer": "Only when there is other traffic on the highway traveling faster.",
+    "reference": "SECTION 4.1 – CHAPTER 545 - OPERATION AND MOVEMENT OF VEHICLES",
+    "explanation": "The text for section 545.051(b) specifies that 'In order for this offense to take place, there must be other traffic on the highway traveling faster.'"
+  },
+  {
+    "question": "In the 'Apply It' scenario, a blue vehicle is traveling 55 MPH in the left lane while a green vehicle is traveling 70 MPH in the right lane. Is the driver of the blue vehicle committing a violation?",
+    "options": [
+      "Yes, because they are impeding traffic.",
+      "No, because there is an open lane to their right.",
+      "No, because they are not being overtaken by a faster vehicle.",
+      "Yes, because they must always keep right when traveling under the speed limit."
+    ],
+    "answer": "No, because they are not being overtaken by a faster vehicle.",
+    "reference": "SECTION 4.1 – CHAPTER 545 - OPERATION AND MOVEMENT OF VEHICLES",
+    "explanation": "The 'Slower Vehicle Fail to Keep Right' rule applies when a slower vehicle is in a lane other than the right-hand lane and is being overtaken by a faster vehicle. In this scenario, the faster vehicle is already to the right and not being impeded."
+  },
+  {
+    "question": "What is the duty of an operator being passed by another vehicle after hearing an 'audible signal'?",
+    "options": [
+      "Speed up to create more space.",
+      "Move onto the shoulder.",
+      "Stay to the right and not accelerate until passed.",
+      "Flash their headlights to acknowledge the other driver."
+    ],
+    "answer": "Stay to the right and not accelerate until passed.",
+    "reference": "SECTION 4.1 – CHAPTER 545 - OPERATION AND MOVEMENT OF VEHICLES",
+    "explanation": "Section 545.053(b) states that on audible signal, the operator of the vehicle being passed 'must, on audible signal, stay to the right and are not permitted to accelerate until passed.'"
+  },
+  {
+    "question": "When passing to the left by using a lane of opposing traffic, the passing vehicle must move back to the right side of the roadway before coming within what distance of an oncoming vehicle?",
+    "options": [
+      "100 feet",
+      "200 feet",
+      "300 feet",
+      "500 feet"
+    ],
+    "answer": "200 feet",
+    "reference": "SECTION 4.1 – CHAPTER 545 - OPERATION AND MOVEMENT OF VEHICLES",
+    "explanation": "Section 545.054 explicitly states the passing vehicle 'must move back to the right before coming within 200’ of oncoming vehicles.'"
+  },
+  {
+    "question": "In the 'Apply It' scenario, a blue truck begins a pass in a legal passing zone but crosses into a 'no passing zone' (solid yellow line) before completing the pass. Is this a violation?",
+    "options": [
+      "No, because the pass was initiated in a legal passing zone.",
+      "No, as long as the pass is completed safely.",
+      "Yes, because traveling left of the no passing zone marking is prohibited.",
+      "Only if there is oncoming traffic."
+    ],
+    "answer": "Yes, because traveling left of the no passing zone marking is prohibited.",
+    "reference": "SECTION 4.1 – CHAPTER 545 - OPERATION AND MOVEMENT OF VEHICLES",
+    "explanation": "Section 545.055 prohibits being left of the center of the roadway where a sign or marking indicates a no passing zone. The pass must be completed before entering the no passing zone."
+  },
+  {
+    "question": "Which of the following is NOT one of the four additional times/locations listed in section 545.056 where it is illegal to drive on the left side of the roadway?",
+    "options": [
+      "When approaching within 100 feet of a bridge, viaduct, or tunnel.",
+      "When approaching within 100 feet of an intersection in a municipality.",
+      "When approaching a hill or curve with limited visibility.",
+      "When awaiting access at a ferry crossing."
+    ],
+    "answer": "When approaching a hill or curve with limited visibility.",
+    "reference": "SECTION 4.1 – CHAPTER 545 - OPERATION AND MOVEMENT OF VEHICLES",
+    "explanation": "While passing on a hill or curve is generally unsafe, the four specific locations listed in 545.056 are intersections/RR crossings, bridges/viaducts/tunnels, and ferry crossings."
+  },
+  {
+    "question": "According to section 545.057, when is passing on the right permitted?",
+    "options": [
+      "At any time, as long as it can be done safely.",
+      "Only when the vehicle being passed is making a left turn and there is unobstructed pavement to pass on.",
+      "Only on a multi-lane highway with a paved shoulder.",
+      "Only if the passing vehicle first sounds its horn."
+    ],
+    "answer": "Only when the vehicle being passed is making a left turn and there is unobstructed pavement to pass on.",
+    "reference": "SECTION 4.1 – CHAPTER 545 - OPERATION AND MOVEMENT OF VEHICLES",
+    "explanation": "This section limits passing on the right to situations where the vehicle ahead is turning left and the pass can be made safely on unobstructed pavement without leaving the pavement."
+  },
+  {
+    "question": "According to the acronym SAD PAPA for section 545.058, which of the following is NOT a legally permissible reason to drive on the right improved shoulder?",
+    "options": [
+      "To decelerate before making a right turn.",
+      "To allow a faster moving vehicle to pass.",
+      "To stop, stand, or park.",
+      "To bypass traffic congestion at a red light."
+    ],
+    "answer": "To bypass traffic congestion at a red light.",
+    "reference": "SECTION 4.1 – CHAPTER 545 - OPERATION AND MOVEMENT OF VEHICLES",
+    "explanation": "The text lists seven specific exceptions for using the right shoulder. Bypassing normal traffic congestion is not one of them. The exceptions are Stop/stand/park, Accelerate, Decelerate, Pass a slowing/stopped vehicle, Allow pass, Permitted by sign, and Avoid collision."
+  },
+  {
+    "question": "Driving on the improved shoulder to the LEFT of the roadway on a controlled-access highway is only permitted for three reasons. Which of the following is one of those reasons?",
+    "options": [
+      "To pass a slower moving vehicle.",
+      "To prepare for a left exit.",
+      "To avoid a collision.",
+      "To make a U-turn."
+    ],
+    "answer": "To avoid a collision.",
+    "reference": "SECTION 4.1 – CHAPTER 545 - OPERATION AND MOVEMENT OF VEHICLES",
+    "explanation": "The text provides the acronym SPA for the three permitted uses of the left shoulder: Slow or stop when disabled, Permitted by an official traffic control device, or to Avoid a collision."
+  },
+  {
+    "question": "Which of the following vehicles is NOT listed as being exempt from the prohibitions on driving on an improved shoulder?",
+    "options": [
+      "Authorized emergency vehicles responding to calls",
+      "Police patrols",
+      "Bicycles",
+      "Passenger cars"
+    ],
+    "answer": "Passenger cars",
+    "reference": "SECTION 4.1 – CHAPTER 545 - OPERATION AND MOVEMENT OF VEHICLES",
+    "explanation": "The text provides a specific list of four exemptions: authorized emergency vehicles, police patrols, bicycles, and slow-moving vehicles. Regular passenger cars are not exempt."
+  },
+  {
+    "question": "What was the key takeaway from the case law *Lothrop v. State* regarding driving on the right improved shoulder?",
+    "options": [
+      "It narrowed the definition of 'slowing or stopped,' making most passes on the shoulder illegal.",
+      "It broadly interpreted 'To pass another vehicle that is slowing or stopped,' making it legal to pass a vehicle that is merely traveling below the speed limit.",
+      "It ruled that driving on the shoulder is always illegal, regardless of the reason.",
+      "It determined that the 'when necessary' language applies only to avoiding collisions."
+    ],
+    "answer": "It broadly interpreted 'To pass another vehicle that is slowing or stopped,' making it legal to pass a vehicle that is merely traveling below the speed limit.",
+    "reference": "SECTION 4.1 – CHAPTER 545 - OPERATION AND MOVEMENT OF VEHICLES",
+    "explanation": "The text summarizes the case by stating that the exception to pass a vehicle that is 'slowing or stopped' was 'very broadly interpreted,' covering the act of passing a vehicle that was simply slowing down."
+  },
+    {
+    "question": "What is the required direction of travel for a vehicle navigating a rotary traffic island (roundabout)?",
+    "options": [
+      "To the left of the island.",
+      "To the right of the island.",
+      "The driver may choose either direction.",
+      "The direction is determined by the first vehicle to enter."
+    ],
+    "answer": "To the right of the island.",
+    "reference": "SECTION 4.1 – CHAPTER 545 - OPERATION AND MOVEMENT OF VEHICLES",
+    "explanation": "The text for section 545.059 states, 'The direction of traffic flow around a rotary traffic island (roundabout) is to the right.'"
+  },
+  {
+    "question": "What are the two requirements for driving on a roadway laned for traffic under section 545.060(a)?",
+    "options": [
+      "Drive in the right lane and use a turn signal.",
+      "Stay within a single lane as nearly as practical, and not move from the lane unless it can be done safely.",
+      "Do not exceed the speed limit and maintain a safe following distance.",
+      "Stay at least two feet from the lane markings and do not tailgate."
+    ],
+    "answer": "Stay within a single lane as nearly as practical, and not move from the lane unless it can be done safely.",
+    "reference": "SECTION 4.1 – CHAPTER 545 - OPERATION AND MOVEMENT OF VEHICLES",
+    "explanation": "The text lists two requirements: 'Operators must drive as nearly as practical entirely within a single lane... and Operators may not move from the lane unless that movement can be made safely.'"
+  },
+  {
+    "question": "According to the case law *Hardin v. State*, when does an offense for 'Fail to Drive in Single Lane' occur?",
+    "options": [
+      "Any time a vehicle's tires touch a lane line.",
+      "Only if the vehicle crosses the line by more than half its width.",
+      "Only when the failure to stay in the lane is also done in an unsafe manner.",
+      "Any time a vehicle drifts from its lane, regardless of safety."
+    ],
+    "answer": "Only when the failure to stay in the lane is also done in an unsafe manner.",
+    "reference": "SECTION 4.1 – CHAPTER 545 - OPERATION AND MOVEMENT OF VEHICLES",
+    "explanation": "The text explains that the Court of Criminal Appeals, in *Hardin v. State*, concluded that the two provisions of 545.060(a) are bound together, meaning the movement must be unsafe for a violation to exist."
+  },
+  {
+    "question": "Which of the following is NOT one of the four factors courts consider for a valid Community Caretaker stop?",
+    "options": [
+      "The level of distress exhibited by the driver.",
+      "Whether the individual is in an isolated location.",
+      "The time of day the stop occurs.",
+      "The extent to which the individual presents a danger to himself or others."
+    ],
+    "answer": "The time of day the stop occurs.",
+    "reference": "SECTION 4.1 – CHAPTER 545 - OPERATION AND MOVEMENT OF VEHICLES",
+    "explanation": "The text lists a four-part test from the *Wright* and *Corbin* cases: 1) level of distress, 2) location isolation, 3) whether the individual is alone, and 4) danger to self or others. Time of day is not one of the required factors."
+  },
+  {
+    "question": "When may a driver legally drive in the center lane of a three-lane, two-way roadway?",
+    "options": [
+      "At any time to travel slower than the main flow of traffic.",
+      "Only if preparing to make a right turn.",
+      "When passing another vehicle if the lane is clear, or when preparing for a left turn.",
+      "Never, the center lane is for emergency vehicles only."
+    ],
+    "answer": "When passing another vehicle if the lane is clear, or when preparing for a left turn.",
+    "reference": "SECTION 4.1 – CHAPTER 545 - OPERATION AND MOVEMENT OF VEHICLES",
+    "explanation": "Section 545.060(b) specifies that the center lane may be used for passing another vehicle or in preparing to make a left turn."
+  },
+  {
+    "question": "What type of pavement marking indicates that changing lanes is prohibited?",
+    "options": [
+      "A single solid white line.",
+      "A solid double white line.",
+      "A single dashed yellow line.",
+      "A solid yellow line next to a dashed yellow line."
+    ],
+    "answer": "A solid double white line.",
+    "reference": "SECTION 4.1 – CHAPTER 545 - OPERATION AND MOVEMENT OF VEHICLES",
+    "explanation": "The text for section 545.060(d) and the accompanying TMUTCD note clarify that 'Where crossing the lane line markings is prohibited, the lane line markings shall consist of a solid double white line.'"
+  },
+  {
+    "question": "Under the new law in section 545.0605, what is the term for a motorcycle operating between lanes of traffic, and is it legal?",
+    "options": [
+      "Lane filtering; it is legal at speeds under 10 MPH.",
+      "Lane splitting; it is illegal.",
+      "Lane sharing; it is legal if done safely.",
+      "Two-abreast riding; it is legal."
+    ],
+    "answer": "Lane splitting; it is illegal.",
+    "reference": "SECTION 4.1 – CHAPTER 545 - OPERATION AND MOVEMENT OF VEHICLES",
+    "explanation": "The text for section 545.0605(3) 'specifically prohibits the practice commonly known as “lane splitting” where a motorcycle operates between lanes of traffic...'"
+  },
+  {
+    "question": "How many motorcycles are permitted to ride abreast (side-by-side) in a single lane?",
+    "options": [
+      "Only one.",
+      "Not more than two.",
+      "Not more than three.",
+      "As many as can safely fit."
+    ],
+    "answer": "Not more than two.",
+    "reference": "SECTION 4.1 – CHAPTER 545 - OPERATION AND MOVEMENT OF VEHICLES",
+    "explanation": "Section 545.0605(2) 'specifically allows motorcycles to ride two abreast in a single lane but prohibits riding more than two abreast.'"
+  },
+  {
+    "question": "In the 'Apply It' scenario for section 545.061, when two vehicles from the left and right lanes attempt to enter the same middle lane, which vehicle has the right-of-way?",
+    "options": [
+      "The vehicle on the right.",
+      "The vehicle on the left.",
+      "The vehicle that is traveling faster.",
+      "Neither vehicle has the right-of-way."
+    ],
+    "answer": "The vehicle on the left.",
+    "reference": "SECTION 4.1 – CHAPTER 545 - OPERATION AND MOVEMENT OF VEHICLES",
+    "explanation": "Section 545.061 specifies that 'the vehicle attempting to enter the lane from the right must yield to the vehicle attempting to enter the lane from the left when changing lanes.'"
+  },
+  {
+    "question": "What is the general rule for following distance under section 545.062?",
+    "options": [
+      "Maintain at least one car length for every 10 MPH.",
+      "Stay within 2 seconds of the vehicle ahead.",
+      "Maintain a clear assured distance so as not to collide with the vehicle ahead.",
+      "Follow at a distance of no less than 50 feet."
+    ],
+    "answer": "Maintain a clear assured distance so as not to collide with the vehicle ahead.",
+    "reference": "SECTION 4.1 – CHAPTER 545 - OPERATION AND MOVEMENT OF VEHICLES",
+    "explanation": "Section 545.062(a) states 'A vehicle following another vehicle in the same direction must maintain clear assured distance so as not to collide with the vehicle ahead.'"
+  },
+  {
+    "question": "An operator of a truck towing a trailer is required to leave enough space between their vehicle and another truck ahead for what purpose?",
+    "options": [
+      "To allow for better visibility.",
+      "To reduce wind resistance.",
+      "So that another vehicle attempting to pass has sufficient space to enter.",
+      "To allow emergency vehicles to pass between them."
+    ],
+    "answer": "So that another vehicle attempting to pass has sufficient space to enter.",
+    "reference": "SECTION 4.1 – CHAPTER 545 - OPERATION AND MOVEMENT OF VEHICLES",
+    "explanation": "Section 545.062(b) requires trucks and vehicles drawing other vehicles to 'leave enough space... so that another vehicle attempting to pass has sufficient space to safely pass one at a time.'"
+  },
+  {
+    "question": "When driving on a divided highway, what is an operator prohibited from doing under section 545.063?",
+    "options": [
+      "Driving in the left lane.",
+      "Driving below the minimum posted speed.",
+      "Crossing a dividing space, physical barrier, or section except through an established opening or crossover.",
+      "Towing a trailer."
+    ],
+    "answer": "Crossing a dividing space, physical barrier, or section except through an established opening or crossover.",
+    "reference": "SECTION 4.1 – CHAPTER 545 - OPERATION AND MOVEMENT OF VEHICLES",
+    "explanation": "Section 545.063(b) states that these dividing features 'should not be crossed except through an opening or at an established crossover.'"
+  },
+  {
+    "question": "Under section 545.064, it is an offense to enter or leave a controlled-access roadway except where?",
+    "options": [
+      "At any point where the shoulder is paved.",
+      "At a place designated to be an entrance or exit.",
+      "At any point where it can be done safely.",
+      "At a point where the speed limit is below 55 MPH."
+    ],
+    "answer": "At a place designated to be an entrance or exit.",
+    "reference": "SECTION 4.1 – CHAPTER 545 - OPERATION AND MOVEMENT OF VEHICLES",
+    "explanation": "This section makes it an offense to 'enter or leave a controlled access roadway at any place not designed to be an entrance or exit.'"
+  },
+  {
+    "question": "What is a key requirement for a highway to have lane restrictions, such as 'NO TRUCKS LEFT LANE,' under section 545.0651?",
+    "options": [
+      "It must be an interstate highway.",
+      "It must have a speed limit of 70 MPH or higher.",
+      "It must be a controlled-access highway with a minimum of three travel lanes in each direction.",
+      "It must be located within a metropolitan area."
+    ],
+    "answer": "It must be a controlled-access highway with a minimum of three travel lanes in each direction.",
+    "reference": "SECTION 4.1 – CHAPTER 545 - OPERATION AND MOVEMENT OF VEHICLES",
+    "explanation": "The text notes that this section has a unique definition of 'highway' for this purpose: 'a public highway that is controlled access and has a minimum of three travel lanes in each direction.'"
+  },
+  {
+    "question": "When approaching a stopped school bus with its red lights flashing on an undivided highway, what must a driver do?",
+    "options": [
+      "Slow down to 20 MPH and pass with caution.",
+      "Stop before reaching the school bus and not proceed until the bus moves, the driver signals, or the lights stop flashing.",
+      "Stop only if they are traveling in the same direction as the bus.",
+      "Yield the right-of-way to any children, but they are not required to stop."
+    ],
+    "answer": "Stop before reaching the school bus and not proceed until the bus moves, the driver signals, or the lights stop flashing.",
+    "reference": "SECTION 4.1 – CHAPTER 545 - OPERATION AND MOVEMENT OF VEHICLES",
+    "explanation": "Section 545.066(a) requires vehicles from either direction to stop and lists the three specific conditions under which they may proceed."
+  },
+  {
+    "question": "When is a driver NOT required to stop for a school bus with its red lights flashing?",
+    "options": [
+      "If the bus is on the shoulder.",
+      "If the bus is on a divided highway and the driver is on the opposite side of the divider.",
+      "If the driver is in a hurry for an important appointment.",
+      "If there are no children visible outside the bus."
+    ],
+    "answer": "If the bus is on a divided highway and the driver is on the opposite side of the divider.",
+    "reference": "SECTION 4.1 – CHAPTER 545 - OPERATION AND MOVEMENT OF VEHICLES",
+    "explanation": "Section 545.066(b) provides the exception: 'If the bus is on a divided highway, only the traffic on that side of the highway must stop.'"
+  },
+  {
+    "question": "What is the fine range for a first offense of illegally passing a stopped school bus operating its visual signals?",
+    "options": [
+      "$1 - $200",
+      "$200 - $500",
+      "$500 - $1,250",
+      "$1,000 - $2,000"
+    ],
+    "answer": "$500 - $1,250",
+    "reference": "SECTION 4.1 – CHAPTER 545 - OPERATION AND MOVEMENT OF VEHICLES",
+    "explanation": "Section 545.066(c) sets the penalty for a first offense with a fine of '$500 - $1250'."
+  },
+  {
+    "question": "The rules for turning at an intersection in section 545.101 apply to which of the following situations?",
+    "options": [
+      "Turning from a highway into a private driveway.",
+      "Turning at the junction of two highways.",
+      "Turning from an alley onto a street.",
+      "All of the above situations."
+    ],
+    "answer": "Turning at the junction of two highways.",
+    "reference": "SECTION 4.1 – CHAPTER 545 - OPERATION AND MOVEMENT OF VEHICLES",
+    "explanation": "The text specifies that these regulations 'do not apply when turning at places other than intersections such as turning into/from private drives, private roads, or parking lots' because an intersection is defined as the junction of two highways."
+  },
+  {
+    "question": "To make a right turn at an intersection, how must the operator position their vehicle?",
+    "options": [
+      "From the leftmost lane.",
+      "By swinging wide into the left lane before turning.",
+      "By making the approach and turn as closely as practicable to the right-hand curb or edge of the roadway.",
+      "From the center of their lane of travel."
+    ],
+    "answer": "By making the approach and turn as closely as practicable to the right-hand curb or edge of the roadway.",
+    "reference": "SECTION 4.1 – CHAPTER 545 - OPERATION AND MOVEMENT OF VEHICLES",
+    "explanation": "Section 545.101(a) requires that the operator 'must make the approach and the turn as closely as practicable to the right hand curb or edge of the roadway.'"
+  },
+  {
+    "question": "To make a legal right turn at an intersection, how must the operator position their vehicle?",
+    "options": [
+      "From the leftmost lane.",
+      "By swinging wide into the left lane before turning.",
+      "By making the approach and the turn as closely as practicable to the right-hand curb or edge of the roadway.",
+      "From the center of their lane of travel."
+    ],
+    "answer": "By making the approach and the turn as closely as practicable to the right-hand curb or edge of the roadway.",
+    "reference": "SECTION 4.1 – CHAPTER 545 - OPERATION AND MOVEMENT OF VEHICLES",
+    "explanation": "Section 545.101(a) requires that to make a right turn, 'the operator must make the approach and the turn as closely as practicable to the right hand curb or edge of the roadway.'"
+  },
+  {
+    "question": "When making a left turn at an intersection, the operator must approach the turn in which lane?",
+    "options": [
+      "The right-most lane available.",
+      "The left-most lane available.",
+      "The center lane, regardless of the number of lanes.",
+      "Any lane, as long as the turn is made safely."
+    ],
+    "answer": "The left-most lane available.",
+    "reference": "SECTION 4.1 – CHAPTER 545 - OPERATION AND MOVEMENT OF VEHICLES",
+    "explanation": "Section 545.101(b) states, 'To make a left turn at an intersection, the operator must approach the turn in the left-most lane available.'"
+  },
+  {
+    "question": "After entering an intersection to make a left turn, which lane must the driver turn into?",
+    "options": [
+      "The lane closest to the center median.",
+      "The farthest right lane.",
+      "Any lane for which travel in the desired direction is authorized.",
+      "The same lane position they were in before turning (e.g., inner lane to inner lane)."
+    ],
+    "answer": "Any lane for which travel in the desired direction is authorized.",
+    "reference": "SECTION 4.1 – CHAPTER 545 - OPERATION AND MOVEMENT OF VEHICLES",
+    "explanation": "The text for section 545.101(b) and the associated Word Association clarify that after approaching in the leftmost lane, the driver can 'end in any lane lawfully available.'"
+  },
+  {
+    "question": "According to section 545.101(c), a left turn should be made in the portion of the intersection to the ______ of the center of the intersection.",
+    "options": [
+      "right",
+      "left",
+      "rear",
+      "front"
+    ],
+    "answer": "left",
+    "reference": "SECTION 4.1 – CHAPTER 545 - OPERATION AND MOVEMENT OF VEHICLES",
+    "explanation": "This subsection specifies that the turn should be made 'in the portion of the intersection to left of the center' to help avoid conflict with oncoming traffic that may also be turning left."
+  },
+  {
+    "question": "How must a driver execute a left turn from a one-way roadway onto another one-way roadway?",
+    "options": [
+      "As closely as practicable to the right-hand curb.",
+      "From the center of their lane.",
+      "As closely as practicable to the left-hand curb or edge of the roadway.",
+      "After coming to a complete stop, regardless of the traffic signal."
+    ],
+    "answer": "As closely as practicable to the left-hand curb or edge of the roadway.",
+    "reference": "SECTION 4.1 – CHAPTER 545 - OPERATION AND MOVEMENT OF VEHICLES",
+    "explanation": "Section 545.101(d) provides this specific rule for turning from one one-way roadway to another."
+  },
+  {
+    "question": "What is the offense if a driver fails to follow pavement markings or signs that direct a specific course for turning at an intersection?",
+    "options": [
+      "Improper Turn",
+      "Failure to Drive in a Single Lane",
+      "Disregard Turn Marks at Intersection",
+      "Reckless Driving"
+    ],
+    "answer": "Disregard Turn Marks at Intersection",
+    "reference": "SECTION 4.1 – CHAPTER 545 - OPERATION AND MOVEMENT OF VEHICLES",
+    "explanation": "Section 545.101(e) notes that it is an offense to not comply with these devices, and the corresponding DPS Arrest Title is 'Disregard Turn Marks at Intersection'."
+  },
+  {
+    "question": "Under what condition is a U-turn prohibited on a curve or the crest of a grade?",
+    "options": [
+      "At all times.",
+      "If the driver's vehicle is not visible to an approaching vehicle from a distance of at least 500 feet.",
+      "Only if a 'No U-Turn' sign is posted.",
+      "If the U-turn cannot be completed in a single movement."
+    ],
+    "answer": "If the driver's vehicle is not visible to an approaching vehicle from a distance of at least 500 feet.",
+    "reference": "SECTION 4.1 – CHAPTER 545 - OPERATION AND MOVEMENT OF VEHICLES",
+    "explanation": "Section 545.102 prohibits a U-turn near a curve or crest of a grade 'if visibility is reduced to below 500 feet for a vehicle approaching from either direction.'"
+  },
+  {
+    "question": "Which of the following movements does section 545.103 require to be done safely?",
+    "options": [
+      "Accelerating from a stop.",
+      "Turning right or left.",
+      "Reversing from a parking space.",
+      "Driving through an intersection."
+    ],
+    "answer": "Turning right or left.",
+    "reference": "SECTION 4.1 – CHAPTER 545 - OPERATION AND MOVEMENT OF VEHICLES",
+    "explanation": "Section 545.103 lists three movements that must be made safely: 'Turning right or left', 'Turning from a direct course', and 'Moving right or left on the roadway'."
+  },
+  {
+    "question": "For how long must an operator continuously signal before making a right or left turn?",
+    "options": [
+      "For at least 50 feet before the turn.",
+      "For the last 100 feet of movement before the turn.",
+      "A signal is only required if another vehicle is nearby.",
+      "For at least 3 seconds before initiating the turn."
+    ],
+    "answer": "For the last 100 feet of movement before the turn.",
+    "reference": "SECTION 4.1 – CHAPTER 545 - OPERATION AND MOVEMENT OF VEHICLES",
+    "explanation": "Section 545.104(1) requires a signal 'to indicate the intent to turn right or left (must be signaled for the last 100 feet of movement).'"
+  },
+  {
+    "question": "According to the case law *Mahaffey v. State*, is a driver required to signal when their lane merges into another lane?",
+    "options": [
+      "Yes, a signal is always required when changing lanes.",
+      "No, as long as the vehicle does not cross lane lines and is simply following the direct course of its ending lane.",
+      "Yes, the driver must signal continuously for 100 feet before the merge point.",
+      "Only if traffic is heavy."
+    ],
+    "answer": "No, as long as the vehicle does not cross lane lines and is simply following the direct course of its ending lane.",
+    "reference": "SECTION 4.1 – CHAPTER 545 - OPERATION AND MOVEMENT OF VEHICLES",
+    "explanation": "The text explains the ruling in this case: 'a vehicle merging into a lane from a lane that is ending is not required to signal as long as it does not cross lane lines. It is simply following the direct course of its lane.'"
+  },
+  {
+    "question": "According to the case law *Speck v. State*, is a driver required to signal when exiting a freeway?",
+    "options": [
+      "No, because taking an exit is not considered a turn.",
+      "Only if another vehicle is directly behind them.",
+      "Yes, because the driver is altering from the direct course of the lane they are in.",
+      "Only if the exit ramp has a reduced speed limit."
+    ],
+    "answer": "Yes, because the driver is altering from the direct course of the lane they are in.",
+    "reference": "SECTION 4.1 – CHAPTER 545 - OPERATION AND MOVEMENT OF VEHICLES",
+    "explanation": "The text cites this case law to clarify 'that a vehicle must signal when exiting a freeway because it is altering from the direct course of the lane it is in by taking the exit ramp.'"
+  },
+  {
+    "question": "According to the case law *Wehring v. State*, is a driver required to signal a turn when they are in a lane marked as 'turn only'?",
+    "options": [
+      "No, because the lane marking provides sufficient notice of the turn.",
+      "No, a signal is only required if changing lanes.",
+      "Yes, a signal is required even when turning from a 'turn only' lane.",
+      "Only if there are other vehicles present."
+    ],
+    "answer": "Yes, a signal is required even when turning from a 'turn only' lane.",
+    "reference": "SECTION 4.1 – CHAPTER 545 - OPERATION AND MOVEMENT OF VEHICLES",
+    "explanation": "The text cites this case law to clarify that 'a vehicle must signal a turn even when turning at an intersection from a “turn only” lane.'"
+  },
+  {
+    "question": "What is the 'do pass' signal, and is it a legal use of a turn signal?",
+    "options": [
+      "Flashing high beams to let a driver pass; it is legal.",
+      "Using the turn signal to indicate to a vehicle from the rear that it is clear to pass; it is illegal.",
+      "Waving another driver on with a hand signal; it is legal.",
+      "Tapping the brakes twice to show intent to slow down; it is legal."
+    ],
+    "answer": "Using the turn signal to indicate to a vehicle from the rear that it is clear to pass; it is illegal.",
+    "reference": "SECTION 4.1 – CHAPTER 545 - OPERATION AND MOVEMENT OF VEHICLES",
+    "explanation": "Section 545.104(c) prohibits using the turn signal as a '“do pass” signal to a vehicle approaching from the rear.'"
+  },
+  {
+    "question": "Under what circumstances is an operator permitted to give a signal for a stop or turn by hand and arm?",
+    "options": [
+      "At any time, at the driver's discretion.",
+      "Only if the vehicle was manufactured before 1960.",
+      "Only if the vehicle's signal lamps are not working.",
+      "Only if the vehicle meets specific small size requirements."
+    ],
+    "answer": "Only if the vehicle meets specific small size requirements.",
+    "reference": "SECTION 4.1 – CHAPTER 545 - OPERATION AND MOVEMENT OF VEHICLES",
+    "explanation": "Section 545.106 specifies that hand signals are only permissible if the vehicle is small enough (less than 2 feet from steering post to left side, or less than 14 feet from steering post to rear limit). Larger vehicles must use lighted lamps."
+  },
+  {
+    "question": "If a vehicle's turn signal lamps are broken, but the driver correctly uses a hand signal to indicate a turn, can they still be charged with an offense?",
+    "options": [
+      "No, the hand signal makes their action fully compliant with the law.",
+      "No, using a hand signal is a legal defense against an equipment violation.",
+      "Yes, they can still be charged with defective turn signal lamps.",
+      "Yes, they can still be charged for failing to signal because the lamps did not work."
+    ],
+    "answer": "Yes, they can still be charged with defective turn signal lamps.",
+    "reference": "SECTION 4.1 – CHAPTER 545 - OPERATION AND MOVEMENT OF VEHICLES",
+    "explanation": "The text provides this important note: 'they could not be charged with failing to signal the... turn, however they could still be charged with the defective turn or stop lamps, as these lamps are required equipment for most vehicles.'"
+  },
+   {
+    "question": "At an open (uncontrolled) intersection where an unpaved road meets a paved road, which vehicle must stop and yield the right-of-way?",
+    "options": [
+      "The vehicle on the paved road.",
+      "The vehicle on the unpaved road.",
+      "The vehicle that arrives second.",
+      "The vehicle turning left."
+    ],
+    "answer": "The vehicle on the unpaved road.",
+    "reference": "SECTION 4.1 – CHAPTER 545 - OPERATION AND MOVEMENT OF VEHICLES",
+    "explanation": "Section 545.151(c) states, 'A vehicle on an unpaved road intersecting a paved road must stop and yield the right-of-way to traffic on the paved road.'"
+  },
+  {
+    "question": "At an open (uncontrolled) T-intersection, which vehicle is required to stop and yield the right-of-way?",
+    "options": [
+      "The vehicle on the through roadway.",
+      "The vehicle on the roadway that terminates at the intersection.",
+      "The vehicle turning left.",
+      "Neither vehicle is required to stop."
+    ],
+    "answer": "The vehicle on the roadway that terminates at the intersection.",
+    "reference": "SECTION 4.1 – CHAPTER 545 - OPERATION AND MOVEMENT OF VEHICLES",
+    "explanation": "Section 545.151(e) specifies that 'the vehicle on the roadway terminating must stop and yield the right-of-way to a vehicle on the through roadway.'"
+  },
+  {
+    "question": "A driver approaches an open T-intersection while on the through roadway. No other traffic is around. Is the driver required to stop?",
+    "options": [
+      "Yes, all vehicles must stop at an open intersection.",
+      "Yes, but only if they are traveling over the speed limit.",
+      "No, only the vehicle on the terminating roadway is required to stop.",
+      "Only if it is nighttime."
+    ],
+    "answer": "No, only the vehicle on the terminating roadway is required to stop.",
+    "reference": "SECTION 4.1 – CHAPTER 545 - OPERATION AND MOVEMENT OF VEHICLES",
+    "explanation": "The text provides a specific 'No Violation' example for this, clarifying that section 545.151(e) 'only requires the vehicle on the terminating roadway to stop.'"
+  },
+  {
+    "question": "A driver is attempting to turn left at an intersection with a green light. A vehicle is approaching from the opposite direction, also with a green light. Who must yield the right-of-way?",
+    "options": [
+      "The vehicle approaching from the opposite direction must yield.",
+      "The vehicle turning left must yield to the vehicle approaching from the opposite direction.",
+      "Whoever entered the intersection first has the right-of-way.",
+      "Both vehicles must stop and proceed when clear."
+    ],
+    "answer": "The vehicle turning left must yield to the vehicle approaching from the opposite direction.",
+    "reference": "SECTION 4.1 – CHAPTER 545 - OPERATION AND MOVEMENT OF VEHICLES",
+    "explanation": "Section 545.152 states that 'A vehicle turning left at an intersection... must yield the right-of-way to traffic approaching from the opposite direction.'"
+  },
+  {
+    "question": "A driver is turning left FROM a four-lane highway INTO a two-lane street. According to the diagrams, is this a situation where a 'Failed to Yield ROW – Turning Left' offense could occur?",
+    "options": [
+      "No, that offense only applies when turning onto a road of the same size.",
+      "No, traffic on a two-lane street must always yield to traffic from a four-lane highway.",
+      "Yes, because the driver is turning left and must yield to oncoming traffic.",
+      "Only if the driver is also speeding."
+    ],
+    "answer": "Yes, because the driver is turning left and must yield to oncoming traffic.",
+    "reference": "SECTION 4.1 – CHAPTER 545 - OPERATION AND MOVEMENT OF VEHICLES",
+    "explanation": "The diagrams illustrate that the rule in 545.152 applies regardless of the size of the intersecting roadways; the key factor is the left turn across the path of oncoming traffic."
+  },
+  {
+    "question": "A driver stops at a stop sign and then proceeds, causing a collision with a vehicle on the cross-street. Which offense have they most likely committed?",
+    "options": [
+      "Disregarding a Stop Sign",
+      "Failure to Yield Right-of-Way from a Stop Sign",
+      "Speeding",
+      "Reckless Driving"
+    ],
+    "answer": "Failure to Yield Right-of-Way from a Stop Sign",
+    "reference": "SECTION 4.1 – CHAPTER 545 - OPERATION AND MOVEMENT OF VEHICLES",
+    "explanation": "Section 545.153 states that after stopping, a vehicle must yield to another vehicle that has entered the intersection or is an immediate hazard. The violation is failing to yield, not the stop itself."
+  },
+  {
+    "question": "According to the DPS Enforcement Guidance, a violator disregarding a stop sign at a speed 'faster than a walk' should be considered to have committed what kind of violation?",
+    "options": [
+      "A minor infraction deserving a warning.",
+      "A clear-cut and substantial violation.",
+      "An act of reckless driving.",
+      "A violation only if it causes a crash."
+    ],
+    "answer": "A clear-cut and substantial violation.",
+    "reference": "SECTION 4.1 – CHAPTER 545 - OPERATION AND MOVEMENT OF VEHICLES",
+    "explanation": "The text cites the THP Manual, which states that disregarding a stop sign at a speed 'faster than a walk should be considered to have committed a clear-cut and substantial violation.'"
+  },
+  {
+    "question": "On a highway with a two-way feeder/access road, which vehicle has the right-of-way?",
+    "options": [
+      "The vehicle traveling straight on the feeder road.",
+      "The vehicle entering the freeway entrance ramp from the feeder road.",
+      "The vehicle that is traveling at a higher speed.",
+      "The vehicle on the right."
+    ],
+    "answer": "The vehicle entering the freeway entrance ramp from the feeder road.",
+    "reference": "SECTION 4.1 – CHAPTER 545 - OPERATION AND MOVEMENT OF VEHICLES",
+    "explanation": "Section 545.154 specifies that 'Traffic utilizing or attempting to utilize the ramp in either direction has the right-of-way over traffic driving on the feeder road.'"
+  },
+  {
+    "question": "A driver is exiting their private driveway to turn onto a public highway. What is their duty regarding right-of-way?",
+    "options": [
+      "They have the right-of-way if they signal their turn.",
+      "They must yield the right-of-way to all traffic already using the highway.",
+      "They must yield only to traffic approaching from their left.",
+      "Traffic on the highway must slow down to allow them to enter."
+    ],
+    "answer": "They must yield the right-of-way to all traffic already using the highway.",
+    "reference": "SECTION 4.1 – CHAPTER 545 - OPERATION AND MOVEMENT OF VEHICLES",
+    "explanation": "Section 545.155 is clear: 'Traffic attempting to enter a highway from a private road, driveway, or parking lot must yield the right-of-way to all traffic already using the highway.'"
+  },
+  {
+    "question": "To gain the right-of-way, what emergency equipment is a Police Vehicle required to use?",
+    "options": [
+      "Both audible and visual signals (lights and siren).",
+      "Only a visual signal (emergency lights).",
+      "Either an audible OR a visual signal.",
+      "Only an audible signal (siren)."
+    ],
+    "answer": "Either an audible OR a visual signal.",
+    "reference": "SECTION 4.1 – CHAPTER 545 - OPERATION AND MOVEMENT OF VEHICLES",
+    "explanation": "Section 545.156(a) specifies that for Police Vehicles, only 'audible or visual signals' are required, unlike most other AEVs that require both."
+  },
+  {
+    "question": "In the 'Apply It' scenario, an ambulance has its emergency lights activated but its siren is not on. Is the red vehicle required to yield the right-of-way?",
+    "options": [
+      "Yes, because emergency lights are always sufficient.",
+      "No, because a private ambulance must use both audible and visual signals to gain the right-of-way.",
+      "Yes, because all emergency vehicles only need to use lights.",
+      "No, because the red vehicle is on a different road."
+    ],
+    "answer": "No, because a private ambulance must use both audible and visual signals to gain the right-of-way.",
+    "reference": "SECTION 4.1 – CHAPTER 545 - OPERATION AND MOVEMENT OF VEHICLES",
+    "explanation": "The text states that 'Most Authorized Emergency Vehicles' require 'audible and visual signals (lights and siren)'. The police vehicle is listed as a specific exception, but the ambulance is not, meaning it must use both."
+  },
+  {
+    "question": "When an authorized emergency vehicle approaches with its required signals, what are the three actions a driver must take?",
+    "options": [
+      "Slow down, move to the shoulder, and continue driving slowly.",
+      "Stop where they are, turn on hazard lights, and wait.",
+      "Yield the right-of-way, pull to the right edge of the roadway clear of any intersection, and stop.",
+      "Pull into the nearest parking lot and wait for the AEV to pass."
+    ],
+    "answer": "Yield the right-of-way, pull to the right edge of the roadway clear of any intersection, and stop.",
+    "reference": "SECTION 4.1 – CHAPTER 545 - OPERATION AND MOVEMENT OF VEHICLES",
+    "explanation": "Section 545.156(a-1) lists these three required actions: yield, immediately pull right and clear of intersections, and stop and remain standing."
+  },
+  {
+    "question": "In the final 'Apply It' scenario, a red pickup truck stops in the left lane for an approaching emergency vehicle instead of pulling to the right. Is the pickup committing a violation?",
+    "options": [
+      "No, because the driver stopped for the emergency vehicle.",
+      "No, as long as the driver yielded the right-of-way.",
+      "Yes, because the driver failed to pull to the right edge of the roadway before stopping.",
+      "Only if the driver's actions cause the emergency vehicle to slow down."
+    ],
+    "answer": "Yes, because the driver failed to pull to the right edge of the roadway before stopping.",
+    "reference": "SECTION 4.1 – CHAPTER 545 - OPERATION AND MOVEMENT OF VEHICLES",
+    "explanation": "The law requires the driver to not only yield and stop, but to 'immediately pull as close as possible to the right edge of the roadway.' Stopping in the left lane fails to meet this specific requirement."
+  },
+  {
+    "question": "Even when operating with lights and siren and having the right-of-way, an emergency vehicle operator must still do what?",
+    "options": [
+      "Obey all traffic signals.",
+      "Not exceed the posted speed limit.",
+      "Drive with due regard for the safety of all persons using the highway.",
+      "Only drive in the leftmost lane."
+    ],
+    "answer": "Drive with due regard for the safety of all persons using the highway.",
+    "reference": "SECTION 4.1 – CHAPTER 545 - OPERATION AND MOVEMENT OF VEHICLES",
+    "explanation": "Section 545.156(b) states that emergency vehicle operators 'must still drive with due regard for the safety of all persons using the highway.'"
+  },
+  {
+    "question": "When passing a stationary emergency vehicle with its lights on, a driver has two options under the 'Move Over/Slow Down' law. What are they?",
+    "options": [
+      "Move over two lanes OR slow down to 30 MPH below the speed limit.",
+      "Vacate the lane nearest the vehicle OR slow down to at least 20 MPH below the speed limit.",
+      "Stop until the emergency vehicle leaves OR move to the far shoulder.",
+      "Honk to signal intent OR slow down to half the posted speed limit."
+    ],
+    "answer": "Vacate the lane nearest the vehicle OR slow down to at least 20 MPH below the speed limit.",
+    "reference": "SECTION 4.1 – CHAPTER 545 - OPERATION AND MOVEMENT OF VEHICLES",
+    "explanation": "Section 545.157(b) gives the operator two choices: 'either vacate the nearest lane or reduce speed to at least 20 miles per hour below the posted speed limit.'"
+  },
+  {
+    "question": "A driver is in the lane next to a stationary emergency vehicle with its lights on. The lane to their left is completely empty. The driver chooses not to change lanes, but slows down to 25 MPH below the speed limit. Have they violated the law?",
+    "options": [
+      "Yes, because they were required to move into the empty lane.",
+      "Yes, because they only slowed down 25 MPH, not 30 MPH.",
+      "No, because a driver can choose either to vacate the lane OR to slow down sufficiently.",
+      "No, because the law only applies to police vehicles, not all emergency vehicles."
+    ],
+    "answer": "No, because a driver can choose either to vacate the lane OR to slow down sufficiently.",
+    "reference": "SECTION 4.1 – CHAPTER 545 - OPERATION AND MOVEMENT OF VEHICLES",
+    "explanation": "The text includes an important note: 'a vehicle that can vacate the nearest lane but chooses to reduce speed instead has not violated this section.' The driver has two options and can legally choose either one."
+  },
+  {
+    "question": "Which of the following vehicles is NOT required to be stationary to be protected by the 'Move Over/Slow Down' law?",
+    "options": [
+      "A stationary emergency vehicle using emergency lights.",
+      "A stationary tow truck using red flashing lights.",
+      "A TxDOT vehicle not separated by a channelizing device and using amber flashing lights.",
+      "A stationary garbage truck collecting waste."
+    ],
+    "answer": "A TxDOT vehicle not separated by a channelizing device and using amber flashing lights.",
+    "reference": "SECTION 4.1 – CHAPTER 545 - OPERATION AND MOVEMENT OF VEHICLES",
+    "explanation": "The text includes a specific note for TxDOT vehicles that the vehicle is 'not required to be stationary.'"
+  },
+  {
+    "question": "What is the penalty for a first offense of violating the 'Move Over/Slow Down' law that results in Bodily Injury to another person?",
+    "options": [
+      "A fine of $500 - $1,250",
+      "Class B Misdemeanor",
+      "Class A Misdemeanor",
+      "State Jail Felony"
+    ],
+    "answer": "Class A Misdemeanor",
+    "reference": "SECTION 4.1 – CHAPTER 545 - OPERATION AND MOVEMENT OF VEHICLES",
+    "explanation": "Section 545.157(c) lists the enhancements, stating if the 'offense results in Bodily Injury to another' it is a 'Class A Misdemeanor'."
+  },
+  {
+    "question": "When required to stop for an approaching train, an operator must stop within what distance from the nearest rail?",
+    "options": [
+      "Not closer than 10 feet or farther than 30 feet.",
+      "Not closer than 15 feet or farther than 50 feet.",
+      "Exactly 25 feet.",
+      "Not closer than 50 feet or farther than 100 feet."
+    ],
+    "answer": "Not closer than 15 feet or farther than 50 feet.",
+    "reference": "SECTION 4.1 – CHAPTER 545 - OPERATION AND MOVEMENT OF VEHICLES",
+    "explanation": "Section 545.251 specifies that a vehicle approaching a railroad grade crossing 'shall stop not closer than 15 feet or farther than 50 feet from the nearest rail.'"
+  },
+  {
+    "question": "Which of the following is NOT listed as a condition that requires a driver to stop at a railroad crossing?",
+    "options": [
+      "A crossing gate is lowered or a flagger warns of a train.",
+      "An approaching train is plainly visible and in hazardous proximity.",
+      "A clearly visible railroad signal warns of an approaching train.",
+      "The driver is operating a vehicle manufactured before 1980."
+    ],
+    "answer": "The driver is operating a vehicle manufactured before 1980.",
+    "reference": "SECTION 4.1 – CHAPTER 545 - OPERATION AND MOVEMENT OF VEHICLES",
+    "explanation": "Section 545.251 lists five specific conditions requiring a stop. The age of the vehicle is not one of them."
+  },
+  {
+    "question": "Under what circumstance must a motor bus carrying passengers for hire stop at all railroad grade crossings?",
+    "options": [
+      "At all times, without exception.",
+      "Only when a train is visibly approaching.",
+      "At all railroad crossings, unless the crossing is in a business or residence district.",
+      "Only when carrying more than 15 passengers."
+    ],
+    "answer": "At all railroad crossings, unless the crossing is in a business or residence district.",
+    "reference": "SECTION 4.1 – CHAPTER 545 - OPERATION AND MOVEMENT OF VEHICLES",
+    "explanation": "Section 545.253 requires these buses to stop at all crossings but notes, 'This is not required in a business or residence district.'"
+  },
+  {
+    "question": "A school bus is not required to stop at a railroad crossing if what condition exists?",
+    "options": [
+      "If it is not carrying any children.",
+      "If the crossing has no automatic gates.",
+      "If the track is an out-of-service track or an industrial spur line marked 'Exempt'.",
+      "If the bus driver has a Commercial Driver's License."
+    ],
+    "answer": "If the track is an out-of-service track or an industrial spur line marked 'Exempt'.",
+    "reference": "SECTION 4.1 – CHAPTER 545 - OPERATION AND MOVEMENT OF VEHICLES",
+    "explanation": "The text for section 545.2535 provides this specific exception to the stopping requirement for school buses."
+  },
+  {
+    "question": "A driver emerging from a driveway in a business or residential district must stop before moving onto what?",
+    "options": [
+      "The roadway.",
+      "A sidewalk or the area of a sidewalk.",
+      "The shoulder of the road.",
+      "They are not required to stop."
+    ],
+    "answer": "A sidewalk or the area of a sidewalk.",
+    "reference": "SECTION 4.1 – CHAPTER 545 - OPERATION AND MOVEMENT OF VEHICLES",
+    "explanation": "Section 545.256 requires an operator in this situation to 'stop before moving on a sidewalk or the area of a sidewalk that extends across the alley or driveway.'"
+  },
+  {
+    "question": "When is it illegal to stop, stand, or park on the main traveled part of a roadway OUTSIDE a business or residence district?",
+    "options": [
+      "At all times, without exception.",
+      "When it is practical to stop, park, or leave the vehicle off the roadway.",
+      "Only during nighttime hours.",
+      "Only if the vehicle is left unoccupied."
+    ],
+    "answer": "When it is practical to stop, park, or leave the vehicle off the roadway.",
+    "reference": "SECTION 4.1 – CHAPTER 545 - OPERATION AND MOVEMENT OF VEHICLES",
+    "explanation": "Section 545.301 prohibits stopping on the roadway unless it is not practical to move off the roadway, a sufficient width is left for passage, and the vehicle is visible for 200 feet."
+  },
+  {
+    "question": "Which of the following vehicles is listed as an EXCEPTION to the rule against stopping on the roadway outside a business or residence district?",
+    "options": [
+      "A passenger car making a phone call.",
+      "A disabled vehicle that cannot be moved.",
+      "A delivery truck dropping off a package.",
+      "A vehicle waiting to make a left turn."
+    ],
+    "answer": "A disabled vehicle that cannot be moved.",
+    "reference": "SECTION 4.1 – CHAPTER 545 - OPERATION AND MOVEMENT OF VEHICLES",
+    "explanation": "The text for section 545.301 lists three exceptions: disabled vehicles, garbage trucks, and tow trucks."
+  },
+  {
+    "question": "Under section 545.302, which of the following actions is prohibited?",
+    "options": [
+      "Stopping on a shoulder.",
+      "Parking parallel to the curb.",
+      "Parking on the roadway side of a vehicle already parked at the curb (double parking).",
+      "Parking more than 18 inches from the curb."
+    ],
+    "answer": "Parking on the roadway side of a vehicle already parked at the curb (double parking).",
+    "reference": "SECTION 4.1 – CHAPTER 545 - OPERATION AND MOVEMENT OF VEHICLES",
+    "explanation": "Section 545.302(a)(1) prohibits stopping, standing, or parking 'On the roadway side of an already parked vehicle.'"
+  },
+  {
+    "question": "An operator may not stand or park a vehicle within what distance of a fire hydrant?",
+    "options": [
+      "10 feet",
+      "15 feet",
+      "20 feet",
+      "30 feet"
+    ],
+    "answer": "15 feet",
+    "reference": "SECTION 4.1 – CHAPTER 545 - OPERATION AND MOVEMENT OF VEHICLES",
+    "explanation": "Section 545.302(b)(2) specifically prohibits standing or parking 'Within 15 feet of a fire hydrant.'"
+  },
+  {
+    "question": "An operator may not stand or park a vehicle within 30 feet of what?",
+    "options": [
+      "A fire hydrant",
+      "A crosswalk at an intersection",
+      "The driveway entrance to a fire station",
+      "The approach to a flashing signal, stop sign, yield sign, or traffic control signal"
+    ],
+    "answer": "The approach to a flashing signal, stop sign, yield sign, or traffic control signal",
+    "reference": "SECTION 4.1 – CHAPTER 545 - OPERATION AND MOVEMENT OF VEHICLES",
+    "explanation": "Section 545.302(b)(4) prohibits standing or parking 'Within 30 feet on the approach to a flashing signal, stop sign, yield sign, or traffic control signal.'"
+  },
+  {
+    "question": "An operator may not park a vehicle within what distance of the nearest rail of a railroad crossing?",
+    "options": [
+      "20 feet",
+      "30 feet",
+      "50 feet",
+      "100 feet"
+    ],
+    "answer": "50 feet",
+    "reference": "SECTION 4.1 – CHAPTER 545 - OPERATION AND MOVEMENT OF VEHICLES",
+    "explanation": "Section 545.302(c)(1) prohibits parking 'Within 50 feet of the nearest rail of a railroad crossing.'"
+  },
+  {
+    "question": "The general prohibitions against stopping, standing, or parking in certain places do not apply if the operator halts the vehicle for what reason?",
+    "options": [
+      "To make a phone call.",
+      "To check a map.",
+      "To avoid conflict with other traffic or to comply with the directions of a police officer.",
+      "To let a passenger out in a prohibited zone."
+    ],
+    "answer": "To avoid conflict with other traffic or to comply with the directions of a police officer.",
+    "reference": "SECTION 4.1 – CHAPTER 545 - OPERATION AND MOVEMENT OF VEHICLES",
+    "explanation": "Section 545.302(f) provides a general exception, stating the regulations do not apply 'if the avoidance of conflict with other traffic is necessary or if the operator is complying with the law or the directions of a police officer or official traffic control device.'"
+  },
+  {
+    "question": "When a vehicle is parked on a two-way roadway, its right-side wheels must be within what distance of the right-hand curb or edge of the roadway?",
+    "options": [
+      "12 inches",
+      "18 inches",
+      "24 inches",
+      "36 inches"
+    ],
+    "answer": "18 inches",
+    "reference": "SECTION 4.1 – CHAPTER 545 - OPERATION AND MOVEMENT OF VEHICLES",
+    "explanation": "Section 545.303(a) explicitly states that when parked on a two-way roadway, 'the right side wheels must be within 18 inches of the curb or edge of the roadway.'"
+  },
+  {
+    "question": "A vehicle is parked on a one-way street with its left wheels 12 inches from the left curb, and it is facing the direction of traffic flow. Is this parking position legal?",
+    "options": [
+      "No, vehicles must always park on the right side.",
+      "No, the wheels must be exactly 18 inches from the curb.",
+      "Yes, this is a legal parking position on a one-way street.",
+      "Only if it is a commercial vehicle."
+    ],
+    "answer": "Yes, this is a legal parking position on a one-way street.",
+    "reference": "SECTION 4.1 – CHAPTER 545 - OPERATION AND MOVEMENT OF VEHICLES",
+    "explanation": "Section 545.303(b) allows for parking on a one-way roadway where 'the wheels can be within 18 inches of either curb as long as the vehicle is facing the correct direction in compliance with traffic flow.'"
+  },
+  {
+    "question": "Under section 545.304, it is a violation to move a vehicle not lawfully under your control into what specific situation?",
+    "options": [
+      "Into any public parking space.",
+      "From a sunny spot to a shady spot.",
+      "Into an area where parking is prohibited under Section 545.302.",
+      "Out of the way of your own vehicle."
+    ],
+    "answer": "Into an area where parking is prohibited under Section 545.302.",
+    "reference": "SECTION 4.1 – CHAPTER 545 - OPERATION AND MOVEMENT OF VEHICLES",
+    "explanation": "This section makes it a violation to move another person's vehicle 'into an area where a vehicle is prohibited under Section 545.302' or unlawfully far from a curb."
+  },
+  {
+    "question": "Which of the following is NOT one of the nine circumstances listed in section 545.305 that authorize a peace officer to remove a vehicle?",
+    "options": [
+      "A vehicle left unattended on a bridge and obstructing traffic.",
+      "A vehicle that has been reported stolen.",
+      "A vehicle that is parked with an expired registration.",
+      "A vehicle that is disabled and the owner is incapacitated and cannot move it."
+    ],
+    "answer": "A vehicle that is parked with an expired registration.",
+    "reference": "SECTION 4.1 – CHAPTER 545 - OPERATION AND MOVEMENT OF VEHICLES",
+    "explanation": "The text provides a specific list of nine reasons. Expired registration is not on this list of reasons for an officer to remove a vehicle under this section."
+  },
+  {
+    "question": "An officer may have a vehicle towed if it is left unattended and abandoned on a highway for more than how long?",
+    "options": [
+      "12 hours",
+      "24 hours",
+      "48 hours",
+      "72 hours"
+    ],
+    "answer": "48 hours",
+    "reference": "SECTION 4.1 – CHAPTER 545 - OPERATION AND MOVEMENT OF VEHICLES",
+    "explanation": "Section 545.305(5) authorizes removal of a vehicle 'left unattended and abandoned more than 48 hours.'"
+  },
+  {
+    "question": "If a peace officer directs the towing of a vehicle for evidentiary purposes, who is responsible for the cost of towing and storage?",
+    "options": [
+      "The vehicle's owner.",
+      "The officer's law enforcement agency.",
+      "The court system.",
+      "The Texas Department of Transportation."
+    ],
+    "answer": "The officer's law enforcement agency.",
+    "reference": "SECTION 4.1 – CHAPTER 545 - OPERATION AND MOVEMENT OF VEHICLES",
+    "explanation": "The text provides a reference to Code of Criminal Procedure Art. 18.23, which states 'if a peace officer directs the towing for evidentiary or examination purposes, the officer’s agency is responsible for the cost of towing.'"
+  },
+  {
+    "question": "What is the primary purpose of section 545.308, 'Presumption'?",
+    "options": [
+      "To presume all illegally parked drivers are residents of the city.",
+      "To allow a local authority to pass an ordinance presuming the registered owner of an illegally parked vehicle is the one who parked it.",
+      "To presume a vehicle is abandoned after 24 hours.",
+      "To allow officers to presume a vehicle is stolen if it is parked illegally."
+    ],
+    "answer": "To allow a local authority to pass an ordinance presuming the registered owner of an illegally parked vehicle is the one who parked it.",
+    "reference": "SECTION 4.1 – CHAPTER 545 - OPERATION AND MOVEMENT OF VEHICLES",
+    "explanation": "This section allows a charge to 'be filed against the registered owner of an unattended vehicle without the need to prove that the owner is actually the person who illegally parked the vehicle' if a local ordinance is in place."
+  },
+  {
+    "question": "Driving at a speed greater than is reasonable and prudent under the conditions, having regard for actual and potential hazards, constitutes which offense?",
+    "options": [
+      "Speeding Over the Limit",
+      "Unsafe Speed",
+      "Fail to Control Speed",
+      "Reckless Driving"
+    ],
+    "answer": "Unsafe Speed",
+    "reference": "SECTION 4.1 – CHAPTER 545 - OPERATION AND MOVEMENT OF VEHICLES",
+    "explanation": "Section 545.351(b)(1) defines this specific violation. It applies even if the driver is not exceeding the posted speed limit but is driving too fast for conditions like rain, curves, or traffic."
+  },
+  {
+    "question": "Which offense applies when an operator fails to control the speed of their vehicle as necessary to avoid colliding with another person or vehicle?",
+    "options": [
+      "Speeding Over the Limit",
+      "Unsafe Speed",
+      "Fail to Control Speed",
+      "Following Too Closely"
+    ],
+    "answer": "Fail to Control Speed",
+    "reference": "SECTION 4.1 – CHAPTER 545 - OPERATION AND MOVEMENT OF VEHICLES",
+    "explanation": "Section 545.351(b)(2) defines this specific violation, which is directly linked to the failure to control speed resulting in a collision or the need for an evasive maneuver to avoid one."
+  },
+  {
+    "question": "Which of the following is NOT one of the circumstances listed in section 545.351(c) that requires an operator to drive at an appropriate reduced speed?",
+    "options": [
+      "Approaching and crossing an intersection.",
+      "Traveling on a wide, straight roadway.",
+      "Going around a curve.",
+      "When a special hazard exists with regard to weather conditions."
+    ],
+    "answer": "Traveling on a wide, straight roadway.",
+    "reference": "SECTION 4.1 – CHAPTER 545 - OPERATION AND MOVEMENT OF VEHICLES",
+    "explanation": "The text lists five specific circumstances requiring a reduced speed: approaching an intersection/RR crossing, going around a curve, approaching a hillcrest, on a narrow/winding road, or when a special hazard exists. A wide, straight road is the opposite of these conditions."
+  },
+  {
+    "question": "In the 'Apply It' scenario, a driver runs off the road in a curve because they 'didn’t realize how sharp the curve was.' Which offense is most appropriate?",
+    "options": [
+      "Fail to Control Speed",
+      "Speeding over the Limit",
+      "Unsafe Speed",
+      "No violation, as no other vehicle was struck"
+    ],
+    "answer": "Unsafe Speed",
+    "reference": "SECTION 4.1 – CHAPTER 545 - OPERATION AND MOVEMENT OF VEHICLES",
+    "explanation": "The driver failed to operate at a speed that was reasonable and prudent for the conditions (the curve), which is the definition of Unsafe Speed. Fail to Control Speed typically applies when a collision with another person or vehicle occurs or is avoided."
+  },
+  {
+    "question": "If no speed limit is posted, what is the prima facie speed limit in an urban district?",
+    "options": [
+      "25 MPH",
+      "30 MPH",
+      "35 MPH",
+      "45 MPH"
+    ],
+    "answer": "30 MPH",
+    "reference": "SECTION 4.1 – CHAPTER 545 - OPERATION AND MOVEMENT OF VEHICLES",
+    "explanation": "Section 545.352 lists the default (prima facie) speed limits, which includes 'Urban District – 30 MPH'."
+  },
+  {
+    "question": "If no speed limit is posted, what is the prima facie speed limit in an alley?",
+    "options": [
+      "10 MPH",
+      "15 MPH",
+      "20 MPH",
+      "25 MPH"
+    ],
+    "answer": "15 MPH",
+    "reference": "SECTION 4.1 – CHAPTER 545 - OPERATION AND MOVEMENT OF VEHICLES",
+    "explanation": "Section 545.352 lists the default (prima facie) speed limits, which includes 'Alley – 15 MPH'."
+  },
+  {
+    "question": "What is the prima facie speed limit for a school bus that has passed a Commercial Motor Vehicle inspection when it is traveling on a state highway?",
+    "options": [
+      "50 MPH",
+      "55 MPH",
+      "60 MPH",
+      "70 MPH"
+    ],
+    "answer": "60 MPH",
+    "reference": "SECTION 4.1 – CHAPTER 545 - OPERATION AND MOVEMENT OF VEHICLES",
+    "explanation": "Section 545.352 specifies this exact scenario: 'School Bus with a CMV Inspection on a state or US highway – 60 MPH'."
+  },
+  {
+    "question": "According to section 545.352, the speed limit for which of the following vehicles is the same as for a regular passenger car?",
+    "options": [
+      "A school bus without a CMV inspection.",
+      "A vehicle carrying explosive substances.",
+      "A light truck.",
+      "A vehicle with solid rubber tires."
+    ],
+    "answer": "A light truck.",
+    "reference": "SECTION 4.1 – CHAPTER 545 - OPERATION AND MOVEMENT OF VEHICLES",
+    "explanation": "Section 545.352(c) lists several vehicles for which the speed limits are the same as for any other vehicle, including 'light trucks.'"
+  },
+  {
+    "question": "The Texas Transportation Commission (TxDOT) may not alter a speed limit above what speed, except in certain sparsely populated counties?",
+    "options": [
+      "65 MPH",
+      "70 MPH",
+      "75 MPH",
+      "80 MPH"
+    ],
+    "answer": "75 MPH",
+    "reference": "SECTION 4.1 – CHAPTER 545 - OPERATION AND MOVEMENT OF VEHICLES",
+    "explanation": "The text for section 545.353 states, 'TxDOT cannot alter a speed limit above 75 MPH except in certain counties with sparse populations.'"
+  },
+  {
+    "question": "A new law in section 545.353(k) allows the Texas Transportation Commission to establish what kind of program?",
+    "options": [
+      "A program to raise speed limits for fuel efficiency.",
+      "A variable speed limit program to temporarily lower speeds for safety reasons.",
+      "A program to set different speed limits for cars and trucks.",
+      "A program to eliminate all speed limits on rural highways."
+    ],
+    "answer": "A variable speed limit program to temporarily lower speeds for safety reasons.",
+    "reference": "SECTION 4.1 – CHAPTER 545 - OPERATION AND MOVEMENT OF VEHICLES",
+    "explanation": "The text explains this new subsection allows 'to establish a variable speed limit program to temporarily lower the speed limit due to inclement weather, congestion, road construction, or any other condition affecting traffic safety.'"
+  },
+  {
+    "question": "What is the maximum speed limit a County Commissioner's Court may set on a county road?",
+    "options": [
+      "60 MPH",
+      "65 MPH",
+      "70 MPH",
+      "75 MPH"
+    ],
+    "answer": "70 MPH",
+    "reference": "SECTION 4.1 – CHAPTER 545 - OPERATION AND MOVEMENT OF VEHICLES",
+    "explanation": "Section 545.355 states, 'County road speed limits may not be set in excess of 70 MPH.'"
+  },
+  {
+    "question": "A motorcycle with an engine displacement of 250cc or less may not be driven faster than 35 MPH at night unless it is equipped with what?",
+    "options": [
+      "Reflective tape on the rear fender.",
+      "An audible warning device.",
+      "Headlamps that reveal a person or vehicle at least 300 feet ahead.",
+      "At least two rear taillamps."
+    ],
+    "answer": "Headlamps that reveal a person or vehicle at least 300 feet ahead.",
+    "reference": "SECTION 4.1 – CHAPTER 545 - OPERATION AND MOVEMENT OF VEHICLES",
+    "explanation": "Section 545.361(a) provides this specific speed limitation and the headlamp requirement to exceed it."
+  },
+  {
+    "question": "According to the TXDPS Administrative Code interpretation, the offense of Impeding Traffic should not be enforced against a vehicle under what condition?",
+    "options": [
+      "If the vehicle is traveling at or near the speed limit.",
+      "If the vehicle is in the right-hand lane.",
+      "If the driver is a new resident.",
+      "If the vehicle is older than 25 years."
+    ],
+    "answer": "If the vehicle is traveling at or near the speed limit.",
+    "reference": "SECTION 4.1 – CHAPTER 545 - OPERATION AND MOVEMENT OF VEHICLES",
+    "explanation": "The text cites the admin code, stating, 'Impeding traffic should not be enforced against a vehicle that is traveling at/near the speed limit.'"
+  },
+  {
+    "question": "Which of the following is NOT listed as being exempt from speed limits under section 545.365?",
+    "options": [
+      "Authorized emergency vehicles responding to a call.",
+      "Police patrols.",
+      "A physician responding to an emergency.",
+      "A tow truck responding to a call."
+    ],
+    "answer": "A tow truck responding to a call.",
+    "reference": "SECTION 4.1 – CHAPTER 545 - OPERATION AND MOVEMENT OF VEHICLES",
+    "explanation": "The text lists three specific exemptions: AEVs, Police Patrols, and Physicians/Ambulances responding to emergencies. Tow trucks are not on this list for speed limit exemptions."
+  },
+  {
+    "question": "A physician responding to an emergency in their personal vehicle is exempt from speed laws, but is not considered what?",
+    "options": [
+      "A licensed driver.",
+      "An 'authorized emergency vehicle' for other purposes.",
+      "Responsible for their driving actions.",
+      "Subject to reckless driving charges."
+    ],
+    "answer": "An 'authorized emergency vehicle' for other purposes.",
+    "reference": "SECTION 4.1 – CHAPTER 545 - OPERATION AND MOVEMENT OF VEHICLES",
+    "explanation": "The text provides an important reminder: a physician is exempt from speed laws but 'not considered an “authorized emergency vehicle” and cannot engage in other driving behavior authorized for emergency vehicles in 546.001.'"
+  },
+  {
+    "question": "A person is doing donuts in a private parking lot, endangering people and property. Which of the following is true regarding the offense of Reckless Driving?",
+    "options": [
+      "It cannot be enforced because the violation is not on a public highway.",
+      "It is a Class C Misdemeanor, and the driver should be cited and released.",
+      "It can be enforced in a parking lot, and it is a Class B Misdemeanor requiring a custody arrest.",
+      "It only applies if a collision occurs."
+    ],
+    "answer": "It can be enforced in a parking lot, and it is a Class B Misdemeanor requiring a custody arrest.",
+    "reference": "SECTION 4.1 – CHAPTER 545 - OPERATION AND MOVEMENT OF VEHICLES",
+    "explanation": "The text specifies that Reckless Driving 'can be enforced in areas other than on public highways' and that because it is a Class B Misdemeanor, 'officers should arrest the offender. Do not cite and release.'"
+  },
+  {
+    "question": "What is an operator required to do before moving a stopped, standing, or parked vehicle?",
+    "options": [
+      "Sound the horn.",
+      "Activate the hazard lights.",
+      "Ensure the movement can be made safely.",
+      "Wait for all other traffic to clear the area."
+    ],
+    "answer": "Ensure the movement can be made safely.",
+    "reference": "SECTION 4.1 – CHAPTER 545 - OPERATION AND MOVEMENT OF VEHICLES",
+    "explanation": "Section 545.402 states, 'Movement of a stopped, standing, or parked vehicle cannot begin until such movement can be made safely.'"
+  },
+  {
+    "question": "An operator is legally prohibited from driving through or in what type of specially designated area?",
+    "options": [
+      "A bus loading zone.",
+      "A safety zone.",
+      "A commercial loading zone.",
+      "A quiet zone."
+    ],
+    "answer": "A safety zone.",
+    "reference": "SECTION 4.1 – CHAPTER 545 - OPERATION AND MOVEMENT OF VEHICLES",
+    "explanation": "Section 545.403 explicitly states, 'An operator may not drive through or in a safety zone.'"
+  },
+  {
+    "question": "Which of the following is NOT one of the five requirements an operator must fulfill before leaving a motor vehicle unattended on a highway?",
+    "options": [
+      "Stop the engine.",
+      "Activate the hazard warning lights.",
+      "Lock the ignition and remove the key.",
+      "Set the parking brake."
+    ],
+    "answer": "Activate the hazard warning lights.",
+    "reference": "SECTION 4.1 – CHAPTER 545 - OPERATION AND MOVEMENT OF VEHICLES",
+    "explanation": "Section 545.404 lists five requirements: stop engine, lock ignition, remove key, set parking brake, and turn wheels to the curb on a grade. Activating hazard lights is not on the list."
+  },
+  {
+    "question": "An operator may not follow closer than what distance behind a fire apparatus responding to an alarm?",
+    "options": [
+      "200 feet",
+      "300 feet",
+      "500 feet",
+      "1,000 feet"
+    ],
+    "answer": "500 feet",
+    "reference": "SECTION 4.1 – CHAPTER 545 - OPERATION AND MOVEMENT OF VEHICLES",
+    "explanation": "Section 545.407 states, 'An operator may not follow closer than 500 feet a fire apparatus responding to an alarm.'"
+  },
+  {
+    "question": "The law prohibiting following an emergency vehicle too closely (545.407) applies specifically to which two types of vehicles?",
+    "options": [
+      "Police vehicles and ambulances.",
+      "Fire apparatus and ambulances.",
+      "Police vehicles and fire apparatus.",
+      "Any vehicle with emergency lights."
+    ],
+    "answer": "Fire apparatus and ambulances.",
+    "reference": "SECTION 4.1 – CHAPTER 545 - OPERATION AND MOVEMENT OF VEHICLES",
+    "explanation": "The text includes a specific note: 'This law is specific to fire trucks and ambulances. There is no mention of police vehicles.'"
+  },
+  {
+    "question": "What is the maximum legal length for a drawbar or other connecting device (like a chain or rope) between a towing and a towed vehicle?",
+    "options": [
+      "10 feet",
+      "15 feet",
+      "20 feet",
+      "25 feet"
+    ],
+    "answer": "15 feet",
+    "reference": "SECTION 4.1 – CHAPTER 545 - OPERATION AND MOVEMENT OF VEHICLES",
+    "explanation": "Section 545.409 specifies that the connecting device 'must not be longer than 15 feet.'"
+  },
+  {
+    "question": "If towing with a chain, rope, or cable, what must be displayed on the connection?",
+    "options": [
+      "A red flag at least 12 inches square.",
+      "A white flag at least 12 inches square.",
+      "A flashing amber light.",
+      "Reflective tape."
+    ],
+    "answer": "A white flag at least 12 inches square.",
+    "reference": "SECTION 4.1 – CHAPTER 545 - OPERATION AND MOVEMENT OF VEHICLES",
+    "explanation": "Section 545.409 requires that 'a white flag at least 12 inches square must be displayed on the rope, cable, or chain.'"
+  },
+  {
+    "question": "Which of the following vehicles is NOT listed as an exception to the requirement for towing safety chains under section 545.410?",
+    "options": [
+      "A trailer used for agricultural purposes.",
+      "A trailer with a fifth-wheel or gooseneck connection.",
+      "A trailer being towed by a light truck.",
+      "A commercial motor vehicle operating under Federal Motor Carrier Safety Regulations."
+    ],
+    "answer": "A trailer being towed by a light truck.",
+    "reference": "SECTION 4.1 – CHAPTER 545 - OPERATION AND MOVEMENT OF VEHICLES",
+    "explanation": "The text states the requirement for safety chains applies 'when a passenger car or light truck is towing a trailer.' The other options are listed as specific exceptions to this rule."
+  },
+  {
+    "question": "According to the administrative code specifications, how must safety chains be attached?",
+    "options": [
+      "They must be directly welded to the towed vehicle for maximum strength.",
+      "One single chain is sufficient if it meets strength requirements.",
+      "They must be attached by bolts, pins, or other methods, not by direct welding.",
+      "They can be any length as long as they do not drag on the ground."
+    ],
+    "answer": "They must be attached by bolts, pins, or other methods, not by direct welding.",
+    "reference": "SECTION 4.1 – CHAPTER 545 - OPERATION AND MOVEMENT OF VEHICLES",
+    "explanation": "The text lists several specifications from the administrative code, including '(2) Chains may not be directly welded to the towed vehicle, but must be attached by bolts, pins, or other methods.'"
+  },
+  {
+    "question": "A child safety seat is required for a child who is younger than 8 years of age unless what other condition is met?",
+    "options": [
+      "The child weighs more than 80 pounds.",
+      "The child is taller than 4'9\".",
+      "The child is sitting in the back seat.",
+      "The driver is a legal guardian."
+    ],
+    "answer": "The child is taller than 4'9\".",
+    "reference": "SECTION 4.1 – CHAPTER 545 - OPERATION AND MOVEMENT OF VEHICLES",
+    "explanation": "The text for section 545.412 states the requirement applies to children 'younger than 8 years of age unless the child is taller than 4’9”'."
+  },
+  {
+    "question": "A 9-year-old child is 4'7\" tall. Is the driver required to secure this child in a child safety seat system?",
+    "options": [
+      "Yes, because the child is shorter than 4'9\".",
+      "No, because the child is 8 years of age or older.",
+      "Yes, because both the age and height requirements must be met.",
+      "Only if the vehicle is traveling on a freeway."
+    ],
+    "answer": "No, because the child is 8 years of age or older.",
+    "reference": "SECTION 4.1 – CHAPTER 545 - OPERATION AND MOVEMENT OF VEHICLES",
+    "explanation": "The text clarification states, 'If a child is 8 years of age or older, a child safety seat is not required regardless of the child’s height.'"
+  },
+  {
+    "question": "Which of the following vehicles is NOT included in the definition of a 'Passenger vehicle' for the purposes of the child safety seat and seat belt laws?",
+    "options": [
+      "A light truck.",
+      "A passenger van designed to transport 15 or fewer passengers.",
+      "A school bus.",
+      "A truck tractor."
+    ],
+    "answer": "A school bus.",
+    "reference": "SECTION 4.1 – CHAPTER 545 - OPERATION AND MOVEMENT OF VEHICLES",
+    "explanation": "The definition in 545.412(f)(2) lists specific vehicle types. The text for 545.413 clarifies that a school bus 'falls outside the definition of “passenger vehicle”' for these laws."
+  },
+  {
+    "question": "Which of the following is listed as an exception to the child safety seat law under section 545.412(e)?",
+    "options": [
+      "The trip is less than one mile.",
+      "The child is asleep.",
+      "The person is transporting passengers for hire (e.g., in a taxi).",
+      "The driver has a written note from a doctor."
+    ],
+    "answer": "The person is transporting passengers for hire (e.g., in a taxi).",
+    "reference": "SECTION 4.1 – CHAPTER 545 - OPERATION AND MOVEMENT OF VEHICLES",
+    "explanation": "The text lists two exceptions, one of which is if 'The person is transporting passengers for hire (taxis, limos, Uber, etc.).'"
+  },
+  {
+    "question": "Who is responsible and citable if a 16-year-old passenger is not wearing a safety belt?",
+    "options": [
+      "Only the driver.",
+      "Only the 16-year-old passenger.",
+      "Either the driver OR the 16-year-old passenger, at the officer's discretion.",
+      "No one, as the passenger is over 15."
+    ],
+    "answer": "Either the driver OR the 16-year-old passenger, at the officer's discretion.",
+    "reference": "SECTION 4.1 – CHAPTER 545 - OPERATION AND MOVEMENT OF VEHICLES",
+    "explanation": "The text describes this 'interesting situation': the passenger (15+) is responsible for themselves under (a), and the driver is responsible for passengers younger than 17 under (b). The note advises officers to 'Use officer discretion and chose one or the other to cite.'"
+  },
+  {
+    "question": "Which of the following is a valid defense to prosecution for a seat belt violation?",
+    "options": [
+      "A verbal statement from the driver that they have a medical condition.",
+      "The driver is employed as a pizza delivery driver.",
+      "A written statement from a licensed physician stating a medical reason the person should not wear a safety belt.",
+      "The safety belts were uncomfortable."
+    ],
+    "answer": "A written statement from a licensed physician stating a medical reason the person should not wear a safety belt.",
+    "reference": "SECTION 4.1 – CHAPTER 545 - OPERATION AND MOVEMENT OF VEHICLES",
+    "explanation": "Section 545.413(e) lists several specific defenses, including '(1) written statement from a licensed physician stating that for a medical reason the person should not wear a safety belt.'"
+  },
+  {
+    "question": "The operator of which of the following vehicles is listed as being exempt from wearing a safety belt?",
+    "options": [
+      "A tow truck",
+      "A farm truck",
+      "A delivery van",
+      "A construction vehicle"
+    ],
+    "answer": "A farm truck",
+    "reference": "SECTION 4.1 – CHAPTER 545 - OPERATION AND MOVEMENT OF VEHICLES",
+    "explanation": "The list of defenses in 545.413(e) includes '(6) the person is operating a farm truck'."
+  },
+  {
+    "question": "It is an offense for an operator to have a person of what age riding in the open bed of a pickup truck?",
+    "options": [
+      "Younger than 15 years of age",
+      "Younger than 16 years of age",
+      "Younger than 18 years of age",
+      "Younger than 21 years of age"
+    ],
+    "answer": "Younger than 18 years of age",
+    "reference": "SECTION 4.1 – CHAPTER 545 - OPERATION AND MOVEMENT OF VEHICLES",
+    "explanation": "Section 545.414 makes it an offense to have 'a person younger than 18 years of age riding in the open bed of a pickup.'"
+  },
+  {
+    "question": "Which of the following is NOT a defense to prosecution for having a person younger than 18 riding in an open pickup bed?",
+    "options": [
+      "Operating the vehicle on a beach.",
+      "Operating the vehicle in a parade.",
+      "Operating the vehicle on a residential street with a speed limit of 30 MPH or less.",
+      "Operating the vehicle that is the only one owned by the members of a household."
+    ],
+    "answer": "Operating the vehicle on a residential street with a speed limit of 30 MPH or less.",
+    "reference": "SECTION 4.1 – CHAPTER 545 - OPERATION AND MOVEMENT OF VEHICLES",
+    "explanation": "Section 545.414(c) lists five specific defenses. Driving on a low-speed residential street is not one of them."
+  },
+  {
+    "question": "An operator may not back a vehicle on a highway unless the movement can be made safely and without what?",
+    "options": [
+      "Exceeding 5 MPH.",
+      "Using a spotter.",
+      "Activating hazard lights.",
+      "Interfering with other traffic."
+    ],
+    "answer": "Interfering with other traffic.",
+    "reference": "SECTION 4.1 – CHAPTER 545 - OPERATION AND MOVEMENT OF VEHICLES",
+    "explanation": "Section 545.415 states, 'An operator may not back a vehicle on a highway unless the movement can be made safely and without interfering with other traffic.'"
+  },
+  {
+    "question": "According to the case law *Salgado v. State*, what action by another driver was considered 'interference' caused by a backing vehicle?",
+    "options": [
+      "Honking their horn.",
+      "Having to come to a complete stop.",
+      "Having to swerve into another lane.",
+      "Flashing their headlights."
+    ],
+    "answer": "Having to come to a complete stop.",
+    "reference": "SECTION 4.1 – CHAPTER 545 - OPERATION AND MOVEMENT OF VEHICLES",
+    "explanation": "The text explains the court held that an officer having 'to come to a complete stop to allow a vehicle to finish backing out of a driveway' constituted interference."
+  },
+  {
+    "question": "In the 'Apply It' scenario, Jim Bob stops on the shoulder of a controlled-access highway and backs up. No other cars are around. Has Jim Bob committed a violation?",
+    "options": [
+      "No, because there was no other traffic to interfere with.",
+      "No, because he was on the shoulder, not the roadway.",
+      "Yes, because backing a vehicle on the shoulder or roadway of a limited-access or controlled-access highway is always prohibited.",
+      "Only if he backed up more than 100 feet."
+    ],
+    "answer": "Yes, because backing a vehicle on the shoulder or roadway of a limited-access or controlled-access highway is always prohibited.",
+    "reference": "SECTION 4.1 – CHAPTER 545 - OPERATION AND MOVEMENT OF VEHICLES",
+    "explanation": "Section 545.415 explicitly states an operator 'may not back the vehicle on the shoulder or a roadway of a limited access or controlled access highway regardless of whether or not the backing is done safely.'"
+  },
+  {
+    "question": "A passenger may not be carried on a motorcycle unless the motorcycle is designed to carry a passenger, which includes what features?",
+    "options": [
+      "A backrest and a luggage rack.",
+      "A windshield and saddlebags.",
+      "Handholds and footrests.",
+      "A second seat and a sissy bar."
+    ],
+    "answer": "Handholds and footrests.",
+    "reference": "SECTION 4.1 – CHAPTER 545 - OPERATION AND MOVEMENT OF VEHICLES",
+    "explanation": "Section 545.416(b) requires that the motorcycle be designed to carry a passenger, 'including handholds and footrests.'"
+  },
+  {
+    "question": "What is the minimum age for a person to be a passenger on a motorcycle (not in a sidecar)?",
+    "options": [
+      "5 years of age",
+      "8 years of age",
+      "12 years of age",
+      "15 years of age"
+    ],
+    "answer": "5 years of age",
+    "reference": "SECTION 4.1 – CHAPTER 545 - OPERATION AND MOVEMENT OF VEHICLES",
+    "explanation": "Section 545.416(d) establishes 'The minimum age for a motorcycle or autocycle passenger is 5 years of age unless the passenger is in a sidecar.'"
+  },
+  {
+    "question": "An operator's view is obstructed by passengers in the front seat. According to section 545.417, this is a violation only if how many passengers are in the front seat?",
+    "options": [
+      "Two or more",
+      "Three or more",
+      "More than three",
+      "Any number if view is obstructed"
+    ],
+    "answer": "More than three",
+    "reference": "SECTION 4.1 – CHAPTER 545 - OPERATION AND MOVEMENT OF VEHICLES",
+    "explanation": "The text for section 545.417(a) specifies that an obstruction from passengers is a violation 'only if there are more than three passengers in the front seat.'"
+  },
+  {
+    "question": "A passenger is sitting in such a way that they interfere with the driver's control of the steering wheel. Who commits an offense under section 545.417?",
+    "options": [
+      "The driver only.",
+      "The passenger only.",
+      "Both the driver and the passenger.",
+      "Neither, if no crash occurs."
+    ],
+    "answer": "The passenger only.",
+    "reference": "SECTION 4.1 – CHAPTER 545 - OPERATION AND MOVEMENT OF VEHICLES",
+    "explanation": "The note for section 545.417(b) clarifies, 'A passenger commits an offense by riding in a position that interferes with the driver’s view or control... Note the passenger is committing an offense under this subsection, not the driver.'"
+  },
+  {
+    "question": "It is a violation to leave the door open on the side of a parked vehicle that is closest to moving traffic for longer than is necessary to do what?",
+    "options": [
+      "Air out the vehicle.",
+      "Talk to a pedestrian.",
+      "Load or unload a passenger.",
+      "Access the glove compartment."
+    ],
+    "answer": "Load or unload a passenger.",
+    "reference": "SECTION 4.1 – CHAPTER 545 - OPERATION AND MOVEMENT OF VEHICLES",
+    "explanation": "Section 545.418 states it is a violation to leave the door open 'for longer than is necessary to load or unload a passenger.'"
+  },
+  {
+    "question": "A person is found occupying a house trailer while it is being moved on the highway. Who has committed the violation under section 545.419?",
+    "options": [
+      "The driver of the towing vehicle.",
+      "The owner of the towing vehicle.",
+      "The person occupying the house trailer.",
+      "Both the driver and the occupant."
+    ],
+    "answer": "The person occupying the house trailer.",
+    "reference": "SECTION 4.1 – CHAPTER 545 - OPERATION AND MOVEMENT OF VEHICLES",
+    "explanation": "The text includes a specific note for this section: 'The person occupying the house trailer is the person committing the violation (not the driver of the towing vehicle).'"
+  },
+  {
+    "question": "What is the level of offense for operating a truck while a person is occupying a trailer or semi-trailer being drawn by the vehicle?",
+    "options": [
+      "Class C Misdemeanor",
+      "Class B Misdemeanor",
+      "Class A Misdemeanor",
+      "State Jail Felony"
+    ],
+    "answer": "Class B Misdemeanor",
+    "reference": "SECTION 4.1 – CHAPTER 545 - OPERATION AND MOVEMENT OF VEHICLES",
+    "explanation": "Section 545.4191 states, 'This offense is a Class B Misdemeanor, violators should be arrested, not cited and released.'"
+  },
+  {
+    "question": "Which of the following is NOT a defense to prosecution for a person occupying a trailer being towed?",
+    "options": [
+      "The person was operating the vehicle in a permitted hayride.",
+      "The driver did not know the person was in the trailer.",
+      "The person was in a part of the trailer designed for human habitation (e.g., a travel trailer).",
+      "The vehicle was traveling at less than 30 MPH."
+    ],
+    "answer": "The vehicle was traveling at less than 30 MPH.",
+    "reference": "SECTION 4.1 – CHAPTER 545 - OPERATION AND MOVEMENT OF VEHICLES",
+    "explanation": "Section 545.4191 lists several specific defenses. The speed of the vehicle is not one of them."
+  },
+  {
+    "question": "According to the case law *State v. Guzman*, a driver who quickly accelerates and 'peels out' is only committing the offense of Racing on Highway if what other condition is met?",
+    "options": [
+      "If it is done in a school zone.",
+      "If it is done in connection with a drag race against another vehicle.",
+      "If the vehicle's engine is louder than a certain decibel level.",
+      "If the driver has a previous conviction for speeding."
+    ],
+    "answer": "If it is done in connection with a drag race against another vehicle.",
+    "reference": "SECTION 4.1 – CHAPTER 545 - OPERATION AND MOVEMENT OF VEHICLES",
+    "explanation": "The text explains the case law clarified that an 'exhibition of acceleration' is only a violation under this statute if it is 'done in connection with a drag race.'"
+  },
+  {
+    "question": "A person is convicted of Racing on a Highway for the first time. The race resulted in a crash causing serious bodily injury to another person. What is the level of the offense?",
+    "options": [
+      "Class A Misdemeanor",
+      "State Jail Felony",
+      "Third Degree Felony",
+      "Second Degree Felony"
+    ],
+    "answer": "Second Degree Felony",
+    "reference": "SECTION 4.1 – CHAPTER 545 - OPERATION AND MOVEMENT OF VEHICLES",
+    "explanation": "The text for section 545.420 details the enhancements, stating 'It is a Second Degree Felony if the race results in serious bodily injury or death.'"
+  },
+  {
+    "question": "What is a key difference between Fleeing or Attempting to Elude a Police Officer (TRC 545.421) and Evading Arrest in a motor vehicle (Penal Code 38.04)?",
+    "options": [
+      "Fleeing is a felony, while Evading is a misdemeanor.",
+      "Fleeing requires the officer to be in uniform and a marked vehicle, while Evading does not.",
+      "Fleeing applies to any vehicle, while Evading only applies to cars.",
+      "There is no difference between the offenses."
+    ],
+    "answer": "Fleeing requires the officer to be in uniform and a marked vehicle, while Evading does not.",
+    "reference": "SECTION 4.1 – CHAPTER 545 - OPERATION AND MOVEMENT OF VEHICLES",
+    "explanation": "The text explicitly contrasts the two, noting that for the Fleeing offense, 'The police officer must be in uniform and in a marked police vehicle,' a requirement not present for the felony Evading Arrest offense."
+  },
+  {
+    "question": "The offense of driving a motor vehicle on a sidewalk or hike and bike trail under section 545.422 applies to which of the following?",
+    "options": [
+      "A person riding a bicycle.",
+      "A person riding an electric scooter.",
+      "A person driving a car.",
+      "All of the above."
+    ],
+    "answer": "A person driving a car.",
+    "reference": "SECTION 4.1 – CHAPTER 545 - OPERATION AND MOVEMENT OF VEHICLES",
+    "explanation": "The text includes a note that this statute applies specifically to a 'motor vehicle' and does not apply to non-motorized devices like bicycles or scooters."
+  },
+  {
+    "question": "What is the violation if a driver cuts across the corner of a gas station parking lot to avoid stopping at a red light at an intersection?",
+    "options": [
+      "Reckless Driving",
+      "Driving on an Improved Shoulder",
+      "Violating section 545.423(b) by crossing property at an intersection to turn.",
+      "No violation if the movement was made safely."
+    ],
+    "answer": "Violating section 545.423(b) by crossing property at an intersection to turn.",
+    "reference": "SECTION 4.1 – CHAPTER 545 - OPERATION AND MOVEMENT OF VEHICLES",
+    "explanation": "Section 545.423(b) makes it a violation 'to cut across a driveway or parking lot at an intersection to turn right or left from one highway to another.'"
+  },
+  {
+    "question": "Which of the following is NOT a restriction for a person under 18 years of age operating a vehicle on a provisional license?",
+    "options": [
+      "They may not drive after midnight and before 5 a.m. without a valid reason.",
+      "They may not use a wireless communication device, even with a hands-free device.",
+      "They may not drive on a freeway or controlled-access highway.",
+      "They may not drive with more than one passenger under 21 who is not a family member."
+    ],
+    "answer": "They may not drive on a freeway or controlled-access highway.",
+    "reference": "SECTION 4.1 – CHAPTER 545 - OPERATION AND MOVEMENT OF VEHICLES",
+    "explanation": "Section 545.424 lists three specific restrictions: no wireless device use, a curfew, and a passenger limitation. There is no restriction mentioned about driving on freeways."
+  },
+  {
+    "question": "An officer sees a driver who looks very young driving a car at 1:00 AM. Can the officer stop the vehicle for the sole purpose of checking if the driver is under 18 and violating the curfew?",
+    "options": [
+      "Yes, this provides reasonable suspicion for a stop.",
+      "Only if the driver commits another traffic violation.",
+      "No, a peace officer may not stop a vehicle for the sole purpose of determining a violation of this section.",
+      "Only if it is a school night."
+    ],
+    "answer": "No, a peace officer may not stop a vehicle for the sole purpose of determining a violation of this section.",
+    "reference": "SECTION 4.1 – CHAPTER 545 - OPERATION AND MOVEMENT OF VEHICLES",
+    "explanation": "Section 545.424(e) explicitly states, 'A peace officer may not stop a vehicle or detain the operator of a vehicle for the sole purpose of determining whether the operator of the vehicle is violating this section.'"
+  },
+  {
+    "question": "To enforce the prohibition on using a wireless device in a school crossing zone, what is generally required?",
+    "options": [
+      "The officer must be in a marked patrol car.",
+      "The driver must be traveling at least 10 MPH over the school zone speed limit.",
+      "A sign advising of the prohibition must be posted at the beginning of the school zone.",
+      "The school principal must file a complaint."
+    ],
+    "answer": "A sign advising of the prohibition must be posted at the beginning of the school zone.",
+    "reference": "SECTION 4.1 – CHAPTER 545 - OPERATION AND MOVEMENT OF VEHICLES",
+    "explanation": "The text for section 545.425 states, 'A sign advising of the prohibition must be posted at the beginning of the school zone to enforce this section.'"
+  },
+  {
+    "question": "Which of the following is an affirmative defense to prosecution for the 'Texting and Driving' law (545.4251)?",
+    "options": [
+      "The driver was only reading a text, not writing one.",
+      "The driver was stopped at a stop sign.",
+      "The driver was using the device to navigate using a GPS system.",
+      "The driver has a commercial driver's license."
+    ],
+    "answer": "The driver was using the device to navigate using a GPS system.",
+    "reference": "SECTION 4.1 – CHAPTER 545 - OPERATION AND MOVEMENT OF VEHICLES",
+    "explanation": "The text for section 545.4251(c) lists numerous defenses, including if the device was 'used to navigate using a GPS or navigation system.' The offense itself does not apply if the vehicle is stopped."
+  },
+  {
+    "question": "What is the penalty for a first offense of 'Texting and Driving' under section 545.4251?",
+    "options": [
+      "A written warning only.",
+      "A fine of $25 - $99.",
+      "A fine of $100 - $200.",
+      "A Class C Misdemeanor and a 30-day license suspension."
+    ],
+    "answer": "A fine of $25 - $99.",
+    "reference": "SECTION 4.1 – CHAPTER 545 - OPERATION AND MOVEMENT OF VEHICLES",
+    "explanation": "The text lists the penalty for a 'First Offense' as a fine of '$25 - $99'."
+  },
+  {
+    "question": "A school bus driver is operating a bus with the doors closed but has students standing in the aisle. Has the driver committed a violation?",
+    "options": [
+      "No, as long as the bus is not over its total capacity.",
+      "No, standing is allowed on short trips.",
+      "Yes, because the driver must prohibit passengers from standing or sitting on the floor.",
+      "Only if the bus is traveling on a highway with a speed limit over 50 MPH."
+    ],
+    "answer": "Yes, because the driver must prohibit passengers from standing or sitting on the floor.",
+    "reference": "SECTION 4.1 – CHAPTER 545 - OPERATION AND MOVEMENT OF VEHICLES",
+    "explanation": "Section 545.426 states, 'The school bus driver is required to prohibit the passengers from standing, or sitting on the floor or anywhere else not designed as a seat.'"
+  },
+  {
+    "question": "An automated motor vehicle with no human inside runs a red light. For the purposes of assessing compliance with traffic laws, who is considered the operator of the vehicle?",
+    "options": [
+      "The automated driving system itself.",
+      "The last person who was physically in the driver's seat.",
+      "The owner of the vehicle.",
+      "No one, as an unoccupied vehicle cannot receive a citation."
+    ],
+    "answer": "The owner of the vehicle.",
+    "reference": "SECTION 4.1 – CHAPTER 545 - OPERATION AND MOVEMENT OF VEHICLES",
+    "explanation": "Section 545.453 clearly states, 'For the purposes of assessing compliance with traffic or motor vehicle laws, the “owner” of the vehicle is considered to be the operator.'"
+  },
+  {
+    "question": "For an automated motor vehicle to legally operate in Texas without a human operator, what must it be equipped with?",
+    "options": [
+      "A flashing yellow light on the roof.",
+      "Special 'Automated Vehicle' license plates.",
+      "A recording device that will store crash information.",
+      "An external speaker to communicate with pedestrians."
+    ],
+    "answer": "A recording device that will store crash information.",
+    "reference": "SECTION 4.1 – CHAPTER 545 - OPERATION AND MOVEMENT OF VEHICLES",
+    "explanation": "Section 545.454 states that for legal operation, the vehicle must be 'equipped with a recording device that will store crash information.'"
+  },
+   {
+    "question": "An operator passing another vehicle shall return to an authorized lane of travel before coming within ___ of an approaching vehicle.",
+    "options": [
+      "100 feet",
+      "200 feet",
+      "300 feet",
+      "500 feet"
+    ],
+    "answer": "200 feet",
+    "reference": "TRC 545.054",
+    "explanation": "Section 545.054 requires a passing vehicle to return to the right side of the roadway 'before coming within 200 feet of oncoming vehicles.'"
+  },
+  {
+    "question": "It is a violation for an operator to cross over a double yellow no passing zone center stripe to turn left into a private drive.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False",
+    "reference": "TRC 545.055",
+    "explanation": "False. Section 545.055 prohibits traveling left of a no passing zone marking but provides an exception for a vehicle making a left turn into a private drive or alley."
+  },
+  {
+    "question": "Which of the following is one of the seven permitted reasons to drive on the right improved shoulder?",
+    "options": [
+      "To check a text message.",
+      "To bypass slower traffic at an intersection.",
+      "To allow another vehicle traveling faster to pass.",
+      "To make a phone call."
+    ],
+    "answer": "To allow another vehicle traveling faster to pass.",
+    "reference": "TRC 545.058",
+    "explanation": "Section 545.058 lists seven specific exceptions, which can be remembered by the acronym SAD PAPA. 'Allow faster moving vehicle to pass' is one of these exceptions."
+  },
+  {
+    "question": "Which of the following is NOT exempt from the limitations on driving on the improved shoulder?",
+    "options": [
+      "An authorized emergency vehicle responding to a call",
+      "A physician responding to an emergency",
+      "A police patrol not responding to a call",
+      "A bicycle"
+    ],
+    "answer": "A physician responding to an emergency",
+    "reference": "TRC 545.058",
+    "explanation": "The text lists four specific exemptions: AEVs, police patrols, bicycles, and slow-moving vehicles. A physician's vehicle, while having a speed limit exemption, is not listed as exempt from this section."
+  },
+  {
+    "question": "An operator on a roadway divided into two or more clearly marked lanes for traffic shall drive as nearly as practicable entirely within a single lane and may not move from the lane unless that movement can be made safely.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "reference": "TRC 545.060",
+    "explanation": "True. This statement accurately reflects the two core requirements of driving on a laned roadway as described in section 545.060(a)."
+  },
+  {
+    "question": "When two vehicles on a multiple-lane roadway attempt to enter the same middle lane from the left and right lanes simultaneously, which vehicle has the right-of-way?",
+    "options": [
+      "The vehicle on the right.",
+      "The vehicle on the left.",
+      "The faster vehicle.",
+      "The larger vehicle."
+    ],
+    "answer": "The vehicle on the left.",
+    "reference": "TRC 545.061",
+    "explanation": "Section 545.061 specifies that 'the vehicle attempting to enter the lane from the right must yield to the vehicle attempting to enter the lane from the left.'"
+  },
+  {
+    "question": "Following another vehicle with a following distance of less than ___ constitutes prima facie evidence of 'Following Too Closely'.",
+    "options": [
+      "3 seconds",
+      "200 feet",
+      "four car-lengths",
+      "a specific following distance is not specified in the law"
+    ],
+    "answer": "a specific following distance is not specified in the law",
+    "reference": "TRC 545.062",
+    "explanation": "Section 545.062 requires a driver to maintain a 'clear assured distance,' but does not set a specific distance in feet or seconds. It depends on factors like speed, traffic, and conditions."
+  },
+  {
+    "question": "An operator stopped for a loading or unloading school bus may not proceed until:",
+    "options": [
+      "The flashing red lights are no longer activated",
+      "The school bus driver signals to proceed",
+      "The school bus resumes motion",
+      "An operator may proceed if any of the above are present"
+    ],
+    "answer": "An operator may proceed if any of the above are present",
+    "reference": "TRC 545.066",
+    "explanation": "Section 545.066(a) lists three conditions that allow a stopped vehicle to proceed. Since any one of them is sufficient, 'any of the above' is the correct answer."
+  },
+  {
+    "question": "To make a right turn at an intersection, an operator must make the ___ and the ___ as close as practicable to the right-hand edge of the roadway.",
+    "options": [
+      "signal, stop",
+      "approach, turn",
+      "stop, turn",
+      "approach, stop"
+    ],
+    "answer": "approach, turn",
+    "reference": "TRC 545.101",
+    "explanation": "Section 545.101(a) requires the operator to 'make the approach and the turn as closely as practicable to the right hand curb or edge of the roadway.'"
+  },
+  {
+    "question": "To make a left turn at an intersection, an operator must approach the intersection in the extreme ___ lane lawfully available.",
+    "options": [
+      "right-most",
+      "center",
+      "left-most",
+      "unoccupied"
+    ],
+    "answer": "left-most",
+    "reference": "TRC 545.101",
+    "explanation": "Section 545.101(b) states that to make a left turn, 'the operator must approach the turn in the left-most lane available.'"
+  },
+  {
+    "question": "Which of the following is one of the three times an operator is required to use a turn signal?",
+    "options": [
+      "When slowing down rapidly.",
+      "When following a curve in the road.",
+      "When changing lanes.",
+      "When pulling over to the shoulder."
+    ],
+    "answer": "When changing lanes.",
+    "reference": "TRC 545.104",
+    "explanation": "Section 545.104 lists three required times: to indicate a turn, to signal a lane change, and to signal starting from a parked position."
+  },
+  {
+    "question": "An operator must signal continuously for 100 feet of movement before changing lanes.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False",
+    "reference": "TRC 545.104",
+    "explanation": "False. The 100-foot requirement applies when indicating an intent to turn right or left. There is no specific distance requirement for signaling a lane change, only that it be done prior to moving."
+  },
+  {
+    "question": "An operator may not turn the vehicle to move in the opposite direction (U-turn) when approaching a curve or the crest of a grade if the vehicle is not visible to another vehicle approaching from either direction within ___.",
+    "options": [
+      "200 feet",
+      "300 feet",
+      "500 feet",
+      "1,000 feet"
+    ],
+    "answer": "500 feet",
+    "reference": "TRC 545.102",
+    "explanation": "Section 545.102 sets the visibility requirement for a legal U-turn near a curve or hillcrest at 500 feet."
+  },
+  {
+    "question": "An operator is only required to yield right-of-way to an authorized emergency vehicle if the emergency vehicle is approaching the operator and is using certain required emergency equipment.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "reference": "TRC 545.156",
+    "explanation": "True. Section 545.156 specifies that the duty to yield applies 'On the immediate approach of an authorized emergency vehicle' that is using its required audible and/or visual signals."
+  },
+  {
+    "question": "The 'Move Over' law applies to stationary police vehicles regardless of whether or not the police vehicle is utilizing its emergency lights.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False",
+    "reference": "TRC 545.157",
+    "explanation": "False. Section 545.157 requires yielding to a 'Stationary emergency vehicle using emergency lights.' The lights must be activated for the law to apply."
+  },
+  {
+    "question": "A vehicle passing a stationary authorized emergency vehicle with emergency lights activated on a two-lane roadway must slow to a speed not to exceed ___ below the posted speed limit.",
+    "options": [
+      "10 MPH",
+      "15 MPH",
+      "20 MPH",
+      "25 MPH"
+    ],
+    "answer": "20 MPH",
+    "reference": "TRC 545.157",
+    "explanation": "Section 545.157 requires an operator to either vacate the lane or 'reduce speed to at least 20 miles per hour below the posted speed limit.'"
+  },
+  {
+    "question": "Which of the following constitutes a violation of parking where prohibited?",
+    "options": [
+      "A vehicle parked 13 feet from a fire hydrant.",
+      "A vehicle parked 22 feet from a crosswalk at an intersection.",
+      "A vehicle parked 55 feet from the nearest rail of a railroad crossing.",
+      "A vehicle parked 35 feet from a stop sign."
+    ],
+    "answer": "A vehicle parked 13 feet from a fire hydrant.",
+    "reference": "TRC 545.302",
+    "explanation": "Section 545.302 prohibits parking within 15 feet of a fire hydrant, so 13 feet is a violation. It is legal to park more than 20 feet from a crosswalk, more than 50 feet from a railroad crossing, and more than 30 feet from a stop sign."
+  },
+  {
+    "question": "A vehicle parking in a roadway must do so with the right tires within ___ of the right-hand curb or edge of roadway.",
+    "options": [
+      "12 inches",
+      "18 inches",
+      "24 inches",
+      "36 inches"
+    ],
+    "answer": "18 inches",
+    "reference": "TRC 545.303",
+    "explanation": "Section 545.303 establishes the requirement that the right-side wheels must be within 18 inches of the curb."
+  },
+  {
+    "question": "To charge an operator with Fail to Control Speed, they must have failed to control speed as necessary to avoid colliding with a ___ or ___ on or entering the highway in compliance with the law.",
+    "options": [
+      "sign, barricade",
+      "pothole, obstruction",
+      "person, vehicle",
+      "curb, guardrail"
+    ],
+    "answer": "person, vehicle",
+    "reference": "TRC 545.351",
+    "explanation": "Section 545.351(b)(2) defines the offense as failing to control speed 'to avoid colliding with another person or vehicle'."
+  },
+  {
+    "question": "If no speed limit is posted, what is the prima facie speed limit on a Farm to Market (FM) road?",
+    "options": [
+      "55 MPH",
+      "60 MPH",
+      "65 MPH",
+      "70 MPH"
+    ],
+    "answer": "70 MPH",
+    "reference": "TRC 545.352",
+    "explanation": "Section 545.352 lists the default prima facie speed limits, including 'Farm to Market or Ranch to Market road – 70 MPH.'"
+  },
+  {
+    "question": "The speed limit does not apply to a physician en route to the hospital to perform a routine surgery.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False",
+    "reference": "TRC 545.365",
+    "explanation": "False. Section 545.365 provides a speed limit exemption for a physician responding to an 'emergency.' A routine surgery is not considered an emergency."
+  },
+  {
+    "question": "The speed limit does not apply to a police vehicle on routine patrol.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "reference": "TRC 545.365",
+    "explanation": "True. Section 545.365 lists 'Police patrols' as exempt from speed limits, not just when responding to calls."
+  },
+  {
+    "question": "A person may not be charged with reckless driving in a grocery store parking lot because the Transportation Code only applies on the highway.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False",
+    "reference": "TRC 545.401",
+    "explanation": "False. The text for section 545.401 notes that Reckless Driving 'is one of the few TRC violations that can be enforced in areas other than on public highways.'"
+  },
+  {
+    "question": "An operator may not follow a fire truck or an ambulance closer than ___ when the vehicle is responding to an emergency call and/or flashing its emergency lights.",
+    "options": [
+      "200 feet",
+      "300 feet",
+      "500 feet",
+      "1000 feet"
+    ],
+    "answer": "500 feet",
+    "reference": "TRC 545.407",
+    "explanation": "Section 545.407 prohibits following either vehicle closer than 500 feet when they are responding to an alarm or emergency."
+  },
+  {
+    "question": "A drawbar or towing chain/cable may not be longer than ___.",
+    "options": [
+      "10 feet",
+      "15 feet",
+      "20 feet",
+      "25 feet"
+    ],
+    "answer": "15 feet",
+    "reference": "TRC 545.409",
+    "explanation": "Section 545.409 establishes the maximum length for these connecting devices as 15 feet."
+  },
+  {
+    "question": "A red flag at least 12” square must be displayed on a tow chain between vehicles.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False",
+    "reference": "TRC 545.409",
+    "explanation": "False. Section 545.409 requires a 'white flag,' not a red one."
+  },
+  {
+    "question": "Which of the following is NOT an exception to the requirement for safety chains when towing?",
+    "options": [
+      "Trailers used for agricultural purposes.",
+      "A trailer being towed by a light truck.",
+      "Trailers with a fifth-wheel or gooseneck connection.",
+      "Vehicles operated under Federal Motor Carrier Safety Regulations."
+    ],
+    "answer": "A trailer being towed by a light truck.",
+    "reference": "TRC 545.410",
+    "explanation": "A light truck towing a trailer is a situation where safety chains ARE required. The other options are all listed as specific exceptions to the rule."
+  },
+  {
+    "question": "A 14-year-old child sitting in the back seat of a vehicle commits a violation when he does not wear his safety belt.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False",
+    "reference": "TRC 545.413",
+    "explanation": "False. While a violation exists, the operator of the vehicle commits the offense for having an unrestrained passenger younger than 17. The 14-year-old passenger does not commit the offense themselves."
+  },
+  {
+    "question": "A child at least ___ years of age is not required to use a child safety seat system regardless of the child’s height.",
+    "options": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "answer": "8",
+    "reference": "TRC 545.412",
+    "explanation": "Section 545.412 requires a safety seat for children younger than 8, meaning once a child is 8 years old, the requirement no longer applies based on age."
+  },
+  {
+    "question": "A child taller than ___ is not required to use a child safety seat system regardless of the child’s age.",
+    "options": [
+      "4'6\"",
+      "4'8\"",
+      "4'9\"",
+      "5'0\""
+    ],
+    "answer": "4'9\"",
+    "reference": "TRC 545.412",
+    "explanation": "Section 545.412 provides the height exception: a child safety seat is not required if the child is 'taller than 4’9”.'"
+  },
+  {
+    "question": "The operator of a vehicle can be cited for any unrestrained passenger in the vehicle younger than ___ years of age.",
+    "options": [
+      "15",
+      "16",
+      "17",
+      "18"
+    ],
+    "answer": "17",
+    "reference": "TRC 545.413",
+    "explanation": "Section 545.413(b) makes the driver responsible for passengers 'younger than 17 years of age.'"
+  },
+  {
+    "question": "All passengers in a vehicle registered as a Farm Truck have a defense to prosecution for not wearing safety belts.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False",
+    "reference": "TRC 545.413",
+    "explanation": "False. The text notes that the defense to prosecution in section 545.413(e)(6) is 'specific to the operator, no mention of passengers.'"
+  },
+  {
+    "question": "What is the minimum age for a passenger on a motorcycle that is not equipped with a sidecar?",
+    "options": [
+      "5 years of age",
+      "7 years of age",
+      "8 years of age",
+      "There is no minimum age."
+    ],
+    "answer": "5 years of age",
+    "reference": "TRC 545.416",
+    "explanation": "Section 545.416(d) establishes the minimum passenger age for a motorcycle as 5 years old, unless the passenger is in a sidecar."
+  },
+  {
+    "question": "A vehicle may use a parking lot to turn from one highway to another highway at an intersection as long as the vehicle stops somewhere in the parking lot.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False",
+    "reference": "TRC 545.423",
+    "explanation": "False. Section 545.423(b) prohibits cutting across a corner lot to avoid an intersection. The stop required by 545.423(a) does not make the prohibited turn in (b) legal."
+  },
+  {
+    "question": "A person under 18 years of age may operate a motor vehicle while using a cell phone as long as the phone is being used with a hands-free device.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False",
+    "reference": "TRC 545.424",
+    "explanation": "False. Section 545.424 prohibits a person under 18 from using a wireless device 'even if the wireless communication device is being used with a hands-free device.'"
   }
   ],
   "Radio Communications": [
